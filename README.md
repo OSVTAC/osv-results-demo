@@ -1,5 +1,8 @@
 # osv-results-demo
+
 Contains example demonstrations of OSVTAC's results reporter component
+
+The demos are published here: https://osvtac.github.io/osv-results-demo/
 
 ## Developer Instructions
 
