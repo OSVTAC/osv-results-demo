@@ -1,0 +1,3 @@
+[submodule "submodules/osv-results-reporter"]
+	path = submodules/osv-results-reporter
+	url = https://github.com/OSVTAC/osv-results-reporter.git
