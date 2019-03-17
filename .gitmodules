@@ -1,3 +1,6 @@
 [submodule "submodules/osv-results-reporter"]
 	path = submodules/osv-results-reporter
 	url = https://github.com/OSVTAC/osv-results-reporter.git
+[submodule "submodules/osv-sample-data"]
+	path = submodules/osv-sample-data
+	url = https://github.com/OSVTAC/osv-sample-data
