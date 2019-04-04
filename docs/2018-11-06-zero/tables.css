@@ -1,0 +1,47 @@
+.table {
+  border: 1px solid #aaa;
+  border-collapse: collapse;
+  min-width: 40%;
+}
+.table tbody {
+  border-top: 4px solid #aaa;
+}
+.table td,
+.table th {
+  border: 1px solid #aaa;
+  padding: 0.25em;
+}
+.table th {
+  text-align: inherit;
+}
+
+.table .winner .title {
+    font-weight: bold;
+}
+
+.table .bars-header:before {
+    content: ' ';
+    display: block;
+    width: 10em;
+}
+
+.table .bars-row {
+    position: relative;
+}
+
+.table .percentage-bar {
+    height: 1em;
+    background-color: orange;
+}
+
+.table .winner .percentage-bar {
+    background-color: green;
+}
+
+.table .cutoff-line {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+}
