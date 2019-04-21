@@ -11,8 +11,13 @@
   border: 1px solid #aaa;
   padding: 0.25em;
 }
-.table th {
-  text-align: inherit;
+
+.table td {
+    text-align: right;
+}
+
+.table td.text-cell {
+    text-align: inherit;
 }
 
 .table .winner .title {
