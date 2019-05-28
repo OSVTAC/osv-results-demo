@@ -29,10 +29,11 @@ You should now be able to run the results reporter, e.g.:
 orr -h
 ```
 
-To regenerate the samples:
+To regenerate the samples, run the following from the repo root using
+Python 3.6:
 
 ```
-$ ./generate.sh
+$ python generate.py
 ```
 
 Then commit and push the changes.
