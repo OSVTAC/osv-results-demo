@@ -26,7 +26,7 @@ $ pip install -e submodules/osv-results-reporter/src/
 You should now be able to run the results reporter, e.g.:
 
 ```
-orr -h
+$ orr -h
 ```
 
 To regenerate the samples, run the following from the repo root using
