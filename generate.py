@@ -29,6 +29,7 @@ Usage:
 
 """
 
+import argparse
 import logging
 import os
 from pathlib import Path
@@ -39,6 +40,10 @@ import orr
 
 
 _log = logging.getLogger(__name__)
+
+DESCRIPTION = """\
+Build the demo pages.
+"""
 
 
 def get_repo_root():
@@ -77,12 +82,15 @@ def get_current_orr_dir():
     return Path(orr.__file__).parent
 
 
-def check_current_orr(orr_submodule_dir):
+def check_current_orr(orr_dir):
     """
     Perform a sanity check on the currently-installed orr.
+
+    Args:
+      orr_dir: the directory to use as the ORR repo root, as a Path object.
     """
     current_orr_dir = get_current_orr_dir()
-    submodule_orr_dir = (orr_submodule_dir / 'src/orr').resolve()
+    submodule_orr_dir = (orr_dir / 'src/orr').resolve()
     if current_orr_dir != submodule_orr_dir:
         msg = dedent(f"""\
         The `orr` you have currently installed appears to be different
@@ -95,9 +103,10 @@ def check_current_orr(orr_submodule_dir):
         _log.warning(msg)
 
 
-def build_election(repo_root, dir_name, results_dir_name=None):
+def build_election(repo_root, orr_dir, dir_name, results_dir_name=None):
     """
     Args:
+      orr_dir: the directory to use as the ORR repo root.
       dir_name: the name of the subdirectory inside "submodules/osv-sample-data"
         to use for the input data.
       results_dir_name: an optional subdirectory name inside the
@@ -107,8 +116,7 @@ def build_election(repo_root, dir_name, results_dir_name=None):
     input_dir = get_input_dirs(repo_root, dir_name)
     input_dir, input_results_dir = get_input_dirs(repo_root, dir_name, results_dir_name=results_dir_name)
 
-    orr_submodule_dir = get_orr_submodule_dir(repo_root)
-    template_dir = orr_submodule_dir / 'templates/test-minimal'
+    template_dir = orr_dir / 'templates/test-minimal'
     extra_template_dir = template_dir / 'extra'
 
     args = [
@@ -118,7 +126,7 @@ def build_election(repo_root, dir_name, results_dir_name=None):
         '--extra-template-dirs', extra_template_dir,
         '--output-parent',  'docs',
         '--output-subdir', dir_name,
-        '--source-dir', orr_submodule_dir,
+        '--source-dir', orr_dir,
         # TODO: expose this as a command-line option?
         # '--skip-docker-build',
     ]
@@ -128,8 +136,34 @@ def build_election(repo_root, dir_name, results_dir_name=None):
     subprocess.run(args, check=True)
 
 
+def parse_args(orr_submodule_dir):
+    """
+    Parse sys.argv and return a Namespace object.
+    """
+    parser = argparse.ArgumentParser(description=DESCRIPTION,
+                    formatter_class=argparse.RawDescriptionHelpFormatter)
+
+    orr_dir_help = dedent(f"""\
+    an option to force-specify the directory to the ORR repository to use.
+    In particular, this directory contains the Dockerfile to use to build.
+    Not specifying this will result using: {orr_submodule_dir} .
+    """)
+    parser.add_argument('--orr-dir', metavar='DIR', help=orr_dir_help,
+        default=orr_submodule_dir)
+
+    ns = parser.parse_args()
+
+    return ns
+
+
 def main():
+    repo_root = get_repo_root()
+    orr_submodule_dir = get_orr_submodule_dir(repo_root)
+    ns = parse_args(orr_submodule_dir)
+
     logging.basicConfig(level=logging.INFO)
+
+    orr_dir = Path(ns.orr_dir)
 
     input_info = [
         ('2018-06-05', None),
@@ -137,13 +171,11 @@ def main():
         ('2018-11-06', 'resultdata-zero'),
     ]
 
-    repo_root = get_repo_root()
-    orr_submodule_dir = get_orr_submodule_dir(repo_root)
     # Warn the user if they are using an orr different from what is expected.
-    check_current_orr(orr_submodule_dir)
+    check_current_orr(orr_dir)
 
     for input_dir_name, input_results_dir_name in input_info:
-        build_election(repo_root, dir_name=input_dir_name,
+        build_election(repo_root, orr_dir=orr_dir, dir_name=input_dir_name,
                        results_dir_name=input_results_dir_name)
 
 

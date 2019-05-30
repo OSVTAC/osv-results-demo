@@ -36,6 +36,8 @@ Python 3.6:
 $ python generate.py
 ```
 
+(For help, pass `-h`: `python generate.py -h`)
+
 Then commit and push the changes.
 
 
