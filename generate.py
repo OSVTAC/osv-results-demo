@@ -103,6 +103,26 @@ def check_current_orr(orr_dir):
         _log.warning(msg)
 
 
+def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None):
+    input_dir = get_input_dirs(repo_root, dir_name)
+    input_dir, input_results_dir = get_input_dirs(repo_root, dir_name, results_dir_name=results_dir_name)
+
+    template_dir = orr_dir / 'templates/test-minimal'
+    extra_template_dir = template_dir / 'extra'
+
+    args = [
+        '--input-dir', input_dir,
+        '--template-dir', template_dir,
+        '--extra-template-dirs', extra_template_dir,
+        '--output-parent',  'docs',
+        '--output-subdir', dir_name,
+    ]
+    if input_results_dir is not None:
+        args.extend(('--input-results-dir', input_results_dir))
+
+    return args
+
+
 def build_election(repo_root, orr_dir, dir_name, results_dir_name=None):
     """
     Args:
@@ -113,26 +133,18 @@ def build_election(repo_root, orr_dir, dir_name, results_dir_name=None):
         "out-orr" directory, which will be used to construct the value
         to pass as --input-results-dir.
     """
-    input_dir = get_input_dirs(repo_root, dir_name)
-    input_dir, input_results_dir = get_input_dirs(repo_root, dir_name, results_dir_name=results_dir_name)
+    common_args = get_common_args(repo_root, orr_dir, dir_name=dir_name,
+                        results_dir_name=results_dir_name)
 
-    template_dir = orr_dir / 'templates/test-minimal'
-    extra_template_dir = template_dir / 'extra'
-
-    args = [
-        'orr-docker',
-        '--input-dir', input_dir,
-        '--template-dir', template_dir,
-        '--extra-template-dirs', extra_template_dir,
-        '--output-parent',  'docs',
-        '--output-subdir', dir_name,
+    args = ['orr-docker']
+    args += common_args
+    args.extend([
         '--source-dir', orr_dir,
         # TODO: expose this as a command-line option?
         # '--skip-docker-build',
-    ]
-    if input_results_dir is not None:
-        args.extend(('--input-results-dir', input_results_dir))
-    args.extend(['--orr', '-v'])
+        '--orr', '-v'
+    ])
+
     subprocess.run(args, check=True)
 
 
@@ -165,14 +177,15 @@ def main():
 
     orr_dir = Path(ns.orr_dir)
 
+    # Warn the user if they are using an orr different from what is expected.
+    check_current_orr(orr_dir)
+
     input_info = [
         ('2018-06-05', None),
         ('2018-11-06', None),
+        # Generate "zero reports" for the Nov. 2018 election.
         ('2018-11-06', 'resultdata-zero'),
     ]
-
-    # Warn the user if they are using an orr different from what is expected.
-    check_current_orr(orr_dir)
 
     for input_dir_name, input_results_dir_name in input_info:
         build_election(repo_root, orr_dir=orr_dir, dir_name=input_dir_name,
