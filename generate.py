@@ -33,6 +33,7 @@ import argparse
 import logging
 import os
 from pathlib import Path
+import shlex
 import subprocess
 from textwrap import dedent
 
@@ -123,7 +124,8 @@ def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None):
     return args
 
 
-def build_election(repo_root, orr_dir, dir_name, results_dir_name=None):
+def build_election(repo_root, orr_dir, dir_name, results_dir_name=None,
+    no_docker=False):
     """
     Args:
       orr_dir: the directory to use as the ORR repo root.
@@ -135,15 +137,28 @@ def build_election(repo_root, orr_dir, dir_name, results_dir_name=None):
     """
     common_args = get_common_args(repo_root, orr_dir, dir_name=dir_name,
                         results_dir_name=results_dir_name)
+    # Enable verbose logging.
+    orr_args = ['-v']
 
-    args = ['orr-docker']
-    args += common_args
-    args.extend([
-        '--source-dir', orr_dir,
-        # TODO: expose this as a command-line option?
-        # '--skip-docker-build',
-        '--orr', '-v'
-    ])
+    if no_docker:
+        args = ['orr'] + orr_args + common_args
+        print(' '.join(str(a) for a in args))
+    else:
+        args = ['orr-docker'] + common_args
+        args.extend([
+            '--source-dir', orr_dir,
+            # TODO: expose this as a command-line option?
+            # '--skip-docker-build',
+            '--orr',
+        ])
+        args += orr_args
+
+    cmd = ' '.join(shlex.quote(str(arg)) for arg in args)
+    msg = dedent(f"""\
+    running command:
+        $ {cmd}
+    """)
+    _log.info(msg)
 
     subprocess.run(args, check=True)
 
@@ -158,10 +173,12 @@ def parse_args(orr_submodule_dir):
     orr_dir_help = dedent(f"""\
     an option to force-specify the directory to the ORR repository to use.
     In particular, this directory contains the Dockerfile to use to build.
-    Not specifying this will result using: {orr_submodule_dir} .
+    Not specifying this will result in using: {orr_submodule_dir} .
     """)
     parser.add_argument('--orr-dir', metavar='DIR', help=orr_dir_help,
         default=orr_submodule_dir)
+    parser.add_argument('--no-docker', action='store_true',
+        help='suppress using Docker.')
 
     ns = parser.parse_args()
 
@@ -173,9 +190,12 @@ def main():
     orr_submodule_dir = get_orr_submodule_dir(repo_root)
     ns = parse_args(orr_submodule_dir)
 
-    logging.basicConfig(level=logging.INFO)
+    log_format = '{asctime} [{levelname}] {msg}'
+    logging.basicConfig(level=logging.INFO, format=log_format, style='{',
+        datefmt='%Y-%m-%d %H:%M:%S')
 
     orr_dir = Path(ns.orr_dir)
+    no_docker = ns.no_docker
 
     # Warn the user if they are using an orr different from what is expected.
     check_current_orr(orr_dir)
@@ -189,7 +209,8 @@ def main():
 
     for input_dir_name, input_results_dir_name in input_info:
         build_election(repo_root, orr_dir=orr_dir, dir_name=input_dir_name,
-                       results_dir_name=input_results_dir_name)
+                       results_dir_name=input_results_dir_name,
+                       no_docker=no_docker)
 
 
 if __name__ == '__main__':
