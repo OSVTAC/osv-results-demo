@@ -236,7 +236,6 @@ def main():
 
     for input_info in input_infos:
         input_dir_name, input_results_dir_name = input_info
-        print(input_dir_name, input_results_dir_name)
         build_election(repo_root, orr_dir=orr_dir, dir_name=input_dir_name,
                        results_dir_name=input_results_dir_name,
                        no_docker=no_docker)
