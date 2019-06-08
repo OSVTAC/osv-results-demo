@@ -35,6 +35,7 @@ import os
 from pathlib import Path
 import shlex
 import subprocess
+import sys
 from textwrap import dedent
 
 import orr
@@ -163,12 +164,22 @@ def build_election(repo_root, orr_dir, dir_name, results_dir_name=None,
     subprocess.run(args, check=True)
 
 
-def parse_args(orr_submodule_dir):
+def parse_args(orr_submodule_dir, report_names):
     """
     Parse sys.argv and return a Namespace object.
+
+    Args:
+      report_names: a list of the available report names.
     """
     parser = argparse.ArgumentParser(description=DESCRIPTION,
                     formatter_class=argparse.RawDescriptionHelpFormatter)
+
+    report_choices = ', '.join(report_names)
+    reports_help = dedent(f"""\
+    the name of one or more reports to generate (choose from: {report_choices}).
+    Defaults to generating all reports.
+    """)
+    parser.add_argument('reports', metavar='NAME', nargs='*', help=reports_help)
 
     orr_dir_help = dedent(f"""\
     an option to force-specify the directory to the ORR repository to use.
@@ -186,32 +197,51 @@ def parse_args(orr_submodule_dir):
 
 
 def main():
+    # The reports available in the demo repo.
+    reports = {
+        '2018-06-05': ('2018-06-05', None),
+        '2018-11-06': ('2018-11-06', None),
+        # Generate "zero reports" for the Nov. 2018 election.
+        '2018-11-06-zero': ('2018-11-06', 'resultdata-zero'),
+    }
+    all_report_names = sorted(reports)
+
     repo_root = get_repo_root()
     orr_submodule_dir = get_orr_submodule_dir(repo_root)
-    ns = parse_args(orr_submodule_dir)
+    ns = parse_args(orr_submodule_dir, report_names=all_report_names)
 
     log_format = '{asctime} [{levelname}] {msg}'
     logging.basicConfig(level=logging.INFO, format=log_format, style='{',
         datefmt='%Y-%m-%d %H:%M:%S')
 
+    report_names = ns.reports
     orr_dir = Path(ns.orr_dir)
     no_docker = ns.no_docker
 
     # Warn the user if they are using an orr different from what is expected.
     check_current_orr(orr_dir)
 
-    input_info = [
-        ('2018-06-05', None),
-        ('2018-11-06', None),
-        # Generate "zero reports" for the Nov. 2018 election.
-        ('2018-11-06', 'resultdata-zero'),
-    ]
+    if not report_names:
+        report_names = all_report_names
 
-    for input_dir_name, input_results_dir_name in input_info:
+    try:
+        input_infos = {reports[name] for name in report_names}
+    except KeyError as exc:
+        name = exc.args[0]  # the invalid name
+        valid_names = ', '.join(all_report_names)
+        msg = f'ERROR: invalid report name: {name!r} (choose from: {valid_names}).'
+        print(msg, file=sys.stderr)
+        # Return a non-zero exit status to signify an error.
+        return 1
+
+    for input_info in input_infos:
+        input_dir_name, input_results_dir_name = input_info
+        print(input_dir_name, input_results_dir_name)
         build_election(repo_root, orr_dir=orr_dir, dir_name=input_dir_name,
                        results_dir_name=input_results_dir_name,
                        no_docker=no_docker)
 
 
 if __name__ == '__main__':
-    main()
+    status = main()
+    sys.exit(status)
