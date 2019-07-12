@@ -105,13 +105,16 @@ def check_current_orr(orr_dir):
         _log.warning(msg)
 
 
-def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None):
+def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
+    results_dir_name=None):
     """
     Args:
+      output_dir_name: the name of the subdirectory inside the "docs"
+        directory to which to write the output.
       skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
-    input_dir = get_input_dirs(repo_root, dir_name)
-    input_dir, input_results_dir = get_input_dirs(repo_root, dir_name, results_dir_name=results_dir_name)
+    input_dir, input_results_dir = get_input_dirs(repo_root, input_dir_name,
+        results_dir_name=results_dir_name)
 
     template_dir = orr_dir / 'templates/test-minimal'
     extra_template_dir = template_dir / 'extra'
@@ -121,7 +124,8 @@ def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None):
         '--template-dir', template_dir,
         '--extra-template-dirs', extra_template_dir,
         '--output-parent',  'docs',
-        '--output-subdir', dir_name,
+        '--output-subdir', output_dir_name,
+        # Enable verbose logging.
         '-v'
     ]
     if input_results_dir is not None:
@@ -130,20 +134,24 @@ def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None):
     return args
 
 
-def build_election(repo_root, orr_dir, dir_name, results_dir_name=None,
-    no_docker=False, skip_pdf=False):
+def build_election(repo_root, orr_dir, input_dir_name, output_dir_name,
+    results_dir_name=None, no_docker=False, skip_pdf=False):
     """
     Args:
       orr_dir: the directory to use as the ORR repo root.
       dir_name: the name of the subdirectory inside "submodules/osv-sample-data"
         to use for the input data.
+      output_dir_name: the name of the subdirectory inside the "docs"
+        directory to which to write the output.
       results_dir_name: an optional subdirectory name inside the
         "out-orr" directory, which will be used to construct the value
         to pass as --input-results-dir.
       skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
-    common_args = get_common_args(repo_root, orr_dir, dir_name=dir_name,
+    common_args = get_common_args(repo_root, orr_dir, input_dir_name=input_dir_name,
+                        output_dir_name=output_dir_name,
                         results_dir_name=results_dir_name)
+
     orr_args = []
     if skip_pdf:
         orr_args.append('--skip-pdf')
@@ -207,6 +215,8 @@ def parse_args(orr_submodule_dir, report_names):
 
 def main():
     # The reports available in the demo repo.
+    #
+    # Each key below is the output_dir_name.
     reports = {
         '2018-06-05': ('2018-06-05', None),
         '2018-11-06': ('2018-11-06', None),
@@ -235,7 +245,7 @@ def main():
         report_names = all_report_names
 
     try:
-        input_infos = {reports[name] for name in report_names}
+        input_infos = {(name, reports[name]) for name in report_names}
     except KeyError as exc:
         name = exc.args[0]  # the invalid name
         valid_names = ', '.join(all_report_names)
@@ -244,11 +254,11 @@ def main():
         # Return a non-zero exit status to signify an error.
         return 1
 
-    for input_info in input_infos:
+    for output_dir_name, input_info in input_infos:
         input_dir_name, input_results_dir_name = input_info
-        build_election(repo_root, orr_dir=orr_dir, dir_name=input_dir_name,
-                       results_dir_name=input_results_dir_name,
-                       no_docker=no_docker, skip_pdf=skip_pdf)
+        build_election(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
+           output_dir_name=output_dir_name, results_dir_name=input_results_dir_name,
+           no_docker=no_docker, skip_pdf=skip_pdf)
 
 
 if __name__ == '__main__':
