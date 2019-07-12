@@ -105,8 +105,7 @@ def check_current_orr(orr_dir):
         _log.warning(msg)
 
 
-def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None,
-    skip_pdf=False):
+def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None):
     """
     Args:
       skip_pdf: whether to skip PDF generation.  Defaults to False.
@@ -123,11 +122,10 @@ def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None,
         '--extra-template-dirs', extra_template_dir,
         '--output-parent',  'docs',
         '--output-subdir', dir_name,
+        '-v'
     ]
     if input_results_dir is not None:
         args.extend(('--input-results-dir', input_results_dir))
-    if skip_pdf:
-        args.append('--skip-pdf')
 
     return args
 
@@ -145,10 +143,10 @@ def build_election(repo_root, orr_dir, dir_name, results_dir_name=None,
       skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
     common_args = get_common_args(repo_root, orr_dir, dir_name=dir_name,
-                        results_dir_name=results_dir_name,
-                        skip_pdf=skip_pdf)
-    # Enable verbose logging.
-    orr_args = ['-v']
+                        results_dir_name=results_dir_name)
+    orr_args = []
+    if skip_pdf:
+        orr_args.append('--skip-pdf')
 
     if no_docker:
         args = ['orr'] + orr_args + common_args
@@ -159,7 +157,7 @@ def build_election(repo_root, orr_dir, dir_name, results_dir_name=None,
             '--source-dir', orr_dir,
             # TODO: expose this as a command-line option?
             # '--skip-docker-build',
-            '--orr',
+            '--orr_args',
         ])
         args += orr_args
 
