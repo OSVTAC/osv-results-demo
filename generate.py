@@ -105,7 +105,12 @@ def check_current_orr(orr_dir):
         _log.warning(msg)
 
 
-def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None):
+def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None,
+    skip_pdf=False):
+    """
+    Args:
+      skip_pdf: whether to skip PDF generation.  Defaults to False.
+    """
     input_dir = get_input_dirs(repo_root, dir_name)
     input_dir, input_results_dir = get_input_dirs(repo_root, dir_name, results_dir_name=results_dir_name)
 
@@ -121,12 +126,14 @@ def get_common_args(repo_root, orr_dir, dir_name, results_dir_name=None):
     ]
     if input_results_dir is not None:
         args.extend(('--input-results-dir', input_results_dir))
+    if skip_pdf:
+        args.append('--skip-pdf')
 
     return args
 
 
 def build_election(repo_root, orr_dir, dir_name, results_dir_name=None,
-    no_docker=False):
+    no_docker=False, skip_pdf=False):
     """
     Args:
       orr_dir: the directory to use as the ORR repo root.
@@ -135,9 +142,11 @@ def build_election(repo_root, orr_dir, dir_name, results_dir_name=None,
       results_dir_name: an optional subdirectory name inside the
         "out-orr" directory, which will be used to construct the value
         to pass as --input-results-dir.
+      skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
     common_args = get_common_args(repo_root, orr_dir, dir_name=dir_name,
-                        results_dir_name=results_dir_name)
+                        results_dir_name=results_dir_name,
+                        skip_pdf=skip_pdf)
     # Enable verbose logging.
     orr_args = ['-v']
 
@@ -190,6 +199,8 @@ def parse_args(orr_submodule_dir, report_names):
         default=orr_submodule_dir)
     parser.add_argument('--no-docker', action='store_true',
         help='suppress using Docker.')
+    parser.add_argument('--skip-pdf', action='store_true',
+        help='skip PDF generation (useful for testing).')
 
     ns = parser.parse_args()
 
@@ -217,6 +228,7 @@ def main():
     report_names = ns.reports
     orr_dir = Path(ns.orr_dir)
     no_docker = ns.no_docker
+    skip_pdf = ns.skip_pdf
 
     # Warn the user if they are using an orr different from what is expected.
     check_current_orr(orr_dir)
@@ -238,7 +250,7 @@ def main():
         input_dir_name, input_results_dir_name = input_info
         build_election(repo_root, orr_dir=orr_dir, dir_name=input_dir_name,
                        results_dir_name=input_results_dir_name,
-                       no_docker=no_docker)
+                       no_docker=no_docker, skip_pdf=skip_pdf)
 
 
 if __name__ == '__main__':
