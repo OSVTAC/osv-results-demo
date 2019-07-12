@@ -111,7 +111,6 @@ def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
     Args:
       output_dir_name: the name of the subdirectory inside the "docs"
         directory to which to write the output.
-      skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
     input_dir, input_results_dir = get_input_dirs(repo_root, input_dir_name,
         results_dir_name=results_dir_name)
@@ -139,8 +138,8 @@ def build_election(repo_root, orr_dir, input_dir_name, output_dir_name,
     """
     Args:
       orr_dir: the directory to use as the ORR repo root.
-      dir_name: the name of the subdirectory inside "submodules/osv-sample-data"
-        to use for the input data.
+      input_dir_name: the name of the subdirectory inside
+        "submodules/osv-sample-data" to use for the input data.
       output_dir_name: the name of the subdirectory inside the "docs"
         directory to which to write the output.
       results_dir_name: an optional subdirectory name inside the
@@ -157,8 +156,7 @@ def build_election(repo_root, orr_dir, input_dir_name, output_dir_name,
         orr_args.append('--skip-pdf')
 
     if no_docker:
-        args = ['orr'] + orr_args + common_args
-        print(' '.join(str(a) for a in args))
+        args = ['orr'] + common_args + orr_args
     else:
         args = ['orr-docker'] + common_args
         args.extend([
@@ -245,7 +243,7 @@ def main():
         report_names = all_report_names
 
     try:
-        input_infos = {(name, reports[name]) for name in report_names}
+        input_infos = [(name, reports[name]) for name in report_names]
     except KeyError as exc:
         name = exc.args[0]  # the invalid name
         valid_names = ', '.join(all_report_names)
