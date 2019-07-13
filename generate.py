@@ -106,11 +106,12 @@ def check_current_orr(orr_dir):
 
 
 def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
-    results_dir_name=None):
+    results_dir_name=None, skip_pdf=False):
     """
     Args:
       output_dir_name: the name of the subdirectory inside the "docs"
         directory to which to write the output.
+      skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
     input_dir, input_results_dir = get_input_dirs(repo_root, input_dir_name,
         results_dir_name=results_dir_name)
@@ -125,10 +126,13 @@ def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
         '--output-parent',  'docs',
         '--output-subdir', output_dir_name,
         # Enable verbose logging.
-        '-v'
+        '--verbose',
     ]
     if input_results_dir is not None:
         args.extend(('--input-results-dir', input_results_dir))
+
+    if skip_pdf:
+        args.append('--skip-pdf')
 
     return args
 
@@ -149,23 +153,18 @@ def build_election(repo_root, orr_dir, input_dir_name, output_dir_name,
     """
     common_args = get_common_args(repo_root, orr_dir, input_dir_name=input_dir_name,
                         output_dir_name=output_dir_name,
-                        results_dir_name=results_dir_name)
-
-    orr_args = []
-    if skip_pdf:
-        orr_args.append('--skip-pdf')
+                        results_dir_name=results_dir_name,
+                        skip_pdf=skip_pdf)
 
     if no_docker:
-        args = ['orr'] + common_args + orr_args
+        args = ['orr'] + common_args
     else:
         args = ['orr-docker'] + common_args
         args.extend([
             '--source-dir', orr_dir,
             # TODO: expose this as a command-line option?
             # '--skip-docker-build',
-            '--orr_args',
         ])
-        args += orr_args
 
     cmd = ' '.join(shlex.quote(str(arg)) for arg in args)
     msg = dedent(f"""\
