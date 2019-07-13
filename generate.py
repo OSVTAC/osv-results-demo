@@ -47,6 +47,8 @@ DESCRIPTION = """\
 Build the demo pages.
 """
 
+MINIMAL_TEST_NAME = 'minimal-test'
+
 
 def get_repo_root():
     return Path(__file__).parent
@@ -113,8 +115,13 @@ def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
         directory to which to write the output.
       skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
-    input_dir, input_results_dir = get_input_dirs(repo_root, input_dir_name,
-        results_dir_name=results_dir_name)
+    # We need to special-case the "minimal test" page.
+    if input_dir_name == MINIMAL_TEST_NAME:
+        input_dir = orr_dir / 'sampledata/test-minimal'
+        input_results_dir = None
+    else:
+        input_dir, input_results_dir = get_input_dirs(repo_root, input_dir_name,
+            results_dir_name=results_dir_name)
 
     template_dir = orr_dir / 'templates/test-minimal'
     extra_template_dir = template_dir / 'extra'
@@ -215,6 +222,7 @@ def main():
     #
     # Each key below is the output_dir_name.
     reports = {
+        MINIMAL_TEST_NAME: ('minimal-test', None),
         '2018-06-05': ('2018-06-05', None),
         '2018-11-06': ('2018-11-06', None),
         # Generate "zero reports" for the Nov. 2018 election.
