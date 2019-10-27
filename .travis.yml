@@ -1,0 +1,16 @@
+sudo: required
+language: python
+python:
+  - "3.6"
+services:
+  - docker
+
+# Next run the tests in Travis CI's normal Python environment.
+install:
+  - pip install --upgrade pip
+  # This also installs ORR's dependencies.
+  # TODO: make it so we don't need to install any third-party libraries
+  #  since running Docker doesn't require the dependencies.
+  - pip install -e submodules/osv-results-reporter/src/
+script:
+  - python generate.py --skip-pdf
