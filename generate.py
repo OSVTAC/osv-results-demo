@@ -47,11 +47,51 @@ DESCRIPTION = """\
 Build the demo pages.
 """
 
+OUTPUT_DIR = 'docs'
+
 MINIMAL_TEST_NAME = 'minimal-test'
+
+INDEX_HTML_TEMPLATE = """\
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Results Reporter Demo</title>
+</head>
+<body>
+<h1>Results Reporter Demo</h1>
+<p>
+  This page shows the latest example outputs of the
+  <a href="https://osvtac.github.io/">San Francisco Open Source Voting
+  System Technical Advisory Committee's</a> (OSVTAC) open source voting
+  <a href="https://github.com/OSVTAC/osv-results-reporter">Results Reporter</a>.
+<ul>
+    <li><a href="minimal-test/index.html">minimal demo</a></li>
+    <li><a href="2018-11-06-zero/index.html">November 6, 2018 election</a> ("zero report")</li>
+    <li><a href="2018-11-06/index.html">November 6, 2018 election</a></li>
+    <li><a href="2018-06-05/index.html">June 5, 2018 election</a></li>
+</ul>
+<p>
+  This page is generated from the following OSVTAC GitHub repository:
+  <a href="https://github.com/OSVTAC/osv-results-demo">https://github.com/OSVTAC/osv-results-demo</a>.
+</body>
+</html>
+"""
 
 
 def get_repo_root():
     return Path(__file__).parent
+
+
+def make_index_html_contents():
+    return INDEX_HTML_TEMPLATE
+
+
+def make_index_html():
+    path = Path(OUTPUT_DIR) / 'index.html'
+    text = make_index_html_contents()
+
+    _log.info(f'writing index.html to: {path}')
+    path.write_text(text)
 
 
 def get_orr_submodule_dir(repo_root):
@@ -130,7 +170,7 @@ def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
         '--input-dir', input_dir,
         '--template-dir', template_dir,
         '--extra-template-dirs', extra_template_dir,
-        '--output-parent',  'docs',
+        '--output-parent',  OUTPUT_DIR,
         '--output-subdir', output_dir_name,
         # Enable verbose logging.
         '--verbose',
@@ -264,6 +304,8 @@ def main():
         build_election(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
            output_dir_name=output_dir_name, results_dir_name=input_results_dir_name,
            no_docker=no_docker, skip_pdf=skip_pdf)
+
+    make_index_html()
 
 
 if __name__ == '__main__':
