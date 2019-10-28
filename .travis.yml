@@ -13,6 +13,7 @@ install:
   #  since running Docker doesn't require the dependencies.
   - pip install -e submodules/osv-results-reporter/src/
 script:
+  # TODO: remove --skip-pdf.
   - python generate.py --skip-pdf
 deploy:
   provider: pages
