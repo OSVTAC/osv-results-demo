@@ -30,6 +30,7 @@ Usage:
 """
 
 import argparse
+from datetime import datetime
 import logging
 import os
 from pathlib import Path
@@ -59,6 +60,9 @@ INDEX_HTML_TEMPLATE = """\
 </head>
 <body>
 <h1>Results Reporter Demo</h1>
+<p>[Published on {now}
+from Git commit
+<a href="https://github.com/OSVTAC/osv-results-demo/commit/{git_sha}"><code>{git_sha}</code></a>.]
 <p>
   This page shows the latest example outputs of the
   <a href="https://osvtac.github.io/">San Francisco Open Source Voting
@@ -82,8 +86,32 @@ def get_repo_root():
     return Path(__file__).parent
 
 
+def get_git_sha():
+    # Travis's environment variables are documented here:
+    # https://docs.travis-ci.com/user/environment-variables/
+    sha = os.environ.get('TRAVIS_COMMIT')
+    if sha:
+        return sha
+
+    # Otherwise, get it manually using Git.
+    _log.warning('environment variable "TRAVIS_COMMIT" not found: falling back to Git.')
+    args = 'git rev-parse HEAD'.split()
+    # Pass encoding so stdout will be str rather than bytes.
+    result = subprocess.run(args, stdout=subprocess.PIPE, check=True, encoding='utf-8')
+    output = result.stdout.strip()
+
+    return output
+
+
 def make_index_html_contents():
-    return INDEX_HTML_TEMPLATE
+    sha = get_git_sha()
+
+    now = datetime.now()
+    # Get the integer hour between 1 and 12 (not padded with zeros).
+    hour = int(now.strftime('%I'))
+    formatted_now = now.strftime(f'%A, %B {now.day}, %Y at {hour}:%M:%S %p')
+
+    return INDEX_HTML_TEMPLATE.format(git_sha=sha, now=formatted_now)
 
 
 def make_index_html():
