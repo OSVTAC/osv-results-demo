@@ -61,6 +61,7 @@ INDEX_HTML_TEMPLATE = """\
 </head>
 <body>
 <h1>Results Reporter Demo</h1>
+<p><a href="https://travis-ci.org/OSVTAC/osv-results-demo"><img src="https://travis-ci.org/OSVTAC/osv-results-demo.svg?branch=master" alt="Build Status"/></a>
 <p>[Published on {now}
 from Git commit
 <a href="https://github.com/OSVTAC/osv-results-demo/commit/{git_sha}"><code>{git_sha}</code></a>.

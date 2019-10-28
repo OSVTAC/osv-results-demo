@@ -1,5 +1,7 @@
 # osv-results-demo
 
+[![Build Status](https://travis-ci.org/OSVTAC/osv-results-demo.svg?branch=master)](https://travis-ci.org/OSVTAC/osv-results-demo)
+
 Contains example demonstrations of OSVTAC's
 [results reporter](https://github.com/OSVTAC/osv-results-reporter) component.
 
