@@ -38,6 +38,7 @@ import shlex
 import subprocess
 import sys
 from textwrap import dedent
+import time
 
 import orr
 
@@ -62,7 +63,8 @@ INDEX_HTML_TEMPLATE = """\
 <h1>Results Reporter Demo</h1>
 <p>[Published on {now}
 from Git commit
-<a href="https://github.com/OSVTAC/osv-results-demo/commit/{git_sha}"><code>{git_sha}</code></a>.]
+<a href="https://github.com/OSVTAC/osv-results-demo/commit/{git_sha}"><code>{git_sha}</code></a>.
+All built in: {mins} mins and {secs} secs.]
 <p>
   This page shows the latest example outputs of the
   <a href="https://osvtac.github.io/">San Francisco Open Source Voting
@@ -103,7 +105,7 @@ def get_git_sha():
     return output
 
 
-def make_index_html_contents():
+def make_index_html_contents(elapsed_time):
     sha = get_git_sha()
 
     now = datetime.now()
@@ -111,12 +113,16 @@ def make_index_html_contents():
     hour = int(now.strftime('%I'))
     formatted_now = now.strftime(f'%A, %B {now.day}, %Y at {hour}:%M:%S %p')
 
-    return INDEX_HTML_TEMPLATE.format(git_sha=sha, now=formatted_now)
+    mins, secs = (int(x) for x in divmod(elapsed_time, 60))
+
+    return INDEX_HTML_TEMPLATE.format(
+        git_sha=sha, now=formatted_now, mins=mins, secs=secs
+    )
 
 
-def make_index_html():
+def make_index_html(elapsed_time):
     path = Path(OUTPUT_DIR) / 'index.html'
-    text = make_index_html_contents()
+    text = make_index_html_contents(elapsed_time)
 
     _log.info(f'writing index.html to: {path}')
     path.write_text(text)
@@ -327,13 +333,18 @@ def main():
         # Return a non-zero exit status to signify an error.
         return 1
 
+    # Compute the total time to do all building.
+    start_time = time.time()
+
     for output_dir_name, input_info in input_infos:
         input_dir_name, input_results_dir_name = input_info
         build_election(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
            output_dir_name=output_dir_name, results_dir_name=input_results_dir_name,
            no_docker=no_docker, skip_pdf=skip_pdf)
 
-    make_index_html()
+    elapsed_time = time.time() - start_time
+
+    make_index_html(elapsed_time)
 
 
 if __name__ == '__main__':
