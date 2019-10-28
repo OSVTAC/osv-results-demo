@@ -5,6 +5,12 @@ python:
 services:
   - docker
 
+
+before_install:
+  # Set the time zone so the build time in the index.html will be in the
+  # local timezone.
+  - export TZ=America/Los_Angeles
+
 # Next run the tests in Travis CI's normal Python environment.
 install:
   - pip install --upgrade pip
