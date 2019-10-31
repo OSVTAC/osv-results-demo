@@ -73,10 +73,10 @@ All built in: {mins} mins and {secs} secs.]
   System Technical Advisory Committee's</a> (OSVTAC) open source voting
   <a href="https://github.com/OSVTAC/osv-results-reporter">Results Reporter</a>.
 <ul>
-    <li><a href="2018-11-06/results-summary-en.html">November 6, 2018 election</a></li>
-    <li><a href="2018-11-06-zero/results-summary-en.html">November 6, 2018 election</a> ("zero report")</li>
-    <li><a href="2018-06-05/results-summary-en.html">June 5, 2018 election</a></li>
-    <li><a href="minimal-test/results-summary-en.html">minimal demo</a></li>
+    <li><a href="2018-11-06/index-en.html">November 6, 2018 election</a></li>
+    <li><a href="2018-11-06-zero/index-en.html">November 6, 2018 election</a> ("zero report")</li>
+    <li><a href="2018-06-05/index-en.html">June 5, 2018 election</a></li>
+    <li><a href="minimal-test/index-en.html">minimal demo</a></li>
 </ul>
 <p>
   This page is generated from the following OSVTAC GitHub repository:
