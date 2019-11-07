@@ -49,8 +49,7 @@ DESCRIPTION = """\
 Build the demo pages.
 """
 
-# TODO: rename to: _build.
-OUTPUT_DIR = 'docs'
+BUILD_DIR = '_build'
 
 MINIMAL_TEST_NAME = 'minimal-test'
 
@@ -122,8 +121,8 @@ def make_index_html_contents(elapsed_time):
     )
 
 
-def make_index_html(elapsed_time):
-    path = Path(OUTPUT_DIR) / 'index.html'
+def make_index_html(build_dir, elapsed_time):
+    path = Path(build_dir) / 'index.html'
     text = make_index_html_contents(elapsed_time)
 
     _log.info(f'writing index.html to: {path}')
@@ -183,8 +182,8 @@ def check_current_orr(orr_dir):
         _log.warning(msg)
 
 
-def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
-    results_dir_name=None, skip_pdf=False):
+def get_common_args(repo_root, orr_dir, input_dir_name, build_dir,
+    output_dir_name, results_dir_name=None, skip_pdf=False):
     """
     Args:
       output_dir_name: the name of the subdirectory inside the "docs"
@@ -206,7 +205,7 @@ def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
         '--input-dir', input_dir,
         '--template-dir', template_dir,
         '--extra-template-dirs', extra_template_dir,
-        '--output-parent',  OUTPUT_DIR,
+        '--output-parent', build_dir,
         '--output-subdir', output_dir_name,
         # Enable verbose logging.
         '--verbose',
@@ -220,7 +219,7 @@ def get_common_args(repo_root, orr_dir, input_dir_name, output_dir_name,
     return args
 
 
-def build_election(repo_root, orr_dir, input_dir_name, output_dir_name,
+def build_election(repo_root, orr_dir, input_dir_name, build_dir, output_dir_name,
     results_dir_name=None, no_docker=False, skip_pdf=False):
     """
     Args:
@@ -235,7 +234,7 @@ def build_election(repo_root, orr_dir, input_dir_name, output_dir_name,
       skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
     common_args = get_common_args(repo_root, orr_dir, input_dir_name=input_dir_name,
-                        output_dir_name=output_dir_name,
+                        build_dir=build_dir, output_dir_name=output_dir_name,
                         results_dir_name=results_dir_name,
                         skip_pdf=skip_pdf)
 
@@ -303,9 +302,12 @@ def main():
         '2018-11-06': ('2018-11-06', None),
         # Generate "zero reports" for the Nov. 2018 election.
         '2018-11-06-zero': ('2018-11-06', 'resultdata-zero'),
+        # TODO: uncomment this.
+        # '2019-11-05': ('2019-11-05', None),
     }
     all_report_names = sorted(reports)
 
+    build_dir = BUILD_DIR
     repo_root = get_repo_root()
     orr_submodule_dir = get_orr_submodule_dir(repo_root)
     ns = parse_args(orr_submodule_dir, report_names=all_report_names)
@@ -341,12 +343,13 @@ def main():
     for output_dir_name, input_info in input_infos:
         input_dir_name, input_results_dir_name = input_info
         build_election(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
-           output_dir_name=output_dir_name, results_dir_name=input_results_dir_name,
-           no_docker=no_docker, skip_pdf=skip_pdf)
+            build_dir=build_dir, output_dir_name=output_dir_name,
+            results_dir_name=input_results_dir_name, no_docker=no_docker,
+            skip_pdf=skip_pdf)
 
     elapsed_time = time.time() - start_time
 
-    make_index_html(elapsed_time)
+    make_index_html(build_dir, elapsed_time)
 
 
 if __name__ == '__main__':

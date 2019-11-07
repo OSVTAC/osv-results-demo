@@ -24,7 +24,7 @@ script:
 deploy:
   provider: pages
   # The generate.py script builds the output to the following directory.
-  local_dir: docs
+  local_dir: _build
   skip_cleanup: true
   # This environment variable is set in the settings page of your repository.
   github_token: $GITHUB_TOKEN

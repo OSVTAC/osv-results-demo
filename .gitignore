@@ -1,1 +1,5 @@
 .DS_Store
+# Exclude all the contents of _build, except for .gitkeep, which
+# is a stub file that lets us store the folder in the repo.
+_build/**
+!_build/_build/.gitkeep
