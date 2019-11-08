@@ -72,10 +72,11 @@ All built in: {mins} mins and {secs} secs.]
   System Technical Advisory Committee's</a> (OSVTAC) open source voting
   <a href="https://github.com/OSVTAC/osv-results-reporter">Results Reporter</a>.
 <ul>
-    <li><a href="2018-11-06/index.html">November 6, 2018 election</a></li>
-    <li><a href="2018-11-06-zero/index.html">November 6, 2018 election</a> ("zero report")</li>
-    <li><a href="2018-06-05/index.html">June 5, 2018 election</a></li>
-    <li><a href="minimal-test/index.html">minimal demo</a></li>
+    <li><a href="2019-11-05/index.html">November 5, 2019 Election - San Francisco</a></li>
+    <li><a href="2018-11-06/index.html">November 6, 2018 Election - San Francisco</a></li>
+    <li><a href="2018-11-06-zero/index.html">November 6, 2018 Election - San Francisco</a> ("zero report")</li>
+    <li><a href="2018-06-05/index.html">June 5, 2018 Election - San Francisco</a></li>
+    <li><a href="minimal-test/index.html">Minimal Demo</a></li>
 </ul>
 <p>
   This page is generated from the following OSVTAC GitHub repository:
@@ -302,8 +303,7 @@ def main():
         '2018-11-06': ('2018-11-06', None),
         # Generate "zero reports" for the Nov. 2018 election.
         '2018-11-06-zero': ('2018-11-06', 'resultdata-zero'),
-        # TODO: uncomment this.
-        # '2019-11-05': ('2019-11-05', None),
+        '2019-11-05': ('2019-11-05', None),
     }
     all_report_names = sorted(reports)
 
