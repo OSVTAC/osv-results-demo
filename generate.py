@@ -51,7 +51,7 @@ Build the demo pages.
 
 BUILD_DIR = '_build'
 
-MINIMAL_TEST_NAME = 'minimal-test'
+MINIMAL_DEMO_NAME = 'minimal-demo'
 
 INDEX_HTML_TEMPLATE = """\
 <html>
@@ -76,7 +76,7 @@ All built in: {mins} mins and {secs} secs.]
     <li><a href="2018-11-06/index.html">November 6, 2018 Election - San Francisco</a></li>
     <li><a href="2018-11-06-zero/index.html">November 6, 2018 Election - San Francisco</a> ("zero report")</li>
     <li><a href="2018-06-05/index.html">June 5, 2018 Election - San Francisco</a></li>
-    <li><a href="minimal-test/index.html">Minimal Demo</a></li>
+    <li><a href="minimal-demo/index.html">"Minimal" Demo</a></li>
 </ul>
 <p>
   This page is generated from the following OSVTAC GitHub repository:
@@ -191,15 +191,15 @@ def get_common_args(repo_root, orr_dir, input_dir_name, build_dir,
         directory to which to write the output.
       skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
-    # We need to special-case the "minimal test" page.
-    if input_dir_name == MINIMAL_TEST_NAME:
-        input_dir = orr_dir / 'sampledata/test-minimal'
+    # We need to special-case the "minimal demo" page.
+    if input_dir_name == MINIMAL_DEMO_NAME:
+        input_dir = orr_dir / 'sampledata/minimal-test'
         input_results_dir = None
     else:
         input_dir, input_results_dir = get_input_dirs(repo_root, input_dir_name,
             results_dir_name=results_dir_name)
 
-    template_dir = orr_dir / 'templates/test-minimal'
+    template_dir = orr_dir / 'templates/demo-template'
     extra_template_dir = template_dir / 'extra'
 
     args = [
@@ -298,7 +298,7 @@ def main():
     #
     # Each key below is the output_dir_name.
     reports = {
-        MINIMAL_TEST_NAME: ('minimal-test', None),
+        MINIMAL_DEMO_NAME: ('minimal-demo', None),
         '2018-06-05': ('2018-06-05', None),
         '2018-11-06': ('2018-11-06', None),
         # Generate "zero reports" for the Nov. 2018 election.
