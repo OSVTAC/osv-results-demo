@@ -1,6 +1,6 @@
 Subtotal Area	RYAN LAM	DEAN PRESTON	NOMVULA O'MEARA	VALLIE BROWN	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Exhausted Ballots	Ballots Counted	Writein Votes
 All Precincts	918	11,119	265	11,169	51,976	24,762	0	39	1,252	0	23,471	0
-All Precincts - Election Day	223	4,248	109	3,350	51,976	8,340	0	8	402	0	7,930	0
+All Precincts - Election Day	223	4,249	109	3,354	51,976	8,348	0	8	405	0	7,935	0
 All Precincts - Vote By Mail	695	6,870	156	7,815	51,976	16,414	0	31	847	0	15,536	0
 Precinct 7502 - Election Day	6	26	4	31	779	70	0	0	3	0	67	0
 Precinct 7502 - Vote By Mail	19	93	4	118	779	248	0	2	12	0	234	0
@@ -110,6 +110,7 @@ Precinct 7549	19	207	5	172	799	421	0	0	18	0	403	0
 Precinct 7552 - Election Day	1	53	0	76	685	136	0	0	6	0	130	0
 Precinct 7552 - Vote By Mail	5	64	0	130	685	213	0	0	14	0	199	0
 Precinct 7552	6	117	0	206	685	349	0	0	20	0	329	0
+Precinct 7553 MB - Election Day	0	0	0	1	182	1	0	0	0	0	1	0
 Precinct 7553 MB - Vote By Mail	3	23	0	48	182	81	0	1	6	0	74	0
 Precinct 7553 MB	3	23	0	49	182	82	0	1	6	0	75	0
 Precinct 7554 - Election Day	4	47	1	80	795	135	0	0	3	0	132	0
@@ -121,8 +122,10 @@ Precinct 7555/7551	13	410	8	444	1,584	905	0	1	29	0	875	0
 Precinct 7556/7557 - Election Day	1	63	1	81	958	147	0	0	1	0	146	0
 Precinct 7556/7557 - Vote By Mail	17	124	3	236	958	400	0	2	18	0	380	0
 Precinct 7556/7557	18	187	4	317	958	547	0	2	19	0	526	0
+Precinct 9501 MB - Election Day	0	0	0	1	147	2	0	0	1	0	1	0
 Precinct 9501 MB - Vote By Mail	1	19	3	38	147	69	0	0	8	0	61	0
 Precinct 9501 MB	1	19	3	39	147	71	0	0	9	0	62	0
+Precinct 9502 MB - Election Day	0	1	0	2	253	5	0	0	2	0	3	0
 Precinct 9502 MB - Vote By Mail	3	41	2	54	253	104	0	0	4	0	100	0
 Precinct 9502 MB	3	42	2	56	253	109	0	0	6	0	103	0
 Precinct 9503/9504 - Election Day	4	39	1	40	667	86	0	0	2	0	84	0

@@ -1,6 +1,6 @@
 Subtotal Area	JENNY LAM	KIRSTEN STROBEL	ROBERT K. COLEMAN	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Ballots Counted	Writein Votes
 All Precincts	121,139	26,034	17,391	495,050	206,312	0	639	41,107	164,566	2
-All Precincts - Election Day	31,340	9,511	6,216	495,050	59,390	0	104	12,219	47,067	0
+All Precincts - Election Day	31,352	9,516	6,219	495,050	59,419	0	104	12,228	47,087	0
 All Precincts - Vote By Mail	89,787	16,518	11,172	495,050	146,893	0	535	28,879	117,479	2
 Precinct 1101 - Election Day	24	9	3	557	54	0	0	18	36	0
 Precinct 1101 - Vote By Mail	101	32	10	557	166	0	0	23	143	0
@@ -140,6 +140,7 @@ Precinct 7013	242	40	18	1,033	376	0	1	75	300	0
 Precinct 7014/7056 - Election Day	81	24	12	1,388	136	0	1	18	117	0
 Precinct 7014/7056 - Vote By Mail	283	33	20	1,388	417	0	0	81	336	0
 Precinct 7014/7056	364	57	32	1,388	553	0	1	99	453	0
+Precinct 7015 MB - Election Day	0	0	1	104	1	0	0	0	1	0
 Precinct 7015 MB - Vote By Mail	7	10	4	104	25	0	0	4	21	0
 Precinct 7015 MB	7	10	5	104	26	0	0	4	22	0
 Precinct 7016 - Election Day	39	11	11	912	75	0	0	14	61	0
@@ -237,6 +238,7 @@ Precinct 7054	184	46	48	1,111	330	0	4	48	278	0
 Precinct 7055 - Election Day	20	8	3	799	37	0	0	6	31	0
 Precinct 7055 - Vote By Mail	161	13	8	799	228	0	1	45	182	0
 Precinct 7055	181	21	11	799	265	0	1	51	213	0
+Precinct 7101 MB - Election Day	1	0	0	152	2	0	0	1	1	0
 Precinct 7101 MB - Vote By Mail	47	11	4	152	77	0	1	14	62	0
 Precinct 7101 MB	48	11	4	152	79	0	1	15	63	0
 Precinct 7202/7201 - Election Day	72	40	9	1,747	156	0	0	35	121	0
@@ -452,6 +454,7 @@ Precinct 7549	246	59	16	799	420	0	0	99	321	0
 Precinct 7552 - Election Day	79	21	6	685	136	0	0	30	106	0
 Precinct 7552 - Vote By Mail	136	27	9	685	213	0	1	40	172	0
 Precinct 7552	215	48	15	685	349	0	1	70	278	0
+Precinct 7553 MB - Election Day	1	0	0	182	1	0	0	0	1	0
 Precinct 7553 MB - Vote By Mail	50	7	6	182	81	0	1	17	63	0
 Precinct 7553 MB	51	7	6	182	82	0	1	17	64	0
 Precinct 7554 - Election Day	72	20	6	795	135	0	1	36	98	0
@@ -591,6 +594,7 @@ Precinct 7655/7627	179	49	31	1,150	332	0	2	71	259	0
 Precinct 7701 - Election Day	67	21	13	1,035	139	0	0	38	101	0
 Precinct 7701 - Vote By Mail	228	36	24	1,035	372	0	0	84	288	0
 Precinct 7701	295	57	37	1,035	511	0	0	122	389	0
+Precinct 7703 MB - Election Day	0	1	0	178	1	0	0	0	1	0
 Precinct 7703 MB - Vote By Mail	30	8	5	178	55	0	1	11	43	0
 Precinct 7703 MB	30	9	5	178	56	0	1	11	44	0
 Precinct 7704/7702 - Election Day	137	48	27	1,723	249	0	0	37	212	0
@@ -882,11 +886,13 @@ Precinct 7956/7952	363	64	58	1,759	583	0	3	95	485	0
 Precinct 7957 - Election Day	37	11	12	665	74	0	0	14	60	0
 Precinct 7957 - Vote By Mail	109	25	20	665	209	0	1	54	154	0
 Precinct 7957	146	36	32	665	283	0	1	68	214	0
+Precinct 7958 MB - Election Day	3	0	0	301	6	0	0	3	3	0
 Precinct 7958 MB - Vote By Mail	59	13	5	301	91	0	0	14	77	0
 Precinct 7958 MB	62	13	5	301	97	0	0	17	80	0
 Precinct 7959/7901 - Election Day	52	25	19	1,198	127	0	0	31	96	0
 Precinct 7959/7901 - Vote By Mail	168	42	24	1,198	279	0	2	43	234	0
 Precinct 7959/7901	220	67	43	1,198	406	0	2	74	330	0
+Precinct 9001 MB - Election Day	1	1	0	286	3	0	0	1	2	0
 Precinct 9001 MB - Vote By Mail	65	10	8	286	91	0	0	8	83	0
 Precinct 9001 MB	66	11	8	286	94	0	0	9	85	0
 Precinct 9103 - Election Day	76	19	15	946	125	0	0	15	110	0
@@ -1114,6 +1120,7 @@ Precinct 9255/9258	304	61	44	1,236	519	0	0	110	409	0
 Precinct 9256/9254 - Election Day	93	21	7	1,373	150	0	0	29	121	0
 Precinct 9256/9254 - Vote By Mail	252	48	25	1,373	408	0	3	80	325	0
 Precinct 9256/9254	345	69	32	1,373	558	0	3	109	446	0
+Precinct 9257 MB - Election Day	1	1	0	311	3	0	0	1	2	0
 Precinct 9257 MB - Vote By Mail	59	18	9	311	124	0	1	37	86	0
 Precinct 9257 MB	60	19	9	311	127	0	1	38	88	0
 Precinct 9401 - Election Day	83	36	10	1,015	159	0	1	29	129	0
@@ -1227,8 +1234,10 @@ Precinct 9451	111	20	18	437	185	0	0	36	149	0
 Precinct 9453 - Election Day	37	9	3	520	57	0	0	8	49	0
 Precinct 9453 - Vote By Mail	113	20	10	520	166	0	0	23	143	0
 Precinct 9453	150	29	13	520	223	0	0	31	192	0
+Precinct 9501 MB - Election Day	1	0	0	147	2	0	0	1	1	0
 Precinct 9501 MB - Vote By Mail	43	9	4	147	69	0	0	13	56	0
 Precinct 9501 MB	44	9	4	147	71	0	0	14	57	0
+Precinct 9502 MB - Election Day	2	1	1	253	5	0	0	1	4	0
 Precinct 9502 MB - Vote By Mail	72	10	8	253	104	0	0	14	90	0
 Precinct 9502 MB	74	11	9	253	109	0	0	15	94	0
 Precinct 9503/9504 - Election Day	56	12	8	667	86	0	0	10	76	0
@@ -1337,6 +1346,7 @@ Precinct 9731 - Vote By Mail	124	13	16	572	190	0	1	36	153	0
 Precinct 9731	169	25	31	572	267	0	1	41	225	0
 Precinct 9732 MB - Vote By Mail	22	10	3	71	39	0	0	4	35	0
 Precinct 9732 MB	22	10	3	71	39	0	0	4	35	0
+Precinct 9733 MB - Election Day	2	1	1	235	5	0	0	1	4	0
 Precinct 9733 MB - Vote By Mail	67	17	7	235	115	0	0	24	91	0
 Precinct 9733 MB	69	18	8	235	120	0	0	25	95	0
 Precinct 9734/9735 - Election Day	112	33	10	1,389	188	0	0	33	155	0
