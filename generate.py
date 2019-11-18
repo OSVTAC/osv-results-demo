@@ -31,6 +31,7 @@ Usage:
 
 import argparse
 from datetime import datetime
+import json
 import logging
 import os
 from pathlib import Path
@@ -45,13 +46,17 @@ import orr
 
 _log = logging.getLogger(__name__)
 
+
+# We use decimal kilobytes (1000) rather than binary (1024).
+_KBYTES = 1000
+
 DESCRIPTION = """\
 Build the demo pages.
 """
 
 BUILD_DIR = '_build'
 
-MINIMAL_DEMO_NAME = 'minimal-demo'
+MINIMAL_DEMO_INPUT_DIR_NAME = 'minimal-demo'
 
 INDEX_HTML_TEMPLATE = """\
 <html>
@@ -72,12 +77,14 @@ All built in: {mins} mins and {secs} secs.]
   System Technical Advisory Committee's</a> (OSVTAC) open source voting
   <a href="https://github.com/OSVTAC/osv-results-reporter">Results Reporter</a>.
 <ul>
-    <li><a href="2019-11-05/index.html">November 5, 2019 Election - San Francisco</a></li>
-    <li><a href="2018-11-06/index.html">November 6, 2018 Election - San Francisco</a></li>
-    <li><a href="2018-11-06-zero/index.html">November 6, 2018 Election - San Francisco</a> ("zero report")</li>
-    <li><a href="2018-06-05/index.html">June 5, 2018 Election - San Francisco</a></li>
-    <li><a href="minimal-demo/index.html">"Minimal" Demo</a></li>
+{items_html}
 </ul>
+<p>
+  File sizes are in decimal kilobytes and megabytes rather than binary.
+<p>
+  Each hexadecimal string is the
+  <a href="https://en.wikipedia.org/wiki/SHA-2">SHA-256</a> hash of the
+  listed file. This can be used to check the integrity of the downloaded file.
 <p>
   This page is generated from the following OSVTAC GitHub repository:
   <a href="https://github.com/OSVTAC/osv-results-demo">https://github.com/OSVTAC/osv-results-demo</a>.
@@ -88,6 +95,82 @@ All built in: {mins} mins and {secs} secs.]
 
 def get_repo_root():
     return Path(__file__).parent
+
+
+def format_size(size):
+    if size < _KBYTES:
+        return f'{size} bytes'
+
+    kbytes = size / _KBYTES
+    if kbytes < _KBYTES:
+        return f'{round(kbytes)} kB'
+
+    mbytes = kbytes / _KBYTES
+    return f'{round(mbytes)} MB'
+
+
+def make_election_item(report_title, rel_home_url, zip_info, output_dir_name):
+    """
+    Args:
+      build_dir: the build directory, as a Path object.
+    """
+    rel_zip_path, zip_size, zip_hash = zip_info
+    formatted_size = format_size(zip_size)
+
+    html = dedent("""\
+    <li><a href="{home_href}">{report_title}</a>
+    <ul>
+        <li><a href="{zip_path}">{zip_file_name}</a>
+        ({zip_file_size}) <code>{zip_file_hash}</code>
+        </li>
+    </ul>
+    </li>
+    """).format(
+        report_title=report_title,
+        home_href = str(Path(output_dir_name) / rel_home_url),
+        zip_path = str(Path(output_dir_name) / rel_zip_path),
+        zip_file_name=Path(rel_zip_path).name,
+        zip_file_size=formatted_size,
+        zip_file_hash=zip_hash,
+    )
+
+    return html
+
+
+def get_zip_info(data):
+    """
+    Extract the zip-file related info.
+
+    Returns: (rel_zip_path, zip_size, zip_hash).
+    """
+    zip_data = data['zip_file']
+
+    return tuple(zip_data[key] for key in ('path', 'bytes', 'hash'))
+
+
+def make_index_html_contents(output_dir_name, elections_data, git_sha, elapsed_time):
+    items = []
+    for data in elections_data:
+        report_title = data['report_title']
+        rel_home_url = data['rel_home_page']
+        zip_info = get_zip_info(data)
+
+        item = make_election_item(report_title, rel_home_url=rel_home_url,
+            zip_info=zip_info, output_dir_name=output_dir_name)
+        items.append(item)
+
+    items_html = ''.join(items)
+
+    now = datetime.now()
+    # Get the integer hour between 1 and 12 (not padded with zeros).
+    hour = int(now.strftime('%I'))
+    formatted_now = now.strftime(f'%A, %B {now.day}, %Y at {hour}:%M:%S %p')
+
+    mins, secs = (int(x) for x in divmod(elapsed_time, 60))
+
+    return INDEX_HTML_TEMPLATE.format(
+        items_html=items_html, git_sha=git_sha, now=formatted_now, mins=mins, secs=secs
+    )
 
 
 def get_git_sha():
@@ -107,24 +190,16 @@ def get_git_sha():
     return output
 
 
-def make_index_html_contents(elapsed_time):
-    sha = get_git_sha()
+def make_index_html(build_dir, elections_data, output_dir_name, elapsed_time):
+    """
+    Args:
+      build_dir: the build directory, as a Path object.
+    """
+    git_sha = get_git_sha()
 
-    now = datetime.now()
-    # Get the integer hour between 1 and 12 (not padded with zeros).
-    hour = int(now.strftime('%I'))
-    formatted_now = now.strftime(f'%A, %B {now.day}, %Y at {hour}:%M:%S %p')
-
-    mins, secs = (int(x) for x in divmod(elapsed_time, 60))
-
-    return INDEX_HTML_TEMPLATE.format(
-        git_sha=sha, now=formatted_now, mins=mins, secs=secs
-    )
-
-
-def make_index_html(build_dir, elapsed_time):
     path = Path(build_dir) / 'index.html'
-    text = make_index_html_contents(elapsed_time)
+    text = make_index_html_contents(output_dir_name, elections_data, git_sha=git_sha,
+                elapsed_time=elapsed_time)
 
     _log.info(f'writing index.html to: {path}')
     path.write_text(text)
@@ -192,7 +267,7 @@ def get_common_args(repo_root, orr_dir, input_dir_name, build_dir,
       skip_pdf: whether to skip PDF generation.  Defaults to False.
     """
     # We need to special-case the "minimal demo" page.
-    if input_dir_name == MINIMAL_DEMO_NAME:
+    if input_dir_name == MINIMAL_DEMO_INPUT_DIR_NAME:
         input_dir = orr_dir / 'sampledata/minimal-test'
         input_results_dir = None
     else:
@@ -256,7 +331,23 @@ def build_election(repo_root, orr_dir, input_dir_name, build_dir, output_dir_nam
     """)
     _log.info(msg)
 
-    subprocess.run(args, check=True)
+    result = subprocess.run(args, stdout=subprocess.PIPE, check=True, encoding='utf-8')
+    output = result.stdout
+
+    msg = dedent('''\
+    completed command:
+        $ {cmd}
+    with output:
+    """{output}"""
+    ''').format(
+        cmd=cmd,
+        output=output,
+    )
+    _log.info(msg)
+
+    data = json.loads(output)
+
+    return data
 
 
 def parse_args(orr_submodule_dir, report_names):
@@ -294,16 +385,20 @@ def parse_args(orr_submodule_dir, report_names):
 
 
 def main():
-    # The reports available in the demo repo.
+    # The reports available in the demo repo, in the order in which to
+    # display them.
     #
-    # Each key below is the output_dir_name.
+    # Each key below is the report name, which also serves as the
+    # output_dir_name.
+    # Each value is a report_info tuple:
+    # (input_dir_name, input_results_dir_name, report_title).
     reports = {
-        MINIMAL_DEMO_NAME: ('minimal-demo', None),
-        '2018-06-05': ('2018-06-05', None),
-        '2018-11-06': ('2018-11-06', None),
+        '2019-11-05': ('2019-11-05', None, 'November 5, 2019 Election - San Francisco'),
+        '2018-11-06': ('2018-11-06', None, 'November 6, 2018 Election - San Francisco'),
         # Generate "zero reports" for the Nov. 2018 election.
-        '2018-11-06-zero': ('2018-11-06', 'resultdata-zero'),
-        '2019-11-05': ('2019-11-05', None),
+        '2018-11-06-zero': ('2018-11-06', 'resultdata-zero', 'November 6, 2018 Election - San Francisco ("zero report")'),
+        '2018-06-05': ('2018-06-05', None, 'June 5, 2018 Election - San Francisco'),
+        'minimal-demo': (MINIMAL_DEMO_INPUT_DIR_NAME, None, '"Minimal" Demo'),
     }
     all_report_names = sorted(reports)
 
@@ -328,7 +423,7 @@ def main():
         report_names = all_report_names
 
     try:
-        input_infos = [(name, reports[name]) for name in report_names]
+        report_infos = [(name, reports[name]) for name in report_names]
     except KeyError as exc:
         name = exc.args[0]  # the invalid name
         valid_names = ', '.join(all_report_names)
@@ -340,16 +435,22 @@ def main():
     # Compute the total time to do all building.
     start_time = time.time()
 
-    for output_dir_name, input_info in input_infos:
-        input_dir_name, input_results_dir_name = input_info
-        build_election(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
+    elections_data = []
+    for report_name, report_info in report_infos:
+        output_dir_name = report_name
+        input_dir_name, input_results_dir_name, report_title = report_info
+        data = build_election(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
             build_dir=build_dir, output_dir_name=output_dir_name,
             results_dir_name=input_results_dir_name, no_docker=no_docker,
             skip_pdf=skip_pdf)
+        # TODO: get this from the election data.
+        data['report_title'] = report_title
+        elections_data.append(data)
 
     elapsed_time = time.time() - start_time
 
-    make_index_html(build_dir, elapsed_time)
+    make_index_html(build_dir, elections_data, output_dir_name=output_dir_name,
+        elapsed_time=elapsed_time)
 
 
 if __name__ == '__main__':
