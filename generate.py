@@ -296,7 +296,7 @@ def get_common_args(repo_root, orr_dir, input_dir_name, build_dir,
 
 
 def build_election(repo_root, orr_dir, input_dir_name, build_dir, output_dir_name,
-    results_dir_name=None, no_docker=False, skip_pdf=False):
+    results_dir_name=None, no_docker=False, skip_pdf=False, skip_build=False):
     """
     Args:
       orr_dir: the directory to use as the ORR repo root.
@@ -308,6 +308,7 @@ def build_election(repo_root, orr_dir, input_dir_name, build_dir, output_dir_nam
         "out-orr" directory, which will be used to construct the value
         to pass as --input-results-dir.
       skip_pdf: whether to skip PDF generation.  Defaults to False.
+      skip_build: whether to skip the Docker build.  Defaults to False.
     """
     common_args = get_common_args(repo_root, orr_dir, input_dir_name=input_dir_name,
                         build_dir=build_dir, output_dir_name=output_dir_name,
@@ -318,11 +319,11 @@ def build_election(repo_root, orr_dir, input_dir_name, build_dir, output_dir_nam
         args = ['orr'] + common_args
     else:
         args = ['orr-docker'] + common_args
-        args.extend([
-            '--source-dir', orr_dir,
-            # TODO: expose this as a command-line option?
-            # '--skip-docker-build',
-        ])
+        args.extend(['--source-dir', orr_dir])
+
+    # TODO: also expose this as a command-line option?
+    if skip_build:
+        args.append('--skip-docker-build')
 
     cmd = ' '.join(shlex.quote(str(arg)) for arg in args)
     msg = dedent(f"""\
@@ -436,16 +437,19 @@ def main():
     start_time = time.time()
 
     elections_data = []
+    skip_build = False
     for report_name, report_info in report_infos:
         output_dir_name = report_name
         input_dir_name, input_results_dir_name, report_title = report_info
         data = build_election(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
             build_dir=build_dir, output_dir_name=output_dir_name,
             results_dir_name=input_results_dir_name, no_docker=no_docker,
-            skip_pdf=skip_pdf)
+            skip_pdf=skip_pdf, skip_build=skip_build)
         # TODO: get this from the election data.
         data['report_title'] = report_title
         elections_data.append(data)
+        # We only need to build the first time.
+        skip_build = True
 
     elapsed_time = time.time() - start_time
 
