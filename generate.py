@@ -374,7 +374,7 @@ def parse_args(orr_submodule_dir, report_names):
     parser = argparse.ArgumentParser(description=DESCRIPTION,
                     formatter_class=argparse.RawDescriptionHelpFormatter)
 
-    report_choices = ', '.join(report_names)
+    report_choices = ', '.join(sorted(report_names))
     reports_help = dedent(f"""\
     the name of one or more reports to generate (choose from: {report_choices}).
     Defaults to generating all reports.
@@ -414,7 +414,7 @@ def main():
         '2018-06-05': ('2018-06-05', None, 'June 5, 2018 Election - San Francisco'),
         'minimal-demo': (MINIMAL_DEMO_INPUT_DIR_NAME, None, '"Minimal" Demo'),
     }
-    all_report_names = sorted(reports)
+    all_report_names = list(reports)
 
     build_dir = BUILD_DIR
     repo_root = get_repo_root()
