@@ -109,7 +109,7 @@ def format_size(size):
     return f'{round(mbytes)} MB'
 
 
-def make_election_item(report_title, rel_home_url, zip_info, output_dir_name):
+def make_report_item(report_title, rel_home_url, zip_info, output_dir_name):
     """
     Args:
       build_dir: the build directory, as a Path object.
@@ -159,7 +159,7 @@ def make_items_html(reports_data):
         rel_home_url = data['rel_home_page']
         zip_info = get_zip_info(data)
 
-        item = make_election_item(report_title, rel_home_url=rel_home_url,
+        item = make_report_item(report_title, rel_home_url=rel_home_url,
             zip_info=zip_info, output_dir_name=output_dir_name)
         items.append(item)
 
