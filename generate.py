@@ -148,9 +148,13 @@ def get_zip_info(data):
     return tuple(zip_data[key] for key in ('path', 'bytes', 'hash'))
 
 
-def make_index_html_contents(output_dir_name, elections_data, git_sha, elapsed_time):
+def make_items_html(reports_data):
+    """
+    Args:
+      reports_data: a list of pairs: (output_dir_name, report_data).
+    """
     items = []
-    for data in elections_data:
+    for output_dir_name, data in reports_data:
         report_title = data['report_title']
         rel_home_url = data['rel_home_page']
         zip_info = get_zip_info(data)
@@ -159,7 +163,15 @@ def make_index_html_contents(output_dir_name, elections_data, git_sha, elapsed_t
             zip_info=zip_info, output_dir_name=output_dir_name)
         items.append(item)
 
-    items_html = ''.join(items)
+    return ''.join(items)
+
+
+def make_index_html_contents(reports_data, git_sha, elapsed_time):
+    """
+    Args:
+      reports_data: a list of pairs: (output_dir_name, report_data).
+    """
+    items_html = make_items_html(reports_data)
 
     now = datetime.now()
     # Get the integer hour between 1 and 12 (not padded with zeros).
@@ -190,15 +202,16 @@ def get_git_sha():
     return output
 
 
-def make_index_html(build_dir, elections_data, output_dir_name, elapsed_time):
+def make_index_html(build_dir, reports_data, elapsed_time):
     """
     Args:
       build_dir: the build directory, as a Path object.
+      reports_data: a list of pairs: (output_dir_name, report_data).
     """
     git_sha = get_git_sha()
 
     path = Path(build_dir) / 'index.html'
-    text = make_index_html_contents(output_dir_name, elections_data, git_sha=git_sha,
+    text = make_index_html_contents(reports_data, git_sha=git_sha,
                 elapsed_time=elapsed_time)
 
     _log.info(f'writing index.html to: {path}')
@@ -295,7 +308,7 @@ def get_common_args(repo_root, orr_dir, input_dir_name, build_dir,
     return args
 
 
-def build_election(repo_root, orr_dir, input_dir_name, build_dir, output_dir_name,
+def build_report(repo_root, orr_dir, input_dir_name, build_dir, output_dir_name,
     results_dir_name=None, no_docker=False, skip_pdf=False, skip_build=False):
     """
     Args:
@@ -436,25 +449,24 @@ def main():
     # Compute the total time to do all building.
     start_time = time.time()
 
-    elections_data = []
+    reports_data = []
     skip_build = False
     for report_name, report_info in report_infos:
         output_dir_name = report_name
         input_dir_name, input_results_dir_name, report_title = report_info
-        data = build_election(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
+        report_data = build_report(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
             build_dir=build_dir, output_dir_name=output_dir_name,
             results_dir_name=input_results_dir_name, no_docker=no_docker,
             skip_pdf=skip_pdf, skip_build=skip_build)
         # TODO: get this from the election data.
-        data['report_title'] = report_title
-        elections_data.append(data)
+        report_data['report_title'] = report_title
+        reports_data.append((output_dir_name, report_data))
         # We only need to build the first time.
         skip_build = True
 
     elapsed_time = time.time() - start_time
 
-    make_index_html(build_dir, elections_data, output_dir_name=output_dir_name,
-        elapsed_time=elapsed_time)
+    make_index_html(build_dir, reports_data, elapsed_time=elapsed_time)
 
 
 if __name__ == '__main__':
