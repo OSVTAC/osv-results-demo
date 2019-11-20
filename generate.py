@@ -109,17 +109,23 @@ def format_size(size):
     return f'{round(mbytes)} MB'
 
 
-def make_report_item(report_title, rel_home_url, zip_info, output_dir_name):
+def make_report_item(report_title, rel_home_url, zip_info, output_dir_name, report_subtitle=None):
     """
     Args:
       build_dir: the build directory, as a Path object.
     """
+    if report_subtitle is not None:
+        report_title += f' ({report_subtitle})'
+
     rel_zip_path, zip_size, zip_hash = zip_info
     formatted_size = format_size(zip_size)
 
     html = dedent("""\
-    <li><a href="{home_href}">{report_title}</a>
+    <li>{report_title}
     <ul>
+        <li>
+            <a href="{home_href}">HTML results</a>
+        </li>
         <li><a href="{zip_path}">{zip_file_name}</a>
         ({zip_file_size}) <code>{zip_file_hash}</code>
         </li>
@@ -127,6 +133,7 @@ def make_report_item(report_title, rel_home_url, zip_info, output_dir_name):
     </li>
     """).format(
         report_title=report_title,
+        report_subtitle=report_subtitle,
         home_href = str(Path(output_dir_name) / rel_home_url),
         zip_path = str(Path(output_dir_name) / rel_zip_path),
         zip_file_name=Path(rel_zip_path).name,
@@ -156,11 +163,13 @@ def make_items_html(reports_data):
     items = []
     for output_dir_name, data in reports_data:
         report_title = data['report_title']
+        report_subtitle = data['report_subtitle']
         rel_home_url = data['rel_home_page']
         zip_info = get_zip_info(data)
 
         item = make_report_item(report_title, rel_home_url=rel_home_url,
-            zip_info=zip_info, output_dir_name=output_dir_name)
+            zip_info=zip_info, output_dir_name=output_dir_name,
+            report_subtitle=report_subtitle)
         items.append(item)
 
     return ''.join(items)
@@ -405,14 +414,19 @@ def main():
     # Each key below is the report name, which also serves as the
     # output_dir_name.
     # Each value is a report_info tuple:
-    # (input_dir_name, input_results_dir_name, report_title).
+    # (input_dir_name, input_results_dir_name, report_title, report_subtitle).
     reports = {
-        '2019-11-05': ('2019-11-05', None, 'November 5, 2019 Election - San Francisco'),
-        '2018-11-06': ('2018-11-06', None, 'November 6, 2018 Election - San Francisco'),
+        '2019-11-05':
+            ('2019-11-05', None, None, None),
+        '2018-11-06':
+            ('2018-11-06', None, None, None),
         # Generate "zero reports" for the Nov. 2018 election.
-        '2018-11-06-zero': ('2018-11-06', 'resultdata-zero', 'November 6, 2018 Election - San Francisco ("zero report")'),
-        '2018-06-05': ('2018-06-05', None, 'June 5, 2018 Election - San Francisco'),
-        'minimal-demo': (MINIMAL_DEMO_INPUT_DIR_NAME, None, '"Minimal" Demo'),
+        '2018-11-06-zero':
+            ('2018-11-06', 'resultdata-zero', None, 'Zero Report'),
+        '2018-06-05':
+            ('2018-06-05', None, None, None),
+        'minimal-demo':
+            (MINIMAL_DEMO_INPUT_DIR_NAME, None, '"Minimal" Demo', None),
     }
     all_report_names = list(reports)
 
@@ -453,13 +467,19 @@ def main():
     skip_build = False
     for report_name, report_info in report_infos:
         output_dir_name = report_name
-        input_dir_name, input_results_dir_name, report_title = report_info
+        input_dir_name, input_results_dir_name, report_title, report_subtitle = report_info
+
         report_data = build_report(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
             build_dir=build_dir, output_dir_name=output_dir_name,
             results_dir_name=input_results_dir_name, no_docker=no_docker,
             skip_pdf=skip_pdf, skip_build=skip_build)
-        # TODO: get this from the election data.
+
+        if report_title is None:
+            report_title = report_data['report_title']['en']
+
         report_data['report_title'] = report_title
+        report_data['report_subtitle'] = report_subtitle
+
         reports_data.append((output_dir_name, report_data))
         # We only need to build the first time.
         skip_build = True
