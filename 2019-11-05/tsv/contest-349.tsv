@@ -203,6 +203,7 @@ Precinct 7038	218	924	292	0	0	74	0	218	0
 Precinct 7039 - Election Day	61	830	84	0	0	23	0	61	0
 Precinct 7039 - Vote By Mail	141	830	197	0	0	56	0	141	0
 Precinct 7039	202	830	281	0	0	79	0	202	0
+Precinct 7041 MB - Election Day	0	60	0	0	0	0	0	0	0
 Precinct 7041 MB - Vote By Mail	11	60	13	0	0	2	0	11	0
 Precinct 7041 MB	11	60	13	0	0	2	0	11	0
 Precinct 7042/7046 - Election Day	74	1,069	92	0	0	18	0	74	0
@@ -574,6 +575,7 @@ Precinct 7646	302	1,090	406	0	0	104	0	302	0
 Precinct 7647 - Election Day	43	968	55	0	0	12	0	43	0
 Precinct 7647 - Vote By Mail	107	968	136	0	0	29	0	107	0
 Precinct 7647	150	968	191	0	0	41	0	150	0
+Precinct 7648 MB - Election Day	0	2	0	0	0	0	0	0	0
 Precinct 7648 MB - Vote By Mail	0	2	0	0	0	0	0	0	0
 Precinct 7648 MB	0	2	0	0	0	0	0	0	0
 Precinct 7649 - Election Day	44	888	58	0	0	14	0	44	0
@@ -834,6 +836,7 @@ Precinct 7931	323	742	400	0	0	77	0	323	0
 Precinct 7932 - Election Day	64	547	84	0	0	20	0	64	0
 Precinct 7932 - Vote By Mail	130	547	177	0	0	47	0	130	0
 Precinct 7932	194	547	261	0	0	67	0	194	0
+Precinct 7933 MB - Election Day	0	7	0	0	0	0	0	0	0
 Precinct 7933 MB - Vote By Mail	3	7	4	0	0	1	0	3	0
 Precinct 7933 MB	3	7	4	0	0	1	0	3	0
 Precinct 7934 - Election Day	95	866	125	0	0	30	0	95	0
@@ -878,6 +881,7 @@ Precinct 7951/7955	531	1,818	727	0	1	195	0	531	0
 Precinct 7953 - Election Day	64	824	83	0	0	19	0	64	0
 Precinct 7953 - Vote By Mail	185	824	245	0	0	60	0	185	0
 Precinct 7953	249	824	328	0	0	79	0	249	0
+Precinct 7954 MB - Election Day	0	1	0	0	0	0	0	0	0
 Precinct 7954 MB - Vote By Mail	1	1	1	0	0	0	0	1	0
 Precinct 7954 MB	1	1	1	0	0	0	0	1	0
 Precinct 7956/7952 - Election Day	94	1,759	120	0	0	26	0	94	0
@@ -1291,6 +1295,7 @@ Precinct 9704	359	946	470	0	0	111	0	359	0
 Precinct 9705/9708 - Election Day	215	1,865	274	0	0	59	0	215	0
 Precinct 9705/9708 - Vote By Mail	452	1,865	608	0	0	156	0	452	0
 Precinct 9705/9708	667	1,865	882	0	0	215	0	667	0
+Precinct 9706 MB - Election Day	0	48	0	0	0	0	0	0	0
 Precinct 9706 MB - Vote By Mail	18	48	20	0	0	2	0	18	0
 Precinct 9706 MB	18	48	20	0	0	2	0	18	0
 Precinct 9709 - Election Day	79	1,021	108	0	0	29	0	79	0
@@ -1344,6 +1349,7 @@ Precinct 9729	324	809	421	0	0	97	0	324	0
 Precinct 9731 - Election Day	70	572	77	0	0	7	0	70	0
 Precinct 9731 - Vote By Mail	132	572	190	0	0	58	0	132	0
 Precinct 9731	202	572	267	0	0	65	0	202	0
+Precinct 9732 MB - Election Day	0	71	0	0	0	0	0	0	0
 Precinct 9732 MB - Vote By Mail	28	71	39	0	0	11	0	28	0
 Precinct 9732 MB	28	71	39	0	0	11	0	28	0
 Precinct 9733 MB - Election Day	3	235	5	0	0	2	0	3	0
