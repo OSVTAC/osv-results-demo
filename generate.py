@@ -145,6 +145,21 @@ def make_report_item(election_title, rel_home_url, zip_info, output_dir_name, re
     return html
 
 
+def get_results_title(data):
+    results_title = data.get('results_title')
+    if results_title is None:
+        return None
+
+    try:
+        en_results_title = results_title['en']
+    except TypeError:
+        # TODO: remove this exception handling.
+        _log.warn('results_title not an internationalized dict: {results_title}')
+        return results_title
+
+    return en_results_title
+
+
 def get_zip_info(data):
     """
     Extract the zip-file related info.
@@ -164,7 +179,7 @@ def make_items_html(reports_data):
     items = []
     for output_dir_name, data in reports_data:
         election_title = data['election_title']['en']
-        results_title = data['results_title']
+        results_title = get_results_title(data)
         rel_home_url = data['rel_home_page']
         zip_info = get_zip_info(data)
 
@@ -414,15 +429,14 @@ def main():
     #
     # Each key below is the report name, which also serves as the
     # output_dir_name.
-    # Each value is a report_info tuple:
-    # (input_dir_name, input_results_dir_name, manual_results_title).
+    # Each value is a report_info tuple: (input_dir_name, input_results_dir_name).
     reports = {
-        '2019-11-05': ('2019-11-05', None, None),
-        '2018-11-06': ('2018-11-06', None, None),
+        '2019-11-05': ('2019-11-05', None),
+        '2018-11-06': ('2018-11-06', None),
         # Generate "zero reports" for the Nov. 2018 election.
-        '2018-11-06-zero': ('2018-11-06', 'resultdata-zero', 'Zero Report'),
-        '2018-06-05': ('2018-06-05', None, None),
-        'minimal-demo': (MINIMAL_DEMO_INPUT_DIR_NAME, None, None),
+        '2018-11-06-zero': ('2018-11-06', 'resultdata-zero'),
+        '2018-06-05': ('2018-06-05', None),
+        'minimal-demo': (MINIMAL_DEMO_INPUT_DIR_NAME, None),
     }
     all_report_names = list(reports)
 
@@ -463,14 +477,12 @@ def main():
     skip_build = False
     for report_name, report_info in report_infos:
         output_dir_name = report_name
-        input_dir_name, input_results_dir_name, manual_results_title = report_info
+        input_dir_name, input_results_dir_name = report_info
 
         report_data = build_report(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
             build_dir=build_dir, output_dir_name=output_dir_name,
             results_dir_name=input_results_dir_name, no_docker=no_docker,
             skip_pdf=skip_pdf, skip_build=skip_build)
-
-        report_data.setdefault('results_title', manual_results_title)
 
         reports_data.append((output_dir_name, report_data))
         # We only need to build the first time.
