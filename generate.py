@@ -163,7 +163,7 @@ def make_items_html(reports_data):
     """
     items = []
     for output_dir_name, data in reports_data:
-        election_title = data['election_title']
+        election_title = data['election_title']['en']
         results_title = data['results_title']
         rel_home_url = data['rel_home_page']
         zip_info = get_zip_info(data)
@@ -470,11 +470,7 @@ def main():
             results_dir_name=input_results_dir_name, no_docker=no_docker,
             skip_pdf=skip_pdf, skip_build=skip_build)
 
-        election_title = report_data['election_title']['en']
-        results_title = report_data.get('results_title') or manual_results_title
-
-        report_data['election_title'] = election_title
-        report_data['results_title'] = results_title
+        report_data.setdefault('results_title', manual_results_title)
 
         reports_data.append((output_dir_name, report_data))
         # We only need to build the first time.
