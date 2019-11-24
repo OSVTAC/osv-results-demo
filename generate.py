@@ -67,7 +67,7 @@ INDEX_HTML_TEMPLATE = """\
 <body>
 <h1>Results Reporter Demo</h1>
 <p><a href="https://travis-ci.org/OSVTAC/osv-results-demo"><img src="https://travis-ci.org/OSVTAC/osv-results-demo.svg?branch=master" alt="Build Status"/></a>
-<p>[Published on {now}
+<p>[Last published on {now}
 from Git commit
 <a href="https://github.com/OSVTAC/osv-results-demo/commit/{git_sha}"><code>{git_sha}</code></a>.
 All built in: {mins} mins and {secs} secs.]
@@ -154,7 +154,7 @@ def get_results_title(data):
         en_results_title = results_title['en']
     except TypeError:
         # TODO: remove this exception handling.
-        _log.warn('results_title not an internationalized dict: {results_title}')
+        _log.warn(f'results_title not an internationalized dict: {results_title}')
         return results_title
 
     return en_results_title
@@ -178,14 +178,18 @@ def make_items_html(reports_data):
     """
     items = []
     for output_dir_name, data in reports_data:
-        election_title = data['election_title']['en']
-        results_title = get_results_title(data)
-        rel_home_url = data['rel_home_page']
-        zip_info = get_zip_info(data)
+        try:
+            election_title = data['election_title']['en']
+            results_title = get_results_title(data)
+            rel_home_url = data['rel_home_page']
+            zip_info = get_zip_info(data)
 
-        item = make_report_item(election_title, rel_home_url=rel_home_url,
-            zip_info=zip_info, output_dir_name=output_dir_name,
-            results_title=results_title)
+            item = make_report_item(election_title, rel_home_url=rel_home_url,
+                zip_info=zip_info, output_dir_name=output_dir_name,
+                results_title=results_title)
+        except:
+            raise RuntimeError(f'error while processing output_dir: {output_dir_name}')
+
         items.append(item)
 
     return ''.join(items)
