@@ -1,7 +1,7 @@
 Subtotal Area	RYAN LAM	DEAN PRESTON	NOMVULA O'MEARA	VALLIE BROWN	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Exhausted Ballots	Ballots Counted	Writein Votes
-All Precincts	918	11,119	265	11,169	51,976	24,762	0	39	1,252	0	23,471	0
+All Precincts	918	11,119	265	11,171	51,976	24,765	0	39	1,253	0	23,473	0
 All Precincts - Election Day	223	4,249	109	3,354	51,976	8,348	0	8	405	0	7,935	0
-All Precincts - Vote By Mail	695	6,870	156	7,815	51,976	16,414	0	31	847	0	15,536	0
+All Precincts - Vote By Mail	695	6,870	156	7,817	51,976	16,417	0	31	848	0	15,538	0
 Precinct 7502 - Election Day	6	26	4	31	779	70	0	0	3	0	67	0
 Precinct 7502 - Vote By Mail	19	93	4	118	779	248	0	2	12	0	234	0
 Precinct 7502	25	119	8	149	779	318	0	2	15	0	301	0
@@ -63,8 +63,8 @@ Precinct 7527/7528 - Election Day	8	62	4	39	689	120	0	0	7	0	113	0
 Precinct 7527/7528 - Vote By Mail	27	75	6	91	689	215	0	0	16	0	199	0
 Precinct 7527/7528	35	137	10	130	689	335	0	0	23	0	312	0
 Precinct 7529 - Election Day	3	95	1	65	906	172	0	1	7	0	164	0
-Precinct 7529 - Vote By Mail	6	133	1	142	906	294	0	2	10	0	282	0
-Precinct 7529	9	228	2	207	906	466	0	3	17	0	446	0
+Precinct 7529 - Vote By Mail	6	133	1	143	906	295	0	2	10	0	283	0
+Precinct 7529	9	228	2	208	906	467	0	3	17	0	447	0
 Precinct 7531 - Election Day	2	65	2	39	839	116	0	1	7	0	108	0
 Precinct 7531 - Vote By Mail	0	127	3	132	839	276	0	0	14	0	262	0
 Precinct 7531	2	192	5	171	839	392	0	1	21	0	370	0
@@ -147,14 +147,14 @@ Precinct 9512/9508 - Election Day	5	122	3	86	1,544	231	0	2	13	0	216	0
 Precinct 9512/9508 - Vote By Mail	8	198	5	256	1,544	489	0	2	20	0	467	0
 Precinct 9512/9508	13	320	8	342	1,544	720	0	4	33	0	683	0
 Precinct 9513 - Election Day	1	87	3	66	872	163	0	0	6	0	157	0
-Precinct 9513 - Vote By Mail	9	120	1	104	872	242	0	0	8	0	234	0
-Precinct 9513	10	207	4	170	872	405	0	0	14	0	391	0
+Precinct 9513 - Vote By Mail	9	120	1	105	872	243	0	0	8	0	235	0
+Precinct 9513	10	207	4	171	872	406	0	0	14	0	392	0
 Precinct 9514/9522 - Election Day	7	82	0	64	888	158	0	0	5	0	153	0
 Precinct 9514/9522 - Vote By Mail	6	104	2	142	888	270	0	0	16	0	254	0
 Precinct 9514/9522	13	186	2	206	888	428	0	0	21	0	407	0
 Precinct 9516/9515 - Election Day	14	134	2	110	1,579	275	0	0	15	0	260	0
-Precinct 9516/9515 - Vote By Mail	33	215	3	197	1,579	484	0	0	36	0	448	0
-Precinct 9516/9515	47	349	5	307	1,579	759	0	0	51	0	708	0
+Precinct 9516/9515 - Vote By Mail	33	215	3	197	1,579	485	0	0	37	0	448	0
+Precinct 9516/9515	47	349	5	307	1,579	760	0	0	52	0	708	0
 Precinct 9517/9518 - Election Day	10	145	5	79	1,554	252	0	0	13	0	239	0
 Precinct 9517/9518 - Vote By Mail	18	242	3	195	1,554	484	0	1	25	0	458	0
 Precinct 9517/9518	28	387	8	274	1,554	736	0	1	38	0	697	0
@@ -165,23 +165,23 @@ Precinct 9521 - Election Day	3	88	5	77	870	182	0	0	9	0	173	0
 Precinct 9521 - Vote By Mail	9	106	1	159	870	295	0	0	20	0	275	0
 Precinct 9521	12	194	6	236	870	477	0	0	29	0	448	0
 Congressional District 12 - Election Day	223	4,249	109	3,354	51,976	8,348	0	8	405	0	7,935	0
-Congressional District 12 - Vote By Mail	695	6,870	156	7,815	51,976	16,414	0	31	847	0	15,536	0
-Congressional District 12	918	11,119	265	11,169	51,976	24,762	0	39	1,252	0	23,471	0
+Congressional District 12 - Vote By Mail	695	6,870	156	7,817	51,976	16,417	0	31	848	0	15,538	0
+Congressional District 12	918	11,119	265	11,171	51,976	24,765	0	39	1,253	0	23,473	0
 Assembly District 17 - Election Day	155	3,208	81	2,532	39,183	6,286	0	5	305	0	5,976	0
-Assembly District 17 - Vote By Mail	554	5,217	128	5,893	39,183	12,470	0	25	653	0	11,792	0
-Assembly District 17	709	8,425	209	8,425	39,183	18,756	0	30	958	0	17,768	0
+Assembly District 17 - Vote By Mail	554	5,217	128	5,894	39,183	12,471	0	25	653	0	11,793	0
+Assembly District 17	709	8,425	209	8,426	39,183	18,757	0	30	958	0	17,769	0
 Assembly District 19 - Election Day	68	1,041	28	822	12,793	2,062	0	3	100	0	1,959	0
-Assembly District 19 - Vote By Mail	141	1,653	28	1,922	12,793	3,944	0	6	194	0	3,744	0
-Assembly District 19	209	2,694	56	2,744	12,793	6,006	0	9	294	0	5,703	0
+Assembly District 19 - Vote By Mail	141	1,653	28	1,923	12,793	3,946	0	6	195	0	3,745	0
+Assembly District 19	209	2,694	56	2,745	12,793	6,008	0	9	295	0	5,704	0
 Supervisorial District 5 - Election Day	223	4,249	109	3,354	51,976	8,348	0	8	405	0	7,935	0
-Supervisorial District 5 - Vote By Mail	695	6,870	156	7,815	51,976	16,414	0	31	847	0	15,536	0
-Supervisorial District 5	918	11,119	265	11,169	51,976	24,762	0	39	1,252	0	23,471	0
+Supervisorial District 5 - Vote By Mail	695	6,870	156	7,817	51,976	16,417	0	31	848	0	15,538	0
+Supervisorial District 5	918	11,119	265	11,171	51,976	24,765	0	39	1,253	0	23,473	0
 Haight Ashbury - Election Day	49	1,532	26	1,132	14,950	2,833	0	1	93	0	2,739	0
 Haight Ashbury - Vote By Mail	117	2,169	41	2,301	14,950	4,844	0	6	210	0	4,628	0
 Haight Ashbury	166	3,701	67	3,433	14,950	7,677	0	7	303	0	7,367	0
 Inner Sunset - Election Day	49	640	18	524	7,549	1,286	0	0	55	0	1,231	0
-Inner Sunset - Vote By Mail	104	1,073	14	1,186	7,549	2,515	0	3	135	0	2,377	0
-Inner Sunset	153	1,713	32	1,710	7,549	3,801	0	3	190	0	3,608	0
+Inner Sunset - Vote By Mail	104	1,073	14	1,186	7,549	2,516	0	3	136	0	2,377	0
+Inner Sunset	153	1,713	32	1,710	7,549	3,802	0	3	191	0	3,608	0
 Laurel Heights/Anza Vista - Election Day	5	191	3	139	2,280	354	0	1	15	0	338	0
 Laurel Heights/Anza Vista - Vote By Mail	15	280	6	371	2,280	699	0	0	27	0	672	0
 Laurel Heights/Anza Vista	20	471	9	510	2,280	1,053	0	1	42	0	1,010	0
@@ -189,5 +189,5 @@ Marina Pacific Heights - Election Day	23	153	8	179	3,437	398	0	0	35	0	363	0
 Marina Pacific Heights - Vote By Mail	88	368	23	499	3,437	1,047	0	5	64	0	978	0
 Marina Pacific Heights	111	521	31	678	3,437	1,445	0	5	99	0	1,341	0
 Western Addition - Election Day	97	1,733	54	1,380	23,760	3,477	0	6	207	0	3,264	0
-Western Addition - Vote By Mail	371	2,980	72	3,458	23,760	7,309	0	17	411	0	6,881	0
-Western Addition	468	4,713	126	4,838	23,760	10,786	0	23	618	0	10,145	0
+Western Addition - Vote By Mail	371	2,980	72	3,460	23,760	7,311	0	17	411	0	6,883	0
+Western Addition	468	4,713	126	4,840	23,760	10,788	0	23	618	0	10,147	0
