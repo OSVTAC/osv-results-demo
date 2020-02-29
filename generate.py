@@ -428,13 +428,15 @@ def parse_args(orr_submodule_dir, report_names):
 
 
 def main():
-    # The reports available in the demo repo, in the order in which to
-    # display them.
+    # The `report_name_to_info` dict is the collection of reports
+    # available in the demo repo, in the order in which to display them
+    # in the index page (Python's dicts preserve insertion ordering).
     #
-    # Each key below is the report name, which also serves as the
-    # output_dir_name.
-    # Each value is a report_info tuple: (input_dir_name, input_results_dir_name).
-    reports = {
+    # Each key in the dict is the report name (for specifying via
+    # the NAME command-line argument, not for display).  We also use the
+    # name as the report's `output_dir_name` when building.  Each value
+    # in the mapping is a report_info tuple: (input_dir_name, input_results_dir_name).
+    report_name_to_info = {
         '2020-03-03': ('2020-03-03/ca/sf', None),
         '2019-11-05': ('2019-11-05', None),
         '2018-11-06': ('2018-11-06', None),
@@ -443,7 +445,7 @@ def main():
         '2018-06-05': ('2018-06-05', None),
         'minimal-demo': (MINIMAL_DEMO_INPUT_DIR_NAME, None),
     }
-    all_report_names = list(reports)
+    all_report_names = list(report_name_to_info)
 
     build_dir = BUILD_DIR
     repo_root = get_repo_root()
@@ -466,7 +468,7 @@ def main():
         report_names = all_report_names
 
     try:
-        report_infos = [(name, reports[name]) for name in report_names]
+        report_infos = [(name, report_name_to_info[name]) for name in report_names]
     except KeyError as exc:
         name = exc.args[0]  # the invalid name
         valid_names = ', '.join(all_report_names)
@@ -481,6 +483,8 @@ def main():
     reports_data = []
     skip_build = False
     for report_name, report_info in report_infos:
+        # For simplicity, we use the report's "name" for the name of
+        # the output directory, as stated in the comments above.
         output_dir_name = report_name
         input_dir_name, input_results_dir_name = report_info
 
