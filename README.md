@@ -15,7 +15,7 @@ To get started:
 $ git clone git@github.com:OSVTAC/osv-results-demo.git
 $ cd osv-results-demo/
 $ git submodule init
-$ git submodule update
+$ git submodule update --recursive
 ```
 
 Make sure you are using Python 3.6.  Then, preferably from a fresh
