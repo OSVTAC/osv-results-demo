@@ -435,6 +435,7 @@ def main():
     # output_dir_name.
     # Each value is a report_info tuple: (input_dir_name, input_results_dir_name).
     reports = {
+        '2020-03-03': ('2020-03-03/ca/sf', None),
         '2019-11-05': ('2019-11-05', None),
         '2018-11-06': ('2018-11-06', None),
         # Generate "zero reports" for the Nov. 2018 election.
