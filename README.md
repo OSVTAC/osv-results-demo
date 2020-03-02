@@ -72,5 +72,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 The authors can be reached at--
 
-* Carl Hage <ch@carlhage.com>
+* Carl Hage <osv@carlhage.com>
 * Chris Jerdonek <chris.jerdonek@gmail.com>
