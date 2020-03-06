@@ -1604,3 +1604,117 @@ Precinct 9717	6	36	191	2	26	13	977	282	0	1	7	274	0
 Precinct 9732 MB - Vote By Mail	1	4	11	0	0	0	78	16	0	0	0	16	0
 Precinct 9732 MB - Election Day	0	0	0	0	0	0	-5	0	0	0	0	0	0
 Precinct 9732 MB	1	4	11	0	0	0	73	16	0	0	0	16	0
+Congressional District 12 - Vote By Mail	1,792	7,632	42,572	895	6,453	1,366	354,748	63,860	0	266	2,884	60,710	0
+Congressional District 12 - Election Day	861	3,755	46,888	784	9,192	1,232	91,100	65,251	0	54	2,422	62,775	63
+Congressional District 12	2,653	11,387	89,460	1,679	15,645	2,598	445,848	129,111	0	320	5,306	123,485	63
+Assembly District 17 - Vote By Mail	1,208	3,772	28,725	599	4,519	910	232,212	41,818	0	196	1,889	39,733	0
+Assembly District 17 - Election Day	511	1,714	30,373	520	6,402	780	60,210	41,964	0	36	1,582	40,346	46
+Assembly District 17	1,719	5,486	59,098	1,119	10,921	1,690	292,422	83,782	0	232	3,471	80,079	46
+Assembly District 19 - Vote By Mail	584	3,860	13,847	296	1,934	456	168,799	22,042	0	70	995	20,977	0
+Assembly District 19 - Election Day	350	2,041	16,515	264	2,790	452	42,678	23,287	0	18	840	22,429	17
+Assembly District 19	934	5,901	30,362	560	4,724	908	211,477	45,329	0	88	1,835	43,406	17
+Supervisorial District 1 - Vote By Mail	165	995	3,806	86	660	132	33,800	6,168	0	12	312	5,844	0
+Supervisorial District 1 - Election Day	105	548	4,778	79	1,005	142	9,316	6,893	0	8	224	6,661	4
+Supervisorial District 1	270	1,543	8,584	165	1,665	274	43,116	13,061	0	20	536	12,505	4
+Supervisorial District 2 - Vote By Mail	159	1,460	5,030	78	395	92	41,378	7,543	0	22	307	7,214	0
+Supervisorial District 2 - Election Day	108	763	5,701	76	481	118	8,668	7,551	0	2	299	7,250	3
+Supervisorial District 2	267	2,223	10,731	154	876	210	50,046	15,094	0	24	606	14,464	3
+Supervisorial District 3 - Vote By Mail	222	749	3,899	77	444	151	31,862	5,929	0	37	350	5,542	0
+Supervisorial District 3 - Election Day	74	325	3,725	67	549	105	7,515	5,109	0	5	250	4,854	9
+Supervisorial District 3	296	1,074	7,624	144	993	256	39,377	11,038	0	42	600	10,396	9
+Supervisorial District 4 - Vote By Mail	235	1,193	3,573	96	596	188	34,929	6,193	0	26	286	5,881	0
+Supervisorial District 4 - Election Day	113	565	3,872	76	799	136	9,165	5,799	0	5	229	5,565	4
+Supervisorial District 4	348	1,758	7,445	172	1,395	324	44,094	11,992	0	31	515	11,446	4
+Supervisorial District 5 - Vote By Mail	144	474	4,869	98	923	118	41,848	6,933	0	36	271	6,626	0
+Supervisorial District 5 - Election Day	80	284	6,385	114	1,599	131	11,052	8,955	0	8	341	8,606	13
+Supervisorial District 5	224	758	11,254	212	2,522	249	52,900	15,888	0	44	612	15,232	13
+Supervisorial District 6 - Vote By Mail	203	583	4,197	117	598	182	35,635	6,264	0	43	341	5,880	0
+Supervisorial District 6 - Election Day	70	226	3,088	71	590	96	8,060	4,327	0	7	170	4,150	9
+Supervisorial District 6	273	809	7,285	188	1,188	278	43,695	10,591	0	50	511	10,030	9
+Supervisorial District 7 - Vote By Mail	71	478	2,068	29	215	68	38,007	3,101	0	10	162	2,929	0
+Supervisorial District 7 - Election Day	43	249	2,313	36	329	69	9,436	3,150	0	4	104	3,042	3
+Supervisorial District 7	114	727	4,381	65	544	137	47,443	6,251	0	14	266	5,971	3
+Supervisorial District 8 - Vote By Mail	118	559	6,970	97	1,046	132	46,274	9,259	0	19	318	8,922	0
+Supervisorial District 8 - Election Day	95	342	8,380	108	1,547	146	11,903	11,026	0	1	399	10,626	8
+Supervisorial District 8	213	901	15,350	205	2,593	278	58,177	20,285	0	20	717	19,548	8
+Supervisorial District 9 - Vote By Mail	151	451	3,748	112	931	134	33,102	5,788	0	25	236	5,527	0
+Supervisorial District 9 - Election Day	88	204	4,727	65	1,606	137	10,161	7,052	0	6	216	6,830	3
+Supervisorial District 9	239	655	8,475	177	2,537	271	43,263	12,840	0	31	452	12,357	3
+Supervisorial District 10 - Vote By Mail	231	529	3,531	88	502	135	33,679	5,295	0	28	251	5,016	0
+Supervisorial District 10 - Election Day	48	173	3,130	71	486	107	9,434	4,180	0	7	153	4,020	5
+Supervisorial District 10	279	702	6,661	159	988	242	43,113	9,475	0	35	404	9,036	5
+Supervisorial District 11 - Vote By Mail	93	161	881	17	143	34	30,497	1,387	0	8	50	1,329	0
+Supervisorial District 11 - Election Day	37	76	789	21	201	45	8,178	1,209	0	1	37	1,171	2
+Supervisorial District 11	130	237	1,670	38	344	79	38,675	2,596	0	9	87	2,500	2
+Bayview/Hunters Point - Vote By Mail	119	235	1,558	39	161	57	15,417	2,302	0	15	118	2,169	0
+Bayview/Hunters Point - Election Day	19	49	1,194	27	156	49	5,068	1,543	0	4	43	1,496	2
+Bayview/Hunters Point	138	284	2,752	66	317	106	20,485	3,845	0	19	161	3,665	2
+Chinatown - Vote By Mail	105	311	1,659	23	163	67	14,005	2,518	0	21	169	2,328	0
+Chinatown - Election Day	25	128	1,618	30	196	49	3,262	2,161	0	2	111	2,048	2
+Chinatown	130	439	3,277	53	359	116	17,267	4,679	0	23	280	4,376	2
+Civic Center/Downtown - Vote By Mail	162	395	2,671	68	411	117	21,971	4,094	0	30	240	3,824	0
+Civic Center/Downtown - Election Day	56	192	2,243	47	483	65	6,048	3,247	0	7	147	3,093	7
+Civic Center/Downtown	218	587	4,914	115	894	182	28,019	7,341	0	37	387	6,917	7
+Diamond Heights - Vote By Mail	23	96	974	11	104	19	5,619	1,283	0	3	53	1,227	0
+Diamond Heights - Election Day	16	66	975	9	107	22	1,441	1,236	0	0	41	1,195	0
+Diamond Heights	39	162	1,949	20	211	41	7,060	2,519	0	3	94	2,422	0
+Excelsior - Vote By Mail	93	161	881	17	143	34	22,639	1,387	0	8	50	1,329	0
+Excelsior - Election Day	37	76	789	21	201	45	5,954	1,209	0	1	37	1,171	2
+Excelsior	130	237	1,670	38	344	79	28,593	2,596	0	9	87	2,500	2
+Haight Ashbury - Vote By Mail	19	71	1,250	33	276	19	11,497	1,751	0	6	77	1,668	0
+Haight Ashbury - Election Day	17	82	1,947	28	528	34	2,365	2,735	0	0	95	2,640	4
+Haight Ashbury	36	153	3,197	61	804	53	13,862	4,486	0	6	172	4,308	4
+Inner Sunset - Vote By Mail	28	110	867	19	195	21	7,616	1,294	0	5	49	1,240	0
+Inner Sunset - Election Day	21	68	1,312	22	298	27	2,042	1,820	0	1	71	1,748	0
+Inner Sunset	49	178	2,179	41	493	48	9,658	3,114	0	6	120	2,988	0
+Laurel Heights/Anza Vista - Vote By Mail	20	170	938	19	126	24	8,150	1,365	0	6	62	1,297	0
+Laurel Heights/Anza Vista - Election Day	15	115	1,191	17	230	31	1,872	1,658	0	0	56	1,602	3
+Laurel Heights/Anza Vista	35	285	2,129	36	356	55	10,022	3,023	0	6	118	2,899	3
+Marina Pacific Heights - Vote By Mail	132	1,171	3,885	57	282	75	33,459	5,852	0	16	234	5,602	0
+Marina Pacific Heights - Election Day	92	569	4,289	63	344	96	5,981	5,701	0	3	243	5,455	2
+Marina Pacific Heights	224	1,740	8,174	120	626	171	39,440	11,553	0	19	477	11,057	2
+Mission - Vote By Mail	73	214	2,554	78	754	63	23,496	3,892	0	16	140	3,736	0
+Mission - Election Day	44	120	3,406	60	1,364	70	7,509	5,267	0	6	194	5,067	3
+Mission	117	334	5,960	138	2,118	133	31,005	9,159	0	22	334	8,803	3
+North Bernal Heights - Vote By Mail	14	57	909	24	218	28	6,784	1,294	0	3	41	1,250	0
+North Bernal Heights - Election Day	13	47	1,265	15	365	44	1,949	1,783	0	1	33	1,749	0
+North Bernal Heights	27	104	2,174	39	583	72	8,733	3,077	0	4	74	2,999	0
+North Embarcadero - Vote By Mail	26	169	744	18	68	28	5,763	1,099	0	5	41	1,053	0
+North Embarcadero - Election Day	19	73	744	12	96	17	1,325	1,007	0	1	43	963	2
+North Embarcadero	45	242	1,488	30	164	45	7,088	2,106	0	6	84	2,016	2
+Noe Valley - Vote By Mail	39	185	1,999	29	283	41	13,536	2,683	0	5	102	2,576	0
+Noe Valley - Election Day	31	109	2,543	33	466	47	3,452	3,361	0	0	129	3,232	3
+Noe Valley	70	294	4,542	62	749	88	16,988	6,044	0	5	231	5,808	3
+Portola - Vote By Mail	78	218	862	17	126	44	7,824	1,429	0	13	71	1,345	0
+Portola - Election Day	40	70	651	11	104	29	1,808	941	0	0	35	906	1
+Portola	118	288	1,513	28	230	73	9,632	2,370	0	13	106	2,251	1
+Potrero Hill - Vote By Mail	59	204	1,640	48	308	51	14,588	2,407	0	2	95	2,310	0
+Potrero Hill - Election Day	16	105	1,781	37	298	49	2,768	2,400	0	2	106	2,292	6
+Potrero Hill	75	309	3,421	85	606	100	17,356	4,807	0	4	201	4,602	6
+Richmond - Vote By Mail	156	884	3,298	75	591	115	29,398	5,395	0	10	266	5,119	0
+Richmond - Election Day	93	484	4,126	66	870	121	8,227	5,965	0	7	196	5,762	2
+Richmond	249	1,368	7,424	141	1,461	236	37,625	11,360	0	17	462	10,881	2
+South of Bernal Heights - Vote By Mail	22	88	945	23	171	29	7,156	1,337	0	2	57	1,278	0
+South of Bernal Heights - Election Day	16	66	1,401	13	274	32	2,415	1,863	0	0	60	1,803	1
+South of Bernal Heights	38	154	2,346	36	445	61	9,571	3,200	0	2	117	3,081	1
+Sea Cliff/Presidio Heights - Vote By Mail	25	245	859	16	79	21	6,453	1,319	0	2	72	1,245	0
+Sea Cliff/Presidio Heights - Election Day	14	147	1,105	16	106	23	1,568	1,453	0	1	41	1,411	0
+Sea Cliff/Presidio Heights	39	392	1,964	32	185	44	8,021	2,772	0	3	113	2,656	0
+South of Market - Vote By Mail	104	374	2,506	70	309	102	20,838	3,692	0	24	203	3,465	0
+South of Market - Election Day	39	129	1,761	43	297	58	4,239	2,417	0	1	85	2,331	4
+South of Market	143	503	4,267	113	606	160	25,077	6,109	0	25	288	5,796	4
+Sunset - Vote By Mail	233	1,185	3,534	95	578	185	34,486	6,112	0	26	276	5,810	0
+Sunset - Election Day	112	559	3,782	73	779	134	9,007	5,672	0	5	224	5,443	4
+Sunset	345	1,744	7,316	168	1,357	319	43,493	11,784	0	31	500	11,253	4
+Upper Market/Eureka Valley - Vote By Mail	29	168	2,493	26	368	46	15,344	3,230	0	5	95	3,130	0
+Upper Market/Eureka Valley - Election Day	29	77	2,803	36	487	39	3,549	3,598	0	0	124	3,474	3
+Upper Market/Eureka Valley	58	245	5,296	62	855	85	18,893	6,828	0	5	219	6,604	3
+Visitation Valley - Vote By Mail	71	146	624	13	65	40	6,627	1,032	0	7	66	959	0
+Visitation Valley - Election Day	11	36	441	9	55	20	1,861	598	0	2	24	572	0
+Visitation Valley	82	182	1,065	22	120	60	8,488	1,630	0	9	90	1,531	0
+West of Twin Peaks - Vote By Mail	67	453	1,904	26	179	62	28,380	2,837	0	8	138	2,691	0
+West of Twin Peaks - Election Day	41	232	2,033	33	265	62	6,994	2,766	0	4	93	2,669	3
+West of Twin Peaks	108	685	3,937	59	444	124	35,374	5,603	0	12	231	5,360	3
+Western Addition - Vote By Mail	95	322	3,018	51	495	78	23,634	4,256	0	28	169	4,059	0
+Western Addition - Election Day	45	156	3,488	63	823	69	7,862	4,850	0	6	191	4,653	9
+Western Addition	140	478	6,506	114	1,318	147	31,496	9,106	0	34	360	8,712	9

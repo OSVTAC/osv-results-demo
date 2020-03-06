@@ -1829,3 +1829,126 @@ Precinct 9901 MB	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9902 MB - Vote By Mail	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9902 MB - Election Day	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9902 MB	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Congressional District 12 - Vote By Mail	14	10	9	22	13	37	10	3	10	25	20	6	5	0	0	0	0	354,748	319	0	6	129	184	0
+Congressional District 12 - Election Day	20	7	4	13	6	33	8	6	7	12	17	5	10	0	0	0	0	91,100	225	0	1	42	182	34
+Congressional District 12	34	17	13	35	19	70	18	9	17	37	37	11	15	0	0	0	0	445,848	544	0	7	171	366	34
+Congressional District 14 - Vote By Mail	2	2	4	0	1	8	5	0	1	2	2	6	2	0	0	0	0	46,263	49	0	0	14	35	0
+Congressional District 14 - Election Day	3	0	1	3	1	5	0	0	1	3	0	1	1	0	0	0	0	11,788	25	0	0	4	21	2
+Congressional District 14	5	2	5	3	2	13	5	0	2	5	2	7	3	0	0	0	0	58,051	74	0	0	18	56	2
+Assembly District 17 - Vote By Mail	8	6	6	17	11	22	6	2	5	15	13	6	2	0	0	0	0	232,212	187	0	6	62	119	0
+Assembly District 17 - Election Day	10	5	3	9	5	14	4	3	3	8	11	3	8	0	0	0	0	60,210	123	0	0	20	103	17
+Assembly District 17	18	11	9	26	16	36	10	5	8	23	24	9	10	0	0	0	0	292,422	310	0	6	82	222	17
+Assembly District 19 - Vote By Mail	8	6	7	5	3	23	9	1	6	12	9	6	5	0	0	0	0	168,799	181	0	0	81	100	0
+Assembly District 19 - Election Day	13	2	2	7	2	24	4	3	5	7	6	3	3	0	0	0	0	42,678	127	0	1	26	100	19
+Assembly District 19	21	8	9	12	5	47	13	4	11	19	15	9	8	0	0	0	0	211,477	308	0	1	107	200	19
+Supervisorial District 1 - Vote By Mail	3	1	1	1	0	1	0	0	0	4	4	0	1	0	0	0	0	33,800	33	0	0	17	16	0
+Supervisorial District 1 - Election Day	3	0	0	2	0	9	0	0	2	1	2	1	0	0	0	0	0	9,316	32	0	0	6	26	6
+Supervisorial District 1	6	1	1	3	0	10	0	0	2	5	6	1	1	0	0	0	0	43,116	65	0	0	23	42	6
+Supervisorial District 2 - Vote By Mail	2	1	1	5	1	4	1	0	2	2	2	0	2	0	0	0	0	41,378	52	0	0	29	23	0
+Supervisorial District 2 - Election Day	7	1	0	2	1	5	1	1	2	2	2	1	2	0	0	0	0	8,668	40	0	0	10	30	3
+Supervisorial District 2	9	2	1	7	2	9	2	1	4	4	4	1	4	0	0	0	0	50,046	92	0	0	39	53	3
+Supervisorial District 3 - Vote By Mail	1	0	2	3	2	7	2	0	3	5	3	2	0	0	0	0	0	31,862	50	0	5	15	30	0
+Supervisorial District 3 - Election Day	1	0	0	1	0	4	1	0	1	0	1	1	1	0	0	0	0	7,515	18	0	0	3	15	4
+Supervisorial District 3	2	0	2	4	2	11	3	0	4	5	4	3	1	0	0	0	0	39,377	68	0	5	18	45	4
+Supervisorial District 4 - Vote By Mail	1	1	1	0	1	9	3	1	1	1	1	0	0	0	0	0	0	34,929	38	0	0	18	20	0
+Supervisorial District 4 - Election Day	0	1	1	1	0	1	1	1	0	1	2	0	1	0	0	0	0	9,165	22	0	1	4	17	7
+Supervisorial District 4	1	2	2	1	1	10	4	2	1	2	3	0	1	0	0	0	0	44,094	60	0	1	22	37	7
+Supervisorial District 5 - Vote By Mail	0	1	1	3	0	3	1	0	2	2	2	0	0	0	0	0	0	41,848	21	0	0	6	15	0
+Supervisorial District 5 - Election Day	0	2	0	1	1	3	0	3	0	1	2	0	1	0	0	0	0	11,052	24	0	0	4	20	6
+Supervisorial District 5	0	3	1	4	1	6	1	3	2	3	4	0	1	0	0	0	0	52,900	45	0	0	10	35	6
+Supervisorial District 6 - Vote By Mail	1	1	0	3	7	2	0	2	0	2	0	2	1	0	0	0	0	35,635	33	0	1	11	21	0
+Supervisorial District 6 - Election Day	2	2	1	2	2	2	1	0	1	2	3	0	1	0	0	0	0	8,060	24	0	0	1	23	4
+Supervisorial District 6	3	3	1	5	9	4	1	2	1	4	3	2	2	0	0	0	0	43,695	57	0	1	12	44	4
+Supervisorial District 7 - Vote By Mail	1	1	3	2	1	6	0	0	1	4	1	4	1	0	0	0	0	38,007	39	0	0	14	25	0
+Supervisorial District 7 - Election Day	4	1	2	2	1	6	2	0	0	1	0	0	0	0	0	0	0	9,436	26	0	0	5	21	2
+Supervisorial District 7	5	2	5	4	2	12	2	0	1	5	1	4	1	0	0	0	0	47,443	65	0	0	19	46	2
+Supervisorial District 8 - Vote By Mail	1	1	0	2	1	2	0	0	1	4	4	0	0	0	0	0	0	46,274	24	0	0	8	16	0
+Supervisorial District 8 - Election Day	4	0	0	2	1	2	0	0	0	4	3	0	2	0	0	0	0	11,903	23	0	0	4	19	1
+Supervisorial District 8	5	1	0	4	2	4	0	0	1	8	7	0	2	0	0	0	0	58,177	47	0	0	12	35	1
+Supervisorial District 9 - Vote By Mail	3	1	0	1	1	3	0	0	0	1	2	0	1	0	0	0	0	33,102	24	0	0	11	13	0
+Supervisorial District 9 - Election Day	0	0	0	1	0	3	0	0	1	0	1	0	1	0	0	0	0	10,161	12	0	0	5	7	0
+Supervisorial District 9	3	1	0	2	1	6	0	0	1	1	3	0	2	0	0	0	0	43,263	36	0	0	16	20	0
+Supervisorial District 10 - Vote By Mail	1	3	2	1	0	6	3	0	0	1	1	0	0	0	0	0	0	33,679	24	0	0	6	18	0
+Supervisorial District 10 - Election Day	1	0	1	1	0	2	1	1	0	0	1	2	1	0	0	0	0	9,434	14	0	0	2	12	1
+Supervisorial District 10	2	3	3	2	0	8	4	1	0	1	2	2	1	0	0	0	0	43,113	38	0	0	8	30	1
+Supervisorial District 11 - Vote By Mail	2	1	2	1	0	2	5	0	1	1	2	4	1	0	0	0	0	30,497	30	0	0	8	22	0
+Supervisorial District 11 - Election Day	1	0	0	1	1	1	1	0	1	3	0	1	1	0	0	0	0	8,178	15	0	0	2	13	2
+Supervisorial District 11	3	1	2	2	1	3	6	0	2	4	2	5	2	0	0	0	0	38,675	45	0	0	10	35	2
+Bayview/Hunters Point - Vote By Mail	0	1	1	1	0	2	0	0	0	0	1	0	0	0	0	0	0	15,417	9	0	0	3	6	0
+Bayview/Hunters Point - Election Day	0	0	0	1	0	1	0	0	0	0	1	1	0	0	0	0	0	5,068	5	0	0	1	4	0
+Bayview/Hunters Point	0	1	1	2	0	3	0	0	0	0	2	1	0	0	0	0	0	20,485	14	0	0	4	10	0
+Chinatown - Vote By Mail	0	0	0	2	1	5	2	0	2	1	0	1	0	0	0	0	0	14,005	22	0	2	6	14	0
+Chinatown - Election Day	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	3,262	4	0	0	0	4	1
+Chinatown	0	0	0	2	1	7	2	0	2	1	0	1	1	0	0	0	0	17,267	26	0	2	6	18	1
+Civic Center/Downtown - Vote By Mail	1	0	1	2	4	2	0	1	1	4	3	2	1	0	0	0	0	21,971	38	0	3	13	22	0
+Civic Center/Downtown - Election Day	2	1	1	3	0	3	2	0	1	0	2	1	1	0	0	0	0	6,048	22	0	0	2	20	3
+Civic Center/Downtown	3	1	2	5	4	5	2	1	2	4	5	3	2	0	0	0	0	28,019	60	0	3	15	42	3
+Diamond Heights - Vote By Mail	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	5,619	2	0	0	0	2	0
+Diamond Heights - Election Day	2	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	1,441	5	0	0	0	5	0
+Diamond Heights	2	0	0	1	0	1	0	0	0	2	0	0	1	0	0	0	0	7,060	7	0	0	0	7	0
+Excelsior - Vote By Mail	1	1	2	1	0	2	2	0	1	0	1	2	0	0	0	0	0	22,639	20	0	0	7	13	0
+Excelsior - Election Day	1	0	0	0	2	1	1	0	1	2	0	0	1	0	0	0	0	5,954	12	0	0	2	10	1
+Excelsior	2	1	2	1	2	3	3	0	2	2	1	2	1	0	0	0	0	28,593	32	0	0	9	23	1
+Haight Ashbury - Vote By Mail	0	0	0	2	0	2	0	0	1	0	0	0	0	0	0	0	0	11,497	7	0	0	2	5	0
+Haight Ashbury - Election Day	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	2,365	5	0	0	0	5	2
+Haight Ashbury	0	0	0	2	0	3	0	1	1	0	1	0	0	0	0	0	0	13,862	12	0	0	2	10	2
+Ingleside - Vote By Mail	1	0	0	0	0	0	3	0	0	1	1	2	1	0	0	0	0	9,723	10	0	0	1	9	0
+Ingleside - Election Day	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	2,672	4	0	0	0	4	1
+Ingleside	1	0	0	1	0	0	3	0	0	2	1	3	1	0	0	0	0	12,395	14	0	0	1	13	1
+Inner Sunset - Vote By Mail	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	7,616	5	0	0	4	1	0
+Inner Sunset - Election Day	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2,042	8	0	0	2	6	3
+Inner Sunset	0	2	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	9,658	13	0	0	6	7	3
+Lake Merced - Vote By Mail	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	6,608	3	0	0	1	2	0
+Lake Merced - Election Day	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	1,650	4	0	0	0	4	0
+Lake Merced	1	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	8,258	7	0	0	1	6	0
+Laurel Heights/Anza Vista - Vote By Mail	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8,150	6	0	0	5	1	0
+Laurel Heights/Anza Vista - Election Day	1	0	0	0	0	2	0	1	0	0	0	0	1	0	0	0	0	1,872	8	0	0	3	5	0
+Laurel Heights/Anza Vista	1	0	1	0	0	2	0	1	0	0	0	0	1	0	0	0	0	10,022	14	0	0	8	6	0
+Marina Pacific Heights - Vote By Mail	2	1	1	3	1	3	1	0	2	3	2	0	0	0	0	0	0	33,459	39	0	0	20	19	0
+Marina Pacific Heights - Election Day	6	1	0	2	1	1	0	0	1	1	2	1	1	0	0	0	0	5,981	26	0	0	7	19	2
+Marina Pacific Heights	8	2	1	5	2	4	1	0	3	4	4	1	1	0	0	0	0	39,440	65	0	0	27	38	2
+Mission - Vote By Mail	2	1	0	1	1	0	0	0	0	1	2	0	0	0	0	0	0	23,496	12	0	0	4	8	0
+Mission - Election Day	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	0	0	7,509	7	0	0	3	4	0
+Mission	2	1	0	2	1	1	0	0	0	2	2	0	1	0	0	0	0	31,005	19	0	0	7	12	0
+North Bernal Heights - Vote By Mail	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6,784	3	0	0	3	0	0
+North Bernal Heights - Election Day	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1,949	1	0	0	0	1	0
+North Bernal Heights	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	8,733	4	0	0	3	1	0
+North Embarcadero - Vote By Mail	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	5,763	4	0	1	0	3	0
+North Embarcadero - Election Day	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1,325	5	0	0	2	3	2
+North Embarcadero	0	0	1	0	0	0	0	0	0	2	1	0	0	0	0	0	0	7,088	9	0	1	2	6	2
+Noe Valley - Vote By Mail	1	0	0	0	0	2	0	0	0	2	3	0	0	0	0	0	0	13,536	10	0	0	2	8	0
+Noe Valley - Election Day	1	0	0	1	1	0	0	0	0	1	2	0	0	0	0	0	0	3,452	9	0	0	3	6	0
+Noe Valley	2	0	0	1	1	2	0	0	0	3	5	0	0	0	0	0	0	16,988	19	0	0	5	14	0
+Portola - Vote By Mail	0	0	0	0	0	3	3	0	0	0	1	0	1	0	0	0	0	7,824	12	0	0	4	8	0
+Portola - Election Day	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1,808	4	0	0	3	1	0
+Portola	0	0	0	0	0	4	3	0	0	0	1	0	1	0	0	0	0	9,632	16	0	0	7	9	0
+Potrero Hill - Vote By Mail	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	14,588	7	0	0	5	2	0
+Potrero Hill - Election Day	1	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	2,768	5	0	0	0	5	0
+Potrero Hill	1	0	1	0	0	2	1	0	0	1	0	1	0	0	0	0	0	17,356	12	0	0	5	7	0
+Richmond - Vote By Mail	2	1	0	0	0	1	0	0	0	4	4	0	1	0	0	0	0	29,398	26	0	0	13	13	0
+Richmond - Election Day	3	0	0	2	0	9	0	0	2	1	2	1	0	0	0	0	0	8,227	30	0	0	5	25	5
+Richmond	5	1	0	2	0	10	0	0	2	5	6	1	1	0	0	0	0	37,625	56	0	0	18	38	5
+South of Bernal Heights - Vote By Mail	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	7,156	4	0	0	1	3	0
+South of Bernal Heights - Election Day	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	2,415	3	0	0	1	2	0
+South of Bernal Heights	1	0	0	1	1	0	0	0	1	0	1	0	0	0	0	0	0	9,571	7	0	0	2	5	0
+Sea Cliff/Presidio Heights - Vote By Mail	1	0	0	2	0	1	0	0	0	0	0	0	2	0	0	0	0	6,453	13	0	0	7	6	0
+Sea Cliff/Presidio Heights - Election Day	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	1,568	6	0	0	1	5	2
+Sea Cliff/Presidio Heights	1	0	0	2	0	2	1	0	1	0	0	0	2	0	0	0	0	8,021	19	0	0	8	11	2
+South of Market - Vote By Mail	1	1	0	2	4	2	0	1	0	0	0	1	0	0	0	0	0	20,838	15	0	0	3	12	0
+South of Market - Election Day	1	1	0	0	2	1	0	0	1	2	1	0	0	0	0	0	0	4,239	11	0	0	0	11	2
+South of Market	2	2	0	2	6	3	0	1	1	2	1	1	0	0	0	0	0	25,077	26	0	0	3	23	2
+Sunset - Vote By Mail	1	1	1	0	1	9	3	1	1	1	1	0	0	0	0	0	0	34,486	38	0	0	18	20	0
+Sunset - Election Day	0	0	1	1	0	1	1	1	0	1	2	0	1	0	0	0	0	9,007	18	0	1	3	14	5
+Sunset	1	1	2	1	1	10	4	2	1	2	3	0	1	0	0	0	0	43,493	56	0	1	21	34	5
+Upper Market/Eureka Valley - Vote By Mail	0	1	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	15,344	9	0	0	5	4	0
+Upper Market/Eureka Valley - Election Day	1	0	0	0	0	1	0	0	0	2	1	0	1	0	0	0	0	3,549	6	0	0	0	6	0
+Upper Market/Eureka Valley	1	1	0	1	0	1	0	0	1	3	1	0	1	0	0	0	0	18,893	15	0	0	5	10	0
+Visitation Valley - Vote By Mail	1	2	1	0	0	3	0	0	0	0	0	0	0	0	0	0	0	6,627	9	0	0	2	7	0
+Visitation Valley - Election Day	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1,861	3	0	0	0	3	1
+Visitation Valley	1	2	1	0	0	3	0	1	0	0	0	0	1	0	0	0	0	8,488	12	0	0	2	10	1
+West of Twin Peaks - Vote By Mail	1	1	3	2	1	4	0	0	1	3	1	4	1	0	0	0	0	28,380	32	0	0	10	22	0
+West of Twin Peaks - Election Day	3	1	2	2	0	3	2	0	0	1	0	0	0	0	0	0	0	6,994	21	0	0	5	16	2
+West of Twin Peaks	4	2	5	4	1	7	2	0	1	4	1	4	1	0	0	0	0	35,374	53	0	0	15	38	2
+Western Addition - Vote By Mail	0	1	1	2	0	1	1	0	1	1	1	0	0	0	0	0	0	23,634	13	0	0	4	9	0
+Western Addition - Election Day	0	1	0	1	1	3	0	1	0	2	1	0	1	0	0	0	0	7,862	18	0	0	3	15	4
+Western Addition	0	2	1	3	1	4	1	1	1	3	2	0	1	0	0	0	0	31,496	31	0	0	7	24	4
