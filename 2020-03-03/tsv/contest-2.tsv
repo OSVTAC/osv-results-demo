@@ -1,1954 +1,1935 @@
 Subtotal Area	YES	NO	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Total Votes
-All Precincts	95,380	39,419	503,899	144,603	0	25	9,779	134,799
-All Precincts - Election Day	51,209	15,873	102,888	72,177	0	9	5,086	67,082
-All Precincts - Vote By Mail	44,171	23,546	401,011	72,426	0	16	4,693	67,717
-Precinct 1101 - Vote By Mail	50	30	446	89	0	0	9	80
-Precinct 1101 - Election Day	45	12	116	60	0	0	3	57
-Precinct 1101	95	42	562	149	0	0	12	137
-Precinct 1102 - Vote By Mail	72	44	767	120	0	0	4	116
-Precinct 1102 - Election Day	106	42	237	158	0	0	10	148
-Precinct 1102	178	86	1,004	278	0	0	14	264
-Precinct 1103 - Vote By Mail	87	58	747	147	0	0	2	145
-Precinct 1103 - Election Day	103	33	224	142	0	0	6	136
-Precinct 1103	190	91	971	289	0	0	8	281
-Precinct 1104/1105 - Vote By Mail	89	30	750	122	0	0	3	119
-Precinct 1104/1105 - Election Day	84	30	268	119	0	0	5	114
-Precinct 1104/1105	173	60	1,018	241	0	0	8	233
-Precinct 1106 - Vote By Mail	41	49	595	93	0	0	3	90
-Precinct 1106 - Election Day	68	23	176	96	0	0	5	91
-Precinct 1106	109	72	771	189	0	0	8	181
-Precinct 1107 - Vote By Mail	57	39	602	100	0	0	4	96
-Precinct 1107 - Election Day	53	18	149	76	0	0	5	71
-Precinct 1107	110	57	751	176	0	0	9	167
-Precinct 1108 - Vote By Mail	69	41	718	117	0	0	7	110
-Precinct 1108 - Election Day	73	29	205	114	0	0	12	102
-Precinct 1108	142	70	923	231	0	0	19	212
-Precinct 1109 - Vote By Mail	46	56	649	108	0	0	6	102
-Precinct 1109 - Election Day	71	22	173	97	0	0	4	93
-Precinct 1109	117	78	822	205	0	0	10	195
-Precinct 1111 - Vote By Mail	89	56	841	150	0	0	5	145
-Precinct 1111 - Election Day	91	23	205	118	0	0	4	114
-Precinct 1111	180	79	1,046	268	0	0	9	259
-Precinct 1112 - Vote By Mail	58	35	641	100	0	0	7	93
-Precinct 1112 - Election Day	57	15	161	76	0	0	4	72
-Precinct 1112	115	50	802	176	0	0	11	165
-Precinct 1113 - Vote By Mail	63	34	674	102	0	0	5	97
-Precinct 1113 - Election Day	44	15	121	65	0	0	6	59
-Precinct 1113	107	49	795	167	0	0	11	156
-Precinct 1114 - Vote By Mail	70	27	766	102	0	0	5	97
-Precinct 1114 - Election Day	72	15	225	97	0	0	10	87
-Precinct 1114	142	42	991	199	0	0	15	184
-Precinct 1115 - Vote By Mail	65	44	739	114	0	0	5	109
-Precinct 1115 - Election Day	67	15	197	85	0	0	3	82
-Precinct 1115	132	59	936	199	0	0	8	191
-Precinct 1116 - Vote By Mail	85	46	702	141	0	0	10	131
-Precinct 1116 - Election Day	95	17	229	118	0	0	6	112
-Precinct 1116	180	63	931	259	0	0	16	243
-Precinct 1117 - Vote By Mail	51	49	654	103	0	0	3	100
-Precinct 1117 - Election Day	53	16	192	71	0	0	2	69
-Precinct 1117	104	65	846	174	0	0	5	169
-Precinct 1118 - Vote By Mail	68	49	841	123	0	1	5	117
-Precinct 1118 - Election Day	64	28	224	100	0	0	8	92
-Precinct 1118	132	77	1,065	223	0	1	13	209
-Precinct 1119 - Vote By Mail	69	42	658	114	0	0	3	111
-Precinct 1119 - Election Day	58	11	139	73	0	0	4	69
-Precinct 1119	127	53	797	187	0	0	7	180
-Precinct 1121 - Vote By Mail	58	51	556	115	0	0	6	109
-Precinct 1121 - Election Day	47	28	149	81	0	0	6	75
-Precinct 1121	105	79	705	196	0	0	12	184
-Precinct 1122 - Vote By Mail	30	32	518	67	0	0	5	62
-Precinct 1122 - Election Day	50	16	119	70	0	0	4	66
-Precinct 1122	80	48	637	137	0	0	9	128
-Precinct 1123 - Vote By Mail	46	30	720	77	0	0	1	76
-Precinct 1123 - Election Day	66	17	218	89	0	0	6	83
-Precinct 1123	112	47	938	166	0	0	7	159
-Precinct 1124 - Vote By Mail	45	47	616	96	0	2	2	92
-Precinct 1124 - Election Day	59	10	213	72	0	0	3	69
-Precinct 1124	104	57	829	168	0	2	5	161
-Precinct 1125 - Vote By Mail	79	61	913	154	0	0	14	140
-Precinct 1125 - Election Day	49	10	184	65	0	0	6	59
-Precinct 1125	128	71	1,097	219	0	0	20	199
-Precinct 1126 - Vote By Mail	95	45	811	149	0	0	9	140
-Precinct 1126 - Election Day	49	16	201	68	0	0	3	65
-Precinct 1126	144	61	1,012	217	0	0	12	205
-Precinct 1127 - Vote By Mail	62	56	742	123	0	0	5	118
-Precinct 1127 - Election Day	69	27	223	99	0	0	3	96
-Precinct 1127	131	83	965	222	0	0	8	214
-Precinct 1128 - Vote By Mail	56	51	733	111	0	0	4	107
-Precinct 1128 - Election Day	41	14	146	59	0	0	4	55
-Precinct 1128	97	65	879	170	0	0	8	162
-Precinct 1129 - Vote By Mail	81	45	786	129	0	0	3	126
-Precinct 1129 - Election Day	68	27	250	108	0	0	13	95
-Precinct 1129	149	72	1,036	237	0	0	16	221
-Precinct 1131 - Vote By Mail	47	45	693	103	0	0	11	92
-Precinct 1131 - Election Day	46	10	167	60	0	0	4	56
-Precinct 1131	93	55	860	163	0	0	15	148
-Precinct 1132 - Vote By Mail	83	60	835	152	0	0	9	143
-Precinct 1132 - Election Day	29	30	197	59	0	0	0	59
-Precinct 1132	112	90	1,032	211	0	0	9	202
-Precinct 1133 - Vote By Mail	78	59	715	140	0	0	3	137
-Precinct 1133 - Election Day	48	23	160	74	0	0	3	71
-Precinct 1133	126	82	875	214	0	0	6	208
-Precinct 1134 - Vote By Mail	56	61	584	122	0	0	5	117
-Precinct 1134 - Election Day	61	11	183	80	0	0	8	72
-Precinct 1134	117	72	767	202	0	0	13	189
-Precinct 1135 - Vote By Mail	46	34	464	83	0	0	3	80
-Precinct 1135 - Election Day	32	17	92	50	0	0	1	49
-Precinct 1135	78	51	556	133	0	0	4	129
-Precinct 1136 - Vote By Mail	81	63	709	152	0	0	8	144
-Precinct 1136 - Election Day	51	17	158	77	0	0	9	68
-Precinct 1136	132	80	867	229	0	0	17	212
-Precinct 1141 - Vote By Mail	87	53	834	144	0	0	4	140
-Precinct 1141 - Election Day	87	33	222	123	0	0	3	120
-Precinct 1141	174	86	1,056	267	0	0	7	260
-Precinct 1142 - Vote By Mail	67	35	721	111	0	0	9	102
+All Precincts	182,432	72,340	503,899	275,013	0	48	20,193	254,772
+All Precincts - Election Day	55,043	17,200	101,053	78,221	0	10	5,968	72,243
+All Precincts - Vote By Mail	127,389	55,140	402,846	196,792	0	38	14,225	182,529
+Precinct 1101 - Vote By Mail	127	72	448	214	0	0	15	199
+Precinct 1101 - Election Day	45	12	114	60	0	0	3	57
+Precinct 1101	172	84	562	274	0	0	18	256
+Precinct 1102 - Vote By Mail	228	121	774	368	0	0	19	349
+Precinct 1102 - Election Day	107	42	230	159	0	0	10	149
+Precinct 1102	335	163	1,004	527	0	0	29	498
+Precinct 1103 - Vote By Mail	238	114	749	371	0	0	19	352
+Precinct 1103 - Election Day	103	33	222	142	0	0	6	136
+Precinct 1103	341	147	971	513	0	0	25	488
+Precinct 1104/1105 - Vote By Mail	237	93	751	343	0	0	13	330
+Precinct 1104/1105 - Election Day	85	30	267	120	0	0	5	115
+Precinct 1104/1105	322	123	1,018	463	0	0	18	445
+Precinct 1106 - Vote By Mail	134	109	598	255	0	0	12	243
+Precinct 1106 - Election Day	68	23	173	96	0	0	5	91
+Precinct 1106	202	132	771	351	0	0	17	334
+Precinct 1107 - Vote By Mail	171	99	612	287	0	0	17	270
+Precinct 1107 - Election Day	53	18	139	76	0	0	5	71
+Precinct 1107	224	117	751	363	0	0	22	341
+Precinct 1108 - Vote By Mail	234	105	725	360	0	0	21	339
+Precinct 1108 - Election Day	73	30	198	115	0	0	12	103
+Precinct 1108	307	135	923	475	0	0	33	442
+Precinct 1109 - Vote By Mail	158	112	653	284	0	0	14	270
+Precinct 1109 - Election Day	71	22	169	97	0	0	4	93
+Precinct 1109	229	134	822	381	0	0	18	363
+Precinct 1111 - Vote By Mail	201	135	849	354	0	0	18	336
+Precinct 1111 - Election Day	91	23	197	118	0	0	4	114
+Precinct 1111	292	158	1,046	472	0	0	22	450
+Precinct 1112 - Vote By Mail	176	85	643	276	0	0	15	261
+Precinct 1112 - Election Day	58	15	159	77	0	0	4	73
+Precinct 1112	234	100	802	353	0	0	19	334
+Precinct 1113 - Vote By Mail	174	99	675	286	0	0	13	273
+Precinct 1113 - Election Day	44	15	120	65	0	0	6	59
+Precinct 1113	218	114	795	351	0	0	19	332
+Precinct 1114 - Vote By Mail	224	82	769	328	0	0	22	306
+Precinct 1114 - Election Day	72	15	222	97	0	0	10	87
+Precinct 1114	296	97	991	425	0	0	32	393
+Precinct 1115 - Vote By Mail	177	103	743	295	0	0	15	280
+Precinct 1115 - Election Day	68	15	193	86	0	0	3	83
+Precinct 1115	245	118	936	381	0	0	18	363
+Precinct 1116 - Vote By Mail	185	106	715	308	0	0	17	291
+Precinct 1116 - Election Day	95	17	216	118	0	0	6	112
+Precinct 1116	280	123	931	426	0	0	23	403
+Precinct 1117 - Vote By Mail	163	80	665	257	0	0	14	243
+Precinct 1117 - Election Day	53	16	181	71	0	0	2	69
+Precinct 1117	216	96	846	328	0	0	16	312
+Precinct 1118 - Vote By Mail	219	126	846	356	0	1	10	345
+Precinct 1118 - Election Day	67	28	219	104	0	0	9	95
+Precinct 1118	286	154	1,065	460	0	1	19	440
+Precinct 1119 - Vote By Mail	203	89	659	303	0	0	11	292
+Precinct 1119 - Election Day	59	11	138	74	0	0	4	70
+Precinct 1119	262	100	797	377	0	0	15	362
+Precinct 1121 - Vote By Mail	139	108	556	268	0	0	21	247
+Precinct 1121 - Election Day	48	28	149	82	0	0	6	76
+Precinct 1121	187	136	705	350	0	0	27	323
+Precinct 1122 - Vote By Mail	117	110	519	245	0	0	18	227
+Precinct 1122 - Election Day	51	16	118	71	0	0	4	67
+Precinct 1122	168	126	637	316	0	0	22	294
+Precinct 1123 - Vote By Mail	169	77	730	257	0	1	10	246
+Precinct 1123 - Election Day	66	17	208	89	0	0	6	83
+Precinct 1123	235	94	938	346	0	1	16	329
+Precinct 1124 - Vote By Mail	146	91	630	246	0	2	7	237
+Precinct 1124 - Election Day	59	11	199	73	0	0	3	70
+Precinct 1124	205	102	829	319	0	2	10	307
+Precinct 1125 - Vote By Mail	193	143	919	364	0	1	27	336
+Precinct 1125 - Election Day	49	11	178	67	0	0	7	60
+Precinct 1125	242	154	1,097	431	0	1	34	396
+Precinct 1126 - Vote By Mail	210	83	812	308	0	0	15	293
+Precinct 1126 - Election Day	49	16	200	68	0	0	3	65
+Precinct 1126	259	99	1,012	376	0	0	18	358
+Precinct 1127 - Vote By Mail	153	130	743	293	0	0	10	283
+Precinct 1127 - Election Day	69	28	222	100	0	0	3	97
+Precinct 1127	222	158	965	393	0	0	13	380
+Precinct 1128 - Vote By Mail	152	122	734	286	0	0	12	274
+Precinct 1128 - Election Day	41	14	145	59	0	0	4	55
+Precinct 1128	193	136	879	345	0	0	16	329
+Precinct 1129 - Vote By Mail	173	120	790	314	0	0	21	293
+Precinct 1129 - Election Day	68	27	246	108	0	0	13	95
+Precinct 1129	241	147	1,036	422	0	0	34	388
+Precinct 1131 - Vote By Mail	141	113	694	279	0	0	25	254
+Precinct 1131 - Election Day	46	10	166	60	0	0	4	56
+Precinct 1131	187	123	860	339	0	0	29	310
+Precinct 1132 - Vote By Mail	214	129	839	370	0	0	27	343
+Precinct 1132 - Election Day	29	30	193	59	0	0	0	59
+Precinct 1132	243	159	1,032	429	0	0	27	402
+Precinct 1133 - Vote By Mail	208	117	716	334	0	0	9	325
+Precinct 1133 - Election Day	48	23	159	74	0	0	3	71
+Precinct 1133	256	140	875	408	0	0	12	396
+Precinct 1134 - Vote By Mail	153	130	585	292	0	0	9	283
+Precinct 1134 - Election Day	61	11	182	80	0	0	8	72
+Precinct 1134	214	141	767	372	0	0	17	355
+Precinct 1135 - Vote By Mail	129	83	465	218	0	0	6	212
+Precinct 1135 - Election Day	33	17	91	51	0	0	1	50
+Precinct 1135	162	100	556	269	0	0	7	262
+Precinct 1136 - Vote By Mail	199	126	710	340	0	0	15	325
+Precinct 1136 - Election Day	51	17	157	77	0	0	9	68
+Precinct 1136	250	143	867	417	0	0	24	393
+Precinct 1141 - Vote By Mail	237	134	836	392	0	0	21	371
+Precinct 1141 - Election Day	87	33	220	123	0	0	3	120
+Precinct 1141	324	167	1,056	515	0	0	24	491
+Precinct 1142 - Vote By Mail	201	96	721	324	0	0	27	297
 Precinct 1142 - Election Day	72	12	175	87	0	0	3	84
-Precinct 1142	139	47	896	198	0	0	12	186
-Precinct 1143 - Vote By Mail	92	51	822	152	0	0	9	143
-Precinct 1143 - Election Day	88	19	227	113	0	0	6	107
-Precinct 1143	180	70	1,049	265	0	0	15	250
-Precinct 1144 - Vote By Mail	59	44	725	110	0	0	7	103
-Precinct 1144 - Election Day	80	31	222	121	0	0	10	111
-Precinct 1144	139	75	947	231	0	0	17	214
-Precinct 1145 - Vote By Mail	84	52	752	146	0	0	10	136
-Precinct 1145 - Election Day	79	30	153	114	0	0	5	109
-Precinct 1145	163	82	905	260	0	0	15	245
-Precinct 1146 - Vote By Mail	84	50	837	143	0	0	9	134
-Precinct 1146 - Election Day	79	24	217	109	0	0	6	103
-Precinct 1146	163	74	1,054	252	0	0	15	237
-Precinct 1147 - Vote By Mail	59	38	671	100	0	0	3	97
-Precinct 1147 - Election Day	76	26	214	107	0	0	5	102
-Precinct 1147	135	64	885	207	0	0	8	199
-Precinct 1148 - Vote By Mail	91	53	802	148	0	0	4	144
-Precinct 1148 - Election Day	82	28	226	116	0	0	6	110
-Precinct 1148	173	81	1,028	264	0	0	10	254
-Precinct 1149 - Vote By Mail	67	35	708	107	0	0	5	102
-Precinct 1149 - Election Day	80	29	231	118	0	0	9	109
-Precinct 1149	147	64	939	225	0	0	14	211
-Precinct 1151 MB - Vote By Mail	0	0	0	0	0	0	0	0
-Precinct 1151 MB - Election Day	0	0	0	0	0	0	0	0
-Precinct 1151 MB	0	0	0	0	0	0	0	0
-Precinct 1152 - Vote By Mail	79	28	710	112	0	0	5	107
+Precinct 1142	273	108	896	411	0	0	30	381
+Precinct 1143 - Vote By Mail	226	108	824	360	0	0	26	334
+Precinct 1143 - Election Day	89	19	225	114	0	0	6	108
+Precinct 1143	315	127	1,049	474	0	0	32	442
+Precinct 1144 - Vote By Mail	201	113	727	326	0	0	12	314
+Precinct 1144 - Election Day	80	31	220	121	0	0	10	111
+Precinct 1144	281	144	947	447	0	0	22	425
+Precinct 1145 - Vote By Mail	251	135	753	411	0	0	25	386
+Precinct 1145 - Election Day	79	30	152	114	0	0	5	109
+Precinct 1145	330	165	905	525	0	0	30	495
+Precinct 1146 - Vote By Mail	243	104	839	364	0	0	17	347
+Precinct 1146 - Election Day	80	24	215	110	0	0	6	104
+Precinct 1146	323	128	1,054	474	0	0	23	451
+Precinct 1147 - Vote By Mail	198	98	673	309	0	0	13	296
+Precinct 1147 - Election Day	76	26	212	107	0	0	5	102
+Precinct 1147	274	124	885	416	0	0	18	398
+Precinct 1148 - Vote By Mail	210	139	804	367	0	0	18	349
+Precinct 1148 - Election Day	82	28	224	116	0	0	6	110
+Precinct 1148	292	167	1,028	483	0	0	24	459
+Precinct 1149 - Vote By Mail	191	105	710	319	0	0	23	296
+Precinct 1149 - Election Day	80	29	229	118	0	0	9	109
+Precinct 1149	271	134	939	437	0	0	32	405
+Precinct 1152 - Vote By Mail	208	85	710	312	0	0	19	293
 Precinct 1152 - Election Day	58	21	180	85	0	0	6	79
-Precinct 1152	137	49	890	197	0	0	11	186
-Precinct 1153 - Vote By Mail	64	41	730	114	0	0	9	105
-Precinct 1153 - Election Day	64	45	210	116	0	0	7	109
-Precinct 1153	128	86	940	230	0	0	16	214
-Precinct 1154 MB - Vote By Mail	0	0	0	0	0	0	0	0
-Precinct 1154 MB - Election Day	0	0	0	0	0	0	0	0
-Precinct 1154 MB	0	0	0	0	0	0	0	0
-Precinct 7001 - Vote By Mail	74	34	630	112	0	0	4	108
-Precinct 7001 - Election Day	80	14	143	101	0	0	7	94
-Precinct 7001	154	48	773	213	0	0	11	202
-Precinct 7002 - Vote By Mail	44	29	595	81	0	0	8	73
-Precinct 7002 - Election Day	68	15	119	88	0	0	5	83
-Precinct 7002	112	44	714	169	0	0	13	156
-Precinct 7003 - Vote By Mail	101	41	759	147	0	0	5	142
+Precinct 1152	266	106	890	397	0	0	25	372
+Precinct 1153 - Vote By Mail	185	82	730	285	0	0	18	267
+Precinct 1153 - Election Day	64	46	210	117	0	0	7	110
+Precinct 1153	249	128	940	402	0	0	25	377
+Precinct 7001 - Vote By Mail	229	78	632	328	0	0	21	307
+Precinct 7001 - Election Day	82	14	141	103	0	0	7	96
+Precinct 7001	311	92	773	431	0	0	28	403
+Precinct 7002 - Vote By Mail	177	66	598	267	0	1	23	243
+Precinct 7002 - Election Day	68	15	116	88	0	0	5	83
+Precinct 7002	245	81	714	355	0	1	28	326
+Precinct 7003 - Vote By Mail	298	103	759	430	0	0	29	401
 Precinct 7003 - Election Day	99	33	147	144	0	0	12	132
-Precinct 7003	200	74	906	291	0	0	17	274
-Precinct 7004 - Vote By Mail	99	35	763	146	0	0	12	134
-Precinct 7004 - Election Day	103	27	150	142	0	0	12	130
-Precinct 7004	202	62	913	288	0	0	24	264
-Precinct 7005 - Vote By Mail	98	35	696	142	0	0	9	133
-Precinct 7005 - Election Day	116	26	163	162	0	0	20	142
-Precinct 7005	214	61	859	304	0	0	29	275
-Precinct 7006 - Vote By Mail	83	29	726	119	0	0	7	112
-Precinct 7006 - Election Day	113	29	206	149	0	0	7	142
-Precinct 7006	196	58	932	268	0	0	14	254
-Precinct 7007 - Vote By Mail	86	50	775	145	0	0	9	136
-Precinct 7007 - Election Day	125	29	182	168	0	0	14	154
-Precinct 7007	211	79	957	313	0	0	23	290
-Precinct 7008 - Vote By Mail	94	45	732	154	0	0	15	139
-Precinct 7008 - Election Day	138	40	177	189	0	0	11	178
-Precinct 7008	232	85	909	343	0	0	26	317
-Precinct 7009 - Vote By Mail	81	51	749	141	0	0	9	132
-Precinct 7009 - Election Day	58	29	122	91	0	0	4	87
-Precinct 7009	139	80	871	232	0	0	13	219
-Precinct 7011 - Vote By Mail	47	15	703	66	0	0	4	62
-Precinct 7011 - Election Day	67	16	270	87	0	0	4	83
-Precinct 7011	114	31	973	153	0	0	8	145
-Precinct 7012 - Vote By Mail	124	53	996	192	0	0	15	177
-Precinct 7012 - Election Day	150	36	230	203	0	0	17	186
-Precinct 7012	274	89	1,226	395	0	0	32	363
-Precinct 7013 - Vote By Mail	89	30	983	122	0	0	3	119
-Precinct 7013 - Election Day	114	22	156	151	0	0	15	136
-Precinct 7013	203	52	1,139	273	0	0	18	255
-Precinct 7014 - Vote By Mail	61	20	608	90	0	0	9	81
-Precinct 7014 - Election Day	81	15	111	111	0	0	15	96
-Precinct 7014	142	35	719	201	0	0	24	177
-Precinct 7015 MB - Vote By Mail	11	0	128	13	0	0	2	11
+Precinct 7003	397	136	906	574	0	0	41	533
+Precinct 7004 - Vote By Mail	288	98	764	416	0	0	30	386
+Precinct 7004 - Election Day	104	27	149	143	0	0	12	131
+Precinct 7004	392	125	913	559	0	0	42	517
+Precinct 7005 - Vote By Mail	252	72	698	350	0	0	26	324
+Precinct 7005 - Election Day	116	26	161	162	0	0	20	142
+Precinct 7005	368	98	859	512	0	0	46	466
+Precinct 7006 - Vote By Mail	258	74	729	359	0	0	27	332
+Precinct 7006 - Election Day	113	29	203	149	0	0	7	142
+Precinct 7006	371	103	932	508	0	0	34	474
+Precinct 7007 - Vote By Mail	285	116	777	437	0	0	36	401
+Precinct 7007 - Election Day	126	29	180	169	0	0	14	155
+Precinct 7007	411	145	957	606	0	0	50	556
+Precinct 7008 - Vote By Mail	235	90	732	367	0	0	42	325
+Precinct 7008 - Election Day	139	41	177	192	0	0	12	180
+Precinct 7008	374	131	909	559	0	0	54	505
+Precinct 7009 - Vote By Mail	266	100	752	389	0	0	23	366
+Precinct 7009 - Election Day	58	29	119	91	0	0	4	87
+Precinct 7009	324	129	871	480	0	0	27	453
+Precinct 7011 - Vote By Mail	160	55	704	231	0	0	16	215
+Precinct 7011 - Election Day	67	16	269	87	0	0	4	83
+Precinct 7011	227	71	973	318	0	0	20	298
+Precinct 7012 - Vote By Mail	339	113	999	487	0	0	35	452
+Precinct 7012 - Election Day	152	37	227	206	0	0	17	189
+Precinct 7012	491	150	1,226	693	0	0	52	641
+Precinct 7013 - Vote By Mail	197	64	984	280	0	0	19	261
+Precinct 7013 - Election Day	114	22	155	151	0	0	15	136
+Precinct 7013	311	86	1,139	431	0	0	34	397
+Precinct 7014 - Vote By Mail	214	54	610	298	0	0	30	268
+Precinct 7014 - Election Day	81	15	109	112	0	0	16	96
+Precinct 7014	295	69	719	410	0	0	46	364
+Precinct 7015 MB - Vote By Mail	32	4	128	40	0	0	4	36
 Precinct 7015 MB - Election Day	0	0	-18	0	0	0	0	0
-Precinct 7015 MB	11	0	110	13	0	0	2	11
-Precinct 7016 - Vote By Mail	61	21	654	85	0	0	3	82
-Precinct 7016 - Election Day	55	14	278	75	0	0	6	69
-Precinct 7016	116	35	932	160	0	0	9	151
-Precinct 7017 - Vote By Mail	38	11	539	52	0	0	3	49
-Precinct 7017 - Election Day	42	5	242	53	0	0	6	47
-Precinct 7017	80	16	781	105	0	0	9	96
-Precinct 7018 - Vote By Mail	81	38	846	130	0	0	11	119
-Precinct 7018 - Election Day	47	5	201	56	0	0	4	52
-Precinct 7018	128	43	1,047	186	0	0	15	171
-Precinct 7019 - Vote By Mail	73	50	733	130	0	0	7	123
-Precinct 7019 - Election Day	54	11	167	73	0	0	8	65
-Precinct 7019	127	61	900	203	0	0	15	188
-Precinct 7021 - Vote By Mail	52	21	674	78	0	0	5	73
-Precinct 7021 - Election Day	86	13	293	106	0	0	7	99
-Precinct 7021	138	34	967	184	0	0	12	172
-Precinct 7022 - Vote By Mail	87	16	766	109	0	0	6	103
-Precinct 7022 - Election Day	44	9	197	54	0	0	1	53
-Precinct 7022	131	25	963	163	0	0	7	156
-Precinct 7023 - Vote By Mail	94	43	684	142	0	0	5	137
-Precinct 7023 - Election Day	54	12	236	71	0	0	5	66
-Precinct 7023	148	55	920	213	0	0	10	203
-Precinct 7024 - Vote By Mail	23	1	251	25	0	0	1	24
+Precinct 7015 MB	32	4	110	40	0	0	4	36
+Precinct 7016 - Vote By Mail	147	75	655	238	0	0	16	222
+Precinct 7016 - Election Day	55	14	277	75	0	0	6	69
+Precinct 7016	202	89	932	313	0	0	22	291
+Precinct 7017 - Vote By Mail	128	37	543	180	0	0	15	165
+Precinct 7017 - Election Day	42	5	238	53	0	0	6	47
+Precinct 7017	170	42	781	233	0	0	21	212
+Precinct 7018 - Vote By Mail	207	127	847	357	0	0	23	334
+Precinct 7018 - Election Day	47	5	200	56	0	0	4	52
+Precinct 7018	254	132	1,047	413	0	0	27	386
+Precinct 7019 - Vote By Mail	212	120	734	355	0	0	23	332
+Precinct 7019 - Election Day	55	11	166	74	0	0	8	66
+Precinct 7019	267	131	900	429	0	0	31	398
+Precinct 7021 - Vote By Mail	198	58	679	271	0	0	15	256
+Precinct 7021 - Election Day	86	13	288	106	0	0	7	99
+Precinct 7021	284	71	967	377	0	0	22	355
+Precinct 7022 - Vote By Mail	223	65	770	311	0	1	22	288
+Precinct 7022 - Election Day	45	9	193	55	0	0	1	54
+Precinct 7022	268	74	963	366	0	1	23	342
+Precinct 7023 - Vote By Mail	235	78	687	331	0	0	18	313
+Precinct 7023 - Election Day	54	12	233	71	0	0	5	66
+Precinct 7023	289	90	920	402	0	0	23	379
+Precinct 7024 - Vote By Mail	43	5	251	50	0	0	2	48
 Precinct 7024 - Election Day	17	0	190	20	0	0	3	17
-Precinct 7024	40	1	441	45	0	0	4	41
-Precinct 7025 - Vote By Mail	37	3	316	41	0	0	1	40
+Precinct 7024	60	5	441	70	0	0	5	65
+Precinct 7025 - Vote By Mail	76	15	316	95	0	0	4	91
 Precinct 7025 - Election Day	32	6	167	39	0	0	1	38
-Precinct 7025	69	9	483	80	0	0	2	78
-Precinct 7026 - Vote By Mail	72	60	815	137	0	0	5	132
-Precinct 7026 - Election Day	54	15	195	72	0	0	3	69
-Precinct 7026	126	75	1,010	209	0	0	8	201
-Precinct 7027 - Vote By Mail	56	36	675	96	0	0	4	92
-Precinct 7027 - Election Day	73	19	221	96	0	0	4	92
-Precinct 7027	129	55	896	192	0	0	8	184
-Precinct 7028 - Vote By Mail	61	20	584	85	0	0	4	81
-Precinct 7028 - Election Day	75	17	272	97	0	0	5	92
-Precinct 7028	136	37	856	182	0	0	9	173
-Precinct 7029 - Vote By Mail	57	20	641	80	0	0	3	77
-Precinct 7029 - Election Day	31	7	268	39	0	0	1	38
-Precinct 7029	88	27	909	119	0	0	4	115
-Precinct 7030 - Vote By Mail	61	63	654	128	0	0	4	124
+Precinct 7025	108	21	483	134	0	0	5	129
+Precinct 7026 - Vote By Mail	169	153	819	336	0	0	14	322
+Precinct 7026 - Election Day	54	15	191	72	0	0	3	69
+Precinct 7026	223	168	1,010	408	0	0	17	391
+Precinct 7027 - Vote By Mail	163	93	677	270	0	0	14	256
+Precinct 7027 - Election Day	73	19	219	96	0	0	4	92
+Precinct 7027	236	112	896	366	0	0	18	348
+Precinct 7028 - Vote By Mail	157	46	585	220	0	0	17	203
+Precinct 7028 - Election Day	75	17	271	97	0	0	5	92
+Precinct 7028	232	63	856	317	0	0	22	295
+Precinct 7029 - Vote By Mail	150	43	642	208	0	0	15	193
+Precinct 7029 - Election Day	31	7	267	39	0	0	1	38
+Precinct 7029	181	50	909	247	0	0	16	231
+Precinct 7030 - Vote By Mail	146	117	654	274	0	0	11	263
 Precinct 7030 - Election Day	30	25	141	58	0	0	3	55
-Precinct 7030	91	88	795	186	0	0	7	179
-Precinct 7031 - Vote By Mail	67	39	619	119	0	0	13	106
-Precinct 7031 - Election Day	32	12	75	48	0	0	4	44
-Precinct 7031	99	51	694	167	0	0	17	150
-Precinct 7032 - Vote By Mail	65	38	639	112	0	0	9	103
-Precinct 7032 - Election Day	42	7	242	51	0	0	2	49
-Precinct 7032	107	45	881	163	0	0	11	152
-Precinct 7033 - Vote By Mail	56	35	546	96	0	0	5	91
-Precinct 7033 - Election Day	63	18	232	86	0	0	5	81
-Precinct 7033	119	53	778	182	0	0	10	172
-Precinct 7034 - Vote By Mail	41	6	618	52	0	0	5	47
-Precinct 7034 - Election Day	47	7	320	57	0	0	3	54
-Precinct 7034	88	13	938	109	0	0	8	101
-Precinct 7035 - Vote By Mail	52	26	567	86	0	0	8	78
+Precinct 7030	176	142	795	332	0	0	14	318
+Precinct 7031 - Vote By Mail	155	84	622	263	0	0	24	239
+Precinct 7031 - Election Day	32	12	72	48	0	0	4	44
+Precinct 7031	187	96	694	311	0	0	28	283
+Precinct 7032 - Vote By Mail	176	72	643	266	0	0	18	248
+Precinct 7032 - Election Day	42	8	238	53	0	0	3	50
+Precinct 7032	218	80	881	319	0	0	21	298
+Precinct 7033 - Vote By Mail	138	59	549	214	0	0	17	197
+Precinct 7033 - Election Day	63	18	229	86	0	0	5	81
+Precinct 7033	201	77	778	300	0	0	22	278
+Precinct 7034 - Vote By Mail	112	13	620	140	0	0	15	125
+Precinct 7034 - Election Day	48	7	318	58	0	0	3	55
+Precinct 7034	160	20	938	198	0	0	18	180
+Precinct 7035 - Vote By Mail	151	66	567	237	0	0	20	217
 Precinct 7035 - Election Day	39	8	152	52	0	0	5	47
-Precinct 7035	91	34	719	138	0	0	13	125
-Precinct 7036 - Vote By Mail	60	43	780	108	0	0	5	103
-Precinct 7036 - Election Day	28	10	194	39	0	0	1	38
-Precinct 7036	88	53	974	147	0	0	6	141
-Precinct 7037 - Vote By Mail	25	6	431	31	0	0	0	31
-Precinct 7037 - Election Day	32	1	315	38	0	0	5	33
-Precinct 7037	57	7	746	69	0	0	5	64
-Precinct 7038 - Vote By Mail	76	59	757	145	0	0	10	135
-Precinct 7038 - Election Day	39	11	204	58	0	0	8	50
-Precinct 7038	115	70	961	203	0	0	18	185
-Precinct 7039 - Vote By Mail	55	42	636	106	0	0	9	97
+Precinct 7035	190	74	719	289	0	0	25	264
+Precinct 7036 - Vote By Mail	160	86	781	262	0	0	16	246
+Precinct 7036 - Election Day	28	10	193	39	0	0	1	38
+Precinct 7036	188	96	974	301	0	0	17	284
+Precinct 7037 - Vote By Mail	50	13	434	63	0	0	0	63
+Precinct 7037 - Election Day	32	1	312	38	0	0	5	33
+Precinct 7037	82	14	746	101	0	0	5	96
+Precinct 7038 - Vote By Mail	175	117	758	308	0	0	16	292
+Precinct 7038 - Election Day	39	11	203	58	0	0	8	50
+Precinct 7038	214	128	961	366	0	0	24	342
+Precinct 7039 - Vote By Mail	127	100	636	243	0	0	16	227
 Precinct 7039 - Election Day	63	36	201	104	0	0	5	99
-Precinct 7039	118	78	837	210	0	0	14	196
-Precinct 7041 MB - Vote By Mail	6	6	70	13	0	0	1	12
+Precinct 7039	190	136	837	347	0	0	21	326
+Precinct 7041 MB - Vote By Mail	16	10	70	29	0	0	3	26
 Precinct 7041 MB - Election Day	0	0	-4	0	0	0	0	0
-Precinct 7041 MB	6	6	66	13	0	0	1	12
-Precinct 7042 - Vote By Mail	54	30	514	88	0	0	4	84
-Precinct 7042 - Election Day	41	15	146	58	0	0	2	56
-Precinct 7042	95	45	660	146	0	0	6	140
-Precinct 7043 - Vote By Mail	74	37	753	116	0	0	5	111
-Precinct 7043 - Election Day	53	24	225	78	0	0	1	77
-Precinct 7043	127	61	978	194	0	0	6	188
-Precinct 7044 - Vote By Mail	42	24	584	67	0	0	1	66
-Precinct 7044 - Election Day	26	5	268	33	0	0	2	31
-Precinct 7044	68	29	852	100	0	0	3	97
-Precinct 7045 - Vote By Mail	76	35	632	120	0	0	9	111
+Precinct 7041 MB	16	10	66	29	0	0	3	26
+Precinct 7042 - Vote By Mail	143	67	514	221	0	0	11	210
+Precinct 7042 - Election Day	42	15	146	59	0	0	2	57
+Precinct 7042	185	82	660	280	0	0	13	267
+Precinct 7043 - Vote By Mail	178	95	754	295	0	0	22	273
+Precinct 7043 - Election Day	53	24	224	78	0	0	1	77
+Precinct 7043	231	119	978	373	0	0	23	350
+Precinct 7044 - Vote By Mail	105	39	586	148	0	0	4	144
+Precinct 7044 - Election Day	26	5	266	33	0	0	2	31
+Precinct 7044	131	44	852	181	0	0	6	175
+Precinct 7045 - Vote By Mail	146	104	632	266	0	0	16	250
 Precinct 7045 - Election Day	36	14	154	53	0	0	3	50
-Precinct 7045	112	49	786	173	0	0	12	161
-Precinct 7046 - Vote By Mail	25	17	334	45	0	0	3	42
+Precinct 7045	182	118	786	319	0	0	19	300
+Precinct 7046 - Vote By Mail	74	49	334	132	0	0	9	123
 Precinct 7046 - Election Day	34	11	96	48	0	0	3	45
-Precinct 7046	59	28	430	93	0	0	6	87
-Precinct 7047 - Vote By Mail	66	64	730	135	0	0	5	130
-Precinct 7047 - Election Day	46	13	153	62	0	0	3	59
-Precinct 7047	112	77	883	197	0	0	8	189
-Precinct 7048 - Vote By Mail	73	27	684	108	0	0	8	100
-Precinct 7048 - Election Day	41	11	197	56	0	0	4	52
-Precinct 7048	114	38	881	164	0	0	12	152
-Precinct 7049 - Vote By Mail	57	46	615	105	0	0	2	103
-Precinct 7049 - Election Day	39	21	211	70	0	0	10	60
-Precinct 7049	96	67	826	175	0	0	12	163
-Precinct 7051 - Vote By Mail	60	62	715	129	0	0	7	122
+Precinct 7046	108	60	430	180	0	0	12	168
+Precinct 7047 - Vote By Mail	177	125	733	314	0	0	12	302
+Precinct 7047 - Election Day	46	13	150	62	0	0	3	59
+Precinct 7047	223	138	883	376	0	0	15	361
+Precinct 7048 - Vote By Mail	177	75	685	267	0	0	15	252
+Precinct 7048 - Election Day	41	11	196	56	0	0	4	52
+Precinct 7048	218	86	881	323	0	0	19	304
+Precinct 7049 - Vote By Mail	132	101	616	247	0	0	14	233
+Precinct 7049 - Election Day	39	21	210	70	0	0	10	60
+Precinct 7049	171	122	826	317	0	0	24	293
+Precinct 7051 - Vote By Mail	154	130	715	306	0	0	22	284
 Precinct 7051 - Election Day	45	19	165	70	0	0	6	64
-Precinct 7051	105	81	880	199	0	0	13	186
-Precinct 7052 - Vote By Mail	60	58	720	121	0	0	3	118
-Precinct 7052 - Election Day	65	16	186	84	0	0	3	81
-Precinct 7052	125	74	906	205	0	0	6	199
-Precinct 7053 - Vote By Mail	44	45	542	102	0	0	13	89
-Precinct 7053 - Election Day	27	9	43	40	0	0	4	36
-Precinct 7053	71	54	585	142	0	0	17	125
-Precinct 7054 - Vote By Mail	63	22	860	98	0	0	13	85
-Precinct 7054 - Election Day	71	31	276	105	0	0	3	102
-Precinct 7054	134	53	1,136	203	0	0	16	187
-Precinct 7055 - Vote By Mail	68	45	728	120	0	0	7	113
-Precinct 7055 - Election Day	52	16	98	76	0	0	8	68
-Precinct 7055	120	61	826	196	0	0	15	181
-Precinct 7056 - Vote By Mail	54	23	617	85	0	0	8	77
-Precinct 7056 - Election Day	83	24	88	119	0	0	12	107
-Precinct 7056	137	47	705	204	0	0	20	184
-Precinct 7101 MB - Vote By Mail	26	4	161	31	0	0	1	30
-Precinct 7101 MB - Election Day	0	0	-14	0	0	0	0	0
-Precinct 7101 MB	26	4	147	31	0	0	1	30
-Precinct 7201 - Vote By Mail	81	51	787	145	0	0	13	132
-Precinct 7201 - Election Day	64	22	148	98	0	0	12	86
-Precinct 7201	145	73	935	243	0	0	25	218
-Precinct 7202 - Vote By Mail	74	50	706	136	0	0	12	124
-Precinct 7202 - Election Day	83	28	145	123	0	0	12	111
-Precinct 7202	157	78	851	259	0	0	24	235
-Precinct 7203 - Vote By Mail	60	41	693	116	0	0	15	101
-Precinct 7203 - Election Day	97	33	186	148	0	0	18	130
-Precinct 7203	157	74	879	264	0	0	33	231
-Precinct 7204 - Vote By Mail	97	47	771	164	0	0	20	144
-Precinct 7204 - Election Day	68	30	128	116	0	0	18	98
-Precinct 7204	165	77	899	280	0	0	38	242
-Precinct 7205 - Vote By Mail	79	43	723	132	0	0	10	122
-Precinct 7205 - Election Day	86	31	148	133	0	0	16	117
-Precinct 7205	165	74	871	265	0	0	26	239
-Precinct 7206 - Vote By Mail	29	9	298	41	0	0	3	38
-Precinct 7206 - Election Day	52	21	79	76	0	0	3	73
-Precinct 7206	81	30	377	117	0	0	6	111
-Precinct 7207 - Vote By Mail	72	40	742	119	0	0	7	112
-Precinct 7207 - Election Day	83	23	125	117	0	0	11	106
-Precinct 7207	155	63	867	236	0	0	18	218
-Precinct 7208 - Vote By Mail	52	25	491	92	0	0	15	77
-Precinct 7208 - Election Day	47	8	79	60	0	0	5	55
-Precinct 7208	99	33	570	152	0	0	20	132
-Precinct 7209 - Vote By Mail	121	62	595	199	0	0	16	183
-Precinct 7209 - Election Day	46	13	52	63	0	0	4	59
-Precinct 7209	167	75	647	262	0	0	20	242
-Precinct 7301 - Vote By Mail	78	43	810	129	0	0	8	121
-Precinct 7301 - Election Day	76	28	204	112	0	0	8	104
-Precinct 7301	154	71	1,014	241	0	0	16	225
-Precinct 7302 - Vote By Mail	105	56	713	175	0	0	14	161
-Precinct 7302 - Election Day	79	27	136	116	0	0	10	106
-Precinct 7302	184	83	849	291	0	0	24	267
-Precinct 7303 - Vote By Mail	90	54	864	148	0	0	4	144
-Precinct 7303 - Election Day	108	23	204	141	0	0	10	131
-Precinct 7303	198	77	1,068	289	0	0	14	275
-Precinct 7304 - Vote By Mail	68	56	802	137	0	0	13	124
-Precinct 7304 - Election Day	117	35	199	163	0	0	11	152
-Precinct 7304	185	91	1,001	300	0	0	24	276
-Precinct 7305 - Vote By Mail	83	69	710	162	0	0	10	152
-Precinct 7305 - Election Day	96	37	157	141	0	0	8	133
-Precinct 7305	179	106	867	303	0	0	18	285
-Precinct 7306 - Vote By Mail	62	49	800	122	0	0	11	111
-Precinct 7306 - Election Day	106	31	244	152	0	0	15	137
-Precinct 7306	168	80	1,044	274	0	0	26	248
-Precinct 7307 - Vote By Mail	56	33	604	96	0	0	7	89
-Precinct 7307 - Election Day	69	22	170	101	0	0	10	91
-Precinct 7307	125	55	774	197	0	0	17	180
-Precinct 7308 - Vote By Mail	65	37	516	106	0	0	4	102
-Precinct 7308 - Election Day	88	29	109	126	0	1	8	117
-Precinct 7308	153	66	625	232	0	1	12	219
-Precinct 7309 - Vote By Mail	69	39	690	116	0	0	8	108
-Precinct 7309 - Election Day	111	33	168	156	0	0	12	144
-Precinct 7309	180	72	858	272	0	0	20	252
-Precinct 7311 - Vote By Mail	63	32	698	107	0	0	12	95
-Precinct 7311 - Election Day	130	28	208	169	0	0	11	158
-Precinct 7311	193	60	906	276	0	0	23	253
-Precinct 7312 - Vote By Mail	90	51	697	150	0	0	9	141
-Precinct 7312 - Election Day	78	34	113	120	0	0	8	112
-Precinct 7312	168	85	810	270	0	0	17	253
-Precinct 7313 - Vote By Mail	95	68	818	173	0	0	10	163
-Precinct 7313 - Election Day	71	28	185	115	0	0	16	99
-Precinct 7313	166	96	1,003	288	0	0	26	262
-Precinct 7314 - Vote By Mail	78	33	612	124	0	0	13	111
-Precinct 7314 - Election Day	39	12	147	56	0	0	5	51
-Precinct 7314	117	45	759	180	0	0	18	162
-Precinct 7315 - Vote By Mail	47	30	568	82	0	0	5	77
-Precinct 7315 - Election Day	87	25	197	117	0	0	5	112
-Precinct 7315	134	55	765	199	0	0	10	189
-Precinct 7316 - Vote By Mail	72	32	654	119	0	0	15	104
-Precinct 7316 - Election Day	68	17	178	100	0	0	15	85
-Precinct 7316	140	49	832	219	0	0	30	189
-Precinct 7317 - Vote By Mail	80	56	744	146	0	0	10	136
-Precinct 7317 - Election Day	79	14	146	107	0	0	14	93
-Precinct 7317	159	70	890	253	0	0	24	229
-Precinct 7318 - Vote By Mail	76	49	604	142	0	0	17	125
-Precinct 7318 - Election Day	51	33	119	99	0	0	15	84
-Precinct 7318	127	82	723	241	0	0	32	209
-Precinct 7319 - Vote By Mail	62	42	858	111	0	0	7	104
-Precinct 7319 - Election Day	66	31	191	113	0	1	15	97
-Precinct 7319	128	73	1,049	224	0	1	22	201
-Precinct 7321 - Vote By Mail	45	30	557	86	0	0	11	75
-Precinct 7321 - Election Day	41	16	102	62	0	0	5	57
-Precinct 7321	86	46	659	148	0	0	16	132
-Precinct 7322 - Vote By Mail	105	37	740	164	0	0	22	142
-Precinct 7322 - Election Day	20	2	148	25	0	0	3	22
-Precinct 7322	125	39	888	189	0	0	25	164
-Precinct 7323 - Vote By Mail	75	40	788	128	0	0	13	115
-Precinct 7323 - Election Day	91	23	168	126	0	0	12	114
-Precinct 7323	166	63	956	254	0	0	25	229
-Precinct 7324 - Vote By Mail	50	31	585	89	0	0	8	81
-Precinct 7324 - Election Day	50	28	152	88	0	0	10	78
-Precinct 7324	100	59	737	177	0	0	18	159
-Precinct 7325 - Vote By Mail	66	38	712	115	0	0	11	104
-Precinct 7325 - Election Day	81	30	174	121	0	0	10	111
-Precinct 7325	147	68	886	236	0	0	21	215
-Precinct 7326 - Vote By Mail	64	32	684	105	0	0	9	96
-Precinct 7326 - Election Day	70	27	175	116	0	1	18	97
-Precinct 7326	134	59	859	221	0	1	27	193
-Precinct 7327 - Vote By Mail	81	34	561	130	0	0	15	115
-Precinct 7327 - Election Day	30	6	126	37	0	0	1	36
-Precinct 7327	111	40	687	167	0	0	16	151
-Precinct 7328 - Vote By Mail	101	56	829	188	0	0	31	157
-Precinct 7328 - Election Day	31	10	173	46	0	0	5	41
-Precinct 7328	132	66	1,002	234	0	0	36	198
-Precinct 7329 - Vote By Mail	69	40	552	125	0	0	16	109
-Precinct 7329 - Election Day	37	14	99	56	0	0	5	51
-Precinct 7329	106	54	651	181	0	0	21	160
-Precinct 7331 - Vote By Mail	96	61	710	171	0	0	14	157
-Precinct 7331 - Election Day	80	34	160	129	0	0	15	114
-Precinct 7331	176	95	870	300	0	0	29	271
-Precinct 7332 - Vote By Mail	73	20	652	101	0	0	8	93
-Precinct 7332 - Election Day	90	19	138	113	0	0	4	109
-Precinct 7332	163	39	790	214	0	0	12	202
-Precinct 7333 - Vote By Mail	81	45	821	143	0	0	17	126
-Precinct 7333 - Election Day	116	34	194	161	0	0	11	150
-Precinct 7333	197	79	1,015	304	0	0	28	276
-Precinct 7334 - Vote By Mail	82	30	684	117	0	0	5	112
-Precinct 7334 - Election Day	78	21	135	105	0	0	6	99
-Precinct 7334	160	51	819	222	0	0	11	211
-Precinct 7335 - Vote By Mail	78	56	786	145	0	0	11	134
-Precinct 7335 - Election Day	106	27	148	144	0	0	11	133
-Precinct 7335	184	83	934	289	0	0	22	267
-Precinct 7336 - Vote By Mail	73	65	779	147	0	0	9	138
-Precinct 7336 - Election Day	81	32	175	128	0	0	15	113
-Precinct 7336	154	97	954	275	0	0	24	251
-Precinct 7337 - Vote By Mail	86	65	772	167	0	0	16	151
-Precinct 7337 - Election Day	57	23	125	84	0	0	4	80
-Precinct 7337	143	88	897	251	0	0	20	231
-Precinct 7338 - Vote By Mail	101	71	768	189	0	0	17	172
-Precinct 7338 - Election Day	51	12	127	70	0	0	7	63
-Precinct 7338	152	83	895	259	0	0	24	235
-Precinct 7339 - Vote By Mail	85	27	603	116	0	0	4	112
-Precinct 7339 - Election Day	67	18	152	89	0	0	4	85
-Precinct 7339	152	45	755	205	0	0	8	197
-Precinct 7341 - Vote By Mail	60	31	673	100	0	0	9	91
-Precinct 7341 - Election Day	100	23	180	131	0	0	8	123
-Precinct 7341	160	54	853	231	0	0	17	214
-Precinct 7342 - Vote By Mail	79	30	672	117	0	0	8	109
-Precinct 7342 - Election Day	146	37	232	200	0	0	17	183
-Precinct 7342	225	67	904	317	0	0	25	292
-Precinct 7343 - Vote By Mail	70	13	553	88	0	0	5	83
-Precinct 7343 - Election Day	88	17	151	116	0	0	11	105
-Precinct 7343	158	30	704	204	0	0	16	188
-Precinct 7344 - Vote By Mail	95	47	862	151	0	0	9	142
-Precinct 7344 - Election Day	108	43	202	160	0	0	9	151
-Precinct 7344	203	90	1,064	311	0	0	18	293
-Precinct 7345 - Vote By Mail	104	41	900	159	0	0	14	145
-Precinct 7345 - Election Day	126	33	214	170	0	0	11	159
-Precinct 7345	230	74	1,114	329	0	0	25	304
-Precinct 7346 - Vote By Mail	81	27	677	111	0	0	3	108
-Precinct 7346 - Election Day	95	19	212	126	0	0	12	114
-Precinct 7346	176	46	889	237	0	0	15	222
-Precinct 7347 - Vote By Mail	119	19	827	152	0	1	13	138
-Precinct 7347 - Election Day	79	13	176	98	0	0	6	92
-Precinct 7347	198	32	1,003	250	0	1	19	230
-Precinct 7348 - Vote By Mail	86	28	644	122	0	0	8	114
-Precinct 7348 - Election Day	75	18	199	100	0	0	7	93
-Precinct 7348	161	46	843	222	0	0	15	207
-Precinct 7349 - Vote By Mail	103	44	709	158	0	0	11	147
-Precinct 7349 - Election Day	75	20	203	104	0	0	9	95
-Precinct 7349	178	64	912	262	0	0	20	242
-Precinct 7501 - Vote By Mail	37	34	455	75	0	0	4	71
-Precinct 7501 - Election Day	58	22	96	90	0	0	10	80
-Precinct 7501	95	56	551	165	0	0	14	151
-Precinct 7502 - Vote By Mail	63	36	668	107	0	0	8	99
-Precinct 7502 - Election Day	65	24	121	99	0	0	10	89
-Precinct 7502	128	60	789	206	0	0	18	188
-Precinct 7503 - Vote By Mail	80	24	610	112	0	0	8	104
-Precinct 7503 - Election Day	70	18	152	100	0	0	12	88
-Precinct 7503	150	42	762	212	0	0	20	192
-Precinct 7504 - Vote By Mail	46	19	404	72	0	0	7	65
-Precinct 7504 - Election Day	35	13	84	52	0	0	4	48
-Precinct 7504	81	32	488	124	0	0	11	113
-Precinct 7505 - Vote By Mail	145	39	729	198	0	0	14	184
+Precinct 7051	199	149	880	376	0	0	28	348
+Precinct 7052 - Vote By Mail	155	129	722	296	0	0	12	284
+Precinct 7052 - Election Day	65	16	184	84	0	0	3	81
+Precinct 7052	220	145	906	380	0	0	15	365
+Precinct 7053 - Vote By Mail	101	95	542	227	0	0	31	196
+Precinct 7053 - Election Day	29	9	43	42	0	0	4	38
+Precinct 7053	130	104	585	269	0	0	35	234
+Precinct 7054 - Vote By Mail	219	69	863	308	0	0	20	288
+Precinct 7054 - Election Day	72	31	273	106	0	0	3	103
+Precinct 7054	291	100	1,136	414	0	0	23	391
+Precinct 7055 - Vote By Mail	182	88	732	291	0	0	21	270
+Precinct 7055 - Election Day	53	16	94	77	0	0	8	69
+Precinct 7055	235	104	826	368	0	0	29	339
+Precinct 7056 - Vote By Mail	182	68	618	273	0	0	23	250
+Precinct 7056 - Election Day	83	24	87	119	0	0	12	107
+Precinct 7056	265	92	705	392	0	0	35	357
+Precinct 7101 MB - Vote By Mail	84	9	162	99	0	0	6	93
+Precinct 7101 MB - Election Day	3	0	-15	4	0	0	1	3
+Precinct 7101 MB	87	9	147	103	0	0	7	96
+Precinct 7201 - Vote By Mail	225	126	788	383	0	0	32	351
+Precinct 7201 - Election Day	110	35	147	168	0	0	23	145
+Precinct 7201	335	161	935	551	0	0	55	496
+Precinct 7202 - Vote By Mail	181	97	708	308	0	0	30	278
+Precinct 7202 - Election Day	103	36	143	156	0	0	17	139
+Precinct 7202	284	133	851	464	0	0	47	417
+Precinct 7203 - Vote By Mail	185	99	693	321	0	0	37	284
+Precinct 7203 - Election Day	116	48	186	186	0	0	22	164
+Precinct 7203	301	147	879	507	0	0	59	448
+Precinct 7204 - Vote By Mail	264	109	773	421	0	0	48	373
+Precinct 7204 - Election Day	72	31	126	122	0	0	19	103
+Precinct 7204	336	140	899	543	0	0	67	476
+Precinct 7205 - Vote By Mail	224	109	724	360	0	1	26	333
+Precinct 7205 - Election Day	114	44	147	175	0	0	17	158
+Precinct 7205	338	153	871	535	0	1	43	491
+Precinct 7206 - Vote By Mail	83	38	299	129	0	0	8	121
+Precinct 7206 - Election Day	62	28	78	102	0	0	12	90
+Precinct 7206	145	66	377	231	0	0	20	211
+Precinct 7207 - Vote By Mail	197	108	744	333	0	0	28	305
+Precinct 7207 - Election Day	104	33	123	151	0	0	14	137
+Precinct 7207	301	141	867	484	0	0	42	442
+Precinct 7208 - Vote By Mail	155	70	492	253	0	0	28	225
+Precinct 7208 - Election Day	74	9	78	94	0	0	11	83
+Precinct 7208	229	79	570	347	0	0	39	308
+Precinct 7209 - Vote By Mail	218	96	595	341	0	0	27	314
+Precinct 7209 - Election Day	54	14	52	75	0	0	7	68
+Precinct 7209	272	110	647	416	0	0	34	382
+Precinct 7301 - Vote By Mail	208	88	813	317	0	0	21	296
+Precinct 7301 - Election Day	92	36	201	141	0	0	13	128
+Precinct 7301	300	124	1,014	458	0	0	34	424
+Precinct 7302 - Vote By Mail	218	105	713	351	0	0	28	323
+Precinct 7302 - Election Day	91	33	136	137	0	0	13	124
+Precinct 7302	309	138	849	488	0	0	41	447
+Precinct 7303 - Vote By Mail	240	112	869	376	0	0	24	352
+Precinct 7303 - Election Day	118	25	199	155	0	0	12	143
+Precinct 7303	358	137	1,068	531	0	0	36	495
+Precinct 7304 - Vote By Mail	223	114	802	366	0	0	29	337
+Precinct 7304 - Election Day	130	40	199	184	0	0	14	170
+Precinct 7304	353	154	1,001	550	0	0	43	507
+Precinct 7305 - Vote By Mail	216	142	713	386	0	0	28	358
+Precinct 7305 - Election Day	104	40	154	154	0	0	10	144
+Precinct 7305	320	182	867	540	0	0	38	502
+Precinct 7306 - Vote By Mail	196	130	801	373	0	0	47	326
+Precinct 7306 - Election Day	129	39	243	193	0	0	25	168
+Precinct 7306	325	169	1,044	566	0	0	72	494
+Precinct 7307 - Vote By Mail	172	85	605	272	0	0	15	257
+Precinct 7307 - Election Day	85	24	169	126	0	1	16	109
+Precinct 7307	257	109	774	398	0	1	31	366
+Precinct 7308 - Vote By Mail	165	79	520	256	0	0	12	244
+Precinct 7308 - Election Day	112	32	105	157	0	1	12	144
+Precinct 7308	277	111	625	413	0	1	24	388
+Precinct 7309 - Vote By Mail	200	91	691	324	0	0	33	291
+Precinct 7309 - Election Day	135	40	167	190	0	0	15	175
+Precinct 7309	335	131	858	514	0	0	48	466
+Precinct 7311 - Vote By Mail	217	88	698	333	0	0	28	305
+Precinct 7311 - Election Day	151	44	208	215	0	0	20	195
+Precinct 7311	368	132	906	548	0	0	48	500
+Precinct 7312 - Vote By Mail	233	131	700	394	0	0	30	364
+Precinct 7312 - Election Day	98	44	110	160	0	0	18	142
+Precinct 7312	331	175	810	554	0	0	48	506
+Precinct 7313 - Vote By Mail	228	121	819	373	0	0	24	349
+Precinct 7313 - Election Day	100	36	184	160	0	0	24	136
+Precinct 7313	328	157	1,003	533	0	0	48	485
+Precinct 7314 - Vote By Mail	139	62	612	226	0	0	25	201
+Precinct 7314 - Election Day	58	15	147	83	0	0	10	73
+Precinct 7314	197	77	759	309	0	0	35	274
+Precinct 7315 - Vote By Mail	129	63	570	206	0	0	14	192
+Precinct 7315 - Election Day	99	27	195	134	0	0	8	126
+Precinct 7315	228	90	765	340	0	0	22	318
+Precinct 7316 - Vote By Mail	159	73	654	261	0	0	29	232
+Precinct 7316 - Election Day	88	24	178	130	0	0	18	112
+Precinct 7316	247	97	832	391	0	0	47	344
+Precinct 7317 - Vote By Mail	210	114	744	348	0	1	23	324
+Precinct 7317 - Election Day	82	15	146	111	0	0	14	97
+Precinct 7317	292	129	890	459	0	1	37	421
+Precinct 7318 - Vote By Mail	170	88	605	293	0	0	35	258
+Precinct 7318 - Election Day	53	34	118	106	0	0	19	87
+Precinct 7318	223	122	723	399	0	0	54	345
+Precinct 7319 - Vote By Mail	215	104	861	344	0	0	25	319
+Precinct 7319 - Election Day	110	46	188	180	0	1	23	156
+Precinct 7319	325	150	1,049	524	0	1	48	475
+Precinct 7321 - Vote By Mail	113	70	557	202	0	0	19	183
+Precinct 7321 - Election Day	58	18	102	84	0	0	8	76
+Precinct 7321	171	88	659	286	0	0	27	259
+Precinct 7322 - Vote By Mail	181	79	742	294	0	0	34	260
+Precinct 7322 - Election Day	37	4	146	49	0	0	8	41
+Precinct 7322	218	83	888	343	0	0	42	301
+Precinct 7323 - Vote By Mail	221	104	790	368	0	0	43	325
+Precinct 7323 - Election Day	108	31	166	157	0	0	18	139
+Precinct 7323	329	135	956	525	0	0	61	464
+Precinct 7324 - Vote By Mail	156	74	587	259	0	0	29	230
+Precinct 7324 - Election Day	50	29	150	89	0	0	10	79
+Precinct 7324	206	103	737	348	0	0	39	309
+Precinct 7325 - Vote By Mail	200	90	714	326	0	0	36	290
+Precinct 7325 - Election Day	82	30	172	123	0	0	11	112
+Precinct 7325	282	120	886	449	0	0	47	402
+Precinct 7326 - Vote By Mail	190	85	685	303	0	0	28	275
+Precinct 7326 - Election Day	94	35	174	155	0	1	25	129
+Precinct 7326	284	120	859	458	0	1	53	404
+Precinct 7327 - Vote By Mail	132	71	561	230	0	0	27	203
+Precinct 7327 - Election Day	39	8	126	49	0	0	2	47
+Precinct 7327	171	79	687	279	0	0	29	250
+Precinct 7328 - Vote By Mail	180	99	829	333	0	0	54	279
+Precinct 7328 - Election Day	43	12	173	67	0	0	12	55
+Precinct 7328	223	111	1,002	400	0	0	66	334
+Precinct 7329 - Vote By Mail	141	62	556	227	0	0	24	203
+Precinct 7329 - Election Day	51	19	95	76	0	0	6	70
+Precinct 7329	192	81	651	303	0	0	30	273
+Precinct 7331 - Vote By Mail	223	104	710	360	0	0	33	327
+Precinct 7331 - Election Day	99	38	160	158	0	0	21	137
+Precinct 7331	322	142	870	518	0	0	54	464
+Precinct 7332 - Vote By Mail	182	58	654	262	0	0	22	240
+Precinct 7332 - Election Day	116	22	136	147	0	0	9	138
+Precinct 7332	298	80	790	409	0	0	31	378
+Precinct 7333 - Vote By Mail	244	106	822	389	0	0	39	350
+Precinct 7333 - Election Day	158	44	193	219	0	0	17	202
+Precinct 7333	402	150	1,015	608	0	0	56	552
+Precinct 7334 - Vote By Mail	223	65	688	306	0	0	18	288
+Precinct 7334 - Election Day	97	23	131	131	0	0	11	120
+Precinct 7334	320	88	819	437	0	0	29	408
+Precinct 7335 - Vote By Mail	226	124	788	389	0	0	39	350
+Precinct 7335 - Election Day	138	33	146	189	0	0	18	171
+Precinct 7335	364	157	934	578	0	0	57	521
+Precinct 7336 - Vote By Mail	227	149	779	404	0	1	27	376
+Precinct 7336 - Election Day	110	43	175	174	0	0	21	153
+Precinct 7336	337	192	954	578	0	1	48	529
+Precinct 7337 - Vote By Mail	230	115	772	386	0	0	41	345
+Precinct 7337 - Election Day	78	27	125	111	0	0	6	105
+Precinct 7337	308	142	897	497	0	0	47	450
+Precinct 7338 - Vote By Mail	205	115	770	360	0	0	40	320
+Precinct 7338 - Election Day	67	14	125	90	0	0	9	81
+Precinct 7338	272	129	895	450	0	0	49	401
+Precinct 7339 - Vote By Mail	187	59	605	270	0	0	24	246
+Precinct 7339 - Election Day	88	29	150	122	0	0	5	117
+Precinct 7339	275	88	755	392	0	0	29	363
+Precinct 7341 - Vote By Mail	188	70	675	291	0	1	32	258
+Precinct 7341 - Election Day	121	28	178	159	0	0	10	149
+Precinct 7341	309	98	853	450	0	1	42	407
+Precinct 7342 - Vote By Mail	233	71	674	323	0	0	19	304
+Precinct 7342 - Election Day	167	49	230	238	0	0	22	216
+Precinct 7342	400	120	904	561	0	0	41	520
+Precinct 7343 - Vote By Mail	197	33	554	251	0	0	21	230
+Precinct 7343 - Election Day	110	20	150	146	0	0	16	130
+Precinct 7343	307	53	704	397	0	0	37	360
+Precinct 7344 - Vote By Mail	265	99	863	392	0	0	28	364
+Precinct 7344 - Election Day	108	44	201	161	0	0	9	152
+Precinct 7344	373	143	1,064	553	0	0	37	516
+Precinct 7345 - Vote By Mail	302	94	904	432	0	0	36	396
+Precinct 7345 - Election Day	158	39	210	214	0	0	17	197
+Precinct 7345	460	133	1,114	646	0	0	53	593
+Precinct 7346 - Vote By Mail	208	60	681	288	0	0	20	268
+Precinct 7346 - Election Day	126	26	208	169	0	0	17	152
+Precinct 7346	334	86	889	457	0	0	37	420
+Precinct 7347 - Vote By Mail	293	40	833	370	0	1	36	333
+Precinct 7347 - Election Day	88	15	170	109	0	0	6	103
+Precinct 7347	381	55	1,003	479	0	1	42	436
+Precinct 7348 - Vote By Mail	199	58	650	279	0	0	22	257
+Precinct 7348 - Election Day	85	21	193	115	0	0	9	106
+Precinct 7348	284	79	843	394	0	0	31	363
+Precinct 7349 - Vote By Mail	204	88	710	315	0	0	23	292
+Precinct 7349 - Election Day	104	24	202	143	0	0	15	128
+Precinct 7349	308	112	912	458	0	0	38	420
+Precinct 7501 - Vote By Mail	140	80	456	248	0	0	28	220
+Precinct 7501 - Election Day	70	33	95	116	0	0	13	103
+Precinct 7501	210	113	551	364	0	0	41	323
+Precinct 7502 - Vote By Mail	206	81	668	314	0	0	27	287
+Precinct 7502 - Election Day	89	29	121	135	0	0	17	118
+Precinct 7502	295	110	789	449	0	0	44	405
+Precinct 7503 - Vote By Mail	203	59	614	286	0	0	24	262
+Precinct 7503 - Election Day	91	24	148	134	0	0	19	115
+Precinct 7503	294	83	762	420	0	0	43	377
+Precinct 7504 - Vote By Mail	127	33	404	175	0	0	15	160
+Precinct 7504 - Election Day	39	13	84	57	0	0	5	52
+Precinct 7504	166	46	488	232	0	0	20	212
+Precinct 7505 - Vote By Mail	293	77	729	405	0	0	35	370
 Precinct 7505 - Election Day	77	16	133	96	0	0	3	93
-Precinct 7505	222	55	862	294	0	0	17	277
-Precinct 7506 - Vote By Mail	75	34	837	122	0	0	13	109
-Precinct 7506 - Election Day	87	15	163	111	0	0	9	102
-Precinct 7506	162	49	1,000	233	0	0	22	211
-Precinct 7507 - Vote By Mail	93	22	690	120	0	0	5	115
-Precinct 7507 - Election Day	79	12	266	95	0	0	4	91
-Precinct 7507	172	34	956	215	0	0	9	206
-Precinct 7508 - Vote By Mail	106	40	617	164	0	0	18	146
-Precinct 7508 - Election Day	80	16	127	103	0	0	7	96
-Precinct 7508	186	56	744	267	0	0	25	242
-Precinct 7509/7511 - Vote By Mail	126	41	755	180	0	0	13	167
-Precinct 7509/7511 - Election Day	107	29	174	145	0	0	9	136
-Precinct 7509/7511	233	70	929	325	0	0	22	303
-Precinct 7512 - Vote By Mail	63	30	473	102	0	0	9	93
-Precinct 7512 - Election Day	62	14	127	85	0	0	9	76
-Precinct 7512	125	44	600	187	0	0	18	169
-Precinct 7513 - Vote By Mail	71	17	573	100	0	0	12	88
-Precinct 7513 - Election Day	82	12	233	107	0	0	13	94
-Precinct 7513	153	29	806	207	0	0	25	182
-Precinct 7514 - Vote By Mail	74	24	707	110	0	0	12	98
-Precinct 7514 - Election Day	43	5	209	59	0	0	11	48
-Precinct 7514	117	29	916	169	0	0	23	146
-Precinct 7515 - Vote By Mail	55	23	660	83	0	0	5	78
-Precinct 7515 - Election Day	69	10	204	90	0	0	11	79
-Precinct 7515	124	33	864	173	0	0	16	157
-Precinct 7516 - Vote By Mail	121	42	771	175	0	0	12	163
-Precinct 7516 - Election Day	85	30	149	118	0	0	3	115
-Precinct 7516	206	72	920	293	0	0	15	278
-Precinct 7517 - Vote By Mail	93	28	644	128	0	0	7	121
-Precinct 7517 - Election Day	141	29	224	179	0	0	9	170
-Precinct 7517	234	57	868	307	0	0	16	291
-Precinct 7518 - Vote By Mail	72	25	707	105	0	0	8	97
-Precinct 7518 - Election Day	150	21	219	185	0	0	14	171
-Precinct 7518	222	46	926	290	0	0	22	268
-Precinct 7519 - Vote By Mail	47	12	541	66	0	0	7	59
-Precinct 7519 - Election Day	106	23	174	136	0	0	7	129
-Precinct 7519	153	35	715	202	0	0	14	188
-Precinct 7521 - Vote By Mail	83	9	595	100	0	1	7	92
-Precinct 7521 - Election Day	121	24	184	149	0	0	4	145
-Precinct 7521	204	33	779	249	0	1	11	237
-Precinct 7522 - Vote By Mail	69	13	586	88	0	0	6	82
-Precinct 7522 - Election Day	124	20	173	158	0	0	14	144
-Precinct 7522	193	33	759	246	0	0	20	226
-Precinct 7523 - Vote By Mail	54	14	561	79	0	0	11	68
-Precinct 7523 - Election Day	130	31	183	169	0	0	8	161
-Precinct 7523	184	45	744	248	0	0	19	229
-Precinct 7524 - Vote By Mail	53	12	476	75	0	0	10	65
-Precinct 7524 - Election Day	81	14	148	102	0	0	7	95
-Precinct 7524	134	26	624	177	0	0	17	160
-Precinct 7525 - Vote By Mail	54	15	592	74	0	0	5	69
-Precinct 7525 - Election Day	81	6	172	94	0	0	7	87
-Precinct 7525	135	21	764	168	0	0	12	156
-Precinct 7526 - Vote By Mail	93	26	818	134	0	0	15	119
-Precinct 7526 - Election Day	105	28	170	147	0	0	14	133
-Precinct 7526	198	54	988	281	0	0	29	252
-Precinct 7527/7528 - Vote By Mail	70	19	536	93	0	0	4	89
-Precinct 7527/7528 - Election Day	88	20	174	112	0	0	4	108
-Precinct 7527/7528	158	39	710	205	0	0	8	197
-Precinct 7529 - Vote By Mail	80	18	747	103	0	0	5	98
-Precinct 7529 - Election Day	153	25	156	185	0	0	7	178
-Precinct 7529	233	43	903	288	0	0	12	276
-Precinct 7531 - Vote By Mail	60	14	713	80	0	0	6	74
-Precinct 7531 - Election Day	104	24	160	132	0	0	4	128
-Precinct 7531	164	38	873	212	0	0	10	202
-Precinct 7532 - Vote By Mail	64	31	665	100	0	0	5	95
-Precinct 7532 - Election Day	82	34	170	126	0	0	10	116
-Precinct 7532	146	65	835	226	0	0	15	211
-Precinct 7533 - Vote By Mail	93	16	774	117	0	0	8	109
-Precinct 7533 - Election Day	141	26	196	185	0	0	18	167
-Precinct 7533	234	42	970	302	0	0	26	276
-Precinct 7534 - Vote By Mail	75	24	667	104	0	0	5	99
-Precinct 7534 - Election Day	147	14	236	177	0	0	16	161
-Precinct 7534	222	38	903	281	0	0	21	260
-Precinct 7535 - Vote By Mail	63	20	604	91	0	0	8	83
-Precinct 7535 - Election Day	119	15	141	151	0	0	17	134
-Precinct 7535	182	35	745	242	0	0	25	217
-Precinct 7536 - Vote By Mail	67	20	669	91	0	0	4	87
-Precinct 7536 - Election Day	133	22	164	170	0	0	15	155
-Precinct 7536	200	42	833	261	0	0	19	242
-Precinct 7537 - Vote By Mail	52	19	616	78	0	0	7	71
-Precinct 7537 - Election Day	115	24	129	148	0	1	8	139
-Precinct 7537	167	43	745	226	0	1	15	210
-Precinct 7538 - Vote By Mail	71	21	561	100	0	0	8	92
-Precinct 7538 - Election Day	131	24	190	172	0	0	17	155
-Precinct 7538	202	45	751	272	0	0	25	247
-Precinct 7539 - Vote By Mail	64	21	694	92	0	0	7	85
-Precinct 7539 - Election Day	156	21	227	187	0	0	10	177
-Precinct 7539	220	42	921	279	0	0	17	262
-Precinct 7541 - Vote By Mail	57	21	597	82	0	0	4	78
-Precinct 7541 - Election Day	119	24	173	159	0	0	16	143
-Precinct 7541	176	45	770	241	0	0	20	221
-Precinct 7542 - Vote By Mail	61	22	630	86	0	0	3	83
-Precinct 7542 - Election Day	133	27	194	166	0	0	6	160
-Precinct 7542	194	49	824	252	0	0	9	243
-Precinct 7543 - Vote By Mail	86	16	692	108	0	0	6	102
-Precinct 7543 - Election Day	106	25	232	138	0	0	7	131
-Precinct 7543	192	41	924	246	0	0	13	233
-Precinct 7544 - Vote By Mail	96	22	731	128	0	0	10	118
-Precinct 7544 - Election Day	120	23	168	159	0	0	16	143
-Precinct 7544	216	45	899	287	0	0	26	261
-Precinct 7545 - Vote By Mail	105	21	720	134	0	0	8	126
-Precinct 7545 - Election Day	117	19	175	146	0	0	10	136
-Precinct 7545	222	40	895	280	0	0	18	262
-Precinct 7546 - Vote By Mail	79	20	769	105	0	0	6	99
-Precinct 7546 - Election Day	155	38	184	209	0	0	16	193
-Precinct 7546	234	58	953	314	0	0	22	292
-Precinct 7547 - Vote By Mail	100	21	791	131	0	0	10	121
-Precinct 7547 - Election Day	151	13	190	172	0	0	8	164
-Precinct 7547	251	34	981	303	0	0	18	285
-Precinct 7548 - Vote By Mail	118	29	801	150	0	0	3	147
-Precinct 7548 - Election Day	161	30	250	201	0	0	10	191
-Precinct 7548	279	59	1,051	351	0	0	13	338
-Precinct 7549 - Vote By Mail	94	36	659	137	0	0	7	130
-Precinct 7549 - Election Day	104	21	147	140	0	0	15	125
-Precinct 7549	198	57	806	277	0	0	22	255
-Precinct 7551 - Vote By Mail	55	18	586	76	0	0	3	73
-Precinct 7551 - Election Day	125	36	137	171	0	0	10	161
-Precinct 7551	180	54	723	247	0	0	13	234
-Precinct 7552 - Vote By Mail	70	15	561	94	0	0	9	85
-Precinct 7552 - Election Day	97	19	124	127	0	0	11	116
-Precinct 7552	167	34	685	221	0	0	20	201
-Precinct 7553 MB - Vote By Mail	28	10	210	38	0	0	0	38
-Precinct 7553 MB - Election Day	0	0	-19	0	0	0	0	0
-Precinct 7553 MB	28	10	191	38	0	0	0	38
-Precinct 7554 - Vote By Mail	71	27	653	106	0	0	8	98
-Precinct 7554 - Election Day	120	43	168	177	0	0	14	163
-Precinct 7554	191	70	821	283	0	0	22	261
-Precinct 7555 - Vote By Mail	86	30	662	126	0	0	10	116
+Precinct 7505	370	93	862	501	0	0	38	463
+Precinct 7506 - Vote By Mail	240	82	842	363	0	0	41	322
+Precinct 7506 - Election Day	91	15	158	117	0	0	11	106
+Precinct 7506	331	97	1,000	480	0	0	52	428
+Precinct 7507 - Vote By Mail	223	46	694	289	0	0	20	269
+Precinct 7507 - Election Day	85	12	262	102	0	0	5	97
+Precinct 7507	308	58	956	391	0	0	25	366
+Precinct 7508 - Vote By Mail	247	88	618	373	0	0	38	335
+Precinct 7508 - Election Day	83	16	126	106	0	0	7	99
+Precinct 7508	330	104	744	479	0	0	45	434
+Precinct 7509/7511 - Vote By Mail	278	93	756	399	0	0	28	371
+Precinct 7509/7511 - Election Day	109	29	173	148	0	0	10	138
+Precinct 7509/7511	387	122	929	547	0	0	38	509
+Precinct 7512 - Vote By Mail	163	64	475	248	0	0	21	227
+Precinct 7512 - Election Day	63	14	125	86	0	0	9	77
+Precinct 7512	226	78	600	334	0	0	30	304
+Precinct 7513 - Vote By Mail	185	38	575	248	0	0	25	223
+Precinct 7513 - Election Day	86	13	231	112	0	0	13	99
+Precinct 7513	271	51	806	360	0	0	38	322
+Precinct 7514 - Vote By Mail	165	49	709	242	0	0	28	214
+Precinct 7514 - Election Day	44	5	207	61	0	0	12	49
+Precinct 7514	209	54	916	303	0	0	40	263
+Precinct 7515 - Vote By Mail	216	84	663	321	0	0	21	300
+Precinct 7515 - Election Day	69	10	201	90	0	0	11	79
+Precinct 7515	285	94	864	411	0	0	32	379
+Precinct 7516 - Vote By Mail	297	103	773	423	0	0	23	400
+Precinct 7516 - Election Day	85	30	147	118	0	0	3	115
+Precinct 7516	382	133	920	541	0	0	26	515
+Precinct 7517 - Vote By Mail	261	67	645	362	0	0	34	328
+Precinct 7517 - Election Day	141	29	223	179	0	0	9	170
+Precinct 7517	402	96	868	541	0	0	43	498
+Precinct 7518 - Vote By Mail	279	83	708	392	0	0	30	362
+Precinct 7518 - Election Day	150	22	218	186	0	0	14	172
+Precinct 7518	429	105	926	578	0	0	44	534
+Precinct 7519 - Vote By Mail	188	43	543	259	0	0	28	231
+Precinct 7519 - Election Day	106	23	172	136	0	0	7	129
+Precinct 7519	294	66	715	395	0	0	35	360
+Precinct 7521 - Vote By Mail	246	48	597	318	0	1	23	294
+Precinct 7521 - Election Day	121	24	182	149	0	0	4	145
+Precinct 7521	367	72	779	467	0	1	27	439
+Precinct 7522 - Vote By Mail	230	48	588	301	0	0	23	278
+Precinct 7522 - Election Day	125	20	171	159	0	0	14	145
+Precinct 7522	355	68	759	460	0	0	37	423
+Precinct 7523 - Vote By Mail	212	45	564	285	0	0	28	257
+Precinct 7523 - Election Day	130	31	180	169	0	0	8	161
+Precinct 7523	342	76	744	454	0	0	36	418
+Precinct 7524 - Vote By Mail	173	29	480	228	0	0	26	202
+Precinct 7524 - Election Day	81	14	144	102	0	0	7	95
+Precinct 7524	254	43	624	330	0	0	33	297
+Precinct 7525 - Vote By Mail	177	46	594	246	0	0	23	223
+Precinct 7525 - Election Day	82	6	170	96	0	0	8	88
+Precinct 7525	259	52	764	342	0	0	31	311
+Precinct 7526 - Vote By Mail	287	63	826	395	0	0	45	350
+Precinct 7526 - Election Day	106	28	162	149	0	0	15	134
+Precinct 7526	393	91	988	544	0	0	60	484
+Precinct 7527/7528 - Vote By Mail	210	59	538	296	0	0	27	269
+Precinct 7527/7528 - Election Day	89	20	172	113	0	0	4	109
+Precinct 7527/7528	299	79	710	409	0	0	31	378
+Precinct 7529 - Vote By Mail	295	51	749	366	0	0	20	346
+Precinct 7529 - Election Day	154	26	154	187	0	0	7	180
+Precinct 7529	449	77	903	553	0	0	27	526
+Precinct 7531 - Vote By Mail	261	50	714	336	0	0	25	311
+Precinct 7531 - Election Day	107	24	159	135	0	0	4	131
+Precinct 7531	368	74	873	471	0	0	29	442
+Precinct 7532 - Vote By Mail	231	68	668	328	0	0	29	299
+Precinct 7532 - Election Day	89	37	167	139	0	0	13	126
+Precinct 7532	320	105	835	467	0	0	42	425
+Precinct 7533 - Vote By Mail	306	67	776	405	0	0	32	373
+Precinct 7533 - Election Day	144	26	194	189	0	0	19	170
+Precinct 7533	450	93	970	594	0	0	51	543
+Precinct 7534 - Vote By Mail	266	75	670	375	0	0	34	341
+Precinct 7534 - Election Day	155	14	233	187	0	0	18	169
+Precinct 7534	421	89	903	562	0	0	52	510
+Precinct 7535 - Vote By Mail	220	57	606	300	0	0	23	277
+Precinct 7535 - Election Day	128	16	139	162	0	0	18	144
+Precinct 7535	348	73	745	462	0	0	41	421
+Precinct 7536 - Vote By Mail	267	58	670	346	0	0	21	325
+Precinct 7536 - Election Day	134	23	163	172	0	0	15	157
+Precinct 7536	401	81	833	518	0	0	36	482
+Precinct 7537 - Vote By Mail	214	64	619	301	0	0	23	278
+Precinct 7537 - Election Day	116	24	126	150	0	1	9	140
+Precinct 7537	330	88	745	451	0	1	32	418
+Precinct 7538 - Vote By Mail	243	58	562	321	0	0	20	301
+Precinct 7538 - Election Day	133	24	189	175	0	0	18	157
+Precinct 7538	376	82	751	496	0	0	38	458
+Precinct 7539 - Vote By Mail	295	55	696	374	0	0	24	350
+Precinct 7539 - Election Day	162	22	225	195	0	0	11	184
+Precinct 7539	457	77	921	569	0	0	35	534
+Precinct 7541 - Vote By Mail	209	57	600	295	0	0	29	266
+Precinct 7541 - Election Day	124	24	170	164	0	0	16	148
+Precinct 7541	333	81	770	459	0	0	45	414
+Precinct 7542 - Vote By Mail	252	54	632	323	0	0	17	306
+Precinct 7542 - Election Day	138	27	192	171	0	0	6	165
+Precinct 7542	390	81	824	494	0	0	23	471
+Precinct 7543 - Vote By Mail	290	65	694	371	0	0	16	355
+Precinct 7543 - Election Day	109	25	230	141	0	0	7	134
+Precinct 7543	399	90	924	512	0	0	23	489
+Precinct 7544 - Vote By Mail	284	68	731	389	0	0	37	352
+Precinct 7544 - Election Day	122	25	168	164	0	0	17	147
+Precinct 7544	406	93	899	553	0	0	54	499
+Precinct 7545 - Vote By Mail	288	70	723	384	0	0	26	358
+Precinct 7545 - Election Day	119	20	172	149	0	0	10	139
+Precinct 7545	407	90	895	533	0	0	36	497
+Precinct 7546 - Vote By Mail	333	63	770	417	0	0	21	396
+Precinct 7546 - Election Day	164	38	183	219	0	0	17	202
+Precinct 7546	497	101	953	636	0	0	38	598
+Precinct 7547 - Vote By Mail	335	58	798	426	0	0	33	393
+Precinct 7547 - Election Day	155	16	183	180	0	0	9	171
+Precinct 7547	490	74	981	606	0	0	42	564
+Precinct 7548 - Vote By Mail	353	69	802	447	0	0	25	422
+Precinct 7548 - Election Day	163	30	249	204	0	0	11	193
+Precinct 7548	516	99	1,051	651	0	0	36	615
+Precinct 7549 - Vote By Mail	255	70	660	357	0	0	32	325
+Precinct 7549 - Election Day	106	21	146	143	0	0	16	127
+Precinct 7549	361	91	806	500	0	0	48	452
+Precinct 7551 - Vote By Mail	228	57	587	303	0	0	18	285
+Precinct 7551 - Election Day	128	36	136	175	0	0	11	164
+Precinct 7551	356	93	723	478	0	0	29	449
+Precinct 7552 - Vote By Mail	216	45	561	285	0	0	24	261
+Precinct 7552 - Election Day	99	19	124	130	0	0	12	118
+Precinct 7552	315	64	685	415	0	0	36	379
+Precinct 7553 MB - Vote By Mail	69	19	211	95	0	0	7	88
+Precinct 7553 MB - Election Day	0	0	-20	0	0	0	0	0
+Precinct 7553 MB	69	19	191	95	0	0	7	88
+Precinct 7554 - Vote By Mail	266	86	653	381	0	0	29	352
+Precinct 7554 - Election Day	122	43	168	180	0	0	15	165
+Precinct 7554	388	129	821	561	0	0	44	517
+Precinct 7555 - Vote By Mail	303	79	662	416	0	0	34	382
 Precinct 7555 - Election Day	162	33	210	210	0	0	15	195
-Precinct 7555	248	63	872	336	0	0	25	311
-Precinct 7556/7557 - Vote By Mail	107	44	813	158	0	0	7	151
-Precinct 7556/7557 - Election Day	115	38	153	165	0	0	12	153
-Precinct 7556/7557	222	82	966	323	0	0	19	304
-Precinct 7601 - Vote By Mail	76	15	484	94	0	0	3	91
-Precinct 7601 - Election Day	67	12	193	89	0	0	10	79
-Precinct 7601	143	27	677	183	0	0	13	170
-Precinct 7602 - Vote By Mail	94	16	653	120	0	0	10	110
-Precinct 7602 - Election Day	83	12	233	103	0	0	8	95
-Precinct 7602	177	28	886	223	0	0	18	205
-Precinct 7603 - Vote By Mail	93	16	610	119	0	0	10	109
-Precinct 7603 - Election Day	132	25	205	167	0	0	10	157
-Precinct 7603	225	41	815	286	0	0	20	266
-Precinct 7604 - Vote By Mail	83	22	684	116	0	0	11	105
-Precinct 7604 - Election Day	94	25	260	133	0	0	14	119
-Precinct 7604	177	47	944	249	0	0	25	224
-Precinct 7605 - Vote By Mail	70	17	466	94	0	1	6	87
-Precinct 7605 - Election Day	50	7	195	62	0	0	5	57
-Precinct 7605	120	24	661	156	0	1	11	144
-Precinct 7606 - Vote By Mail	87	18	671	114	0	0	9	105
-Precinct 7606 - Election Day	66	7	212	79	0	0	6	73
-Precinct 7606	153	25	883	193	0	0	15	178
-Precinct 7607 - Vote By Mail	81	28	707	119	0	0	10	109
-Precinct 7607 - Election Day	80	15	212	100	0	0	5	95
-Precinct 7607	161	43	919	219	0	0	15	204
-Precinct 7608 - Vote By Mail	41	18	279	67	0	0	8	59
+Precinct 7555	465	112	872	626	0	0	49	577
+Precinct 7556/7557 - Vote By Mail	366	117	812	512	0	0	29	483
+Precinct 7556/7557 - Election Day	116	38	154	168	0	0	14	154
+Precinct 7556/7557	482	155	966	680	0	0	43	637
+Precinct 7601 - Vote By Mail	159	34	485	207	0	0	14	193
+Precinct 7601 - Election Day	68	13	192	91	0	0	10	81
+Precinct 7601	227	47	677	298	0	0	24	274
+Precinct 7602 - Vote By Mail	218	38	654	276	0	0	20	256
+Precinct 7602 - Election Day	84	12	232	104	0	0	8	96
+Precinct 7602	302	50	886	380	0	0	28	352
+Precinct 7603 - Vote By Mail	227	40	615	295	0	0	28	267
+Precinct 7603 - Election Day	133	25	200	168	0	0	10	158
+Precinct 7603	360	65	815	463	0	0	38	425
+Precinct 7604 - Vote By Mail	213	39	685	270	0	0	18	252
+Precinct 7604 - Election Day	95	26	259	135	0	0	14	121
+Precinct 7604	308	65	944	405	0	0	32	373
+Precinct 7605 - Vote By Mail	141	32	468	191	0	1	17	173
+Precinct 7605 - Election Day	50	7	193	62	0	0	5	57
+Precinct 7605	191	39	661	253	0	1	22	230
+Precinct 7606 - Vote By Mail	195	45	673	267	0	0	27	240
+Precinct 7606 - Election Day	67	7	210	80	0	0	6	74
+Precinct 7606	262	52	883	347	0	0	33	314
+Precinct 7607 - Vote By Mail	208	57	712	288	0	0	23	265
+Precinct 7607 - Election Day	81	15	207	101	0	0	5	96
+Precinct 7607	289	72	919	389	0	0	28	361
+Precinct 7608 - Vote By Mail	64	23	279	96	0	0	9	87
 Precinct 7608 - Election Day	16	2	101	19	0	0	1	18
-Precinct 7608	57	20	380	86	0	0	9	77
-Precinct 7609 - Vote By Mail	120	36	698	178	0	0	22	156
-Precinct 7609 - Election Day	38	7	186	49	0	1	3	45
-Precinct 7609	158	43	884	227	0	1	25	201
-Precinct 7611 - Vote By Mail	103	13	586	126	0	0	10	116
+Precinct 7608	80	25	380	115	0	0	10	105
+Precinct 7609 - Vote By Mail	204	51	699	286	0	0	31	255
+Precinct 7609 - Election Day	38	7	185	49	0	1	3	45
+Precinct 7609	242	58	884	335	0	1	34	300
+Precinct 7611 - Vote By Mail	188	32	586	235	0	0	15	220
 Precinct 7611 - Election Day	36	6	202	43	0	0	1	42
-Precinct 7611	139	19	788	169	0	0	11	158
-Precinct 7612 - Vote By Mail	68	25	452	95	0	0	2	93
-Precinct 7612 - Election Day	21	7	105	29	0	0	1	28
-Precinct 7612	89	32	557	124	0	0	3	121
-Precinct 7613 - Vote By Mail	76	20	629	100	0	0	4	96
-Precinct 7613 - Election Day	73	8	254	86	0	0	5	81
-Precinct 7613	149	28	883	186	0	0	9	177
-Precinct 7614 - Vote By Mail	82	17	708	109	0	0	10	99
-Precinct 7614 - Election Day	58	16	208	78	0	0	4	74
-Precinct 7614	140	33	916	187	0	0	14	173
-Precinct 7615 - Vote By Mail	53	18	510	75	0	0	4	71
+Precinct 7611	224	38	788	278	0	0	16	262
+Precinct 7612 - Vote By Mail	157	49	452	216	0	0	10	206
+Precinct 7612 - Election Day	22	8	105	31	0	0	1	30
+Precinct 7612	179	57	557	247	0	0	11	236
+Precinct 7613 - Vote By Mail	194	33	634	244	0	0	17	227
+Precinct 7613 - Election Day	76	8	249	89	0	0	5	84
+Precinct 7613	270	41	883	333	0	0	22	311
+Precinct 7614 - Vote By Mail	193	38	713	253	0	0	22	231
+Precinct 7614 - Election Day	61	16	203	81	0	0	4	77
+Precinct 7614	254	54	916	334	0	0	26	308
+Precinct 7615 - Vote By Mail	125	31	510	165	0	0	9	156
 Precinct 7615 - Election Day	44	10	240	58	0	0	4	54
-Precinct 7615	97	28	750	133	0	0	8	125
-Precinct 7616 - Vote By Mail	51	20	750	77	0	0	6	71
-Precinct 7616 - Election Day	59	19	86	86	0	0	8	78
-Precinct 7616	110	39	836	163	0	0	14	149
-Precinct 7617 - Vote By Mail	85	15	583	113	0	0	13	100
+Precinct 7615	169	41	750	223	0	0	13	210
+Precinct 7616 - Vote By Mail	209	86	754	330	0	0	35	295
+Precinct 7616 - Election Day	59	19	82	86	0	0	8	78
+Precinct 7616	268	105	836	416	0	0	43	373
+Precinct 7617 - Vote By Mail	165	36	583	222	0	0	21	201
 Precinct 7617 - Election Day	26	7	169	42	0	0	9	33
-Precinct 7617	111	22	752	155	0	0	22	133
-Precinct 7618 - Vote By Mail	89	38	762	133	0	0	6	127
-Precinct 7618 - Election Day	53	22	152	84	0	0	9	75
-Precinct 7618	142	60	914	217	0	0	15	202
-Precinct 7619 - Vote By Mail	104	43	932	158	0	0	11	147
-Precinct 7619 - Election Day	88	18	175	117	0	0	11	106
-Precinct 7619	192	61	1,107	275	0	0	22	253
-Precinct 7621 - Vote By Mail	114	49	1,000	177	0	0	14	163
-Precinct 7621 - Election Day	72	22	155	103	0	0	9	94
-Precinct 7621	186	71	1,155	280	0	0	23	257
-Precinct 7622 - Vote By Mail	84	9	695	100	0	0	7	93
-Precinct 7622 - Election Day	55	8	265	73	0	0	10	63
-Precinct 7622	139	17	960	173	0	0	17	156
-Precinct 7623 - Vote By Mail	73	17	762	99	0	1	8	90
-Precinct 7623 - Election Day	83	7	242	98	0	0	8	90
-Precinct 7623	156	24	1,004	197	0	1	16	180
-Precinct 7624 - Vote By Mail	89	24	649	118	0	0	5	113
-Precinct 7624 - Election Day	53	8	226	72	0	0	11	61
-Precinct 7624	142	32	875	190	0	0	16	174
-Precinct 7625 - Vote By Mail	174	53	747	265	0	0	38	227
-Precinct 7625 - Election Day	27	6	75	34	0	0	1	33
-Precinct 7625	201	59	822	299	0	0	39	260
-Precinct 7626 - Vote By Mail	93	50	944	158	0	0	15	143
-Precinct 7626 - Election Day	75	26	129	105	0	0	4	101
-Precinct 7626	168	76	1,073	263	0	0	19	244
-Precinct 7627 - Vote By Mail	43	32	456	81	0	0	6	75
-Precinct 7627 - Election Day	32	18	68	57	0	0	7	50
-Precinct 7627	75	50	524	138	0	0	13	125
-Precinct 7628 - Vote By Mail	87	25	716	116	0	0	4	112
-Precinct 7628 - Election Day	87	18	222	110	0	0	5	105
-Precinct 7628	174	43	938	226	0	0	9	217
-Precinct 7629 - Vote By Mail	69	20	685	100	0	0	11	89
-Precinct 7629 - Election Day	67	12	168	86	0	0	7	79
-Precinct 7629	136	32	853	186	0	0	18	168
-Precinct 7631 - Vote By Mail	117	40	1,007	164	0	0	7	157
-Precinct 7631 - Election Day	80	22	212	110	0	0	8	102
-Precinct 7631	197	62	1,219	274	0	0	15	259
-Precinct 7632 - Vote By Mail	105	43	995	154	0	0	6	148
-Precinct 7632 - Election Day	100	23	176	128	0	0	5	123
-Precinct 7632	205	66	1,171	282	0	0	11	271
-Precinct 7633 - Vote By Mail	88	33	608	134	0	0	13	121
-Precinct 7633 - Election Day	69	20	127	96	0	0	7	89
-Precinct 7633	157	53	735	230	0	0	20	210
-Precinct 7634 - Vote By Mail	114	36	704	162	0	0	12	150
-Precinct 7634 - Election Day	69	21	186	101	0	0	11	90
-Precinct 7634	183	57	890	263	0	0	23	240
-Precinct 7635 - Vote By Mail	67	32	662	103	0	0	4	99
-Precinct 7635 - Election Day	43	16	191	62	0	0	3	59
-Precinct 7635	110	48	853	165	0	0	7	158
-Precinct 7636 - Vote By Mail	70	50	797	130	0	0	10	120
-Precinct 7636 - Election Day	72	28	162	107	0	0	7	100
-Precinct 7636	142	78	959	237	0	0	17	220
-Precinct 7637 - Vote By Mail	72	59	746	143	0	0	12	131
-Precinct 7637 - Election Day	62	25	122	98	0	0	11	87
-Precinct 7637	134	84	868	241	0	0	23	218
-Precinct 7638 - Vote By Mail	80	71	806	156	0	0	5	151
-Precinct 7638 - Election Day	40	37	83	87	0	0	10	77
-Precinct 7638	120	108	889	243	0	0	15	228
-Precinct 7639 - Vote By Mail	71	54	888	138	0	0	13	125
-Precinct 7639 - Election Day	74	38	134	132	0	0	20	112
-Precinct 7639	145	92	1,022	270	0	0	33	237
-Precinct 7641 - Vote By Mail	97	72	817	182	0	0	13	169
-Precinct 7641 - Election Day	60	27	134	92	0	0	5	87
-Precinct 7641	157	99	951	274	0	0	18	256
-Precinct 7642 - Vote By Mail	59	27	646	92	0	0	6	86
-Precinct 7642 - Election Day	45	21	119	79	0	0	13	66
-Precinct 7642	104	48	765	171	0	0	19	152
-Precinct 7643 - Vote By Mail	108	58	808	177	0	0	11	166
-Precinct 7643 - Election Day	70	23	133	105	0	0	12	93
-Precinct 7643	178	81	941	282	0	0	23	259
-Precinct 7644 - Vote By Mail	78	53	1,013	141	0	0	10	131
-Precinct 7644 - Election Day	117	16	163	142	0	0	9	133
-Precinct 7644	195	69	1,176	283	0	0	19	264
-Precinct 7645 - Vote By Mail	78	41	595	127	0	0	8	119
+Precinct 7617	191	43	752	264	0	0	30	234
+Precinct 7618 - Vote By Mail	252	90	763	365	0	0	23	342
+Precinct 7618 - Election Day	54	22	151	85	0	0	9	76
+Precinct 7618	306	112	914	450	0	0	32	418
+Precinct 7619 - Vote By Mail	315	97	937	439	0	0	27	412
+Precinct 7619 - Election Day	89	18	170	119	0	0	12	107
+Precinct 7619	404	115	1,107	558	0	0	39	519
+Precinct 7621 - Vote By Mail	305	103	1,006	443	0	0	35	408
+Precinct 7621 - Election Day	72	22	149	104	0	0	10	94
+Precinct 7621	377	125	1,155	547	0	0	45	502
+Precinct 7622 - Vote By Mail	169	33	697	215	0	0	13	202
+Precinct 7622 - Election Day	56	8	263	74	0	0	10	64
+Precinct 7622	225	41	960	289	0	0	23	266
+Precinct 7623 - Vote By Mail	201	32	767	256	0	1	22	233
+Precinct 7623 - Election Day	83	7	237	98	0	0	8	90
+Precinct 7623	284	39	1,004	354	0	1	30	323
+Precinct 7624 - Vote By Mail	161	37	652	209	0	0	11	198
+Precinct 7624 - Election Day	54	8	223	73	0	0	11	62
+Precinct 7624	215	45	875	282	0	0	22	260
+Precinct 7625 - Vote By Mail	261	81	749	394	0	0	52	342
+Precinct 7625 - Election Day	27	6	73	34	0	0	1	33
+Precinct 7625	288	87	822	428	0	0	53	375
+Precinct 7626 - Vote By Mail	240	118	944	401	0	0	43	358
+Precinct 7626 - Election Day	78	26	129	108	0	0	4	104
+Precinct 7626	318	144	1,073	509	0	0	47	462
+Precinct 7627 - Vote By Mail	108	71	457	196	0	0	17	179
+Precinct 7627 - Election Day	33	19	67	59	0	0	7	52
+Precinct 7627	141	90	524	255	0	0	24	231
+Precinct 7628 - Vote By Mail	252	65	718	331	0	0	14	317
+Precinct 7628 - Election Day	88	18	220	111	0	0	5	106
+Precinct 7628	340	83	938	442	0	0	19	423
+Precinct 7629 - Vote By Mail	201	52	691	276	0	0	23	253
+Precinct 7629 - Election Day	68	12	162	87	0	0	7	80
+Precinct 7629	269	64	853	363	0	0	30	333
+Precinct 7631 - Vote By Mail	312	100	1,009	440	0	0	28	412
+Precinct 7631 - Election Day	80	23	210	111	0	0	8	103
+Precinct 7631	392	123	1,219	551	0	0	36	515
+Precinct 7632 - Vote By Mail	290	97	1,002	413	0	0	26	387
+Precinct 7632 - Election Day	102	23	169	130	0	0	5	125
+Precinct 7632	392	120	1,171	543	0	0	31	512
+Precinct 7633 - Vote By Mail	187	68	609	278	0	0	23	255
+Precinct 7633 - Election Day	69	20	126	97	0	0	8	89
+Precinct 7633	256	88	735	375	0	0	31	344
+Precinct 7634 - Vote By Mail	237	69	704	344	0	0	38	306
+Precinct 7634 - Election Day	71	22	186	105	0	0	12	93
+Precinct 7634	308	91	890	449	0	0	50	399
+Precinct 7635 - Vote By Mail	177	80	665	273	0	0	16	257
+Precinct 7635 - Election Day	43	16	188	62	0	0	3	59
+Precinct 7635	220	96	853	335	0	0	19	316
+Precinct 7636 - Vote By Mail	187	111	798	330	0	0	32	298
+Precinct 7636 - Election Day	72	28	161	107	0	0	7	100
+Precinct 7636	259	139	959	437	0	0	39	398
+Precinct 7637 - Vote By Mail	190	123	747	344	0	0	31	313
+Precinct 7637 - Election Day	63	25	121	99	0	0	11	88
+Precinct 7637	253	148	868	443	0	0	42	401
+Precinct 7638 - Vote By Mail	192	151	806	372	0	0	29	343
+Precinct 7638 - Election Day	42	37	83	89	0	0	10	79
+Precinct 7638	234	188	889	461	0	0	39	422
+Precinct 7639 - Vote By Mail	227	128	889	396	0	0	41	355
+Precinct 7639 - Election Day	76	38	133	134	0	0	20	114
+Precinct 7639	303	166	1,022	530	0	0	61	469
+Precinct 7641 - Vote By Mail	234	138	817	399	0	0	27	372
+Precinct 7641 - Election Day	61	27	134	93	0	0	5	88
+Precinct 7641	295	165	951	492	0	0	32	460
+Precinct 7642 - Vote By Mail	196	79	647	311	0	0	36	275
+Precinct 7642 - Election Day	48	21	118	82	0	0	13	69
+Precinct 7642	244	100	765	393	0	0	49	344
+Precinct 7643 - Vote By Mail	264	138	810	433	0	0	31	402
+Precinct 7643 - Election Day	71	23	131	106	0	0	12	94
+Precinct 7643	335	161	941	539	0	0	43	496
+Precinct 7644 - Vote By Mail	239	121	1,014	403	0	0	43	360
+Precinct 7644 - Election Day	117	16	162	142	0	0	9	133
+Precinct 7644	356	137	1,176	545	0	0	52	493
+Precinct 7645 - Vote By Mail	179	85	595	286	0	0	22	264
 Precinct 7645 - Election Day	35	13	61	56	0	0	8	48
-Precinct 7645	113	54	656	183	0	0	16	167
-Precinct 7646 - Vote By Mail	78	66	1,029	157	0	0	13	144
-Precinct 7646 - Election Day	96	20	124	133	0	0	17	116
-Precinct 7646	174	86	1,153	290	0	0	30	260
-Precinct 7647 - Vote By Mail	65	18	721	85	0	0	2	83
-Precinct 7647 - Election Day	60	13	266	79	0	0	6	73
-Precinct 7647	125	31	987	164	0	0	8	156
-Precinct 7648 MB - Vote By Mail	0	0	2	0	0	0	0	0
-Precinct 7648 MB - Election Day	0	0	0	0	0	0	0	0
-Precinct 7648 MB	0	0	2	0	0	0	0	0
-Precinct 7649 - Vote By Mail	92	29	714	127	0	0	6	121
-Precinct 7649 - Election Day	57	15	186	78	0	0	6	72
-Precinct 7649	149	44	900	205	0	0	12	193
-Precinct 7651 - Vote By Mail	80	36	833	124	0	0	8	116
-Precinct 7651 - Election Day	41	22	114	72	0	0	9	63
-Precinct 7651	121	58	947	196	0	0	17	179
-Precinct 7652 - Vote By Mail	43	29	530	77	0	0	5	72
-Precinct 7652 - Election Day	61	16	105	86	0	0	9	77
-Precinct 7652	104	45	635	163	0	0	14	149
-Precinct 7653 - Vote By Mail	67	22	749	107	0	0	18	89
-Precinct 7653 - Election Day	51	19	90	79	0	0	9	70
-Precinct 7653	118	41	839	186	0	0	27	159
-Precinct 7654 - Vote By Mail	43	18	407	66	0	0	5	61
-Precinct 7654 - Election Day	62	12	59	83	0	0	9	74
-Precinct 7654	105	30	466	149	0	0	14	135
-Precinct 7655 - Vote By Mail	60	27	578	92	0	0	5	87
-Precinct 7655 - Election Day	42	8	101	59	0	0	9	50
-Precinct 7655	102	35	679	151	0	0	14	137
-Precinct 7656 - Vote By Mail	69	51	603	130	0	0	10	120
+Precinct 7645	214	98	656	342	0	0	30	312
+Precinct 7646 - Vote By Mail	296	144	1,032	484	0	0	44	440
+Precinct 7646 - Election Day	96	20	121	134	0	0	18	116
+Precinct 7646	392	164	1,153	618	0	0	62	556
+Precinct 7647 - Vote By Mail	163	43	724	210	0	0	4	206
+Precinct 7647 - Election Day	60	13	263	79	0	0	6	73
+Precinct 7647	223	56	987	289	0	0	10	279
+Precinct 7648 MB - Vote By Mail	0	0	2	1	0	0	1	0
+Precinct 7648 MB	0	0	2	1	0	0	1	0
+Precinct 7649 - Vote By Mail	205	69	723	286	0	0	12	274
+Precinct 7649 - Election Day	60	15	177	81	0	0	6	75
+Precinct 7649	265	84	900	367	0	0	18	349
+Precinct 7651 - Vote By Mail	209	93	834	332	0	0	30	302
+Precinct 7651 - Election Day	42	22	113	73	0	0	9	64
+Precinct 7651	251	115	947	405	0	0	39	366
+Precinct 7652 - Vote By Mail	125	63	535	207	0	0	19	188
+Precinct 7652 - Election Day	61	16	100	87	0	0	10	77
+Precinct 7652	186	79	635	294	0	0	29	265
+Precinct 7653 - Vote By Mail	217	81	750	334	0	0	36	298
+Precinct 7653 - Election Day	51	20	89	80	0	0	9	71
+Precinct 7653	268	101	839	414	0	0	45	369
+Precinct 7654 - Vote By Mail	130	48	413	191	0	0	13	178
+Precinct 7654 - Election Day	62	13	53	84	0	0	9	75
+Precinct 7654	192	61	466	275	0	0	22	253
+Precinct 7655 - Vote By Mail	146	59	583	215	0	0	10	205
+Precinct 7655 - Election Day	42	9	96	60	0	0	9	51
+Precinct 7655	188	68	679	275	0	0	19	256
+Precinct 7656 - Vote By Mail	159	120	603	308	0	0	29	279
 Precinct 7656 - Election Day	17	20	35	40	0	0	3	37
-Precinct 7656	86	71	638	170	0	0	13	157
-Precinct 7657 - Vote By Mail	37	30	559	75	0	0	8	67
-Precinct 7657 - Election Day	37	18	39	61	0	0	6	55
-Precinct 7657	74	48	598	136	0	0	14	122
-Precinct 7701 - Vote By Mail	121	53	868	190	0	0	16	174
-Precinct 7701 - Election Day	126	37	196	173	0	0	10	163
-Precinct 7701	247	90	1,064	363	0	0	26	337
-Precinct 7702 - Vote By Mail	58	61	623	125	0	0	6	119
-Precinct 7702 - Election Day	66	30	133	103	0	0	7	96
-Precinct 7702	124	91	756	228	0	0	13	215
-Precinct 7703 MB - Vote By Mail	32	9	187	42	0	0	1	41
+Precinct 7656	176	140	638	348	0	0	32	316
+Precinct 7657 - Vote By Mail	145	93	561	269	0	0	31	238
+Precinct 7657 - Election Day	37	18	37	61	0	0	6	55
+Precinct 7657	182	111	598	330	0	0	37	293
+Precinct 7701 - Vote By Mail	335	110	868	481	0	0	36	445
+Precinct 7701 - Election Day	126	38	196	174	0	0	10	164
+Precinct 7701	461	148	1,064	655	0	0	46	609
+Precinct 7702 - Vote By Mail	223	130	623	375	0	0	22	353
+Precinct 7702 - Election Day	67	30	133	104	0	0	7	97
+Precinct 7702	290	160	756	479	0	0	29	450
+Precinct 7703 MB - Vote By Mail	58	9	187	71	0	0	4	67
 Precinct 7703 MB - Election Day	0	0	-13	0	0	0	0	0
-Precinct 7703 MB	32	9	174	42	0	0	1	41
-Precinct 7704 - Vote By Mail	86	87	798	186	0	0	13	173
+Precinct 7703 MB	58	9	174	71	0	0	4	67
+Precinct 7704 - Vote By Mail	266	186	798	489	0	0	37	452
 Precinct 7704 - Election Day	110	59	204	173	0	0	4	169
-Precinct 7704	196	146	1,002	359	0	0	17	342
-Precinct 7705 - Vote By Mail	55	57	467	119	0	0	7	112
-Precinct 7705 - Election Day	60	39	128	110	0	0	11	99
-Precinct 7705	115	96	595	229	0	0	18	211
-Precinct 7706 - Vote By Mail	100	65	686	177	0	0	12	165
-Precinct 7706 - Election Day	103	52	180	162	0	0	7	155
-Precinct 7706	203	117	866	339	0	0	19	320
-Precinct 7707 - Vote By Mail	83	60	683	148	0	0	5	143
+Precinct 7704	376	245	1,002	662	0	0	41	621
+Precinct 7705 - Vote By Mail	154	114	470	285	0	0	17	268
+Precinct 7705 - Election Day	60	39	125	110	0	0	11	99
+Precinct 7705	214	153	595	395	0	0	28	367
+Precinct 7706 - Vote By Mail	259	163	687	447	0	0	25	422
+Precinct 7706 - Election Day	103	52	179	162	0	0	7	155
+Precinct 7706	362	215	866	609	0	0	32	577
+Precinct 7707 - Vote By Mail	278	130	683	432	0	0	24	408
 Precinct 7707 - Election Day	103	68	189	179	0	0	8	171
-Precinct 7707	186	128	872	327	0	0	13	314
-Precinct 7708 - Vote By Mail	90	81	710	182	0	0	11	171
-Precinct 7708 - Election Day	98	43	165	152	0	0	11	141
-Precinct 7708	188	124	875	334	0	0	22	312
-Precinct 7709 - Vote By Mail	38	27	322	67	0	0	2	65
-Precinct 7709 - Election Day	67	18	84	90	0	0	5	85
-Precinct 7709	105	45	406	157	0	0	7	150
-Precinct 7711 - Vote By Mail	66	55	657	127	0	0	6	121
-Precinct 7711 - Election Day	92	27	154	125	0	0	6	119
-Precinct 7711	158	82	811	252	0	0	12	240
-Precinct 7712 - Vote By Mail	57	22	423	81	0	0	2	79
-Precinct 7712 - Election Day	71	27	109	106	0	0	8	98
-Precinct 7712	128	49	532	187	0	0	10	177
-Precinct 7801 - Vote By Mail	96	59	821	162	0	0	7	155
-Precinct 7801 - Election Day	133	48	153	190	0	0	9	181
-Precinct 7801	229	107	974	352	0	0	16	336
-Precinct 7802 - Vote By Mail	100	44	646	154	0	0	10	144
-Precinct 7802 - Election Day	126	24	152	157	0	0	7	150
-Precinct 7802	226	68	798	311	0	0	17	294
-Precinct 7803 - Vote By Mail	98	63	717	166	0	0	5	161
-Precinct 7803 - Election Day	89	27	114	128	0	0	12	116
-Precinct 7803	187	90	831	294	0	0	17	277
-Precinct 7804 - Vote By Mail	95	44	729	148	0	0	9	139
-Precinct 7804 - Election Day	126	35	156	180	0	1	18	161
-Precinct 7804	221	79	885	328	0	1	27	300
-Precinct 7805 - Vote By Mail	88	40	641	142	0	0	14	128
-Precinct 7805 - Election Day	122	21	159	155	0	0	12	143
-Precinct 7805	210	61	800	297	0	0	26	271
-Precinct 7806 - Vote By Mail	64	28	601	99	0	0	7	92
-Precinct 7806 - Election Day	113	25	154	152	0	0	14	138
-Precinct 7806	177	53	755	251	0	0	21	230
-Precinct 7807 - Vote By Mail	103	29	642	137	0	0	5	132
+Precinct 7707	381	198	872	611	0	0	32	579
+Precinct 7708 - Vote By Mail	272	151	710	461	0	0	38	423
+Precinct 7708 - Election Day	99	44	165	154	0	0	11	143
+Precinct 7708	371	195	875	615	0	0	49	566
+Precinct 7709 - Vote By Mail	118	65	324	193	0	0	10	183
+Precinct 7709 - Election Day	67	18	82	90	0	0	5	85
+Precinct 7709	185	83	406	283	0	0	15	268
+Precinct 7711 - Vote By Mail	245	113	658	379	0	1	20	358
+Precinct 7711 - Election Day	92	27	153	125	0	0	6	119
+Precinct 7711	337	140	811	504	0	1	26	477
+Precinct 7712 - Vote By Mail	183	61	425	258	0	0	14	244
+Precinct 7712 - Election Day	71	27	107	106	0	0	8	98
+Precinct 7712	254	88	532	364	0	0	22	342
+Precinct 7801 - Vote By Mail	325	132	823	478	0	0	21	457
+Precinct 7801 - Election Day	133	48	151	190	0	0	9	181
+Precinct 7801	458	180	974	668	0	0	30	638
+Precinct 7802 - Vote By Mail	286	90	646	401	0	0	25	376
+Precinct 7802 - Election Day	126	25	152	158	0	0	7	151
+Precinct 7802	412	115	798	559	0	0	32	527
+Precinct 7803 - Vote By Mail	317	128	718	476	0	0	31	445
+Precinct 7803 - Election Day	89	27	113	128	0	0	12	116
+Precinct 7803	406	155	831	604	0	0	43	561
+Precinct 7804 - Vote By Mail	301	115	734	463	0	0	47	416
+Precinct 7804 - Election Day	127	35	151	181	0	1	18	162
+Precinct 7804	428	150	885	644	0	1	65	578
+Precinct 7805 - Vote By Mail	260	97	644	399	0	0	42	357
+Precinct 7805 - Election Day	123	21	156	156	0	0	12	144
+Precinct 7805	383	118	800	555	0	0	54	501
+Precinct 7806 - Vote By Mail	263	70	602	361	0	0	28	333
+Precinct 7806 - Election Day	113	25	153	152	0	0	14	138
+Precinct 7806	376	95	755	513	0	0	42	471
+Precinct 7807 - Vote By Mail	272	70	642	361	0	0	19	342
 Precinct 7807 - Election Day	136	21	185	174	0	0	17	157
-Precinct 7807	239	50	827	311	0	0	22	289
-Precinct 7808 - Vote By Mail	65	22	525	91	0	0	4	87
+Precinct 7807	408	91	827	535	0	0	36	499
+Precinct 7808 - Vote By Mail	221	50	525	296	0	0	25	271
 Precinct 7808 - Election Day	95	23	129	129	0	0	11	118
-Precinct 7808	160	45	654	220	0	0	15	205
-Precinct 7809 - Vote By Mail	97	27	624	132	0	0	8	124
-Precinct 7809 - Election Day	112	10	140	135	0	0	13	122
-Precinct 7809	209	37	764	267	0	0	21	246
-Precinct 7811 - Vote By Mail	66	18	575	94	0	0	10	84
-Precinct 7811 - Election Day	121	26	183	155	0	0	8	147
-Precinct 7811	187	44	758	249	0	0	18	231
-Precinct 7812 - Vote By Mail	105	28	680	146	0	0	13	133
+Precinct 7808	316	73	654	425	0	0	36	389
+Precinct 7809 - Vote By Mail	272	57	624	351	0	0	22	329
+Precinct 7809 - Election Day	113	10	140	136	0	0	13	123
+Precinct 7809	385	67	764	487	0	0	35	452
+Precinct 7811 - Vote By Mail	240	49	582	311	0	0	22	289
+Precinct 7811 - Election Day	121	26	176	155	0	0	8	147
+Precinct 7811	361	75	758	466	0	0	30	436
+Precinct 7812 - Vote By Mail	272	65	680	369	0	0	32	337
 Precinct 7812 - Election Day	126	27	217	163	0	0	10	153
-Precinct 7812	231	55	897	309	0	0	23	286
-Precinct 7813 - Vote By Mail	122	37	836	171	0	0	12	159
-Precinct 7813 - Election Day	167	30	232	214	0	0	17	197
-Precinct 7813	289	67	1,068	385	0	0	29	356
-Precinct 7814 - Vote By Mail	68	24	660	99	0	0	7	92
+Precinct 7812	398	92	897	532	0	0	42	490
+Precinct 7813 - Vote By Mail	360	98	843	483	0	0	25	458
+Precinct 7813 - Election Day	168	30	225	215	0	0	17	198
+Precinct 7813	528	128	1,068	698	0	0	42	656
+Precinct 7814 - Vote By Mail	205	55	660	279	0	0	19	260
 Precinct 7814 - Election Day	99	10	241	118	0	0	9	109
-Precinct 7814	167	34	901	217	0	0	16	201
-Precinct 7815 - Vote By Mail	104	46	749	167	0	0	17	150
-Precinct 7815 - Election Day	136	32	168	176	0	0	8	168
-Precinct 7815	240	78	917	343	0	0	25	318
-Precinct 7816 - Vote By Mail	106	39	721	164	0	0	19	145
-Precinct 7816 - Election Day	105	37	151	149	0	0	7	142
-Precinct 7816	211	76	872	313	0	0	26	287
-Precinct 7817 - Vote By Mail	117	25	648	149	0	0	7	142
-Precinct 7817 - Election Day	149	23	190	182	0	0	10	172
-Precinct 7817	266	48	838	331	0	0	17	314
-Precinct 7818 - Vote By Mail	87	33	667	126	0	0	6	120
-Precinct 7818 - Election Day	122	19	172	149	0	0	8	141
-Precinct 7818	209	52	839	275	0	0	14	261
-Precinct 7819 - Vote By Mail	85	26	632	120	0	0	9	111
-Precinct 7819 - Election Day	75	8	142	89	0	0	6	83
-Precinct 7819	160	34	774	209	0	0	15	194
-Precinct 7821 - Vote By Mail	110	34	806	155	0	0	11	144
-Precinct 7821 - Election Day	129	51	170	189	0	0	9	180
-Precinct 7821	239	85	976	344	0	0	20	324
-Precinct 7822 - Vote By Mail	106	25	673	140	0	1	8	131
-Precinct 7822 - Election Day	153	48	219	222	0	0	21	201
-Precinct 7822	259	73	892	362	0	1	29	332
-Precinct 7823 - Vote By Mail	117	36	703	159	0	0	6	153
-Precinct 7823 - Election Day	159	24	180	188	0	0	5	183
-Precinct 7823	276	60	883	347	0	0	11	336
-Precinct 7824 - Vote By Mail	68	32	613	104	0	0	4	100
-Precinct 7824 - Election Day	123	23	155	158	0	0	12	146
-Precinct 7824	191	55	768	262	0	0	16	246
-Precinct 7825 - Vote By Mail	70	9	457	82	0	0	3	79
+Precinct 7814	304	65	901	397	0	0	28	369
+Precinct 7815 - Vote By Mail	321	95	749	465	0	0	49	416
+Precinct 7815 - Election Day	138	32	168	179	0	0	9	170
+Precinct 7815	459	127	917	644	0	0	58	586
+Precinct 7816 - Vote By Mail	331	104	724	472	0	0	37	435
+Precinct 7816 - Election Day	105	37	148	149	0	0	7	142
+Precinct 7816	436	141	872	621	0	0	44	577
+Precinct 7817 - Vote By Mail	321	62	652	396	0	0	13	383
+Precinct 7817 - Election Day	150	23	186	183	0	0	10	173
+Precinct 7817	471	85	838	579	0	0	23	556
+Precinct 7818 - Vote By Mail	290	77	668	393	0	0	26	367
+Precinct 7818 - Election Day	122	19	171	149	0	0	8	141
+Precinct 7818	412	96	839	542	0	0	34	508
+Precinct 7819 - Vote By Mail	248	75	635	352	0	0	29	323
+Precinct 7819 - Election Day	75	8	139	89	0	0	6	83
+Precinct 7819	323	83	774	441	0	0	35	406
+Precinct 7821 - Vote By Mail	380	107	806	519	0	0	32	487
+Precinct 7821 - Election Day	130	51	170	190	0	0	9	181
+Precinct 7821	510	158	976	709	0	0	41	668
+Precinct 7822 - Vote By Mail	296	73	673	395	0	1	25	369
+Precinct 7822 - Election Day	154	48	219	223	0	0	21	202
+Precinct 7822	450	121	892	618	0	1	46	571
+Precinct 7823 - Vote By Mail	306	78	706	410	0	0	26	384
+Precinct 7823 - Election Day	160	24	177	189	0	0	5	184
+Precinct 7823	466	102	883	599	0	0	31	568
+Precinct 7824 - Vote By Mail	228	77	615	334	0	0	29	305
+Precinct 7824 - Election Day	123	23	153	158	0	0	12	146
+Precinct 7824	351	100	768	492	0	0	41	451
+Precinct 7825 - Vote By Mail	208	27	457	252	0	0	17	235
 Precinct 7825 - Election Day	106	20	151	130	0	0	4	126
-Precinct 7825	176	29	608	212	0	0	7	205
-Precinct 7826 - Vote By Mail	62	13	485	82	0	0	7	75
-Precinct 7826 - Election Day	142	14	205	162	0	0	6	156
-Precinct 7826	204	27	690	244	0	0	13	231
-Precinct 7827 - Vote By Mail	62	12	601	80	0	0	6	74
-Precinct 7827 - Election Day	110	20	225	145	0	0	15	130
-Precinct 7827	172	32	826	225	0	0	21	204
-Precinct 7828 - Vote By Mail	112	54	855	178	0	0	12	166
-Precinct 7828 - Election Day	126	32	173	177	0	1	18	158
-Precinct 7828	238	86	1,028	355	0	1	30	324
-Precinct 7829 - Vote By Mail	95	49	740	151	0	0	7	144
-Precinct 7829 - Election Day	118	28	151	151	0	0	5	146
-Precinct 7829	213	77	891	302	0	0	12	290
-Precinct 7831 - Vote By Mail	122	40	762	174	0	0	12	162
-Precinct 7831 - Election Day	93	35	140	137	0	0	9	128
-Precinct 7831	215	75	902	311	0	0	21	290
-Precinct 7832 - Vote By Mail	106	35	662	154	0	0	13	141
-Precinct 7832 - Election Day	99	19	119	127	0	0	9	118
-Precinct 7832	205	54	781	281	0	0	22	259
-Precinct 7833 - Vote By Mail	71	25	585	102	0	0	6	96
-Precinct 7833 - Election Day	107	21	148	145	0	0	17	128
-Precinct 7833	178	46	733	247	0	0	23	224
-Precinct 7834 - Vote By Mail	81	19	696	109	0	0	9	100
-Precinct 7834 - Election Day	137	25	198	175	0	0	13	162
-Precinct 7834	218	44	894	284	0	0	22	262
-Precinct 7835 - Vote By Mail	99	51	720	158	0	0	8	150
-Precinct 7835 - Election Day	101	34	143	147	0	0	12	135
-Precinct 7835	200	85	863	305	0	0	20	285
-Precinct 7836 - Vote By Mail	129	69	849	209	0	0	11	198
-Precinct 7836 - Election Day	115	48	194	169	0	0	6	163
-Precinct 7836	244	117	1,043	378	0	0	17	361
-Precinct 7837 - Vote By Mail	90	35	717	140	0	0	15	125
-Precinct 7837 - Election Day	155	34	206	198	0	0	9	189
-Precinct 7837	245	69	923	338	0	0	24	314
-Precinct 7838 - Vote By Mail	106	52	752	174	0	0	16	158
-Precinct 7838 - Election Day	114	32	143	155	0	0	9	146
-Precinct 7838	220	84	895	329	0	0	25	304
-Precinct 7839 - Vote By Mail	105	41	731	156	0	0	10	146
-Precinct 7839 - Election Day	97	29	130	136	0	1	9	126
-Precinct 7839	202	70	861	292	0	1	19	272
-Precinct 7841 - Vote By Mail	97	34	752	138	0	0	7	131
+Precinct 7825	314	47	608	382	0	0	21	361
+Precinct 7826 - Vote By Mail	200	45	486	263	0	0	18	245
+Precinct 7826 - Election Day	142	14	204	162	0	0	6	156
+Precinct 7826	342	59	690	425	0	0	24	401
+Precinct 7827 - Vote By Mail	239	59	607	318	0	0	20	298
+Precinct 7827 - Election Day	110	20	219	146	0	0	16	130
+Precinct 7827	349	79	826	464	0	0	36	428
+Precinct 7828 - Vote By Mail	327	117	857	477	0	1	32	444
+Precinct 7828 - Election Day	127	32	171	179	0	1	19	159
+Precinct 7828	454	149	1,028	656	0	2	51	603
+Precinct 7829 - Vote By Mail	296	135	742	466	0	0	35	431
+Precinct 7829 - Election Day	118	28	149	151	0	0	5	146
+Precinct 7829	414	163	891	617	0	0	40	577
+Precinct 7831 - Vote By Mail	333	111	763	485	0	0	41	444
+Precinct 7831 - Election Day	94	35	139	138	0	0	9	129
+Precinct 7831	427	146	902	623	0	0	50	573
+Precinct 7832 - Vote By Mail	292	87	663	412	0	0	33	379
+Precinct 7832 - Election Day	99	19	118	127	0	0	9	118
+Precinct 7832	391	106	781	539	0	0	42	497
+Precinct 7833 - Vote By Mail	253	66	587	343	0	0	24	319
+Precinct 7833 - Election Day	107	21	146	145	0	0	17	128
+Precinct 7833	360	87	733	488	0	0	41	447
+Precinct 7834 - Vote By Mail	294	52	700	374	0	0	28	346
+Precinct 7834 - Election Day	139	25	194	177	0	0	13	164
+Precinct 7834	433	77	894	551	0	0	41	510
+Precinct 7835 - Vote By Mail	274	127	721	427	0	0	26	401
+Precinct 7835 - Election Day	101	34	142	147	0	0	12	135
+Precinct 7835	375	161	863	574	0	0	38	536
+Precinct 7836 - Vote By Mail	335	145	850	505	0	0	25	480
+Precinct 7836 - Election Day	116	48	193	170	0	0	6	164
+Precinct 7836	451	193	1,043	675	0	0	31	644
+Precinct 7837 - Vote By Mail	272	106	718	424	0	0	46	378
+Precinct 7837 - Election Day	156	34	205	199	0	0	9	190
+Precinct 7837	428	140	923	623	0	0	55	568
+Precinct 7838 - Vote By Mail	323	130	752	492	0	0	39	453
+Precinct 7838 - Election Day	115	32	143	156	0	0	9	147
+Precinct 7838	438	162	895	648	0	0	48	600
+Precinct 7839 - Vote By Mail	305	111	731	456	0	0	40	416
+Precinct 7839 - Election Day	97	29	130	137	0	1	10	126
+Precinct 7839	402	140	861	593	0	1	50	542
+Precinct 7841 - Vote By Mail	322	102	752	457	0	0	33	424
 Precinct 7841 - Election Day	159	40	198	207	0	0	8	199
-Precinct 7841	256	74	950	345	0	0	15	330
-Precinct 7842 - Vote By Mail	86	22	701	114	0	0	6	108
-Precinct 7842 - Election Day	122	26	178	154	0	0	6	148
-Precinct 7842	208	48	879	268	0	0	12	256
-Precinct 7843 - Vote By Mail	67	18	545	88	0	0	3	85
-Precinct 7843 - Election Day	122	29	184	163	0	0	12	151
-Precinct 7843	189	47	729	251	0	0	15	236
-Precinct 7844 - Vote By Mail	67	11	499	84	0	0	6	78
+Precinct 7841	481	142	950	664	0	0	41	623
+Precinct 7842 - Vote By Mail	294	68	702	393	0	0	31	362
+Precinct 7842 - Election Day	123	26	177	155	0	0	6	149
+Precinct 7842	417	94	879	548	0	0	37	511
+Precinct 7843 - Vote By Mail	234	48	546	295	0	0	13	282
+Precinct 7843 - Election Day	123	30	183	165	0	0	12	153
+Precinct 7843	357	78	729	460	0	0	25	435
+Precinct 7844 - Vote By Mail	213	41	499	281	0	0	27	254
 Precinct 7844 - Election Day	100	23	152	136	0	0	13	123
-Precinct 7844	167	34	651	220	0	0	19	201
-Precinct 7845 - Vote By Mail	97	28	675	129	0	0	4	125
-Precinct 7845 - Election Day	127	36	205	177	0	0	14	163
-Precinct 7845	224	64	880	306	0	0	18	288
-Precinct 7846 - Vote By Mail	80	57	735	147	0	0	10	137
-Precinct 7846 - Election Day	121	30	173	166	0	0	15	151
-Precinct 7846	201	87	908	313	0	0	25	288
-Precinct 7847 - Vote By Mail	100	33	698	142	0	0	9	133
-Precinct 7847 - Election Day	137	37	193	181	0	0	7	174
-Precinct 7847	237	70	891	323	0	0	16	307
-Precinct 7848 - Vote By Mail	93	35	663	131	0	0	3	128
-Precinct 7848 - Election Day	117	33	184	168	0	0	18	150
-Precinct 7848	210	68	847	299	0	0	21	278
-Precinct 7849 - Vote By Mail	92	37	729	141	0	0	12	129
+Precinct 7844	313	64	651	417	0	0	40	377
+Precinct 7845 - Vote By Mail	301	77	676	405	0	0	27	378
+Precinct 7845 - Election Day	127	36	204	177	0	0	14	163
+Precinct 7845	428	113	880	582	0	0	41	541
+Precinct 7846 - Vote By Mail	296	124	736	463	0	0	43	420
+Precinct 7846 - Election Day	121	30	172	167	0	0	16	151
+Precinct 7846	417	154	908	630	0	0	59	571
+Precinct 7847 - Vote By Mail	305	82	698	427	0	0	40	387
+Precinct 7847 - Election Day	139	37	193	183	0	0	7	176
+Precinct 7847	444	119	891	610	0	0	47	563
+Precinct 7848 - Vote By Mail	311	97	665	437	0	0	29	408
+Precinct 7848 - Election Day	118	33	182	169	0	0	18	151
+Precinct 7848	429	130	847	606	0	0	47	559
+Precinct 7849 - Vote By Mail	310	95	729	441	0	1	35	405
 Precinct 7849 - Election Day	141	30	172	186	0	0	15	171
-Precinct 7849	233	67	901	327	0	0	27	300
-Precinct 7851 - Vote By Mail	61	41	413	113	0	0	11	102
-Precinct 7851 - Election Day	48	28	113	84	0	0	8	76
-Precinct 7851	109	69	526	197	0	0	19	178
-Precinct 7852 - Vote By Mail	81	50	532	139	0	0	8	131
-Precinct 7852 - Election Day	68	30	112	103	0	0	5	98
-Precinct 7852	149	80	644	242	0	0	13	229
-Precinct 7853 - Vote By Mail	86	38	694	136	0	0	12	124
+Precinct 7849	451	125	901	627	0	1	50	576
+Precinct 7851 - Vote By Mail	152	97	414	272	0	0	23	249
+Precinct 7851 - Election Day	48	28	112	84	0	0	8	76
+Precinct 7851	200	125	526	356	0	0	31	325
+Precinct 7852 - Vote By Mail	205	121	533	350	0	0	24	326
+Precinct 7852 - Election Day	68	30	111	103	0	0	5	98
+Precinct 7852	273	151	644	453	0	0	29	424
+Precinct 7853 - Vote By Mail	251	111	694	394	0	0	32	362
 Precinct 7853 - Election Day	92	36	161	137	0	0	9	128
-Precinct 7853	178	74	855	273	0	0	21	252
-Precinct 7854 - Vote By Mail	86	38	703	138	0	0	14	124
+Precinct 7853	343	147	855	531	0	0	41	490
+Precinct 7854 - Vote By Mail	284	111	703	430	0	0	35	395
 Precinct 7854 - Election Day	128	34	175	172	0	0	10	162
-Precinct 7854	214	72	878	310	0	0	24	286
-Precinct 7855 - Vote By Mail	96	44	760	150	0	0	10	140
-Precinct 7855 - Election Day	150	36	214	202	0	0	16	186
-Precinct 7855	246	80	974	352	0	0	26	326
-Precinct 7856 - Vote By Mail	71	30	643	106	0	0	5	101
+Precinct 7854	412	145	878	602	0	0	45	557
+Precinct 7855 - Vote By Mail	306	108	763	450	0	0	36	414
+Precinct 7855 - Election Day	150	36	211	202	0	0	16	186
+Precinct 7855	456	144	974	652	0	0	52	600
+Precinct 7856 - Vote By Mail	264	83	643	372	0	0	25	347
 Precinct 7856 - Election Day	145	38	204	193	0	0	10	183
-Precinct 7856	216	68	847	299	0	0	15	284
-Precinct 7857 - Vote By Mail	100	32	745	144	0	1	11	132
-Precinct 7857 - Election Day	119	25	161	153	0	0	9	144
-Precinct 7857	219	57	906	297	0	1	20	276
-Precinct 7858 - Vote By Mail	91	19	618	120	0	0	10	110
-Precinct 7858 - Election Day	119	17	161	147	0	0	11	136
-Precinct 7858	210	36	779	267	0	0	21	246
-Precinct 7859 - Vote By Mail	107	37	747	152	0	0	8	144
-Precinct 7859 - Election Day	106	43	152	165	0	0	16	149
-Precinct 7859	213	80	899	317	0	0	24	293
-Precinct 7861 - Vote By Mail	87	50	699	144	0	0	7	137
+Precinct 7856	409	121	847	565	0	0	35	530
+Precinct 7857 - Vote By Mail	303	95	748	435	0	1	36	398
+Precinct 7857 - Election Day	120	25	158	154	0	0	9	145
+Precinct 7857	423	120	906	589	0	1	45	543
+Precinct 7858 - Vote By Mail	261	58	622	349	0	0	30	319
+Precinct 7858 - Election Day	119	18	157	148	0	0	11	137
+Precinct 7858	380	76	779	497	0	0	41	456
+Precinct 7859 - Vote By Mail	310	120	747	464	0	0	34	430
+Precinct 7859 - Election Day	106	43	152	166	0	0	17	149
+Precinct 7859	416	163	899	630	0	0	51	579
+Precinct 7861 - Vote By Mail	292	115	699	431	0	0	24	407
 Precinct 7861 - Election Day	123	39	164	171	0	0	9	162
-Precinct 7861	210	89	863	315	0	0	16	299
-Precinct 7862 - Vote By Mail	84	47	669	143	0	0	12	131
-Precinct 7862 - Election Day	149	36	195	197	0	0	12	185
-Precinct 7862	233	83	864	340	0	0	24	316
-Precinct 7863 - Vote By Mail	71	27	690	102	0	0	4	98
-Precinct 7863 - Election Day	145	52	211	205	0	0	8	197
-Precinct 7863	216	79	901	307	0	0	12	295
-Precinct 7864 - Vote By Mail	74	34	660	115	0	0	7	108
-Precinct 7864 - Election Day	114	31	154	157	0	0	12	145
-Precinct 7864	188	65	814	272	0	0	19	253
-Precinct 7865 - Vote By Mail	90	36	677	132	0	0	6	126
+Precinct 7861	415	154	863	602	0	0	33	569
+Precinct 7862 - Vote By Mail	271	103	669	400	0	0	26	374
+Precinct 7862 - Election Day	150	36	195	198	0	0	12	186
+Precinct 7862	421	139	864	598	0	0	38	560
+Precinct 7863 - Vote By Mail	268	79	693	371	0	0	24	347
+Precinct 7863 - Election Day	145	52	208	205	0	0	8	197
+Precinct 7863	413	131	901	576	0	0	32	544
+Precinct 7864 - Vote By Mail	253	91	661	374	0	0	30	344
+Precinct 7864 - Election Day	114	31	153	157	0	0	12	145
+Precinct 7864	367	122	814	531	0	0	42	489
+Precinct 7865 - Vote By Mail	280	89	677	408	0	0	39	369
 Precinct 7865 - Election Day	112	35	163	157	0	0	10	147
-Precinct 7865	202	71	840	289	0	0	16	273
-Precinct 7866 - Vote By Mail	93	73	689	173	0	0	7	166
-Precinct 7866 - Election Day	90	45	159	141	0	0	6	135
-Precinct 7866	183	118	848	314	0	0	13	301
-Precinct 7867 - Vote By Mail	122	44	763	179	0	0	13	166
-Precinct 7867 - Election Day	133	36	215	182	0	0	13	169
-Precinct 7867	255	80	978	361	0	0	26	335
-Precinct 7868 - Vote By Mail	114	36	657	157	0	0	7	150
-Precinct 7868 - Election Day	116	35	219	161	0	1	9	151
-Precinct 7868	230	71	876	318	0	1	16	301
-Precinct 7869 - Vote By Mail	104	43	682	157	0	0	10	147
-Precinct 7869 - Election Day	145	34	179	189	0	0	10	179
-Precinct 7869	249	77	861	346	0	0	20	326
-Precinct 7871 - Vote By Mail	106	40	701	153	0	0	7	146
-Precinct 7871 - Election Day	108	40	201	157	0	0	9	148
-Precinct 7871	214	80	902	310	0	0	16	294
-Precinct 7872 - Vote By Mail	94	47	675	149	0	0	8	141
+Precinct 7865	392	124	840	565	0	0	49	516
+Precinct 7866 - Vote By Mail	263	162	690	446	0	0	21	425
+Precinct 7866 - Election Day	90	45	158	141	0	0	6	135
+Precinct 7866	353	207	848	587	0	0	27	560
+Precinct 7867 - Vote By Mail	333	108	766	470	0	0	29	441
+Precinct 7867 - Election Day	133	36	212	182	0	0	13	169
+Precinct 7867	466	144	978	652	0	0	42	610
+Precinct 7868 - Vote By Mail	260	93	659	374	0	0	21	353
+Precinct 7868 - Election Day	116	35	217	161	0	1	9	151
+Precinct 7868	376	128	876	535	0	1	30	504
+Precinct 7869 - Vote By Mail	306	104	683	440	0	0	30	410
+Precinct 7869 - Election Day	145	34	178	190	0	0	11	179
+Precinct 7869	451	138	861	630	0	0	41	589
+Precinct 7871 - Vote By Mail	329	100	702	463	0	0	34	429
+Precinct 7871 - Election Day	108	40	200	157	0	0	9	148
+Precinct 7871	437	140	902	620	0	0	43	577
+Precinct 7872 - Vote By Mail	299	96	675	420	0	0	25	395
 Precinct 7872 - Election Day	131	45	199	185	0	0	9	176
-Precinct 7872	225	92	874	334	0	0	17	317
-Precinct 7873 - Vote By Mail	98	30	687	135	0	1	6	128
-Precinct 7873 - Election Day	164	33	204	212	0	0	15	197
-Precinct 7873	262	63	891	347	0	1	21	325
-Precinct 7874 - Vote By Mail	37	18	370	58	0	0	3	55
+Precinct 7872	430	141	874	605	0	0	34	571
+Precinct 7873 - Vote By Mail	316	99	689	444	0	1	28	415
+Precinct 7873 - Election Day	165	33	202	213	0	0	15	198
+Precinct 7873	481	132	891	657	0	1	43	613
+Precinct 7874 - Vote By Mail	135	46	370	189	0	0	8	181
 Precinct 7874 - Election Day	83	18	119	107	0	0	6	101
-Precinct 7874	120	36	489	165	0	0	9	156
-Precinct 7875 - Vote By Mail	61	19	500	83	0	0	3	80
-Precinct 7875 - Election Day	92	17	147	114	0	0	5	109
-Precinct 7875	153	36	647	197	0	0	8	189
-Precinct 7876 - Vote By Mail	67	18	462	93	0	0	8	85
+Precinct 7874	218	64	489	296	0	0	14	282
+Precinct 7875 - Vote By Mail	176	60	500	252	0	0	16	236
+Precinct 7875 - Election Day	93	17	147	115	0	0	5	110
+Precinct 7875	269	77	647	367	0	0	21	346
+Precinct 7876 - Vote By Mail	186	43	462	256	0	0	27	229
 Precinct 7876 - Election Day	67	13	106	91	0	0	11	80
-Precinct 7876	134	31	568	184	0	0	19	165
-Precinct 7901 - Vote By Mail	61	15	399	81	0	0	5	76
+Precinct 7876	253	56	568	347	0	0	38	309
+Precinct 7901 - Vote By Mail	148	29	399	191	0	0	14	177
 Precinct 7901 - Election Day	53	9	150	65	0	0	3	62
-Precinct 7901	114	24	549	146	0	0	8	138
-Precinct 7902 - Vote By Mail	73	24	678	102	0	0	5	97
-Precinct 7902 - Election Day	113	18	234	139	0	0	8	131
-Precinct 7902	186	42	912	241	0	0	13	228
-Precinct 7903 - Vote By Mail	78	16	620	107	0	0	13	94
-Precinct 7903 - Election Day	109	7	232	123	0	0	7	116
-Precinct 7903	187	23	852	230	0	0	20	210
-Precinct 7904 - Vote By Mail	80	16	675	104	0	0	8	96
-Precinct 7904 - Election Day	90	17	162	115	0	0	8	107
-Precinct 7904	170	33	837	219	0	0	16	203
-Precinct 7905 - Vote By Mail	113	25	683	145	0	0	7	138
-Precinct 7905 - Election Day	151	24	192	183	0	0	8	175
-Precinct 7905	264	49	875	328	0	0	15	313
-Precinct 7906 - Vote By Mail	60	17	596	79	0	0	2	77
-Precinct 7906 - Election Day	85	17	190	115	0	0	13	102
-Precinct 7906	145	34	786	194	0	0	15	179
-Precinct 7907 - Vote By Mail	86	21	702	112	0	0	5	107
-Precinct 7907 - Election Day	127	21	240	163	0	0	15	148
-Precinct 7907	213	42	942	275	0	0	20	255
-Precinct 7908 - Vote By Mail	116	18	748	142	0	0	8	134
-Precinct 7908 - Election Day	140	17	244	169	0	0	12	157
-Precinct 7908	256	35	992	311	0	0	20	291
-Precinct 7909 - Vote By Mail	67	15	558	89	0	0	7	82
+Precinct 7901	201	38	549	256	0	0	17	239
+Precinct 7902 - Vote By Mail	234	42	680	290	0	0	14	276
+Precinct 7902 - Election Day	114	19	232	141	0	0	8	133
+Precinct 7902	348	61	912	431	0	0	22	409
+Precinct 7903 - Vote By Mail	220	42	623	284	0	0	22	262
+Precinct 7903 - Election Day	109	7	229	123	0	0	7	116
+Precinct 7903	329	49	852	407	0	0	29	378
+Precinct 7904 - Vote By Mail	219	53	680	297	0	0	25	272
+Precinct 7904 - Election Day	92	17	157	118	0	0	9	109
+Precinct 7904	311	70	837	415	0	0	34	381
+Precinct 7905 - Vote By Mail	265	71	684	356	0	0	20	336
+Precinct 7905 - Election Day	151	24	191	183	0	0	8	175
+Precinct 7905	416	95	875	539	0	0	28	511
+Precinct 7906 - Vote By Mail	223	40	599	283	0	0	20	263
+Precinct 7906 - Election Day	87	17	187	117	0	0	13	104
+Precinct 7906	310	57	786	400	0	0	33	367
+Precinct 7907 - Vote By Mail	268	60	704	343	0	0	15	328
+Precinct 7907 - Election Day	128	21	238	164	0	0	15	149
+Precinct 7907	396	81	942	507	0	0	30	477
+Precinct 7908 - Vote By Mail	289	52	752	365	0	0	24	341
+Precinct 7908 - Election Day	140	17	240	169	0	0	12	157
+Precinct 7908	429	69	992	534	0	0	36	498
+Precinct 7909 - Vote By Mail	247	41	558	310	0	0	22	288
 Precinct 7909 - Election Day	117	16	185	140	0	0	7	133
-Precinct 7909	184	31	743	229	0	0	14	215
-Precinct 7911 - Vote By Mail	74	24	666	107	0	0	9	98
+Precinct 7909	364	57	743	450	0	0	29	421
+Precinct 7911 - Vote By Mail	232	62	666	320	0	0	26	294
 Precinct 7911 - Election Day	104	17	205	129	0	0	8	121
-Precinct 7911	178	41	871	236	0	0	17	219
-Precinct 7912 - Vote By Mail	92	15	799	118	0	0	11	107
-Precinct 7912 - Election Day	143	14	260	176	0	0	19	157
-Precinct 7912	235	29	1,059	294	0	0	30	264
-Precinct 7913 - Vote By Mail	97	22	658	123	0	0	4	119
-Precinct 7913 - Election Day	171	36	265	212	0	0	5	207
-Precinct 7913	268	58	923	335	0	0	9	326
-Precinct 7914 - Vote By Mail	78	23	715	106	0	0	5	101
-Precinct 7914 - Election Day	109	20	187	140	0	0	11	129
-Precinct 7914	187	43	902	246	0	0	16	230
-Precinct 7915 - Vote By Mail	67	16	604	87	0	0	4	83
-Precinct 7915 - Election Day	147	29	239	181	0	0	5	176
-Precinct 7915	214	45	843	268	0	0	9	259
-Precinct 7916 - Vote By Mail	72	25	637	100	0	0	3	97
-Precinct 7916 - Election Day	137	13	221	160	0	0	10	150
-Precinct 7916	209	38	858	260	0	0	13	247
-Precinct 7917 - Vote By Mail	88	17	714	112	0	0	7	105
-Precinct 7917 - Election Day	157	22	273	187	0	0	8	179
-Precinct 7917	245	39	987	299	0	0	15	284
-Precinct 7918 - Vote By Mail	64	12	594	79	0	0	3	76
-Precinct 7918 - Election Day	114	22	230	143	0	0	7	136
-Precinct 7918	178	34	824	222	0	0	10	212
-Precinct 7919 - Vote By Mail	81	18	608	102	0	0	3	99
-Precinct 7919 - Election Day	147	19	258	175	0	0	9	166
-Precinct 7919	228	37	866	277	0	0	12	265
-Precinct 7921 - Vote By Mail	89	19	679	113	0	0	5	108
-Precinct 7921 - Election Day	88	9	232	101	0	0	4	97
-Precinct 7921	177	28	911	214	0	0	9	205
-Precinct 7922 - Vote By Mail	84	27	644	114	0	0	3	111
-Precinct 7922 - Election Day	118	24	214	155	0	0	13	142
-Precinct 7922	202	51	858	269	0	0	16	253
-Precinct 7923 - Vote By Mail	73	30	665	108	0	0	5	103
-Precinct 7923 - Election Day	134	26	215	170	0	0	10	160
-Precinct 7923	207	56	880	278	0	0	15	263
-Precinct 7924 - Vote By Mail	61	29	648	93	0	0	3	90
-Precinct 7924 - Election Day	92	22	203	124	0	0	10	114
-Precinct 7924	153	51	851	217	0	0	13	204
-Precinct 7925 - Vote By Mail	57	20	434	81	0	0	4	77
+Precinct 7911	336	79	871	449	0	0	34	415
+Precinct 7912 - Vote By Mail	301	43	800	370	0	0	26	344
+Precinct 7912 - Election Day	144	14	259	177	0	0	19	158
+Precinct 7912	445	57	1,059	547	0	0	45	502
+Precinct 7913 - Vote By Mail	277	59	660	350	0	0	14	336
+Precinct 7913 - Election Day	173	36	263	214	0	0	5	209
+Precinct 7913	450	95	923	564	0	0	19	545
+Precinct 7914 - Vote By Mail	300	60	715	389	0	0	29	360
+Precinct 7914 - Election Day	109	21	187	142	0	0	12	130
+Precinct 7914	409	81	902	531	0	0	41	490
+Precinct 7915 - Vote By Mail	220	47	605	290	0	0	23	267
+Precinct 7915 - Election Day	147	29	238	181	0	0	5	176
+Precinct 7915	367	76	843	471	0	0	28	443
+Precinct 7916 - Vote By Mail	264	50	639	334	0	0	20	314
+Precinct 7916 - Election Day	137	13	219	161	0	0	11	150
+Precinct 7916	401	63	858	495	0	0	31	464
+Precinct 7917 - Vote By Mail	286	50	716	356	0	0	20	336
+Precinct 7917 - Election Day	157	22	271	187	0	0	8	179
+Precinct 7917	443	72	987	543	0	0	28	515
+Precinct 7918 - Vote By Mail	242	42	597	297	0	0	13	284
+Precinct 7918 - Election Day	115	22	227	144	0	0	7	137
+Precinct 7918	357	64	824	441	0	0	20	421
+Precinct 7919 - Vote By Mail	254	39	608	309	0	0	16	293
+Precinct 7919 - Election Day	148	19	258	176	0	0	9	167
+Precinct 7919	402	58	866	485	0	0	25	460
+Precinct 7921 - Vote By Mail	244	47	682	309	0	0	18	291
+Precinct 7921 - Election Day	89	9	229	102	0	0	4	98
+Precinct 7921	333	56	911	411	0	0	22	389
+Precinct 7922 - Vote By Mail	248	52	648	314	0	0	14	300
+Precinct 7922 - Election Day	118	24	210	155	0	0	13	142
+Precinct 7922	366	76	858	469	0	0	27	442
+Precinct 7923 - Vote By Mail	244	77	666	336	0	0	15	321
+Precinct 7923 - Election Day	135	26	214	171	0	0	10	161
+Precinct 7923	379	103	880	507	0	0	25	482
+Precinct 7924 - Vote By Mail	231	60	649	302	0	0	11	291
+Precinct 7924 - Election Day	92	22	202	124	0	0	10	114
+Precinct 7924	323	82	851	426	0	0	21	405
+Precinct 7925 - Vote By Mail	164	45	434	225	0	0	16	209
 Precinct 7925 - Election Day	74	11	110	89	0	0	4	85
-Precinct 7925	131	31	544	170	0	0	8	162
-Precinct 7926 - Vote By Mail	70	19	610	97	0	0	8	89
+Precinct 7925	238	56	544	314	0	0	20	294
+Precinct 7926 - Vote By Mail	254	60	610	337	0	0	23	314
 Precinct 7926 - Election Day	115	29	178	150	0	0	6	144
-Precinct 7926	185	48	788	247	0	0	14	233
-Precinct 7927 - Vote By Mail	71	25	579	106	0	0	10	96
-Precinct 7927 - Election Day	123	23	163	152	0	0	6	146
-Precinct 7927	194	48	742	258	0	0	16	242
-Precinct 7928 - Vote By Mail	95	29	700	130	0	0	6	124
+Precinct 7926	369	89	788	487	0	0	29	458
+Precinct 7927 - Vote By Mail	254	54	580	334	0	0	26	308
+Precinct 7927 - Election Day	124	23	162	153	0	0	6	147
+Precinct 7927	378	77	742	487	0	0	32	455
+Precinct 7928 - Vote By Mail	292	80	700	395	0	0	23	372
 Precinct 7928 - Election Day	164	40	217	208	0	0	4	204
-Precinct 7928	259	69	917	338	0	0	10	328
-Precinct 7929 - Vote By Mail	97	24	678	128	0	0	7	121
-Precinct 7929 - Election Day	146	16	169	170	0	0	8	162
-Precinct 7929	243	40	847	298	0	0	15	283
-Precinct 7931 - Vote By Mail	86	21	609	114	0	0	7	107
-Precinct 7931 - Election Day	118	25	142	149	0	0	6	143
-Precinct 7931	204	46	751	263	0	0	13	250
-Precinct 7932 - Vote By Mail	54	37	442	98	0	0	7	91
-Precinct 7932 - Election Day	72	17	119	95	0	0	6	89
-Precinct 7932	126	54	561	193	0	0	13	180
-Precinct 7933 MB - Vote By Mail	2	0	9	2	0	0	0	2
+Precinct 7928	456	120	917	603	0	0	27	576
+Precinct 7929 - Vote By Mail	328	73	678	422	0	0	21	401
+Precinct 7929 - Election Day	146	16	169	171	0	0	9	162
+Precinct 7929	474	89	847	593	0	0	30	563
+Precinct 7931 - Vote By Mail	264	78	610	376	0	0	34	342
+Precinct 7931 - Election Day	119	25	141	150	0	0	6	144
+Precinct 7931	383	103	751	526	0	0	40	486
+Precinct 7932 - Vote By Mail	179	77	443	277	0	0	21	256
+Precinct 7932 - Election Day	73	17	118	96	0	0	6	90
+Precinct 7932	252	94	561	373	0	0	27	346
+Precinct 7933 MB - Vote By Mail	4	2	9	6	0	0	0	6
 Precinct 7933 MB - Election Day	0	0	-1	0	0	0	0	0
-Precinct 7933 MB	2	0	8	2	0	0	0	2
-Precinct 7934 - Vote By Mail	107	21	701	140	0	0	12	128
-Precinct 7934 - Election Day	120	24	183	154	0	0	10	144
-Precinct 7934	227	45	884	294	0	0	22	272
-Precinct 7935 - Vote By Mail	101	32	715	138	0	0	5	133
-Precinct 7935 - Election Day	176	34	228	225	0	0	15	210
-Precinct 7935	277	66	943	363	0	0	20	343
-Precinct 7936 - Vote By Mail	91	18	619	119	0	0	10	109
-Precinct 7936 - Election Day	170	40	237	220	0	0	10	210
-Precinct 7936	261	58	856	339	0	0	20	319
-Precinct 7937 - Vote By Mail	113	25	697	143	0	0	5	138
-Precinct 7937 - Election Day	138	26	203	171	0	0	7	164
-Precinct 7937	251	51	900	314	0	0	12	302
-Precinct 7938 - Vote By Mail	71	28	536	105	0	0	6	99
-Precinct 7938 - Election Day	97	16	215	120	0	0	7	113
-Precinct 7938	168	44	751	225	0	0	13	212
-Precinct 7939 - Vote By Mail	48	22	480	76	0	0	6	70
-Precinct 7939 - Election Day	153	28	206	191	0	0	10	181
-Precinct 7939	201	50	686	267	0	0	16	251
-Precinct 7941 - Vote By Mail	57	21	574	92	0	0	14	78
-Precinct 7941 - Election Day	123	37	198	170	0	0	10	160
-Precinct 7941	180	58	772	262	0	0	24	238
-Precinct 7942 - Vote By Mail	101	27	658	134	0	0	6	128
+Precinct 7933 MB	4	2	8	6	0	0	0	6
+Precinct 7934 - Vote By Mail	324	57	702	408	0	0	27	381
+Precinct 7934 - Election Day	120	25	182	155	0	0	10	145
+Precinct 7934	444	82	884	563	0	0	37	526
+Precinct 7935 - Vote By Mail	324	85	716	435	0	0	26	409
+Precinct 7935 - Election Day	176	34	227	225	0	0	15	210
+Precinct 7935	500	119	943	660	0	0	41	619
+Precinct 7936 - Vote By Mail	272	68	620	369	0	0	29	340
+Precinct 7936 - Election Day	170	40	236	220	0	0	10	210
+Precinct 7936	442	108	856	589	0	0	39	550
+Precinct 7937 - Vote By Mail	300	83	698	406	0	0	23	383
+Precinct 7937 - Election Day	138	26	202	171	0	0	7	164
+Precinct 7937	438	109	900	577	0	0	30	547
+Precinct 7938 - Vote By Mail	213	73	536	301	0	0	15	286
+Precinct 7938 - Election Day	97	16	215	121	0	0	8	113
+Precinct 7938	310	89	751	422	0	0	23	399
+Precinct 7939 - Vote By Mail	227	46	481	289	0	0	16	273
+Precinct 7939 - Election Day	153	28	205	191	0	0	10	181
+Precinct 7939	380	74	686	480	0	0	26	454
+Precinct 7941 - Vote By Mail	220	55	576	304	0	0	29	275
+Precinct 7941 - Election Day	123	38	196	171	0	0	10	161
+Precinct 7941	343	93	772	475	0	0	39	436
+Precinct 7942 - Vote By Mail	245	65	658	330	0	0	20	310
 Precinct 7942 - Election Day	114	22	274	141	0	0	5	136
-Precinct 7942	215	49	932	275	0	0	11	264
-Precinct 7943 - Vote By Mail	93	30	686	128	0	0	5	123
-Precinct 7943 - Election Day	105	40	214	156	0	0	11	145
-Precinct 7943	198	70	900	284	0	0	16	268
-Precinct 7944 - Vote By Mail	82	15	583	104	0	0	7	97
-Precinct 7944 - Election Day	152	33	231	196	0	0	11	185
-Precinct 7944	234	48	814	300	0	0	18	282
-Precinct 7945 - Vote By Mail	85	25	725	116	0	0	6	110
-Precinct 7945 - Election Day	69	7	229	82	0	0	6	76
-Precinct 7945	154	32	954	198	0	0	12	186
-Precinct 7946 - Vote By Mail	82	69	779	161	0	0	10	151
-Precinct 7946 - Election Day	81	26	206	114	0	0	7	107
-Precinct 7946	163	95	985	275	0	0	17	258
-Precinct 7947 - Vote By Mail	72	76	791	160	0	0	12	148
-Precinct 7947 - Election Day	69	22	195	93	0	0	2	91
-Precinct 7947	141	98	986	253	0	0	14	239
-Precinct 7948 - Vote By Mail	82	59	730	151	0	0	10	141
+Precinct 7942	359	87	932	471	0	0	25	446
+Precinct 7943 - Vote By Mail	257	93	687	367	0	0	17	350
+Precinct 7943 - Election Day	105	40	213	156	0	0	11	145
+Precinct 7943	362	133	900	523	0	0	28	495
+Precinct 7944 - Vote By Mail	245	70	584	340	0	0	25	315
+Precinct 7944 - Election Day	152	33	230	196	0	0	11	185
+Precinct 7944	397	103	814	536	0	0	36	500
+Precinct 7945 - Vote By Mail	249	63	726	337	0	0	25	312
+Precinct 7945 - Election Day	69	7	228	83	0	0	7	76
+Precinct 7945	318	70	954	420	0	0	32	388
+Precinct 7946 - Vote By Mail	195	149	779	365	0	1	20	344
+Precinct 7946 - Election Day	81	27	206	115	0	0	7	108
+Precinct 7946	276	176	985	480	0	1	27	452
+Precinct 7947 - Vote By Mail	161	148	792	332	0	0	23	309
+Precinct 7947 - Election Day	69	23	194	94	0	0	2	92
+Precinct 7947	230	171	986	426	0	0	25	401
+Precinct 7948 - Vote By Mail	194	154	730	373	0	0	25	348
 Precinct 7948 - Election Day	85	31	200	119	0	0	3	116
-Precinct 7948	167	90	930	270	0	0	13	257
-Precinct 7949 - Vote By Mail	48	55	483	107	0	0	4	103
-Precinct 7949 - Election Day	35	14	107	56	0	0	7	49
-Precinct 7949	83	69	590	163	0	0	11	152
-Precinct 7951 - Vote By Mail	69	73	729	149	0	0	7	142
-Precinct 7951 - Election Day	56	31	158	90	0	0	3	87
-Precinct 7951	125	104	887	239	0	0	10	229
-Precinct 7952 - Vote By Mail	48	53	730	105	0	0	4	101
+Precinct 7948	279	185	930	492	0	0	28	464
+Precinct 7949 - Vote By Mail	113	108	484	233	0	0	12	221
+Precinct 7949 - Election Day	35	14	106	56	0	0	7	49
+Precinct 7949	148	122	590	289	0	0	19	270
+Precinct 7951 - Vote By Mail	179	160	731	365	0	0	26	339
+Precinct 7951 - Election Day	56	31	156	90	0	0	3	87
+Precinct 7951	235	191	887	455	0	0	29	426
+Precinct 7952 - Vote By Mail	151	123	730	292	0	0	18	274
 Precinct 7952 - Election Day	51	29	182	86	0	0	6	80
-Precinct 7952	99	82	912	191	0	0	10	181
-Precinct 7953 - Vote By Mail	72	61	668	136	0	0	3	133
-Precinct 7953 - Election Day	63	38	162	106	0	0	5	101
-Precinct 7953	135	99	830	242	0	0	8	234
-Precinct 7954 MB - Vote By Mail	0	0	0	0	0	0	0	0
-Precinct 7954 MB - Election Day	0	0	0	0	0	0	0	0
-Precinct 7954 MB	0	0	0	0	0	0	0	0
-Precinct 7955 - Vote By Mail	67	50	774	120	0	0	3	117
-Precinct 7955 - Election Day	54	35	173	97	0	0	8	89
-Precinct 7955	121	85	947	217	0	0	11	206
-Precinct 7956 - Vote By Mail	59	42	699	102	0	0	1	101
+Precinct 7952	202	152	912	378	0	0	24	354
+Precinct 7953 - Vote By Mail	177	137	669	331	0	0	17	314
+Precinct 7953 - Election Day	63	38	161	106	0	0	5	101
+Precinct 7953	240	175	830	437	0	0	22	415
+Precinct 7955 - Vote By Mail	202	130	774	350	0	0	18	332
+Precinct 7955 - Election Day	55	35	173	98	0	0	8	90
+Precinct 7955	257	165	947	448	0	0	26	422
+Precinct 7956 - Vote By Mail	150	104	699	266	0	0	12	254
 Precinct 7956 - Election Day	30	7	170	39	0	0	2	37
-Precinct 7956	89	49	869	141	0	0	3	138
-Precinct 7957 - Vote By Mail	60	33	537	101	0	0	8	93
-Precinct 7957 - Election Day	59	19	136	83	0	0	5	78
-Precinct 7957	119	52	673	184	0	0	13	171
-Precinct 7958 MB - Vote By Mail	27	6	320	36	0	0	3	33
+Precinct 7956	180	111	869	305	0	0	14	291
+Precinct 7957 - Vote By Mail	165	81	538	261	0	0	15	246
+Precinct 7957 - Election Day	60	19	135	85	0	0	6	79
+Precinct 7957	225	100	673	346	0	0	21	325
+Precinct 7958 MB - Vote By Mail	71	27	320	104	0	0	6	98
 Precinct 7958 MB - Election Day	0	0	-23	0	0	0	0	0
-Precinct 7958 MB	27	6	297	36	0	0	3	33
-Precinct 7959 - Vote By Mail	62	17	537	86	0	0	7	79
-Precinct 7959 - Election Day	56	4	149	65	0	0	5	60
-Precinct 7959	118	21	686	151	0	0	12	139
-Precinct 9001 MB - Vote By Mail	32	7	313	39	0	0	0	39
-Precinct 9001 MB - Election Day	0	0	-29	0	0	0	0	0
-Precinct 9001 MB	32	7	284	39	0	0	0	39
-Precinct 9101 - Vote By Mail	99	53	711	162	0	0	10	152
-Precinct 9101 - Election Day	99	48	202	150	0	0	3	147
-Precinct 9101	198	101	913	312	0	0	13	299
-Precinct 9102 - Vote By Mail	81	47	785	134	0	0	6	128
-Precinct 9102 - Election Day	91	28	207	126	0	0	7	119
-Precinct 9102	172	75	992	260	0	0	13	247
-Precinct 9103 - Vote By Mail	89	43	717	147	0	0	15	132
-Precinct 9103 - Election Day	89	53	240	153	0	0	11	142
-Precinct 9103	178	96	957	300	0	0	26	274
-Precinct 9104 - Vote By Mail	89	42	808	143	0	0	12	131
-Precinct 9104 - Election Day	110	31	222	152	0	0	11	141
-Precinct 9104	199	73	1,030	295	0	0	23	272
-Precinct 9105 - Vote By Mail	93	48	719	152	0	0	11	141
-Precinct 9105 - Election Day	109	48	199	173	0	0	16	157
-Precinct 9105	202	96	918	325	0	0	27	298
-Precinct 9106 - Vote By Mail	87	48	745	149	0	0	14	135
-Precinct 9106 - Election Day	126	40	201	178	0	0	12	166
-Precinct 9106	213	88	946	327	0	0	26	301
-Precinct 9107 - Vote By Mail	79	38	635	124	0	0	7	117
-Precinct 9107 - Election Day	86	23	209	118	0	0	9	109
-Precinct 9107	165	61	844	242	0	0	16	226
-Precinct 9108 - Vote By Mail	64	28	610	104	0	0	12	92
-Precinct 9108 - Election Day	103	27	200	136	0	0	6	130
-Precinct 9108	167	55	810	240	0	0	18	222
-Precinct 9109 - Vote By Mail	63	33	672	103	0	0	7	96
-Precinct 9109 - Election Day	118	38	211	162	0	0	6	156
-Precinct 9109	181	71	883	265	0	0	13	252
-Precinct 9111 - Vote By Mail	61	46	638	123	0	0	16	107
-Precinct 9111 - Election Day	98	25	196	134	0	0	11	123
-Precinct 9111	159	71	834	257	0	0	27	230
-Precinct 9112 - Vote By Mail	88	37	742	129	0	0	4	125
-Precinct 9112 - Election Day	116	34	219	160	0	0	10	150
-Precinct 9112	204	71	961	289	0	0	14	275
-Precinct 9113 - Vote By Mail	78	41	795	126	0	0	7	119
-Precinct 9113 - Election Day	115	50	209	180	0	0	15	165
-Precinct 9113	193	91	1,004	306	0	0	22	284
-Precinct 9114 - Vote By Mail	66	34	657	107	0	0	7	100
-Precinct 9114 - Election Day	108	27	233	147	0	0	12	135
-Precinct 9114	174	61	890	254	0	0	19	235
-Precinct 9115 - Vote By Mail	87	27	697	122	0	0	8	114
-Precinct 9115 - Election Day	117	19	184	155	0	0	19	136
-Precinct 9115	204	46	881	277	0	0	27	250
-Precinct 9116 - Vote By Mail	73	49	781	129	0	0	7	122
-Precinct 9116 - Election Day	100	37	180	148	0	0	11	137
-Precinct 9116	173	86	961	277	0	0	18	259
-Precinct 9117 - Vote By Mail	82	50	628	139	0	0	7	132
-Precinct 9117 - Election Day	99	49	172	158	0	0	10	148
-Precinct 9117	181	99	800	297	0	0	17	280
-Precinct 9118 - Vote By Mail	48	53	738	105	0	0	4	101
-Precinct 9118 - Election Day	104	48	246	165	0	0	13	152
-Precinct 9118	152	101	984	270	0	0	17	253
-Precinct 9119 - Vote By Mail	78	66	703	152	0	0	8	144
-Precinct 9119 - Election Day	86	22	197	120	0	0	12	108
-Precinct 9119	164	88	900	272	0	0	20	252
-Precinct 9121 - Vote By Mail	69	41	733	114	0	0	4	110
-Precinct 9121 - Election Day	84	47	220	141	0	0	10	131
-Precinct 9121	153	88	953	255	0	0	14	241
-Precinct 9122 - Vote By Mail	74	57	773	143	0	0	12	131
-Precinct 9122 - Election Day	83	28	194	122	0	0	11	111
-Precinct 9122	157	85	967	265	0	0	23	242
-Precinct 9123 - Vote By Mail	71	46	661	121	0	0	4	117
-Precinct 9123 - Election Day	98	33	191	139	0	0	8	131
-Precinct 9123	169	79	852	260	0	0	12	248
-Precinct 9124 - Vote By Mail	72	55	734	131	0	0	4	127
-Precinct 9124 - Election Day	80	32	169	118	0	0	6	112
-Precinct 9124	152	87	903	249	0	0	10	239
-Precinct 9125 - Vote By Mail	86	43	680	132	0	0	3	129
-Precinct 9125 - Election Day	89	27	189	124	0	0	8	116
-Precinct 9125	175	70	869	256	0	0	11	245
-Precinct 9126 - Vote By Mail	83	79	817	172	0	1	9	162
-Precinct 9126 - Election Day	106	35	196	152	0	0	11	141
-Precinct 9126	189	114	1,013	324	0	1	20	303
-Precinct 9127 - Vote By Mail	96	38	748	141	0	0	7	134
-Precinct 9127 - Election Day	129	47	223	184	0	0	8	176
-Precinct 9127	225	85	971	325	0	0	15	310
-Precinct 9128 - Vote By Mail	60	27	626	93	0	0	6	87
-Precinct 9128 - Election Day	115	39	192	166	0	0	12	154
-Precinct 9128	175	66	818	259	0	0	18	241
-Precinct 9129 - Vote By Mail	55	45	586	107	0	0	7	100
-Precinct 9129 - Election Day	97	26	152	129	0	0	6	123
-Precinct 9129	152	71	738	236	0	0	13	223
-Precinct 9131 - Vote By Mail	69	45	596	119	0	0	5	114
-Precinct 9131 - Election Day	74	31	138	111	0	0	6	105
-Precinct 9131	143	76	734	230	0	0	11	219
-Precinct 9132 - Vote By Mail	65	14	628	85	0	0	6	79
-Precinct 9132 - Election Day	97	23	193	130	0	0	10	120
-Precinct 9132	162	37	821	215	0	0	16	199
-Precinct 9133 - Vote By Mail	119	42	806	172	0	0	11	161
-Precinct 9133 - Election Day	111	37	211	157	0	0	9	148
-Precinct 9133	230	79	1,017	329	0	0	20	309
-Precinct 9134 - Vote By Mail	64	53	734	121	0	0	4	117
-Precinct 9134 - Election Day	70	22	157	102	0	0	10	92
-Precinct 9134	134	75	891	223	0	0	14	209
-Precinct 9135 - Vote By Mail	77	49	639	134	0	0	8	126
-Precinct 9135 - Election Day	72	46	183	125	0	0	7	118
-Precinct 9135	149	95	822	259	0	0	15	244
-Precinct 9136 - Vote By Mail	69	49	706	124	0	0	6	118
-Precinct 9136 - Election Day	102	27	212	139	0	0	10	129
-Precinct 9136	171	76	918	263	0	0	16	247
-Precinct 9137 - Vote By Mail	94	47	804	153	0	0	12	141
-Precinct 9137 - Election Day	96	33	211	133	0	0	4	129
-Precinct 9137	190	80	1,015	286	0	0	16	270
-Precinct 9138 - Vote By Mail	95	56	769	157	0	0	6	151
-Precinct 9138 - Election Day	85	27	176	119	0	0	7	112
-Precinct 9138	180	83	945	276	0	0	13	263
-Precinct 9139 - Vote By Mail	88	62	826	158	0	0	8	150
-Precinct 9139 - Election Day	94	36	192	141	0	0	11	130
-Precinct 9139	182	98	1,018	299	0	0	19	280
-Precinct 9141 - Vote By Mail	85	60	788	160	0	0	15	145
-Precinct 9141 - Election Day	98	34	185	144	0	0	12	132
-Precinct 9141	183	94	973	304	0	0	27	277
-Precinct 9142 - Vote By Mail	92	45	747	146	0	0	9	137
-Precinct 9142 - Election Day	113	37	239	162	0	0	12	150
-Precinct 9142	205	82	986	308	0	0	21	287
-Precinct 9143 - Vote By Mail	74	64	703	149	0	0	11	138
-Precinct 9143 - Election Day	101	45	211	150	0	0	4	146
-Precinct 9143	175	109	914	299	0	0	15	284
-Precinct 9144 - Vote By Mail	86	56	765	152	0	0	10	142
-Precinct 9144 - Election Day	131	38	205	177	0	0	8	169
-Precinct 9144	217	94	970	329	0	0	18	311
-Precinct 9145 - Vote By Mail	74	37	680	117	0	0	6	111
-Precinct 9145 - Election Day	109	40	195	157	0	0	8	149
-Precinct 9145	183	77	875	274	0	0	14	260
-Precinct 9146 - Vote By Mail	70	38	725	120	0	0	12	108
-Precinct 9146 - Election Day	103	30	160	143	0	0	10	133
-Precinct 9146	173	68	885	263	0	0	22	241
-Precinct 9147 - Vote By Mail	61	42	763	111	0	0	8	103
-Precinct 9147 - Election Day	110	41	227	161	0	0	10	151
-Precinct 9147	171	83	990	272	0	0	18	254
-Precinct 9148 - Vote By Mail	89	39	778	135	0	0	7	128
-Precinct 9148 - Election Day	135	28	236	177	0	0	14	163
-Precinct 9148	224	67	1,014	312	0	0	21	291
-Precinct 9149 - Vote By Mail	76	38	808	124	0	0	10	114
-Precinct 9149 - Election Day	176	53	183	240	0	0	11	229
-Precinct 9149	252	91	991	364	0	0	21	343
-Precinct 9151 - Vote By Mail	90	35	691	133	0	0	8	125
-Precinct 9151 - Election Day	76	30	170	111	0	0	5	106
-Precinct 9151	166	65	861	244	0	0	13	231
-Precinct 9152 - Vote By Mail	48	13	544	63	0	0	2	61
-Precinct 9152 - Election Day	96	18	193	124	0	0	10	114
-Precinct 9152	144	31	737	187	0	0	12	175
-Precinct 9201 - Vote By Mail	93	14	784	110	0	0	3	107
-Precinct 9201 - Election Day	126	29	187	166	0	0	11	155
-Precinct 9201	219	43	971	276	0	0	14	262
-Precinct 9202 - Vote By Mail	91	23	819	126	0	0	12	114
-Precinct 9202 - Election Day	113	38	177	164	0	0	13	151
-Precinct 9202	204	61	996	290	0	0	25	265
-Precinct 9203 - Vote By Mail	69	59	847	142	0	0	14	128
-Precinct 9203 - Election Day	54	50	155	120	0	0	16	104
-Precinct 9203	123	109	1,002	262	0	0	30	232
-Precinct 9204 - Vote By Mail	53	51	686	115	0	0	11	104
-Precinct 9204 - Election Day	73	52	176	138	0	0	13	125
-Precinct 9204	126	103	862	253	0	0	24	229
-Precinct 9205 - Vote By Mail	77	26	620	119	0	0	16	103
-Precinct 9205 - Election Day	49	30	116	92	0	0	13	79
-Precinct 9205	126	56	736	211	0	0	29	182
-Precinct 9206 - Vote By Mail	57	72	741	141	0	0	12	129
-Precinct 9206 - Election Day	71	52	188	149	0	0	26	123
-Precinct 9206	128	124	929	290	0	0	38	252
-Precinct 9207 - Vote By Mail	69	50	824	129	0	0	10	119
-Precinct 9207 - Election Day	77	46	165	130	0	0	7	123
-Precinct 9207	146	96	989	259	0	0	17	242
-Precinct 9208 - Vote By Mail	61	56	806	127	0	0	10	117
-Precinct 9208 - Election Day	74	40	181	127	0	0	13	114
-Precinct 9208	135	96	987	254	0	0	23	231
-Precinct 9209 - Vote By Mail	53	39	615	100	0	0	8	92
-Precinct 9209 - Election Day	61	45	156	119	0	0	13	106
-Precinct 9209	114	84	771	219	0	0	21	198
-Precinct 9211 - Vote By Mail	56	47	730	114	0	1	10	103
-Precinct 9211 - Election Day	65	47	161	132	0	0	20	112
-Precinct 9211	121	94	891	246	0	1	30	215
-Precinct 9212 - Vote By Mail	54	44	670	100	0	0	2	98
-Precinct 9212 - Election Day	62	38	138	114	0	0	14	100
-Precinct 9212	116	82	808	214	0	0	16	198
-Precinct 9213 - Vote By Mail	62	65	774	138	0	0	11	127
-Precinct 9213 - Election Day	79	36	163	130	0	0	15	115
-Precinct 9213	141	101	937	268	0	0	26	242
-Precinct 9214 - Vote By Mail	52	37	514	95	0	0	6	89
-Precinct 9214 - Election Day	52	35	113	103	0	0	16	87
-Precinct 9214	104	72	627	198	0	0	22	176
-Precinct 9215 - Vote By Mail	47	47	523	97	0	0	3	94
-Precinct 9215 - Election Day	53	35	121	100	0	0	12	88
-Precinct 9215	100	82	644	197	0	0	15	182
-Precinct 9216 - Vote By Mail	49	38	668	95	0	0	8	87
-Precinct 9216 - Election Day	79	36	156	125	0	0	10	115
-Precinct 9216	128	74	824	220	0	0	18	202
-Precinct 9217 - Vote By Mail	53	32	587	89	0	0	4	85
-Precinct 9217 - Election Day	50	32	118	87	0	0	5	82
-Precinct 9217	103	64	705	176	0	0	9	167
-Precinct 9218 - Vote By Mail	41	51	649	97	0	0	5	92
-Precinct 9218 - Election Day	72	31	167	112	0	0	9	103
-Precinct 9218	113	82	816	209	0	0	14	195
-Precinct 9219 - Vote By Mail	56	31	643	95	0	0	8	87
-Precinct 9219 - Election Day	88	20	147	116	0	0	8	108
-Precinct 9219	144	51	790	211	0	0	16	195
-Precinct 9221 - Vote By Mail	56	84	561	144	0	0	4	140
-Precinct 9221 - Election Day	65	26	90	99	0	0	8	91
-Precinct 9221	121	110	651	243	0	0	12	231
-Precinct 9222 - Vote By Mail	74	54	773	145	0	0	17	128
-Precinct 9222 - Election Day	68	38	137	116	0	0	10	106
-Precinct 9222	142	92	910	261	0	0	27	234
-Precinct 9223 - Vote By Mail	52	65	557	124	0	0	7	117
-Precinct 9223 - Election Day	30	23	110	59	0	0	6	53
-Precinct 9223	82	88	667	183	0	0	13	170
-Precinct 9224 - Vote By Mail	97	64	767	173	0	0	12	161
-Precinct 9224 - Election Day	80	55	182	151	0	0	16	135
-Precinct 9224	177	119	949	324	0	0	28	296
-Precinct 9225 - Vote By Mail	57	41	757	109	0	0	11	98
-Precinct 9225 - Election Day	91	44	169	156	0	0	21	135
-Precinct 9225	148	85	926	265	0	0	32	233
-Precinct 9226 - Vote By Mail	79	45	739	140	0	0	16	124
-Precinct 9226 - Election Day	93	40	157	143	0	0	10	133
-Precinct 9226	172	85	896	283	0	0	26	257
-Precinct 9227 - Vote By Mail	78	62	605	150	0	0	10	140
-Precinct 9227 - Election Day	71	39	124	114	0	0	4	110
-Precinct 9227	149	101	729	264	0	0	14	250
-Precinct 9228 - Vote By Mail	56	49	577	114	0	0	9	105
-Precinct 9228 - Election Day	85	48	161	141	0	0	8	133
-Precinct 9228	141	97	738	255	0	0	17	238
-Precinct 9229 - Vote By Mail	60	34	460	106	0	0	12	94
-Precinct 9229 - Election Day	67	36	119	106	0	0	3	103
-Precinct 9229	127	70	579	212	0	0	15	197
-Precinct 9231 - Vote By Mail	75	47	725	133	0	0	11	122
-Precinct 9231 - Election Day	141	51	237	208	0	0	16	192
-Precinct 9231	216	98	962	341	0	0	27	314
-Precinct 9232 - Vote By Mail	47	47	608	98	0	0	4	94
-Precinct 9232 - Election Day	77	50	126	140	0	0	13	127
-Precinct 9232	124	97	734	238	0	0	17	221
-Precinct 9233 - Vote By Mail	69	61	668	140	0	0	10	130
-Precinct 9233 - Election Day	92	34	150	141	0	0	15	126
-Precinct 9233	161	95	818	281	0	0	25	256
-Precinct 9234 - Vote By Mail	65	60	643	134	0	0	9	125
-Precinct 9234 - Election Day	64	34	91	112	0	0	14	98
-Precinct 9234	129	94	734	246	0	0	23	223
-Precinct 9235 - Vote By Mail	74	64	703	143	0	0	5	138
-Precinct 9235 - Election Day	83	47	160	140	0	0	10	130
-Precinct 9235	157	111	863	283	0	0	15	268
-Precinct 9236 - Vote By Mail	64	38	538	114	0	0	12	102
-Precinct 9236 - Election Day	65	26	135	101	0	0	10	91
-Precinct 9236	129	64	673	215	0	0	22	193
-Precinct 9237 - Vote By Mail	73	48	778	129	0	0	8	121
-Precinct 9237 - Election Day	80	45	119	134	0	0	9	125
-Precinct 9237	153	93	897	263	0	0	17	246
-Precinct 9238 - Vote By Mail	64	48	686	126	0	0	14	112
-Precinct 9238 - Election Day	69	33	119	118	0	0	16	102
-Precinct 9238	133	81	805	244	0	0	30	214
-Precinct 9239 - Vote By Mail	92	65	740	176	0	0	19	157
-Precinct 9239 - Election Day	79	30	124	117	0	0	8	109
-Precinct 9239	171	95	864	293	0	0	27	266
-Precinct 9241 - Vote By Mail	83	67	819	156	0	0	6	150
-Precinct 9241 - Election Day	89	38	141	139	0	0	12	127
-Precinct 9241	172	105	960	295	0	0	18	277
-Precinct 9242 - Vote By Mail	61	48	771	125	0	1	15	109
-Precinct 9242 - Election Day	102	40	172	155	0	0	13	142
-Precinct 9242	163	88	943	280	0	1	28	251
-Precinct 9243 - Vote By Mail	41	27	480	75	0	0	7	68
-Precinct 9243 - Election Day	73	24	123	113	0	0	16	97
-Precinct 9243	114	51	603	188	0	0	23	165
-Precinct 9244 - Vote By Mail	71	31	753	114	0	0	12	102
-Precinct 9244 - Election Day	79	35	157	121	0	0	7	114
-Precinct 9244	150	66	910	235	0	0	19	216
-Precinct 9245 - Vote By Mail	59	37	615	105	0	0	9	96
-Precinct 9245 - Election Day	63	21	99	91	0	0	7	84
-Precinct 9245	122	58	714	196	0	0	16	180
-Precinct 9246 - Vote By Mail	86	62	815	161	0	0	13	148
-Precinct 9246 - Election Day	92	28	155	140	0	0	20	120
-Precinct 9246	178	90	970	301	0	0	33	268
-Precinct 9247 - Vote By Mail	80	50	761	139	0	0	9	130
-Precinct 9247 - Election Day	94	41	151	156	0	0	21	135
-Precinct 9247	174	91	912	295	0	0	30	265
-Precinct 9248 - Vote By Mail	89	30	755	130	0	0	11	119
-Precinct 9248 - Election Day	103	31	152	145	0	0	11	134
-Precinct 9248	192	61	907	275	0	0	22	253
-Precinct 9249 - Vote By Mail	86	44	724	137	0	0	7	130
-Precinct 9249 - Election Day	106	48	191	171	0	0	17	154
-Precinct 9249	192	92	915	308	0	0	24	284
-Precinct 9251 - Vote By Mail	81	52	792	143	0	0	10	133
-Precinct 9251 - Election Day	117	51	174	179	0	0	11	168
-Precinct 9251	198	103	966	322	0	0	21	301
-Precinct 9252 - Vote By Mail	95	60	809	162	0	0	7	155
-Precinct 9252 - Election Day	85	33	144	127	0	0	9	118
-Precinct 9252	180	93	953	289	0	0	16	273
-Precinct 9253 - Vote By Mail	57	39	599	100	0	0	4	96
-Precinct 9253 - Election Day	73	33	162	116	0	0	10	106
-Precinct 9253	130	72	761	216	0	0	14	202
-Precinct 9254 - Vote By Mail	112	46	756	162	0	0	4	158
-Precinct 9254 - Election Day	84	48	165	155	0	0	23	132
-Precinct 9254	196	94	921	317	0	0	27	290
-Precinct 9255 - Vote By Mail	34	16	435	52	0	0	2	50
-Precinct 9255 - Election Day	76	25	115	112	0	0	11	101
-Precinct 9255	110	41	550	164	0	0	13	151
-Precinct 9256 - Vote By Mail	37	21	365	61	0	0	3	58
-Precinct 9256 - Election Day	45	22	97	74	0	0	7	67
-Precinct 9256	82	43	462	135	0	0	10	125
-Precinct 9257 MB - Vote By Mail	24	8	356	36	0	0	4	32
-Precinct 9257 MB - Election Day	0	0	-36	0	0	0	0	0
-Precinct 9257 MB	24	8	320	36	0	0	4	32
-Precinct 9258 - Vote By Mail	66	38	582	114	0	0	10	104
-Precinct 9258 - Election Day	73	24	121	103	0	0	6	97
-Precinct 9258	139	62	703	217	0	0	16	201
-Precinct 9401 - Vote By Mail	89	35	790	129	0	0	5	124
-Precinct 9401 - Election Day	137	30	248	176	0	0	9	167
-Precinct 9401	226	65	1,038	305	0	0	14	291
-Precinct 9402 - Vote By Mail	68	43	772	120	0	0	9	111
-Precinct 9402 - Election Day	119	29	245	159	0	0	11	148
-Precinct 9402	187	72	1,017	279	0	0	20	259
-Precinct 9403 - Vote By Mail	69	53	731	125	0	0	3	122
-Precinct 9403 - Election Day	99	18	190	123	0	0	6	117
-Precinct 9403	168	71	921	248	0	0	9	239
-Precinct 9404 - Vote By Mail	56	50	751	115	0	0	9	106
-Precinct 9404 - Election Day	106	38	193	154	0	0	10	144
-Precinct 9404	162	88	944	269	0	0	19	250
-Precinct 9405 - Vote By Mail	60	40	626	106	0	0	6	100
-Precinct 9405 - Election Day	65	35	154	104	0	0	4	100
-Precinct 9405	125	75	780	210	0	0	10	200
-Precinct 9406 - Vote By Mail	57	47	694	111	0	0	7	104
-Precinct 9406 - Election Day	98	46	189	150	0	0	6	144
-Precinct 9406	155	93	883	261	0	0	13	248
-Precinct 9407 - Vote By Mail	85	32	712	123	0	0	6	117
-Precinct 9407 - Election Day	90	28	201	131	0	0	13	118
-Precinct 9407	175	60	913	254	0	0	19	235
-Precinct 9408 - Vote By Mail	69	28	708	104	0	0	7	97
-Precinct 9408 - Election Day	90	23	155	125	0	0	12	113
-Precinct 9408	159	51	863	229	0	0	19	210
-Precinct 9409 - Vote By Mail	52	26	443	81	0	0	3	78
+Precinct 7958 MB	71	27	297	104	0	0	6	98
+Precinct 7959 - Vote By Mail	172	35	541	230	0	0	23	207
+Precinct 7959 - Election Day	59	4	145	68	0	0	5	63
+Precinct 7959	231	39	686	298	0	0	28	270
+Precinct 9001 MB - Vote By Mail	79	20	314	100	0	0	1	99
+Precinct 9001 MB - Election Day	0	0	-30	0	0	0	0	0
+Precinct 9001 MB	79	20	284	100	0	0	1	99
+Precinct 9101 - Vote By Mail	240	114	712	377	0	0	23	354
+Precinct 9101 - Election Day	122	59	201	193	0	0	12	181
+Precinct 9101	362	173	913	570	0	0	35	535
+Precinct 9102 - Vote By Mail	246	121	788	393	0	0	26	367
+Precinct 9102 - Election Day	122	35	204	173	0	0	16	157
+Precinct 9102	368	156	992	566	0	0	42	524
+Precinct 9103 - Vote By Mail	250	99	719	381	0	0	32	349
+Precinct 9103 - Election Day	113	62	238	190	0	0	15	175
+Precinct 9103	363	161	957	571	0	0	47	524
+Precinct 9104 - Vote By Mail	244	102	810	381	0	0	35	346
+Precinct 9104 - Election Day	129	34	220	178	0	0	15	163
+Precinct 9104	373	136	1,030	559	0	0	50	509
+Precinct 9105 - Vote By Mail	254	136	719	413	0	0	23	390
+Precinct 9105 - Election Day	139	60	199	221	0	0	22	199
+Precinct 9105	393	196	918	634	0	0	45	589
+Precinct 9106 - Vote By Mail	257	110	748	397	0	0	30	367
+Precinct 9106 - Election Day	156	47	198	223	0	0	20	203
+Precinct 9106	413	157	946	620	0	0	50	570
+Precinct 9107 - Vote By Mail	207	73	636	305	0	1	24	280
+Precinct 9107 - Election Day	124	27	208	165	0	0	14	151
+Precinct 9107	331	100	844	470	0	1	38	431
+Precinct 9108 - Vote By Mail	228	78	610	336	0	0	30	306
+Precinct 9108 - Election Day	106	27	200	140	0	0	7	133
+Precinct 9108	334	105	810	476	0	0	37	439
+Precinct 9109 - Vote By Mail	198	73	672	300	0	0	29	271
+Precinct 9109 - Election Day	140	45	211	196	0	0	11	185
+Precinct 9109	338	118	883	496	0	0	40	456
+Precinct 9111 - Vote By Mail	193	98	639	316	0	0	25	291
+Precinct 9111 - Election Day	125	29	195	169	0	0	15	154
+Precinct 9111	318	127	834	485	0	0	40	445
+Precinct 9112 - Vote By Mail	237	92	742	351	0	0	22	329
+Precinct 9112 - Election Day	148	42	219	204	0	0	14	190
+Precinct 9112	385	134	961	555	0	0	36	519
+Precinct 9113 - Vote By Mail	250	90	796	371	0	0	31	340
+Precinct 9113 - Election Day	157	61	208	241	0	0	23	218
+Precinct 9113	407	151	1,004	612	0	0	54	558
+Precinct 9114 - Vote By Mail	198	73	659	290	0	0	19	271
+Precinct 9114 - Election Day	136	31	231	182	0	0	15	167
+Precinct 9114	334	104	890	472	0	0	34	438
+Precinct 9115 - Vote By Mail	216	78	699	322	0	0	28	294
+Precinct 9115 - Election Day	135	22	182	179	0	0	22	157
+Precinct 9115	351	100	881	501	0	0	50	451
+Precinct 9116 - Vote By Mail	228	97	782	345	0	0	20	325
+Precinct 9116 - Election Day	117	45	179	174	0	0	12	162
+Precinct 9116	345	142	961	519	0	0	32	487
+Precinct 9117 - Vote By Mail	199	111	629	326	0	0	16	310
+Precinct 9117 - Election Day	122	60	171	195	0	0	13	182
+Precinct 9117	321	171	800	521	0	0	29	492
+Precinct 9118 - Vote By Mail	198	118	742	340	0	0	24	316
+Precinct 9118 - Election Day	141	59	242	223	0	0	23	200
+Precinct 9118	339	177	984	563	0	0	47	516
+Precinct 9119 - Vote By Mail	222	143	703	387	0	0	22	365
+Precinct 9119 - Election Day	113	29	197	156	0	0	14	142
+Precinct 9119	335	172	900	543	0	0	36	507
+Precinct 9121 - Vote By Mail	209	107	735	335	0	0	19	316
+Precinct 9121 - Election Day	112	61	218	184	0	0	11	173
+Precinct 9121	321	168	953	519	0	0	30	489
+Precinct 9122 - Vote By Mail	204	131	775	364	0	0	29	335
+Precinct 9122 - Election Day	103	39	192	160	0	0	18	142
+Precinct 9122	307	170	967	524	0	0	47	477
+Precinct 9123 - Vote By Mail	204	97	661	319	0	0	18	301
+Precinct 9123 - Election Day	134	38	191	187	0	0	15	172
+Precinct 9123	338	135	852	506	0	0	33	473
+Precinct 9124 - Vote By Mail	205	133	736	351	0	0	13	338
+Precinct 9124 - Election Day	112	37	167	159	0	0	10	149
+Precinct 9124	317	170	903	510	0	0	23	487
+Precinct 9125 - Vote By Mail	231	108	681	358	0	0	19	339
+Precinct 9125 - Election Day	107	33	188	152	0	0	12	140
+Precinct 9125	338	141	869	510	0	0	31	479
+Precinct 9126 - Vote By Mail	208	148	819	385	0	1	28	356
+Precinct 9126 - Election Day	140	45	194	200	0	0	15	185
+Precinct 9126	348	193	1,013	585	0	1	43	541
+Precinct 9127 - Vote By Mail	245	103	748	380	0	0	32	348
+Precinct 9127 - Election Day	152	56	223	220	0	0	12	208
+Precinct 9127	397	159	971	600	0	0	44	556
+Precinct 9128 - Vote By Mail	200	108	628	333	0	0	25	308
+Precinct 9128 - Election Day	133	49	190	195	0	0	13	182
+Precinct 9128	333	157	818	528	0	0	38	490
+Precinct 9129 - Vote By Mail	170	86	587	271	0	0	15	256
+Precinct 9129 - Election Day	114	30	151	153	0	0	9	144
+Precinct 9129	284	116	738	424	0	0	24	400
+Precinct 9131 - Vote By Mail	181	91	596	285	0	0	13	272
+Precinct 9131 - Election Day	104	38	138	152	0	0	10	142
+Precinct 9131	285	129	734	437	0	0	23	414
+Precinct 9132 - Vote By Mail	189	52	627	262	0	0	21	241
+Precinct 9132 - Election Day	126	30	194	172	0	0	16	156
+Precinct 9132	315	82	821	434	0	0	37	397
+Precinct 9133 - Vote By Mail	263	95	808	381	0	0	23	358
+Precinct 9133 - Election Day	147	50	209	211	0	0	14	197
+Precinct 9133	410	145	1,017	592	0	0	37	555
+Precinct 9134 - Vote By Mail	196	109	736	327	0	0	22	305
+Precinct 9134 - Election Day	71	22	155	103	0	0	10	93
+Precinct 9134	267	131	891	430	0	0	32	398
+Precinct 9135 - Vote By Mail	186	98	640	304	0	0	20	284
+Precinct 9135 - Election Day	88	54	182	154	0	0	12	142
+Precinct 9135	274	152	822	458	0	0	32	426
+Precinct 9136 - Vote By Mail	224	108	706	368	0	0	36	332
+Precinct 9136 - Election Day	114	32	212	162	0	0	16	146
+Precinct 9136	338	140	918	530	0	0	52	478
+Precinct 9137 - Vote By Mail	245	116	806	387	0	0	26	361
+Precinct 9137 - Election Day	126	40	209	175	0	0	9	166
+Precinct 9137	371	156	1,015	562	0	0	35	527
+Precinct 9138 - Vote By Mail	249	128	770	398	0	0	21	377
+Precinct 9138 - Election Day	106	35	175	149	0	0	8	141
+Precinct 9138	355	163	945	547	0	0	29	518
+Precinct 9139 - Vote By Mail	252	141	828	422	0	0	29	393
+Precinct 9139 - Election Day	111	48	190	174	0	0	15	159
+Precinct 9139	363	189	1,018	596	0	0	44	552
+Precinct 9141 - Vote By Mail	239	146	789	418	0	0	33	385
+Precinct 9141 - Election Day	113	44	184	172	0	0	15	157
+Precinct 9141	352	190	973	590	0	0	48	542
+Precinct 9142 - Vote By Mail	242	104	747	364	0	0	18	346
+Precinct 9142 - Election Day	144	41	239	204	0	0	19	185
+Precinct 9142	386	145	986	568	0	0	37	531
+Precinct 9143 - Vote By Mail	204	132	705	359	0	0	23	336
+Precinct 9143 - Election Day	112	50	209	170	0	0	8	162
+Precinct 9143	316	182	914	529	0	0	31	498
+Precinct 9144 - Vote By Mail	230	119	767	376	0	0	27	349
+Precinct 9144 - Election Day	161	42	203	213	0	0	10	203
+Precinct 9144	391	161	970	589	0	0	37	552
+Precinct 9145 - Vote By Mail	239	80	681	334	0	0	15	319
+Precinct 9145 - Election Day	122	45	194	176	0	0	9	167
+Precinct 9145	361	125	875	510	0	0	24	486
+Precinct 9146 - Vote By Mail	241	84	725	353	0	0	28	325
+Precinct 9146 - Election Day	135	36	160	189	0	0	18	171
+Precinct 9146	376	120	885	542	0	0	46	496
+Precinct 9147 - Vote By Mail	248	93	765	373	0	0	32	341
+Precinct 9147 - Election Day	143	48	225	208	0	0	17	191
+Precinct 9147	391	141	990	581	0	0	49	532
+Precinct 9148 - Vote By Mail	280	91	779	397	0	0	26	371
+Precinct 9148 - Election Day	167	39	235	226	0	0	20	206
+Precinct 9148	447	130	1,014	623	0	0	46	577
+Precinct 9149 - Vote By Mail	265	96	813	384	0	0	23	361
+Precinct 9149 - Election Day	181	55	178	248	0	0	12	236
+Precinct 9149	446	151	991	632	0	0	35	597
+Precinct 9151 - Vote By Mail	239	82	693	351	0	0	30	321
+Precinct 9151 - Election Day	79	30	168	114	0	0	5	109
+Precinct 9151	318	112	861	465	0	0	35	430
+Precinct 9152 - Vote By Mail	152	33	550	196	0	0	11	185
+Precinct 9152 - Election Day	111	20	187	142	0	0	11	131
+Precinct 9152	263	53	737	338	0	0	22	316
+Precinct 9201 - Vote By Mail	277	50	785	357	0	0	30	327
+Precinct 9201 - Election Day	172	37	186	226	0	0	17	209
+Precinct 9201	449	87	971	583	0	0	47	536
+Precinct 9202 - Vote By Mail	252	77	819	368	0	1	38	329
+Precinct 9202 - Election Day	152	53	177	223	0	0	18	205
+Precinct 9202	404	130	996	591	0	1	56	534
+Precinct 9203 - Vote By Mail	189	130	847	373	0	0	54	319
+Precinct 9203 - Election Day	94	66	155	188	0	0	28	160
+Precinct 9203	283	196	1,002	561	0	0	82	479
+Precinct 9204 - Vote By Mail	154	120	686	309	0	0	35	274
+Precinct 9204 - Election Day	100	68	176	195	0	0	27	168
+Precinct 9204	254	188	862	504	0	0	62	442
+Precinct 9205 - Vote By Mail	168	84	621	288	0	0	36	252
+Precinct 9205 - Election Day	80	50	115	150	0	0	20	130
+Precinct 9205	248	134	736	438	0	0	56	382
+Precinct 9206 - Vote By Mail	179	141	741	350	0	0	30	320
+Precinct 9206 - Election Day	92	64	188	194	0	0	38	156
+Precinct 9206	271	205	929	544	0	0	68	476
+Precinct 9207 - Vote By Mail	187	149	824	369	0	0	33	336
+Precinct 9207 - Election Day	113	62	165	192	0	0	17	175
+Precinct 9207	300	211	989	561	0	0	50	511
+Precinct 9208 - Vote By Mail	196	129	808	357	0	0	32	325
+Precinct 9208 - Election Day	107	56	179	179	0	0	16	163
+Precinct 9208	303	185	987	536	0	0	48	488
+Precinct 9209 - Vote By Mail	156	95	615	275	0	0	24	251
+Precinct 9209 - Election Day	86	55	156	170	0	0	29	141
+Precinct 9209	242	150	771	445	0	0	53	392
+Precinct 9211 - Vote By Mail	162	116	730	314	0	1	35	278
+Precinct 9211 - Election Day	78	52	161	154	0	0	24	130
+Precinct 9211	240	168	891	468	0	1	59	408
+Precinct 9212 - Vote By Mail	160	96	671	284	0	1	27	256
+Precinct 9212 - Election Day	91	48	137	170	0	0	31	139
+Precinct 9212	251	144	808	454	0	1	58	395
+Precinct 9213 - Vote By Mail	192	121	776	349	0	0	36	313
+Precinct 9213 - Election Day	105	63	161	195	0	0	27	168
+Precinct 9213	297	184	937	544	0	0	63	481
+Precinct 9214 - Vote By Mail	137	80	517	236	0	0	19	217
+Precinct 9214 - Election Day	68	43	110	135	0	0	24	111
+Precinct 9214	205	123	627	371	0	0	43	328
+Precinct 9215 - Vote By Mail	133	97	524	246	0	1	15	230
+Precinct 9215 - Election Day	71	46	120	131	0	0	14	117
+Precinct 9215	204	143	644	377	0	1	29	347
+Precinct 9216 - Vote By Mail	133	98	669	264	0	0	33	231
+Precinct 9216 - Election Day	107	45	155	172	0	0	20	152
+Precinct 9216	240	143	824	436	0	0	53	383
+Precinct 9217 - Vote By Mail	154	101	588	268	0	0	13	255
+Precinct 9217 - Election Day	79	46	117	133	0	0	8	125
+Precinct 9217	233	147	705	401	0	0	21	380
+Precinct 9218 - Vote By Mail	142	110	652	278	0	0	26	252
+Precinct 9218 - Election Day	101	41	164	158	0	0	16	142
+Precinct 9218	243	151	816	436	0	0	42	394
+Precinct 9219 - Vote By Mail	175	79	646	288	0	0	34	254
+Precinct 9219 - Election Day	111	39	144	168	0	0	18	150
+Precinct 9219	286	118	790	456	0	0	52	404
+Precinct 9221 - Vote By Mail	163	140	562	322	0	0	19	303
+Precinct 9221 - Election Day	88	36	89	140	0	0	16	124
+Precinct 9221	251	176	651	462	0	0	35	427
+Precinct 9222 - Vote By Mail	203	138	773	373	0	0	32	341
+Precinct 9222 - Election Day	98	54	137	174	0	0	22	152
+Precinct 9222	301	192	910	547	0	0	54	493
+Precinct 9223 - Vote By Mail	143	105	558	266	0	0	18	248
+Precinct 9223 - Election Day	58	44	109	113	0	0	11	102
+Precinct 9223	201	149	667	379	0	0	29	350
+Precinct 9224 - Vote By Mail	227	121	768	380	0	0	32	348
+Precinct 9224 - Election Day	89	57	181	166	0	0	20	146
+Precinct 9224	316	178	949	546	0	0	52	494
+Precinct 9225 - Vote By Mail	176	101	757	303	0	0	26	277
+Precinct 9225 - Election Day	131	60	169	219	0	0	28	191
+Precinct 9225	307	161	926	522	0	0	54	468
+Precinct 9226 - Vote By Mail	208	104	741	355	0	0	43	312
+Precinct 9226 - Election Day	95	41	155	148	0	0	12	136
+Precinct 9226	303	145	896	503	0	0	55	448
+Precinct 9227 - Vote By Mail	214	131	605	371	0	0	26	345
+Precinct 9227 - Election Day	98	44	124	149	0	0	7	142
+Precinct 9227	312	175	729	520	0	0	33	487
+Precinct 9228 - Vote By Mail	170	123	578	314	0	0	21	293
+Precinct 9228 - Election Day	105	60	160	179	0	0	14	165
+Precinct 9228	275	183	738	493	0	0	35	458
+Precinct 9229 - Vote By Mail	171	66	460	257	0	0	20	237
+Precinct 9229 - Election Day	74	40	119	122	0	0	8	114
+Precinct 9229	245	106	579	379	0	0	28	351
+Precinct 9231 - Vote By Mail	235	93	726	352	0	0	24	328
+Precinct 9231 - Election Day	166	69	236	255	0	0	20	235
+Precinct 9231	401	162	962	607	0	0	44	563
+Precinct 9232 - Vote By Mail	154	110	608	293	0	1	28	264
+Precinct 9232 - Election Day	83	58	126	155	0	0	14	141
+Precinct 9232	237	168	734	448	0	1	42	405
+Precinct 9233 - Vote By Mail	176	123	668	330	0	0	31	299
+Precinct 9233 - Election Day	117	44	150	186	0	0	25	161
+Precinct 9233	293	167	818	516	0	0	56	460
+Precinct 9234 - Vote By Mail	181	112	643	319	0	0	26	293
+Precinct 9234 - Election Day	80	43	91	144	0	0	21	123
+Precinct 9234	261	155	734	463	0	0	47	416
+Precinct 9235 - Vote By Mail	190	146	703	365	0	0	29	336
+Precinct 9235 - Election Day	120	57	160	194	0	0	17	177
+Precinct 9235	310	203	863	559	0	0	46	513
+Precinct 9236 - Vote By Mail	171	87	537	282	0	0	24	258
+Precinct 9236 - Election Day	83	36	136	137	0	0	18	119
+Precinct 9236	254	123	673	419	0	0	42	377
+Precinct 9237 - Vote By Mail	234	126	779	395	0	0	35	360
+Precinct 9237 - Election Day	108	59	118	182	0	0	15	167
+Precinct 9237	342	185	897	577	0	0	50	527
+Precinct 9238 - Vote By Mail	168	129	687	330	0	0	33	297
+Precinct 9238 - Election Day	101	48	118	174	0	0	25	149
+Precinct 9238	269	177	805	504	0	0	58	446
+Precinct 9239 - Vote By Mail	225	120	740	390	0	0	45	345
+Precinct 9239 - Election Day	103	36	124	157	0	0	18	139
+Precinct 9239	328	156	864	547	0	0	63	484
+Precinct 9241 - Vote By Mail	223	144	819	403	0	0	36	367
+Precinct 9241 - Election Day	120	54	141	195	0	0	21	174
+Precinct 9241	343	198	960	598	0	0	57	541
+Precinct 9242 - Vote By Mail	215	93	771	348	0	1	39	308
+Precinct 9242 - Election Day	136	51	172	213	0	0	26	187
+Precinct 9242	351	144	943	561	0	1	65	495
+Precinct 9243 - Vote By Mail	146	73	480	241	0	0	22	219
+Precinct 9243 - Election Day	86	31	123	138	0	0	21	117
+Precinct 9243	232	104	603	379	0	0	43	336
+Precinct 9244 - Vote By Mail	256	89	756	394	0	0	49	345
+Precinct 9244 - Election Day	110	56	154	182	0	0	16	166
+Precinct 9244	366	145	910	576	0	0	65	511
+Precinct 9245 - Vote By Mail	169	100	616	300	0	0	31	269
+Precinct 9245 - Election Day	80	33	98	127	0	0	14	113
+Precinct 9245	249	133	714	427	0	0	45	382
+Precinct 9246 - Vote By Mail	258	137	815	430	0	0	35	395
+Precinct 9246 - Election Day	126	45	155	194	0	0	23	171
+Precinct 9246	384	182	970	624	0	0	58	566
+Precinct 9247 - Vote By Mail	257	100	764	380	0	0	23	357
+Precinct 9247 - Election Day	125	51	148	204	0	0	28	176
+Precinct 9247	382	151	912	584	0	0	51	533
+Precinct 9248 - Vote By Mail	245	78	757	358	0	0	35	323
+Precinct 9248 - Election Day	130	42	150	190	0	0	18	172
+Precinct 9248	375	120	907	548	0	0	53	495
+Precinct 9249 - Vote By Mail	246	101	724	379	0	0	32	347
+Precinct 9249 - Election Day	137	59	191	213	0	0	17	196
+Precinct 9249	383	160	915	592	0	0	49	543
+Precinct 9251 - Vote By Mail	234	125	792	392	0	0	33	359
+Precinct 9251 - Election Day	152	63	174	235	0	0	20	215
+Precinct 9251	386	188	966	627	0	0	53	574
+Precinct 9252 - Vote By Mail	217	132	811	381	0	0	32	349
+Precinct 9252 - Election Day	111	50	142	175	0	0	14	161
+Precinct 9252	328	182	953	556	0	0	46	510
+Precinct 9253 - Vote By Mail	188	94	599	300	0	0	18	282
+Precinct 9253 - Election Day	91	41	162	148	0	0	16	132
+Precinct 9253	279	135	761	448	0	0	34	414
+Precinct 9254 - Vote By Mail	285	100	758	414	0	0	29	385
+Precinct 9254 - Election Day	98	55	163	181	0	0	28	153
+Precinct 9254	383	155	921	595	0	0	57	538
+Precinct 9255 - Vote By Mail	112	59	436	196	0	0	25	171
+Precinct 9255 - Election Day	91	28	114	133	0	0	14	119
+Precinct 9255	203	87	550	329	0	0	39	290
+Precinct 9256 - Vote By Mail	114	42	367	169	0	0	13	156
+Precinct 9256 - Election Day	73	30	95	114	0	0	11	103
+Precinct 9256	187	72	462	283	0	0	24	259
+Precinct 9257 MB - Vote By Mail	124	21	359	161	0	0	16	145
+Precinct 9257 MB - Election Day	5	0	-39	6	0	0	1	5
+Precinct 9257 MB	129	21	320	167	0	0	17	150
+Precinct 9258 - Vote By Mail	190	87	583	306	0	0	29	277
+Precinct 9258 - Election Day	106	29	120	145	0	0	10	135
+Precinct 9258	296	116	703	451	0	0	39	412
+Precinct 9401 - Vote By Mail	265	74	796	358	0	0	19	339
+Precinct 9401 - Election Day	138	30	242	177	0	0	9	168
+Precinct 9401	403	104	1,038	535	0	0	28	507
+Precinct 9402 - Vote By Mail	254	107	775	377	0	0	16	361
+Precinct 9402 - Election Day	119	29	242	159	0	0	11	148
+Precinct 9402	373	136	1,017	536	0	0	27	509
+Precinct 9403 - Vote By Mail	222	110	731	346	0	0	14	332
+Precinct 9403 - Election Day	102	18	190	126	0	0	6	120
+Precinct 9403	324	128	921	472	0	0	20	452
+Precinct 9404 - Vote By Mail	211	117	753	345	0	0	17	328
+Precinct 9404 - Election Day	106	39	191	155	0	0	10	145
+Precinct 9404	317	156	944	500	0	0	27	473
+Precinct 9405 - Vote By Mail	160	96	629	276	0	0	20	256
+Precinct 9405 - Election Day	65	35	151	104	0	0	4	100
+Precinct 9405	225	131	780	380	0	0	24	356
+Precinct 9406 - Vote By Mail	198	110	695	327	0	0	19	308
+Precinct 9406 - Election Day	99	47	188	152	0	0	6	146
+Precinct 9406	297	157	883	479	0	0	25	454
+Precinct 9407 - Vote By Mail	264	91	712	368	0	0	13	355
+Precinct 9407 - Election Day	91	28	201	132	0	0	13	119
+Precinct 9407	355	119	913	500	0	0	26	474
+Precinct 9408 - Vote By Mail	235	62	711	321	0	0	24	297
+Precinct 9408 - Election Day	91	23	152	126	0	0	12	114
+Precinct 9408	326	85	863	447	0	0	36	411
+Precinct 9409 - Vote By Mail	157	49	443	226	0	0	20	206
 Precinct 9409 - Election Day	101	21	158	127	0	0	5	122
-Precinct 9409	153	47	601	208	0	0	8	200
-Precinct 9411 - Vote By Mail	75	25	815	106	0	0	6	100
-Precinct 9411 - Election Day	102	27	192	135	0	0	6	129
-Precinct 9411	177	52	1,007	241	0	0	12	229
-Precinct 9412 - Vote By Mail	68	53	667	128	0	0	7	121
-Precinct 9412 - Election Day	99	32	203	138	0	0	7	131
-Precinct 9412	167	85	870	266	0	0	14	252
-Precinct 9413 - Vote By Mail	63	58	756	130	0	0	9	121
-Precinct 9413 - Election Day	88	32	180	127	0	0	7	120
-Precinct 9413	151	90	936	257	0	0	16	241
-Precinct 9414 - Vote By Mail	93	54	733	156	0	0	9	147
-Precinct 9414 - Election Day	73	30	187	107	0	0	4	103
-Precinct 9414	166	84	920	263	0	0	13	250
-Precinct 9415 - Vote By Mail	67	37	633	112	0	0	8	104
-Precinct 9415 - Election Day	66	26	155	96	0	0	4	92
-Precinct 9415	133	63	788	208	0	0	12	196
-Precinct 9416 - Vote By Mail	81	65	768	157	0	0	11	146
-Precinct 9416 - Election Day	96	43	231	143	0	0	4	139
-Precinct 9416	177	108	999	300	0	0	15	285
-Precinct 9417 - Vote By Mail	67	69	628	143	0	0	7	136
-Precinct 9417 - Election Day	75	32	146	110	0	0	3	107
-Precinct 9417	142	101	774	253	0	0	10	243
-Precinct 9418 - Vote By Mail	56	63	627	129	0	0	10	119
-Precinct 9418 - Election Day	75	39	192	122	0	0	8	114
-Precinct 9418	131	102	819	251	0	0	18	233
-Precinct 9419 - Vote By Mail	67	69	736	144	0	0	8	136
-Precinct 9419 - Election Day	58	41	173	107	0	0	8	99
-Precinct 9419	125	110	909	251	0	0	16	235
-Precinct 9421 - Vote By Mail	54	67	751	128	0	0	7	121
-Precinct 9421 - Election Day	70	36	174	112	0	0	6	106
-Precinct 9421	124	103	925	240	0	0	13	227
-Precinct 9422 - Vote By Mail	78	63	831	153	0	0	12	141
-Precinct 9422 - Election Day	97	38	270	145	0	0	10	135
-Precinct 9422	175	101	1,101	298	0	0	22	276
-Precinct 9423 - Vote By Mail	51	45	710	100	0	0	4	96
-Precinct 9423 - Election Day	84	30	194	121	0	0	7	114
-Precinct 9423	135	75	904	221	0	0	11	210
-Precinct 9424 - Vote By Mail	76	53	795	136	0	1	6	129
-Precinct 9424 - Election Day	77	29	214	114	0	0	8	106
-Precinct 9424	153	82	1,009	250	0	1	14	235
-Precinct 9425 - Vote By Mail	69	54	789	134	0	0	11	123
-Precinct 9425 - Election Day	72	35	187	114	0	0	7	107
-Precinct 9425	141	89	976	248	0	0	18	230
-Precinct 9426 - Vote By Mail	47	55	693	110	0	0	8	102
-Precinct 9426 - Election Day	59	33	160	104	0	0	12	92
-Precinct 9426	106	88	853	214	0	0	20	194
-Precinct 9427 - Vote By Mail	68	80	795	154	0	0	6	148
-Precinct 9427 - Election Day	56	46	192	115	0	0	13	102
-Precinct 9427	124	126	987	269	0	0	19	250
-Precinct 9428 - Vote By Mail	80	48	809	136	0	0	8	128
-Precinct 9428 - Election Day	78	27	181	113	0	0	8	105
-Precinct 9428	158	75	990	249	0	0	16	233
-Precinct 9429 - Vote By Mail	58	56	705	120	0	0	6	114
-Precinct 9429 - Election Day	67	41	201	124	0	0	16	108
-Precinct 9429	125	97	906	244	0	0	22	222
-Precinct 9431 - Vote By Mail	69	76	831	154	0	0	9	145
-Precinct 9431 - Election Day	82	39	205	125	0	0	4	121
-Precinct 9431	151	115	1,036	279	0	0	13	266
-Precinct 9432 - Vote By Mail	62	66	742	134	0	0	6	128
-Precinct 9432 - Election Day	77	32	216	117	0	0	8	109
-Precinct 9432	139	98	958	251	0	0	14	237
-Precinct 9433 - Vote By Mail	71	74	790	155	0	0	10	145
-Precinct 9433 - Election Day	49	38	168	93	0	0	6	87
-Precinct 9433	120	112	958	248	0	0	16	232
-Precinct 9434 - Vote By Mail	69	58	779	132	0	0	5	127
-Precinct 9434 - Election Day	107	38	233	162	0	0	17	145
-Precinct 9434	176	96	1,012	294	0	0	22	272
-Precinct 9435 - Vote By Mail	69	63	774	141	0	0	9	132
-Precinct 9435 - Election Day	98	52	230	157	0	0	7	150
-Precinct 9435	167	115	1,004	298	0	0	16	282
-Precinct 9436 - Vote By Mail	77	71	840	154	0	0	6	148
-Precinct 9436 - Election Day	79	41	228	129	0	0	9	120
-Precinct 9436	156	112	1,068	283	0	0	15	268
-Precinct 9437 - Vote By Mail	98	87	733	192	0	0	7	185
-Precinct 9437 - Election Day	83	45	194	130	0	0	2	128
-Precinct 9437	181	132	927	322	0	0	9	313
-Precinct 9438 - Vote By Mail	76	95	833	179	0	0	8	171
-Precinct 9438 - Election Day	51	26	156	83	0	0	6	77
-Precinct 9438	127	121	989	262	0	0	14	248
-Precinct 9439 - Vote By Mail	63	54	718	123	0	0	6	117
-Precinct 9439 - Election Day	64	35	199	111	0	0	12	99
-Precinct 9439	127	89	917	234	0	0	18	216
-Precinct 9441 - Vote By Mail	65	62	772	134	0	0	7	127
-Precinct 9441 - Election Day	84	28	199	125	0	0	13	112
-Precinct 9441	149	90	971	259	0	0	20	239
-Precinct 9442 - Vote By Mail	59	62	825	133	0	0	12	121
-Precinct 9442 - Election Day	108	38	215	156	0	0	10	146
-Precinct 9442	167	100	1,040	289	0	0	22	267
-Precinct 9443 - Vote By Mail	73	61	758	142	0	0	8	134
-Precinct 9443 - Election Day	72	33	197	109	0	0	4	105
-Precinct 9443	145	94	955	251	0	0	12	239
-Precinct 9444 - Vote By Mail	65	75	760	144	0	0	4	140
-Precinct 9444 - Election Day	59	26	205	94	0	0	9	85
-Precinct 9444	124	101	965	238	0	0	13	225
-Precinct 9445 - Vote By Mail	66	69	820	143	0	0	8	135
-Precinct 9445 - Election Day	69	38	176	113	0	0	6	107
-Precinct 9445	135	107	996	256	0	0	14	242
-Precinct 9446 - Vote By Mail	81	88	899	178	0	0	9	169
-Precinct 9446 - Election Day	91	44	217	145	0	0	10	135
-Precinct 9446	172	132	1,116	323	0	0	19	304
-Precinct 9447 - Vote By Mail	70	47	726	127	0	0	10	117
-Precinct 9447 - Election Day	86	44	195	143	0	0	13	130
-Precinct 9447	156	91	921	270	0	0	23	247
-Precinct 9448 - Vote By Mail	74	62	737	143	0	0	7	136
-Precinct 9448 - Election Day	93	28	203	127	0	0	6	121
-Precinct 9448	167	90	940	270	0	0	13	257
-Precinct 9449 - Vote By Mail	49	77	717	132	0	0	6	126
-Precinct 9449 - Election Day	59	30	164	96	0	0	7	89
-Precinct 9449	108	107	881	228	0	0	13	215
-Precinct 9451 - Vote By Mail	25	29	353	55	0	0	1	54
-Precinct 9451 - Election Day	37	15	88	54	0	0	2	52
-Precinct 9451	62	44	441	109	0	0	3	106
-Precinct 9452 - Vote By Mail	49	49	646	108	0	0	10	98
-Precinct 9452 - Election Day	70	54	196	134	0	0	10	124
-Precinct 9452	119	103	842	242	0	0	20	222
-Precinct 9453 - Vote By Mail	40	53	408	99	0	0	6	93
-Precinct 9453 - Election Day	37	26	116	70	0	0	7	63
-Precinct 9453	77	79	524	169	0	0	13	156
-Precinct 9501 MB - Vote By Mail	23	9	158	36	0	0	4	32
-Precinct 9501 MB - Election Day	0	0	-8	0	0	0	0	0
-Precinct 9501 MB	23	9	150	36	0	0	4	32
-Precinct 9502 MB - Vote By Mail	25	13	291	41	0	0	3	38
-Precinct 9502 MB - Election Day	0	0	-40	0	0	0	0	0
-Precinct 9502 MB	25	13	251	41	0	0	3	38
-Precinct 9503/9504 - Vote By Mail	88	9	549	109	0	0	12	97
-Precinct 9503/9504 - Election Day	66	12	151	82	0	0	4	78
-Precinct 9503/9504	154	21	700	191	0	0	16	175
-Precinct 9505 - Vote By Mail	79	26	589	112	0	0	7	105
-Precinct 9505 - Election Day	85	19	176	110	0	0	6	104
-Precinct 9505	164	45	765	222	0	0	13	209
-Precinct 9506 - Vote By Mail	50	21	547	76	0	0	5	71
-Precinct 9506 - Election Day	100	17	207	128	0	0	11	117
-Precinct 9506	150	38	754	204	0	0	16	188
-Precinct 9507 - Vote By Mail	64	16	556	90	0	0	10	80
-Precinct 9507 - Election Day	111	24	160	152	0	0	17	135
-Precinct 9507	175	40	716	242	0	0	27	215
-Precinct 9508 - Vote By Mail	80	18	627	101	0	0	3	98
-Precinct 9508 - Election Day	108	15	153	132	0	0	9	123
-Precinct 9508	188	33	780	233	0	0	12	221
-Precinct 9509 - Vote By Mail	52	30	585	85	0	0	3	82
-Precinct 9509 - Election Day	96	17	142	121	0	0	8	113
-Precinct 9509	148	47	727	206	0	0	11	195
-Precinct 9511 - Vote By Mail	39	11	456	56	0	0	6	50
-Precinct 9511 - Election Day	96	21	178	120	0	0	3	117
-Precinct 9511	135	32	634	176	0	0	9	167
-Precinct 9512 - Vote By Mail	60	28	614	97	0	0	9	88
-Precinct 9512 - Election Day	107	17	163	132	0	0	8	124
-Precinct 9512	167	45	777	229	0	0	17	212
-Precinct 9513 - Vote By Mail	84	14	686	104	0	0	6	98
-Precinct 9513 - Election Day	104	15	191	126	0	0	7	119
-Precinct 9513	188	29	877	230	0	0	13	217
-Precinct 9514/9522 - Vote By Mail	70	18	713	95	0	0	7	88
-Precinct 9514/9522 - Election Day	133	20	183	167	0	0	14	153
-Precinct 9514/9522	203	38	896	262	0	0	21	241
-Precinct 9515 - Vote By Mail	71	17	541	94	0	0	6	88
-Precinct 9515 - Election Day	94	28	171	133	0	0	11	122
-Precinct 9515	165	45	712	227	0	0	17	210
-Precinct 9516 - Vote By Mail	81	37	705	128	0	0	10	118
-Precinct 9516 - Election Day	106	43	184	157	0	0	8	149
-Precinct 9516	187	80	889	285	0	0	18	267
-Precinct 9517 - Vote By Mail	85	30	624	125	0	0	10	115
-Precinct 9517 - Election Day	103	16	164	135	0	0	16	119
-Precinct 9517	188	46	788	260	0	0	26	234
-Precinct 9518 - Vote By Mail	62	19	641	87	0	0	6	81
-Precinct 9518 - Election Day	107	34	147	146	0	0	5	141
-Precinct 9518	169	53	788	233	0	0	11	222
-Precinct 9519 - Vote By Mail	68	29	692	105	0	0	8	97
-Precinct 9519 - Election Day	118	43	199	170	0	0	9	161
-Precinct 9519	186	72	891	275	0	0	17	258
-Precinct 9521 - Vote By Mail	77	33	684	115	0	0	5	110
-Precinct 9521 - Election Day	149	27	217	190	0	0	14	176
-Precinct 9521	226	60	901	305	0	0	19	286
-Precinct 9701 - Vote By Mail	66	22	498	95	0	0	7	88
+Precinct 9409	258	70	601	353	0	0	25	328
+Precinct 9411 - Vote By Mail	259	92	816	376	0	0	25	351
+Precinct 9411 - Election Day	102	27	191	135	0	0	6	129
+Precinct 9411	361	119	1,007	511	0	0	31	480
+Precinct 9412 - Vote By Mail	199	120	668	339	0	0	20	319
+Precinct 9412 - Election Day	99	33	202	139	0	0	7	132
+Precinct 9412	298	153	870	478	0	0	27	451
+Precinct 9413 - Vote By Mail	205	135	757	375	0	0	35	340
+Precinct 9413 - Election Day	88	32	179	127	0	0	7	120
+Precinct 9413	293	167	936	502	0	0	42	460
+Precinct 9414 - Vote By Mail	209	129	734	360	0	0	22	338
+Precinct 9414 - Election Day	74	30	186	108	0	0	4	104
+Precinct 9414	283	159	920	468	0	0	26	442
+Precinct 9415 - Vote By Mail	190	106	634	314	0	0	18	296
+Precinct 9415 - Election Day	67	27	154	98	0	0	4	94
+Precinct 9415	257	133	788	412	0	0	22	390
+Precinct 9416 - Vote By Mail	226	131	769	391	0	0	34	357
+Precinct 9416 - Election Day	96	43	230	143	0	0	4	139
+Precinct 9416	322	174	999	534	0	0	38	496
+Precinct 9417 - Vote By Mail	167	133	629	321	0	0	21	300
+Precinct 9417 - Election Day	75	32	145	110	0	0	3	107
+Precinct 9417	242	165	774	431	0	0	24	407
+Precinct 9418 - Vote By Mail	160	128	631	310	0	0	22	288
+Precinct 9418 - Election Day	75	39	188	122	0	0	8	114
+Precinct 9418	235	167	819	432	0	0	30	402
+Precinct 9419 - Vote By Mail	179	167	736	369	0	0	23	346
+Precinct 9419 - Election Day	59	41	173	108	0	0	8	100
+Precinct 9419	238	208	909	477	0	0	31	446
+Precinct 9421 - Vote By Mail	159	154	752	338	0	0	25	313
+Precinct 9421 - Election Day	70	36	173	112	0	0	6	106
+Precinct 9421	229	190	925	450	0	0	31	419
+Precinct 9422 - Vote By Mail	225	160	831	412	0	0	27	385
+Precinct 9422 - Election Day	100	38	270	148	0	0	10	138
+Precinct 9422	325	198	1,101	560	0	0	37	523
+Precinct 9423 - Vote By Mail	181	113	714	316	0	0	22	294
+Precinct 9423 - Election Day	84	30	190	121	0	0	7	114
+Precinct 9423	265	143	904	437	0	0	29	408
+Precinct 9424 - Vote By Mail	203	157	799	384	0	1	23	360
+Precinct 9424 - Election Day	78	30	210	116	0	0	8	108
+Precinct 9424	281	187	1,009	500	0	1	31	468
+Precinct 9425 - Vote By Mail	189	133	789	346	0	0	24	322
+Precinct 9425 - Election Day	73	35	187	115	0	0	7	108
+Precinct 9425	262	168	976	461	0	0	31	430
+Precinct 9426 - Vote By Mail	158	143	697	323	0	0	22	301
+Precinct 9426 - Election Day	59	33	156	104	0	0	12	92
+Precinct 9426	217	176	853	427	0	0	34	393
+Precinct 9427 - Vote By Mail	188	172	799	381	0	1	20	360
+Precinct 9427 - Election Day	56	46	188	115	0	0	13	102
+Precinct 9427	244	218	987	496	0	1	33	462
+Precinct 9428 - Vote By Mail	194	130	811	351	0	0	27	324
+Precinct 9428 - Election Day	80	27	179	115	0	0	8	107
+Precinct 9428	274	157	990	466	0	0	35	431
+Precinct 9429 - Vote By Mail	173	150	709	343	0	0	20	323
+Precinct 9429 - Election Day	67	41	197	124	0	0	16	108
+Precinct 9429	240	191	906	467	0	0	36	431
+Precinct 9431 - Vote By Mail	203	180	832	411	0	0	28	383
+Precinct 9431 - Election Day	82	39	204	125	0	0	4	121
+Precinct 9431	285	219	1,036	536	0	0	32	504
+Precinct 9432 - Vote By Mail	183	144	743	358	0	0	31	327
+Precinct 9432 - Election Day	78	32	215	118	0	0	8	110
+Precinct 9432	261	176	958	476	0	0	39	437
+Precinct 9433 - Vote By Mail	185	159	794	373	0	0	29	344
+Precinct 9433 - Election Day	51	38	164	95	0	0	6	89
+Precinct 9433	236	197	958	468	0	0	35	433
+Precinct 9434 - Vote By Mail	229	130	785	387	0	0	28	359
+Precinct 9434 - Election Day	108	38	227	163	0	0	17	146
+Precinct 9434	337	168	1,012	550	0	0	45	505
+Precinct 9435 - Vote By Mail	188	153	779	366	0	0	25	341
+Precinct 9435 - Election Day	99	52	225	158	0	0	7	151
+Precinct 9435	287	205	1,004	524	0	0	32	492
+Precinct 9436 - Vote By Mail	204	162	842	386	0	0	20	366
+Precinct 9436 - Election Day	79	41	226	129	0	0	9	120
+Precinct 9436	283	203	1,068	515	0	0	29	486
+Precinct 9437 - Vote By Mail	209	149	736	376	0	0	18	358
+Precinct 9437 - Election Day	83	45	191	130	0	0	2	128
+Precinct 9437	292	194	927	506	0	0	20	486
+Precinct 9438 - Vote By Mail	217	177	837	416	0	0	22	394
+Precinct 9438 - Election Day	52	26	152	84	0	0	6	78
+Precinct 9438	269	203	989	500	0	0	28	472
+Precinct 9439 - Vote By Mail	194	132	718	343	0	0	17	326
+Precinct 9439 - Election Day	64	36	199	112	0	0	12	100
+Precinct 9439	258	168	917	455	0	0	29	426
+Precinct 9441 - Vote By Mail	220	147	778	396	0	0	29	367
+Precinct 9441 - Election Day	84	28	193	125	0	0	13	112
+Precinct 9441	304	175	971	521	0	0	42	479
+Precinct 9442 - Vote By Mail	188	153	830	378	0	0	37	341
+Precinct 9442 - Election Day	111	38	210	159	0	0	10	149
+Precinct 9442	299	191	1,040	537	0	0	47	490
+Precinct 9443 - Vote By Mail	212	129	759	362	0	0	21	341
+Precinct 9443 - Election Day	72	33	196	109	0	0	4	105
+Precinct 9443	284	162	955	471	0	0	25	446
+Precinct 9444 - Vote By Mail	176	151	768	340	0	0	13	327
+Precinct 9444 - Election Day	59	26	197	94	0	0	9	85
+Precinct 9444	235	177	965	434	0	0	22	412
+Precinct 9445 - Vote By Mail	226	153	829	405	0	0	26	379
+Precinct 9445 - Election Day	70	38	167	114	0	0	6	108
+Precinct 9445	296	191	996	519	0	0	32	487
+Precinct 9446 - Vote By Mail	245	193	900	465	0	0	27	438
+Precinct 9446 - Election Day	92	44	216	146	0	0	10	136
+Precinct 9446	337	237	1,116	611	0	0	37	574
+Precinct 9447 - Vote By Mail	211	164	729	392	0	0	17	375
+Precinct 9447 - Election Day	89	44	192	146	0	0	13	133
+Precinct 9447	300	208	921	538	0	0	30	508
+Precinct 9448 - Vote By Mail	189	136	742	346	0	0	21	325
+Precinct 9448 - Election Day	94	28	198	128	0	0	6	122
+Precinct 9448	283	164	940	474	0	0	27	447
+Precinct 9449 - Vote By Mail	152	168	719	340	0	0	20	320
+Precinct 9449 - Election Day	61	30	162	98	0	0	7	91
+Precinct 9449	213	198	881	438	0	0	27	411
+Precinct 9451 - Vote By Mail	86	85	353	178	0	0	7	171
+Precinct 9451 - Election Day	37	16	88	55	0	0	2	53
+Precinct 9451	123	101	441	233	0	0	9	224
+Precinct 9452 - Vote By Mail	168	144	647	334	0	0	22	312
+Precinct 9452 - Election Day	70	54	195	134	0	0	10	124
+Precinct 9452	238	198	842	468	0	0	32	436
+Precinct 9453 - Vote By Mail	105	100	409	217	0	0	12	205
+Precinct 9453 - Election Day	37	26	115	70	0	0	7	63
+Precinct 9453	142	126	524	287	0	0	19	268
+Precinct 9501 MB - Vote By Mail	58	23	158	92	0	0	11	81
+Precinct 9501 MB - Election Day	2	0	-8	2	0	0	0	2
+Precinct 9501 MB	60	23	150	94	0	0	11	83
+Precinct 9502 MB - Vote By Mail	91	33	294	136	0	0	12	124
+Precinct 9502 MB - Election Day	2	0	-43	2	0	0	0	2
+Precinct 9502 MB	93	33	251	138	0	0	12	126
+Precinct 9503/9504 - Vote By Mail	202	30	550	260	0	0	28	232
+Precinct 9503/9504 - Election Day	66	13	150	83	0	0	4	79
+Precinct 9503/9504	268	43	700	343	0	0	32	311
+Precinct 9505 - Vote By Mail	203	70	589	296	0	0	23	273
+Precinct 9505 - Election Day	87	20	176	113	0	0	6	107
+Precinct 9505	290	90	765	409	0	0	29	380
+Precinct 9506 - Vote By Mail	173	41	547	232	0	0	18	214
+Precinct 9506 - Election Day	103	18	207	132	0	0	11	121
+Precinct 9506	276	59	754	364	0	0	29	335
+Precinct 9507 - Vote By Mail	229	55	556	305	0	0	21	284
+Precinct 9507 - Election Day	113	25	160	155	0	0	17	138
+Precinct 9507	342	80	716	460	0	0	38	422
+Precinct 9508 - Vote By Mail	246	53	632	317	0	0	18	299
+Precinct 9508 - Election Day	114	16	148	141	0	0	11	130
+Precinct 9508	360	69	780	458	0	0	29	429
+Precinct 9509 - Vote By Mail	207	71	585	296	0	0	18	278
+Precinct 9509 - Election Day	106	19	142	134	0	0	9	125
+Precinct 9509	313	90	727	430	0	0	27	403
+Precinct 9511 - Vote By Mail	181	41	458	240	0	0	18	222
+Precinct 9511 - Election Day	97	21	176	122	0	0	4	118
+Precinct 9511	278	62	634	362	0	0	22	340
+Precinct 9512 - Vote By Mail	238	70	617	327	0	0	19	308
+Precinct 9512 - Election Day	111	17	160	136	0	0	8	128
+Precinct 9512	349	87	777	463	0	0	27	436
+Precinct 9513 - Vote By Mail	271	41	686	334	0	0	22	312
+Precinct 9513 - Election Day	111	15	191	133	0	0	7	126
+Precinct 9513	382	56	877	467	0	0	29	438
+Precinct 9514/9522 - Vote By Mail	257	64	713	352	0	0	31	321
+Precinct 9514/9522 - Election Day	136	22	183	172	0	0	14	158
+Precinct 9514/9522	393	86	896	524	0	0	45	479
+Precinct 9515 - Vote By Mail	220	63	543	304	0	0	21	283
+Precinct 9515 - Election Day	95	28	169	135	0	0	12	123
+Precinct 9515	315	91	712	439	0	0	33	406
+Precinct 9516 - Vote By Mail	256	84	705	366	0	0	26	340
+Precinct 9516 - Election Day	107	43	184	158	0	0	8	150
+Precinct 9516	363	127	889	524	0	0	34	490
+Precinct 9517 - Vote By Mail	249	58	626	335	0	0	28	307
+Precinct 9517 - Election Day	104	17	162	137	0	0	16	121
+Precinct 9517	353	75	788	472	0	0	44	428
+Precinct 9518 - Vote By Mail	237	51	642	315	0	0	27	288
+Precinct 9518 - Election Day	107	36	146	149	0	0	6	143
+Precinct 9518	344	87	788	464	0	0	33	431
+Precinct 9519 - Vote By Mail	268	75	693	368	0	0	25	343
+Precinct 9519 - Election Day	118	43	198	170	0	0	9	161
+Precinct 9519	386	118	891	538	0	0	34	504
+Precinct 9521 - Vote By Mail	256	71	687	352	0	0	25	327
+Precinct 9521 - Election Day	151	28	214	193	0	0	14	179
+Precinct 9521	407	99	901	545	0	0	39	506
+Precinct 9701 - Vote By Mail	181	67	498	269	0	0	21	248
 Precinct 9701 - Election Day	107	23	156	135	0	0	5	130
-Precinct 9701	173	45	654	230	0	0	12	218
-Precinct 9702 - Vote By Mail	56	27	553	88	0	0	5	83
-Precinct 9702 - Election Day	117	20	167	143	0	0	6	137
-Precinct 9702	173	47	720	231	0	0	11	220
-Precinct 9703 - Vote By Mail	65	67	808	144	0	0	12	132
-Precinct 9703 - Election Day	95	41	183	142	0	0	6	136
-Precinct 9703	160	108	991	286	0	0	18	268
-Precinct 9704 - Vote By Mail	89	52	759	150	0	0	9	141
-Precinct 9704 - Election Day	141	45	200	196	0	0	10	186
-Precinct 9704	230	97	959	346	0	0	19	327
-Precinct 9705 - Vote By Mail	101	44	752	155	0	0	10	145
-Precinct 9705 - Election Day	107	24	177	142	0	0	11	131
-Precinct 9705	208	68	929	297	0	0	21	276
-Precinct 9706 MB - Vote By Mail	4	3	57	7	0	0	0	7
+Precinct 9701	288	90	654	404	0	0	26	378
+Precinct 9702 - Vote By Mail	204	84	554	305	0	0	17	288
+Precinct 9702 - Election Day	121	21	166	148	0	0	6	142
+Precinct 9702	325	105	720	453	0	0	23	430
+Precinct 9703 - Vote By Mail	213	152	809	403	0	0	38	365
+Precinct 9703 - Election Day	96	41	182	143	0	0	6	137
+Precinct 9703	309	193	991	546	0	0	44	502
+Precinct 9704 - Vote By Mail	256	136	760	422	0	0	30	392
+Precinct 9704 - Election Day	141	46	199	197	0	0	10	187
+Precinct 9704	397	182	959	619	0	0	40	579
+Precinct 9705 - Vote By Mail	283	109	754	421	0	0	29	392
+Precinct 9705 - Election Day	108	24	175	144	0	0	12	132
+Precinct 9705	391	133	929	565	0	0	41	524
+Precinct 9706 MB - Vote By Mail	24	7	57	34	0	0	3	31
 Precinct 9706 MB - Election Day	0	0	-8	0	0	0	0	0
-Precinct 9706 MB	4	3	49	7	0	0	0	7
-Precinct 9707 - Vote By Mail	70	60	686	138	0	0	8	130
-Precinct 9707 - Election Day	61	32	140	101	0	0	8	93
-Precinct 9707	131	92	826	239	0	0	16	223
-Precinct 9708 - Vote By Mail	89	54	785	159	0	1	15	143
-Precinct 9708 - Election Day	110	42	176	157	0	0	5	152
-Precinct 9708	199	96	961	316	0	1	20	295
-Precinct 9709 - Vote By Mail	65	67	829	139	0	0	7	132
-Precinct 9709 - Election Day	110	61	211	178	0	0	7	171
-Precinct 9709	175	128	1,040	317	0	0	14	303
-Precinct 9711 - Vote By Mail	62	52	502	119	0	0	5	114
-Precinct 9711 - Election Day	85	47	144	138	0	0	6	132
-Precinct 9711	147	99	646	257	0	0	11	246
-Precinct 9712 - Vote By Mail	60	57	534	125	0	0	8	117
-Precinct 9712 - Election Day	69	44	127	116	0	0	3	113
-Precinct 9712	129	101	661	241	0	0	11	230
-Precinct 9713 - Vote By Mail	80	72	746	157	0	0	5	152
-Precinct 9713 - Election Day	85	46	204	137	0	0	6	131
-Precinct 9713	165	118	950	294	0	0	11	283
-Precinct 9714 - Vote By Mail	80	92	792	181	0	0	9	172
-Precinct 9714 - Election Day	80	51	159	133	0	0	2	131
-Precinct 9714	160	143	951	314	0	0	11	303
-Precinct 9715 - Vote By Mail	43	50	449	100	0	0	7	93
+Precinct 9706 MB	24	7	49	34	0	0	3	31
+Precinct 9707 - Vote By Mail	192	145	687	358	0	0	21	337
+Precinct 9707 - Election Day	62	32	139	102	0	0	8	94
+Precinct 9707	254	177	826	460	0	0	29	431
+Precinct 9708 - Vote By Mail	280	112	786	429	0	1	36	392
+Precinct 9708 - Election Day	111	42	175	158	0	0	5	153
+Precinct 9708	391	154	961	587	0	1	41	545
+Precinct 9709 - Vote By Mail	221	167	831	427	0	0	39	388
+Precinct 9709 - Election Day	111	63	209	181	0	0	7	174
+Precinct 9709	332	230	1,040	608	0	0	46	562
+Precinct 9711 - Vote By Mail	180	109	502	307	0	0	18	289
+Precinct 9711 - Election Day	86	47	144	139	0	0	6	133
+Precinct 9711	266	156	646	446	0	0	24	422
+Precinct 9712 - Vote By Mail	181	133	534	335	0	0	21	314
+Precinct 9712 - Election Day	69	45	127	117	0	0	3	114
+Precinct 9712	250	178	661	452	0	0	24	428
+Precinct 9713 - Vote By Mail	212	158	747	389	0	0	19	370
+Precinct 9713 - Election Day	85	46	203	137	0	0	6	131
+Precinct 9713	297	204	950	526	0	0	25	501
+Precinct 9714 - Vote By Mail	238	177	795	446	0	0	31	415
+Precinct 9714 - Election Day	80	51	156	133	0	0	2	131
+Precinct 9714	318	228	951	579	0	0	33	546
+Precinct 9715 - Vote By Mail	138	88	449	241	0	0	15	226
 Precinct 9715 - Election Day	89	42	130	134	0	0	3	131
-Precinct 9715	132	92	579	234	0	0	10	224
-Precinct 9716 - Vote By Mail	78	66	743	152	0	0	8	144
-Precinct 9716 - Election Day	102	52	223	164	0	0	10	154
-Precinct 9716	180	118	966	316	0	0	18	298
-Precinct 9717 - Vote By Mail	70	62	750	138	0	0	6	132
-Precinct 9717 - Election Day	80	51	227	144	0	0	13	131
-Precinct 9717	150	113	977	282	0	0	19	263
-Precinct 9718 - Vote By Mail	92	66	742	171	0	0	13	158
-Precinct 9718 - Election Day	85	53	159	144	0	0	6	138
-Precinct 9718	177	119	901	315	0	0	19	296
-Precinct 9719 - Vote By Mail	74	74	747	153	0	0	5	148
-Precinct 9719 - Election Day	86	56	173	150	0	0	8	142
-Precinct 9719	160	130	920	303	0	0	13	290
-Precinct 9721 - Vote By Mail	44	44	498	91	0	0	3	88
+Precinct 9715	227	130	579	375	0	0	18	357
+Precinct 9716 - Vote By Mail	220	148	745	398	0	0	30	368
+Precinct 9716 - Election Day	102	52	221	164	0	0	10	154
+Precinct 9716	322	200	966	562	0	0	40	522
+Precinct 9717 - Vote By Mail	231	178	753	436	0	0	27	409
+Precinct 9717 - Election Day	80	52	224	145	0	0	13	132
+Precinct 9717	311	230	977	581	0	0	40	541
+Precinct 9718 - Vote By Mail	259	162	749	449	0	0	28	421
+Precinct 9718 - Election Day	85	53	152	144	0	0	6	138
+Precinct 9718	344	215	901	593	0	0	34	559
+Precinct 9719 - Vote By Mail	261	177	747	461	0	0	23	438
+Precinct 9719 - Election Day	86	57	173	151	0	0	8	143
+Precinct 9719	347	234	920	612	0	0	31	581
+Precinct 9721 - Vote By Mail	143	127	498	288	0	0	18	270
 Precinct 9721 - Election Day	73	55	164	133	0	0	5	128
-Precinct 9721	117	99	662	224	0	0	8	216
-Precinct 9722 - Vote By Mail	74	56	511	135	0	0	5	130
-Precinct 9722 - Election Day	45	26	86	76	0	0	5	71
-Precinct 9722	119	82	597	211	0	0	10	201
-Precinct 9723 - Vote By Mail	32	72	434	107	0	0	3	104
-Precinct 9723 - Election Day	20	21	74	44	0	0	3	41
-Precinct 9723	52	93	508	151	0	0	6	145
-Precinct 9724 - Vote By Mail	85	95	847	189	0	0	9	180
-Precinct 9724 - Election Day	54	41	173	99	0	0	4	95
-Precinct 9724	139	136	1,020	288	0	0	13	275
-Precinct 9725 - Vote By Mail	59	101	800	166	0	0	6	160
-Precinct 9725 - Election Day	35	50	171	95	0	0	10	85
-Precinct 9725	94	151	971	261	0	0	16	245
-Precinct 9726 - Vote By Mail	42	16	523	62	0	0	4	58
-Precinct 9726 - Election Day	71	25	93	102	0	0	6	96
-Precinct 9726	113	41	616	164	0	0	10	154
-Precinct 9727 - Vote By Mail	35	53	400	89	0	0	1	88
-Precinct 9727 - Election Day	19	12	60	33	0	0	2	31
-Precinct 9727	54	65	460	122	0	0	3	119
-Precinct 9728 - Vote By Mail	71	100	750	178	0	0	7	171
-Precinct 9728 - Election Day	78	51	213	137	0	0	8	129
-Precinct 9728	149	151	963	315	0	0	15	300
-Precinct 9729 - Vote By Mail	62	76	654	148	0	0	10	138
-Precinct 9729 - Election Day	78	47	164	128	0	0	3	125
-Precinct 9729	140	123	818	276	0	0	13	263
-Precinct 9731 - Vote By Mail	26	54	436	86	0	0	6	80
+Precinct 9721	216	182	662	421	0	0	23	398
+Precinct 9722 - Vote By Mail	182	114	513	315	0	0	19	296
+Precinct 9722 - Election Day	45	26	84	76	0	0	5	71
+Precinct 9722	227	140	597	391	0	0	24	367
+Precinct 9723 - Vote By Mail	75	139	436	223	0	0	9	214
+Precinct 9723 - Election Day	20	21	72	44	0	0	3	41
+Precinct 9723	95	160	508	267	0	0	12	255
+Precinct 9724 - Vote By Mail	188	238	851	451	0	1	24	426
+Precinct 9724 - Election Day	54	41	169	99	0	0	4	95
+Precinct 9724	242	279	1,020	550	0	1	28	521
+Precinct 9725 - Vote By Mail	199	213	814	436	0	0	24	412
+Precinct 9725 - Election Day	35	51	157	96	0	0	10	86
+Precinct 9725	234	264	971	532	0	0	34	498
+Precinct 9726 - Vote By Mail	153	44	630	216	0	0	19	197
+Precinct 9726 - Election Day	71	25	-14	102	0	0	6	96
+Precinct 9726	224	69	616	318	0	0	25	293
+Precinct 9727 - Vote By Mail	117	97	404	227	0	2	11	214
+Precinct 9727 - Election Day	19	12	56	33	0	0	2	31
+Precinct 9727	136	109	460	260	0	2	13	245
+Precinct 9728 - Vote By Mail	216	205	751	446	0	0	25	421
+Precinct 9728 - Election Day	78	51	212	137	0	0	8	129
+Precinct 9728	294	256	963	583	0	0	33	550
+Precinct 9729 - Vote By Mail	158	155	654	335	0	0	22	313
+Precinct 9729 - Election Day	78	48	164	129	0	0	3	126
+Precinct 9729	236	203	818	464	0	0	25	439
+Precinct 9731 - Vote By Mail	121	109	436	245	0	0	15	230
 Precinct 9731 - Election Day	59	43	143	111	0	0	9	102
-Precinct 9731	85	97	579	197	0	0	15	182
-Precinct 9732 MB - Vote By Mail	8	8	78	16	0	0	0	16
+Precinct 9731	180	152	579	356	0	0	24	332
+Precinct 9732 MB - Vote By Mail	22	19	78	47	0	0	6	41
 Precinct 9732 MB - Election Day	0	0	-5	0	0	0	0	0
-Precinct 9732 MB	8	8	73	16	0	0	0	16
-Precinct 9733 MB - Vote By Mail	41	11	260	55	0	0	3	52
-Precinct 9733 MB - Election Day	0	0	-20	0	0	0	0	0
-Precinct 9733 MB	41	11	240	55	0	0	3	52
-Precinct 9734 - Vote By Mail	48	56	473	111	0	0	7	104
+Precinct 9732 MB	22	19	73	47	0	0	6	41
+Precinct 9733 MB - Vote By Mail	114	43	261	161	0	0	4	157
+Precinct 9733 MB - Election Day	0	0	-21	0	0	0	0	0
+Precinct 9733 MB	114	43	240	161	0	0	4	157
+Precinct 9734 - Vote By Mail	150	118	473	285	0	0	17	268
 Precinct 9734 - Election Day	66	40	131	109	0	0	3	106
-Precinct 9734	114	96	604	220	0	0	10	210
-Precinct 9735 - Vote By Mail	71	64	650	140	0	0	5	135
-Precinct 9735 - Election Day	66	50	170	132	0	0	16	116
-Precinct 9735	137	114	820	272	0	0	21	251
-Precinct 9736 - Vote By Mail	72	43	585	126	0	0	11	115
-Precinct 9736 - Election Day	94	47	151	151	0	0	10	141
-Precinct 9736	166	90	736	277	0	0	21	256
-Precinct 9737 - Vote By Mail	87	76	636	172	0	0	9	163
-Precinct 9737 - Election Day	90	38	155	135	0	0	7	128
-Precinct 9737	177	114	791	307	0	0	16	291
-Precinct 9738 - Vote By Mail	97	43	684	152	0	0	12	140
-Precinct 9738 - Election Day	41	18	154	64	0	0	5	59
-Precinct 9738	138	61	838	216	0	0	17	199
-Precinct 9739 - Vote By Mail	60	25	619	86	0	0	1	85
-Precinct 9739 - Election Day	71	14	170	88	0	0	3	85
-Precinct 9739	131	39	789	174	0	0	4	170
-Precinct 9741 - Vote By Mail	13	1	326	15	0	0	1	14
-Precinct 9741 - Election Day	8	0	115	10	0	0	2	8
-Precinct 9741	21	1	441	25	0	0	3	22
-Precinct 9742 - Vote By Mail	30	53	529	86	0	0	3	83
-Precinct 9742 - Election Day	48	44	166	98	0	0	6	92
-Precinct 9742	78	97	695	184	0	0	9	175
-Precinct 9743 - Vote By Mail	99	54	891	161	0	0	8	153
-Precinct 9743 - Election Day	130	27	249	170	0	0	13	157
-Precinct 9743	229	81	1,140	331	0	0	21	310
-Precinct 9744 - Vote By Mail	96	38	739	141	0	0	7	134
-Precinct 9744 - Election Day	93	19	204	121	0	0	9	112
-Precinct 9744	189	57	943	262	0	0	16	246
-Precinct 9745 - Vote By Mail	88	25	745	120	0	0	7	113
-Precinct 9745 - Election Day	104	13	247	128	0	0	11	117
-Precinct 9745	192	38	992	248	0	0	18	230
-Precinct 9746 - Vote By Mail	83	60	711	146	0	0	3	143
-Precinct 9746 - Election Day	66	41	192	118	0	0	11	107
-Precinct 9746	149	101	903	264	0	0	14	250
-Precinct 9747 - Vote By Mail	83	44	766	132	0	0	5	127
-Precinct 9747 - Election Day	103	32	210	145	0	0	10	135
-Precinct 9747	186	76	976	277	0	0	15	262
-Precinct 9748 - Vote By Mail	93	53	746	149	0	0	3	146
+Precinct 9734	216	158	604	394	0	0	20	374
+Precinct 9735 - Vote By Mail	213	153	650	386	0	0	20	366
+Precinct 9735 - Election Day	67	50	170	133	0	0	16	117
+Precinct 9735	280	203	820	519	0	0	36	483
+Precinct 9736 - Vote By Mail	196	106	586	323	0	0	21	302
+Precinct 9736 - Election Day	94	48	150	153	0	0	11	142
+Precinct 9736	290	154	736	476	0	0	32	444
+Precinct 9737 - Vote By Mail	205	160	637	387	0	0	22	365
+Precinct 9737 - Election Day	90	38	154	135	0	0	7	128
+Precinct 9737	295	198	791	522	0	0	29	493
+Precinct 9738 - Vote By Mail	221	76	688	319	0	0	22	297
+Precinct 9738 - Election Day	41	18	150	64	0	0	5	59
+Precinct 9738	262	94	838	383	0	0	27	356
+Precinct 9739 - Vote By Mail	213	47	674	270	0	0	10	260
+Precinct 9739 - Election Day	71	14	115	88	0	0	3	85
+Precinct 9739	284	61	789	358	0	0	13	345
+Precinct 9741 - Vote By Mail	147	11	837	173	0	0	15	158
+Precinct 9741 - Election Day	8	0	-396	10	0	0	2	8
+Precinct 9741	155	11	441	183	0	0	17	166
+Precinct 9742 - Vote By Mail	112	107	530	229	0	0	10	219
+Precinct 9742 - Election Day	49	44	165	99	0	0	6	93
+Precinct 9742	161	151	695	328	0	0	16	312
+Precinct 9743 - Vote By Mail	281	98	913	400	0	0	21	379
+Precinct 9743 - Election Day	130	27	227	170	0	0	13	157
+Precinct 9743	411	125	1,140	570	0	0	34	536
+Precinct 9744 - Vote By Mail	247	64	783	333	0	0	22	311
+Precinct 9744 - Election Day	94	19	160	123	0	0	10	113
+Precinct 9744	341	83	943	456	0	0	32	424
+Precinct 9745 - Vote By Mail	243	51	790	317	0	0	23	294
+Precinct 9745 - Election Day	104	13	202	128	0	0	11	117
+Precinct 9745	347	64	992	445	0	0	34	411
+Precinct 9746 - Vote By Mail	219	141	714	373	0	0	13	360
+Precinct 9746 - Election Day	66	42	189	119	0	0	11	108
+Precinct 9746	285	183	903	492	0	0	24	468
+Precinct 9747 - Vote By Mail	257	126	772	401	0	0	18	383
+Precinct 9747 - Election Day	103	32	204	145	0	0	10	135
+Precinct 9747	360	158	976	546	0	0	28	518
+Precinct 9748 - Vote By Mail	268	134	746	425	0	1	22	402
 Precinct 9748 - Election Day	68	44	167	116	0	0	4	112
-Precinct 9748	161	97	913	265	0	0	7	258
-Precinct 9749 - Vote By Mail	65	31	747	99	0	0	3	96
-Precinct 9749 - Election Day	82	24	191	108	0	0	2	106
-Precinct 9749	147	55	938	207	0	0	5	202
-Precinct 9751 - Vote By Mail	94	69	854	174	0	1	10	163
-Precinct 9751 - Election Day	99	37	217	151	0	0	15	136
-Precinct 9751	193	106	1,071	325	0	1	25	299
-Precinct 9752 - Vote By Mail	69	69	563	145	0	0	7	138
+Precinct 9748	336	178	913	541	0	1	26	514
+Precinct 9749 - Vote By Mail	196	84	750	289	0	0	9	280
+Precinct 9749 - Election Day	82	24	188	108	0	0	2	106
+Precinct 9749	278	108	938	397	0	0	11	386
+Precinct 9751 - Vote By Mail	274	168	857	472	0	1	29	442
+Precinct 9751 - Election Day	101	37	214	153	0	0	15	138
+Precinct 9751	375	205	1,071	625	0	1	44	580
+Precinct 9752 - Vote By Mail	182	125	563	327	0	0	20	307
 Precinct 9752 - Election Day	77	28	134	108	0	0	3	105
-Precinct 9752	146	97	697	253	0	0	10	243
-Precinct 9753 - Vote By Mail	70	29	615	108	0	0	9	99
-Precinct 9753 - Election Day	98	23	147	123	0	0	2	121
-Precinct 9753	168	52	762	231	0	0	11	220
-Precinct 9754 - Vote By Mail	65	35	542	104	0	0	4	100
-Precinct 9754 - Election Day	86	19	165	113	0	0	8	105
-Precinct 9754	151	54	707	217	0	0	12	205
-Precinct 9755 - Vote By Mail	49	30	441	86	0	0	7	79
+Precinct 9752	259	153	697	435	0	0	23	412
+Precinct 9753 - Vote By Mail	204	76	617	298	0	0	18	280
+Precinct 9753 - Election Day	98	23	145	123	0	0	2	121
+Precinct 9753	302	99	762	421	0	0	20	401
+Precinct 9754 - Vote By Mail	228	74	545	317	0	0	15	302
+Precinct 9754 - Election Day	86	19	162	113	0	0	8	105
+Precinct 9754	314	93	707	430	0	0	23	407
+Precinct 9755 - Vote By Mail	150	70	441	238	0	0	18	220
 Precinct 9755 - Election Day	71	26	139	99	0	0	2	97
-Precinct 9755	120	56	580	185	0	0	9	176
-Precinct 9756 - Vote By Mail	71	77	798	158	0	0	10	148
-Precinct 9756 - Election Day	71	30	169	106	0	0	5	101
-Precinct 9756	142	107	967	264	0	0	15	249
-Precinct 9801 - Vote By Mail	41	16	320	63	0	0	6	57
+Precinct 9755	221	96	580	337	0	0	20	317
+Precinct 9756 - Vote By Mail	194	147	805	364	0	0	23	341
+Precinct 9756 - Election Day	71	30	162	106	0	0	5	101
+Precinct 9756	265	177	967	470	0	0	28	442
+Precinct 9801 - Vote By Mail	109	42	320	163	0	0	12	151
 Precinct 9801 - Election Day	41	8	88	52	0	0	3	49
-Precinct 9801	82	24	408	115	0	0	9	106
-Precinct 9900 MB - Vote By Mail	0	0	0	0	0	0	0	0
-Precinct 9900 MB - Election Day	0	0	0	0	0	0	0	0
-Precinct 9900 MB	0	0	0	0	0	0	0	0
-Precinct 9901 MB - Vote By Mail	0	0	0	0	0	0	0	0
-Precinct 9901 MB - Election Day	0	0	0	0	0	0	0	0
-Precinct 9901 MB	0	0	0	0	0	0	0	0
-Precinct 9902 MB - Vote By Mail	0	0	0	0	0	0	0	0
-Precinct 9902 MB - Election Day	0	0	0	0	0	0	0	0
-Precinct 9902 MB	0	0	0	0	0	0	0	0
-Congressional District 12 - Vote By Mail	39,563	20,009	354,748	63,860	0	12	4,276	59,572
-Congressional District 12 - Election Day	46,589	13,971	91,100	65,251	0	9	4,682	60,560
-Congressional District 12	86,152	33,980	445,848	129,111	0	21	8,958	120,132
-Congressional District 14 - Vote By Mail	4,608	3,537	46,263	8,566	0	4	417	8,145
-Congressional District 14 - Election Day	4,620	1,902	11,788	6,926	0	0	404	6,522
-Congressional District 14	9,228	5,439	58,051	15,492	0	4	821	14,667
-Assembly District 17 - Vote By Mail	27,206	11,750	232,212	41,818	0	7	2,855	38,956
-Assembly District 17 - Election Day	31,035	7,940	60,210	41,964	0	9	2,980	38,975
-Assembly District 17	58,241	19,690	292,422	83,782	0	16	5,835	77,931
-Assembly District 19 - Vote By Mail	16,965	11,796	168,799	30,608	0	9	1,838	28,761
-Assembly District 19 - Election Day	20,174	7,933	42,678	30,213	0	0	2,106	28,107
-Assembly District 19	37,139	19,729	211,477	60,821	0	9	3,944	56,868
-Supervisorial District 1 - Vote By Mail	3,682	2,102	33,800	6,168	0	1	383	5,784
-Supervisorial District 1 - Election Day	4,804	1,637	9,316	6,893	0	0	452	6,441
-Supervisorial District 1	8,486	3,739	43,116	13,061	0	1	835	12,225
-Supervisorial District 2 - Vote By Mail	4,152	2,802	41,378	7,543	0	2	587	6,954
-Supervisorial District 2 - Election Day	4,678	2,142	8,668	7,551	0	0	731	6,820
-Supervisorial District 2	8,830	4,944	50,046	15,094	0	2	1,318	13,774
-Supervisorial District 3 - Vote By Mail	3,547	1,887	31,862	5,929	0	1	494	5,434
-Supervisorial District 3 - Election Day	3,588	1,086	7,515	5,109	0	3	432	4,674
-Supervisorial District 3	7,135	2,973	39,377	11,038	0	4	926	10,108
-Supervisorial District 4 - Vote By Mail	3,193	2,746	34,929	6,292	0	1	352	5,939
-Supervisorial District 4 - Election Day	3,852	1,635	9,165	5,869	0	0	382	5,487
-Supervisorial District 4	7,045	4,381	44,094	12,161	0	1	734	11,426
-Supervisorial District 5 - Vote By Mail	4,903	1,532	41,848	6,933	0	1	497	6,435
-Supervisorial District 5 - Election Day	6,875	1,438	11,052	8,955	0	1	641	8,313
-Supervisorial District 5	11,778	2,970	52,900	15,888	0	2	1,138	14,748
-Supervisorial District 6 - Vote By Mail	4,120	1,669	35,635	6,264	0	2	473	5,789
-Supervisorial District 6 - Election Day	3,095	843	8,060	4,327	0	1	388	3,938
-Supervisorial District 6	7,215	2,512	43,695	10,591	0	3	861	9,727
-Supervisorial District 7 - Vote By Mail	4,112	3,225	38,007	7,748	0	2	409	7,337
-Supervisorial District 7 - Election Day	4,669	2,115	9,436	7,178	0	0	394	6,784
-Supervisorial District 7	8,781	5,340	47,443	14,926	0	2	803	14,121
-Supervisorial District 8 - Vote By Mail	6,278	2,445	46,274	9,322	0	3	596	8,723
-Supervisorial District 8 - Election Day	8,270	2,071	11,903	11,078	0	4	733	10,341
-Supervisorial District 8	14,548	4,516	58,177	20,400	0	7	1,329	19,064
-Supervisorial District 9 - Vote By Mail	3,983	1,477	33,102	5,788	0	0	328	5,460
-Supervisorial District 9 - Election Day	5,514	1,143	10,161	7,052	0	0	395	6,657
-Supervisorial District 9	9,497	2,620	43,263	12,840	0	0	723	12,117
-Supervisorial District 10 - Vote By Mail	3,296	1,712	33,679	5,334	0	0	326	5,008
-Supervisorial District 10 - Election Day	3,050	828	9,434	4,180	0	0	302	3,878
-Supervisorial District 10	6,346	2,540	43,113	9,514	0	0	628	8,886
-Supervisorial District 11 - Vote By Mail	2,905	1,949	30,497	5,105	0	3	248	4,854
-Supervisorial District 11 - Election Day	2,814	935	8,178	3,985	0	0	236	3,749
-Supervisorial District 11	5,719	2,884	38,675	9,090	0	3	484	8,603
-Bayview/Hunters Point - Vote By Mail	1,430	733	15,417	2,302	0	0	139	2,163
-Bayview/Hunters Point - Election Day	1,159	295	5,068	1,543	0	0	89	1,454
-Bayview/Hunters Point	2,589	1,028	20,485	3,845	0	0	228	3,617
-Chinatown - Vote By Mail	1,445	833	14,005	2,518	0	0	240	2,278
-Chinatown - Election Day	1,469	488	3,262	2,161	0	2	202	1,957
-Chinatown	2,914	1,321	17,267	4,679	0	2	442	4,235
-Civic Center/Downtown - Vote By Mail	2,783	982	21,971	4,094	0	2	327	3,765
-Civic Center/Downtown - Election Day	2,412	580	6,048	3,247	0	1	254	2,992
-Civic Center/Downtown	5,195	1,562	28,019	7,341	0	3	581	6,757
-Diamond Heights - Vote By Mail	827	381	5,619	1,283	0	0	75	1,208
-Diamond Heights - Election Day	832	320	1,441	1,236	0	1	83	1,152
-Diamond Heights	1,659	701	7,060	2,519	0	1	158	2,360
-Excelsior - Vote By Mail	2,228	1,459	22,639	3,890	0	0	203	3,687
-Excelsior - Election Day	2,051	729	5,954	2,958	0	0	178	2,780
-Excelsior	4,279	2,188	28,593	6,848	0	0	381	6,467
-Haight Ashbury - Vote By Mail	1,286	354	11,497	1,751	0	1	110	1,640
-Haight Ashbury - Election Day	2,139	405	2,365	2,735	0	1	190	2,544
-Haight Ashbury	3,425	759	13,862	4,486	0	2	300	4,184
-Ingleside - Vote By Mail	854	614	9,723	1,535	0	3	64	1,468
-Ingleside - Election Day	957	268	2,672	1,293	0	0	68	1,225
-Ingleside	1,811	882	12,395	2,828	0	3	132	2,693
-Inner Sunset - Vote By Mail	881	331	7,616	1,294	0	0	82	1,212
-Inner Sunset - Election Day	1,359	339	2,042	1,820	0	0	122	1,698
-Inner Sunset	2,240	670	9,658	3,114	0	0	204	2,910
-Lake Merced - Vote By Mail	671	470	6,608	1,199	0	0	58	1,141
-Lake Merced - Election Day	627	228	1,650	921	0	0	66	855
-Lake Merced	1,298	698	8,258	2,120	0	0	124	1,996
-Laurel Heights/Anza Vista - Vote By Mail	838	447	8,150	1,365	0	0	80	1,285
-Laurel Heights/Anza Vista - Election Day	1,155	378	1,872	1,658	0	0	125	1,533
-Laurel Heights/Anza Vista	1,993	825	10,022	3,023	0	0	205	2,818
-Marina Pacific Heights - Vote By Mail	3,216	2,148	33,459	5,852	0	2	486	5,364
-Marina Pacific Heights - Election Day	3,532	1,583	5,981	5,701	0	0	586	5,115
-Marina Pacific Heights	6,748	3,731	39,440	11,553	0	2	1,072	10,479
-Mission - Vote By Mail	2,890	768	23,496	3,892	0	0	234	3,658
-Mission - Election Day	4,215	705	7,509	5,267	0	0	347	4,920
-Mission	7,105	1,473	31,005	9,159	0	0	581	8,578
-North Bernal Heights - Vote By Mail	942	271	6,784	1,294	0	0	81	1,213
-North Bernal Heights - Election Day	1,416	285	1,949	1,783	0	0	82	1,701
-North Bernal Heights	2,358	556	8,733	3,077	0	0	163	2,914
-North Embarcadero - Vote By Mail	625	404	5,763	1,099	0	0	70	1,029
-North Embarcadero - Election Day	712	215	1,325	1,007	0	1	79	927
-North Embarcadero	1,337	619	7,088	2,106	0	1	149	1,956
-Noe Valley - Vote By Mail	1,742	769	13,536	2,683	0	1	171	2,511
-Noe Valley - Election Day	2,472	680	3,452	3,361	0	0	209	3,152
-Noe Valley	4,214	1,449	16,988	6,044	0	1	380	5,663
-Portola - Vote By Mail	746	613	7,824	1,429	0	0	70	1,359
-Portola - Election Day	624	267	1,808	941	0	0	50	891
-Portola	1,370	880	9,632	2,370	0	0	120	2,250
-Potrero Hill - Vote By Mail	1,497	730	14,588	2,407	0	0	180	2,227
-Potrero Hill - Election Day	1,738	453	2,768	2,400	0	0	209	2,191
-Potrero Hill	3,235	1,183	17,356	4,807	0	0	389	4,418
-Richmond - Vote By Mail	3,198	1,863	29,398	5,395	0	1	333	5,061
-Richmond - Election Day	4,151	1,426	8,227	5,965	0	0	388	5,577
-Richmond	7,349	3,289	37,625	11,360	0	1	721	10,638
-South of Bernal Heights - Vote By Mail	931	325	7,156	1,337	0	1	80	1,256
-South of Bernal Heights - Election Day	1,428	330	2,415	1,863	0	0	105	1,758
-South of Bernal Heights	2,359	655	9,571	3,200	0	1	185	3,014
-Sea Cliff/Presidio Heights - Vote By Mail	704	520	6,453	1,319	0	0	95	1,224
-Sea Cliff/Presidio Heights - Election Day	915	427	1,568	1,453	0	0	111	1,342
-Sea Cliff/Presidio Heights	1,619	947	8,021	2,772	0	0	206	2,566
-South of Market - Vote By Mail	2,357	1,070	20,838	3,692	0	1	264	3,427
-South of Market - Election Day	1,666	528	4,239	2,417	0	0	223	2,194
-South of Market	4,023	1,598	25,077	6,109	0	1	487	5,621
-Sunset - Vote By Mail	3,141	2,720	34,486	6,211	0	1	349	5,861
-Sunset - Election Day	3,751	1,614	9,007	5,742	0	0	377	5,365
-Sunset	6,892	4,334	43,493	11,953	0	1	726	11,226
-Upper Market/Eureka Valley - Vote By Mail	2,192	836	15,344	3,230	0	1	201	3,028
-Upper Market/Eureka Valley - Election Day	2,709	649	3,549	3,598	0	3	237	3,358
-Upper Market/Eureka Valley	4,901	1,485	18,893	6,828	0	4	438	6,386
-Visitation Valley - Vote By Mail	605	408	6,627	1,071	0	0	58	1,013
-Visitation Valley - Election Day	403	147	1,861	598	0	0	48	550
-Visitation Valley	1,008	555	8,488	1,669	0	0	106	1,563
-West of Twin Peaks - Vote By Mail	3,126	2,576	28,380	6,028	0	2	324	5,702
-West of Twin Peaks - Election Day	3,594	1,763	6,994	5,659	0	0	302	5,357
-West of Twin Peaks	6,720	4,339	35,374	11,687	0	2	626	11,059
-Western Addition - Vote By Mail	3,016	921	23,634	4,256	0	0	319	3,937
-Western Addition - Election Day	3,723	771	7,862	4,850	0	0	356	4,494
-Western Addition	6,739	1,692	31,496	9,106	0	0	675	8,431
+Precinct 9801	150	50	408	215	0	0	15	200
+Congressional District 12 - Vote By Mail	114,208	47,209	355,594	174,452	0	28	13,007	161,417
+Congressional District 12 - Election Day	50,407	15,288	90,254	71,265	0	10	5,560	65,695
+Congressional District 12	164,615	62,497	445,848	245,717	0	38	18,567	227,112
+Congressional District 14 - Vote By Mail	13,181	7,931	47,252	22,340	0	10	1,218	21,112
+Congressional District 14 - Election Day	4,636	1,912	10,799	6,956	0	0	408	6,548
+Congressional District 14	17,817	9,843	58,051	29,296	0	10	1,626	27,660
+Assembly District 17 - Vote By Mail	77,793	27,998	232,787	114,347	0	17	8,539	105,791
+Assembly District 17 - Election Day	32,324	8,303	59,635	43,919	0	10	3,282	40,627
+Assembly District 17	110,117	36,301	292,422	158,266	0	27	11,821	146,418
+Assembly District 19 - Vote By Mail	49,596	27,142	170,059	82,445	0	21	5,686	76,738
+Assembly District 19 - Election Day	22,719	8,897	41,418	34,302	0	0	2,686	31,616
+Assembly District 19	72,315	36,039	211,477	116,747	0	21	8,372	108,354
+Supervisorial District 1 - Vote By Mail	10,589	4,834	33,868	16,565	0	2	1,140	15,423
+Supervisorial District 1 - Election Day	5,916	1,961	9,248	8,530	0	0	653	7,877
+Supervisorial District 1	16,505	6,795	43,116	25,095	0	2	1,793	23,300
+Supervisorial District 2 - Vote By Mail	11,766	6,375	41,435	19,971	0	7	1,823	18,141
+Supervisorial District 2 - Election Day	6,190	2,816	8,611	10,149	0	0	1,143	9,006
+Supervisorial District 2	17,956	9,191	50,046	30,120	0	7	2,966	27,147
+Supervisorial District 3 - Vote By Mail	9,088	4,032	31,943	14,408	0	4	1,284	13,120
+Supervisorial District 3 - Election Day	4,415	1,319	7,434	6,360	0	4	622	5,734
+Supervisorial District 3	13,503	5,351	39,377	20,768	0	8	1,906	18,854
+Supervisorial District 4 - Vote By Mail	9,420	6,378	35,049	16,862	0	2	1,062	15,798
+Supervisorial District 4 - Election Day	3,886	1,642	9,045	5,910	0	0	382	5,528
+Supervisorial District 4	13,306	8,020	44,094	22,772	0	2	1,444	21,326
+Supervisorial District 5 - Vote By Mail	15,733	4,082	41,966	21,496	0	1	1,680	19,815
+Supervisorial District 5 - Election Day	7,091	1,488	10,934	9,272	0	1	692	8,579
+Supervisorial District 5	22,824	5,570	52,900	30,768	0	2	2,372	28,394
+Supervisorial District 6 - Vote By Mail	10,231	3,744	35,755	15,225	0	2	1,248	13,975
+Supervisorial District 6 - Election Day	3,136	852	7,940	4,383	0	1	394	3,988
+Supervisorial District 6	13,367	4,596	43,695	19,608	0	3	1,642	17,963
+Supervisorial District 7 - Vote By Mail	12,253	7,180	38,887	20,717	0	7	1,277	19,433
+Supervisorial District 7 - Election Day	4,686	2,128	8,556	7,211	0	0	397	6,814
+Supervisorial District 7	16,939	9,308	47,443	27,928	0	7	1,674	26,247
+Supervisorial District 8 - Vote By Mail	19,264	6,210	46,370	27,474	0	5	1,995	25,474
+Supervisorial District 8 - Election Day	8,296	2,074	11,807	11,114	0	4	740	10,370
+Supervisorial District 8	27,560	8,284	58,177	38,588	0	9	2,735	35,844
+Supervisorial District 9 - Vote By Mail	12,001	3,701	33,165	16,755	0	1	1,052	15,702
+Supervisorial District 9 - Election Day	5,535	1,149	10,098	7,086	0	0	402	6,684
+Supervisorial District 9	17,536	4,850	43,263	23,841	0	1	1,454	22,386
+Supervisorial District 10 - Vote By Mail	8,948	3,993	33,765	13,891	0	2	948	12,941
+Supervisorial District 10 - Election Day	3,065	831	9,348	4,201	0	0	305	3,896
+Supervisorial District 10	12,013	4,824	43,113	18,092	0	2	1,253	16,837
+Supervisorial District 11 - Vote By Mail	8,096	4,611	30,643	13,428	0	5	716	12,707
+Supervisorial District 11 - Election Day	2,827	940	8,032	4,005	0	0	238	3,767
+Supervisorial District 11	10,923	5,551	38,675	17,433	0	5	954	16,474
+Bayview/Hunters Point - Vote By Mail	3,780	1,759	15,464	5,936	0	1	396	5,539
+Bayview/Hunters Point - Election Day	1,165	296	5,021	1,551	0	0	90	1,461
+Bayview/Hunters Point	4,945	2,055	20,485	7,487	0	1	486	7,000
+Chinatown - Vote By Mail	3,779	1,869	14,029	6,273	0	0	625	5,648
+Chinatown - Election Day	1,863	608	3,238	2,776	0	2	303	2,471
+Chinatown	5,642	2,477	17,267	9,049	0	2	928	8,119
+Civic Center/Downtown - Vote By Mail	6,647	2,036	22,050	9,495	0	4	808	8,683
+Civic Center/Downtown - Election Day	2,756	667	5,969	3,742	0	1	318	3,423
+Civic Center/Downtown	9,403	2,703	28,019	13,237	0	5	1,126	12,106
+Diamond Heights - Vote By Mail	2,286	973	5,630	3,491	0	0	232	3,259
+Diamond Heights - Election Day	832	320	1,430	1,237	0	1	84	1,152
+Diamond Heights	3,118	1,293	7,060	4,728	0	1	316	4,411
+Excelsior - Vote By Mail	6,063	3,483	22,700	10,117	0	1	570	9,546
+Excelsior - Election Day	2,058	732	5,893	2,969	0	0	179	2,790
+Excelsior	8,121	4,215	28,593	13,086	0	1	749	12,336
+Haight Ashbury - Vote By Mail	4,465	1,059	11,526	5,963	0	1	438	5,524
+Haight Ashbury - Election Day	2,185	411	2,336	2,800	0	1	203	2,596
+Haight Ashbury	6,650	1,470	13,862	8,763	0	2	641	8,120
+Ingleside - Vote By Mail	2,532	1,401	9,818	4,127	0	4	190	3,933
+Ingleside - Election Day	963	270	2,577	1,302	0	0	69	1,233
+Ingleside	3,495	1,671	12,395	5,429	0	4	259	5,166
+Inner Sunset - Vote By Mail	2,875	841	7,628	4,025	0	0	309	3,716
+Inner Sunset - Election Day	1,375	346	2,030	1,847	0	0	126	1,721
+Inner Sunset	4,250	1,187	9,658	5,872	0	0	435	5,437
+Lake Merced - Vote By Mail	1,967	981	7,416	3,138	0	1	189	2,948
+Lake Merced - Election Day	628	229	842	924	0	0	67	857
+Lake Merced	2,595	1,210	8,258	4,062	0	1	256	3,805
+Laurel Heights/Anza Vista - Vote By Mail	2,566	1,077	8,172	3,949	0	0	306	3,643
+Laurel Heights/Anza Vista - Election Day	1,351	441	1,850	1,947	0	0	155	1,792
+Laurel Heights/Anza Vista	3,917	1,518	10,022	5,896	0	0	461	5,435
+Marina Pacific Heights - Vote By Mail	9,114	4,930	33,509	15,520	0	6	1,470	14,044
+Marina Pacific Heights - Election Day	4,733	2,132	5,931	7,800	0	0	935	6,865
+Marina Pacific Heights	13,847	7,062	39,440	23,320	0	6	2,405	20,909
+Mission - Vote By Mail	9,062	2,002	23,572	11,845	0	0	781	11,064
+Mission - Election Day	4,238	709	7,433	5,298	0	0	351	4,947
+Mission	13,300	2,711	31,005	17,143	0	0	1,132	16,011
+North Bernal Heights - Vote By Mail	2,955	760	6,791	3,984	0	0	269	3,715
+North Bernal Heights - Election Day	1,419	286	1,942	1,788	0	0	83	1,705
+North Bernal Heights	4,374	1,046	8,733	5,772	0	0	352	5,420
+North Embarcadero - Vote By Mail	1,652	839	5,779	2,672	0	1	180	2,491
+North Embarcadero - Election Day	814	245	1,309	1,165	0	2	104	1,059
+North Embarcadero	2,466	1,084	7,088	3,837	0	3	284	3,550
+Noe Valley - Vote By Mail	5,570	1,959	13,553	8,149	0	2	618	7,529
+Noe Valley - Election Day	2,480	680	3,435	3,370	0	0	210	3,160
+Noe Valley	8,050	2,639	16,988	11,519	0	2	828	10,689
+Portola - Vote By Mail	1,917	1,398	7,830	3,522	0	1	206	3,315
+Portola - Election Day	627	269	1,802	947	0	0	51	896
+Portola	2,544	1,667	9,632	4,469	0	1	257	4,211
+Potrero Hill - Vote By Mail	4,494	1,738	14,623	6,798	0	1	565	6,232
+Potrero Hill - Election Day	1,745	456	2,733	2,413	0	0	212	2,201
+Potrero Hill	6,239	2,194	17,356	9,211	0	1	777	8,433
+Richmond - Vote By Mail	9,142	4,259	29,447	14,398	0	2	995	13,401
+Richmond - Election Day	5,176	1,727	8,178	7,475	0	0	572	6,903
+Richmond	14,318	5,986	37,625	21,873	0	2	1,567	20,304
+South of Bernal Heights - Vote By Mail	2,888	870	7,165	4,013	0	1	254	3,758
+South of Bernal Heights - Election Day	1,430	331	2,406	1,869	0	0	108	1,761
+South of Bernal Heights	4,318	1,201	9,571	5,882	0	1	362	5,519
+Sea Cliff/Presidio Heights - Vote By Mail	2,002	1,150	6,458	3,411	0	1	258	3,152
+Sea Cliff/Presidio Heights - Election Day	1,138	522	1,563	1,828	0	0	168	1,660
+Sea Cliff/Presidio Heights	3,140	1,672	8,021	5,239	0	1	426	4,812
+South of Market - Vote By Mail	5,828	2,365	20,910	8,905	0	1	711	8,193
+South of Market - Election Day	1,692	532	4,167	2,452	0	0	228	2,224
+South of Market	7,520	2,897	25,077	11,357	0	1	939	10,417
+Sunset - Vote By Mail	9,263	6,329	34,606	16,636	0	2	1,042	15,592
+Sunset - Election Day	3,785	1,621	8,887	5,783	0	0	377	5,406
+Sunset	13,048	7,950	43,493	22,419	0	2	1,419	20,998
+Upper Market/Eureka Valley - Vote By Mail	6,576	2,041	15,381	9,289	0	2	670	8,617
+Upper Market/Eureka Valley - Election Day	2,720	650	3,512	3,613	0	3	240	3,370
+Upper Market/Eureka Valley	9,296	2,691	18,893	12,902	0	5	910	11,987
+Visitation Valley - Vote By Mail	1,451	920	6,638	2,508	0	0	137	2,371
+Visitation Valley - Election Day	403	147	1,850	598	0	0	48	550
+Visitation Valley	1,854	1,067	8,488	3,106	0	0	185	2,921
+West of Twin Peaks - Vote By Mail	9,328	5,756	28,439	16,094	0	6	1,004	15,084
+West of Twin Peaks - Election Day	3,606	1,774	6,935	5,684	0	0	304	5,380
+West of Twin Peaks	12,934	7,530	35,374	21,778	0	6	1,308	20,464
+Western Addition - Vote By Mail	9,187	2,345	23,712	12,534	0	0	1,002	11,532
+Western Addition - Election Day	3,861	799	7,784	5,043	0	0	383	4,660
+Western Addition	13,048	3,144	31,496	17,577	0	0	1,385	16,192

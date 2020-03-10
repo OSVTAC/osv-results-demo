@@ -1,4 +1,4 @@
-Subtotal Area	PAUL MIYAMOTO	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Exhausted Ballots	Ballots Counted	Writein Votes
+Subtotal Area	PAUL MIYAMOTO	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Exhausted Ballots	Total Votes	Write-in Votes
 All Precincts	146,628	495,050	206,117	0	37	59,452	0	146,628	0
 All Precincts - Election Day	42,527	495,050	59,423	0	10	16,886	0	42,527	0
 All Precincts - Vote By Mail	104,101	495,050	146,694	0	27	42,566	0	104,101	0
@@ -104,9 +104,15 @@ Precinct 1148	279	1,002	369	0	0	90	0	279	0
 Precinct 1149 - Election Day	64	911	90	0	0	26	0	64	0
 Precinct 1149 - Vote By Mail	175	911	239	0	0	64	0	175	0
 Precinct 1149	239	911	329	0	0	90	0	239	0
+Precinct 1151 MB - Election Day	0	0	0	0	0	0	0	0	0
+Precinct 1151 MB - Vote By Mail	0	0	0	0	0	0	0	0	0
+Precinct 1151 MB	0	0	0	0	0	0	0	0	0
 Precinct 1152/1153 - Election Day	117	1,815	155	0	0	38	0	117	0
 Precinct 1152/1153 - Vote By Mail	363	1,815	497	0	0	134	0	363	0
 Precinct 1152/1153	480	1,815	652	0	0	172	0	480	0
+Precinct 1154 MB - Election Day	0	0	0	0	0	0	0	0	0
+Precinct 1154 MB - Vote By Mail	0	0	0	0	0	0	0	0	0
+Precinct 1154 MB	0	0	0	0	0	0	0	0	0
 Precinct 7001 - Election Day	41	752	59	0	0	18	0	41	0
 Precinct 7001 - Vote By Mail	167	752	231	0	0	64	0	167	0
 Precinct 7001	208	752	290	0	0	82	0	208	0
@@ -1409,6 +1415,15 @@ Precinct 9756	246	940	333	0	0	87	0	246	0
 Precinct 9801 - Election Day	42	404	51	0	0	9	0	42	0
 Precinct 9801 - Vote By Mail	104	404	135	0	0	31	0	104	0
 Precinct 9801	146	404	186	0	0	40	0	146	0
+Precinct 9900 MB - Election Day	0	0	0	0	0	0	0	0	0
+Precinct 9900 MB - Vote By Mail	0	0	0	0	0	0	0	0	0
+Precinct 9900 MB	0	0	0	0	0	0	0	0	0
+Precinct 9901 MB - Election Day	0	0	0	0	0	0	0	0	0
+Precinct 9901 MB - Vote By Mail	0	0	0	0	0	0	0	0	0
+Precinct 9901 MB	0	0	0	0	0	0	0	0	0
+Precinct 9902 MB - Election Day	0	0	0	0	0	0	0	0	0
+Precinct 9902 MB - Vote By Mail	0	0	0	0	0	0	0	0	0
+Precinct 9902 MB	0	0	0	0	0	0	0	0	0
 Congressional District 12 - Election Day	37,980	437,850	53,401	0	7	15,414	0	37,980	0
 Congressional District 12 - Vote By Mail	91,431	437,850	129,443	0	22	37,990	0	91,431	0
 Congressional District 12	129,411	437,850	182,844	0	29	53,404	0	129,411	0

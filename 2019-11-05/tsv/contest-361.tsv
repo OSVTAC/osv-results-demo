@@ -1,4 +1,4 @@
-Subtotal Area	JENNY LAM	KIRSTEN STROBEL	ROBERT K. COLEMAN	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Ballots Counted	Writein Votes
+Subtotal Area	JENNY LAM	KIRSTEN STROBEL	ROBERT K. COLEMAN	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Total Votes	Write-in Votes
 All Precincts	121,154	26,036	17,395	495,050	206,345	0	639	41,121	164,585	0
 All Precincts - Election Day	31,352	9,516	6,219	495,050	59,419	0	104	12,228	47,087	0
 All Precincts - Vote By Mail	89,802	16,520	11,176	495,050	146,926	0	535	28,893	117,498	0
@@ -104,9 +104,15 @@ Precinct 1148	184	67	41	1,002	369	0	3	74	292	0
 Precinct 1149 - Election Day	48	18	8	911	90	0	0	16	74	0
 Precinct 1149 - Vote By Mail	145	42	13	911	237	0	0	37	200	0
 Precinct 1149	193	60	21	911	327	0	0	53	274	0
+Precinct 1151 MB - Election Day	0	0	0	0	0	0	0	0	0	0
+Precinct 1151 MB - Vote By Mail	0	0	0	0	0	0	0	0	0	0
+Precinct 1151 MB	0	0	0	0	0	0	0	0	0	0
 Precinct 1152/1153 - Election Day	69	32	29	1,815	155	0	0	25	130	0
 Precinct 1152/1153 - Vote By Mail	316	69	35	1,815	499	0	4	75	420	0
 Precinct 1152/1153	385	101	64	1,815	654	0	4	100	550	0
+Precinct 1154 MB - Election Day	0	0	0	0	0	0	0	0	0	0
+Precinct 1154 MB - Vote By Mail	0	0	0	0	0	0	0	0	0	0
+Precinct 1154 MB	0	0	0	0	0	0	0	0	0	0
 Precinct 7001 - Election Day	35	10	1	752	59	0	0	13	46	0
 Precinct 7001 - Vote By Mail	161	16	18	752	232	0	1	36	195	0
 Precinct 7001	196	26	19	752	291	0	1	49	241	0
@@ -1409,6 +1415,15 @@ Precinct 9756	224	39	19	940	336	0	3	51	282	0
 Precinct 9801 - Election Day	26	11	3	404	51	0	0	11	40	0
 Precinct 9801 - Vote By Mail	88	17	7	404	135	0	1	22	112	0
 Precinct 9801	114	28	10	404	186	0	1	33	152	0
+Precinct 9900 MB - Election Day	0	0	0	0	0	0	0	0	0	0
+Precinct 9900 MB - Vote By Mail	0	0	0	0	0	0	0	0	0	0
+Precinct 9900 MB	0	0	0	0	0	0	0	0	0	0
+Precinct 9901 MB - Election Day	0	0	0	0	0	0	0	0	0	0
+Precinct 9901 MB - Vote By Mail	0	0	0	0	0	0	0	0	0	0
+Precinct 9901 MB	0	0	0	0	0	0	0	0	0	0
+Precinct 9902 MB - Election Day	0	0	0	0	0	0	0	0	0	0
+Precinct 9902 MB - Vote By Mail	0	0	0	0	0	0	0	0	0	0
+Precinct 9902 MB	0	0	0	0	0	0	0	0	0	0
 Congressional District 12 - Election Day	28,134	8,457	5,529	437,850	53,402	0	90	11,192	42,120	0
 Congressional District 12 - Vote By Mail	79,082	14,346	9,795	437,850	129,637	0	462	25,952	103,223	0
 Congressional District 12	107,216	22,803	15,324	437,850	183,039	0	552	37,144	145,343	0
