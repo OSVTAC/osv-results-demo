@@ -1,7 +1,7 @@
 Subtotal Area	DAVID ROLDE	HOWIE HAWKINS	DARIO HUNTER	DENNIS LAMBERT	SEDINAM MOYOWASIFZA-CURRY	KENT MESPLAY	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Total Votes	Write-in Votes
-All Precincts	22	206	148	82	113	0	503,899	1,026	0	0	408	618	47
-All Precincts - Election Day	14	49	48	31	45	0	101,053	284	0	0	50	234	47
-All Precincts - Vote By Mail	8	157	100	51	68	0	402,846	742	0	0	358	384	0
+All Precincts	22	208	152	86	115	0	503,899	1,042	0	0	412	630	47
+All Precincts - Election Day	14	51	52	33	47	0	101,053	296	0	0	52	244	47
+All Precincts - Vote By Mail	8	157	100	53	68	0	402,846	746	0	0	360	386	0
 Precinct 1101 - Vote By Mail	0	0	0	0	0	0	448	0	0	0	0	0	0
 Precinct 1101 - Election Day	0	0	0	0	0	0	114	0	0	0	0	0	0
 Precinct 1101	0	0	0	0	0	0	562	0	0	0	0	0	0
@@ -500,9 +500,9 @@ Precinct 7517	0	0	0	0	0	0	868	1	0	0	1	0	0
 Precinct 7518 - Vote By Mail	0	0	0	0	0	0	708	0	0	0	0	0	0
 Precinct 7518 - Election Day	0	0	0	0	0	0	218	3	0	0	0	3	3
 Precinct 7518	0	0	0	0	0	0	926	3	0	0	0	3	3
-Precinct 7519 - Vote By Mail	0	1	1	0	0	0	543	3	0	0	1	2	0
+Precinct 7519 - Vote By Mail	0	1	1	0	0	0	543	4	0	0	2	2	0
 Precinct 7519 - Election Day	0	0	0	0	0	0	172	0	0	0	0	0	0
-Precinct 7519	0	1	1	0	0	0	715	3	0	0	1	2	0
+Precinct 7519	0	1	1	0	0	0	715	4	0	0	2	2	0
 Precinct 7521 - Vote By Mail	0	0	0	0	0	0	597	0	0	0	0	0	0
 Precinct 7521 - Election Day	0	0	0	0	0	0	182	1	0	0	1	0	0
 Precinct 7521	0	0	0	0	0	0	779	1	0	0	1	0	0
@@ -540,8 +540,8 @@ Precinct 7534 - Vote By Mail	0	0	0	1	0	0	670	1	0	0	0	1	0
 Precinct 7534 - Election Day	0	0	0	0	0	0	233	0	0	0	0	0	0
 Precinct 7534	0	0	0	1	0	0	903	1	0	0	0	1	0
 Precinct 7535 - Vote By Mail	0	1	1	0	0	0	606	3	0	0	1	2	0
-Precinct 7535 - Election Day	0	0	0	1	0	0	139	1	0	0	0	1	0
-Precinct 7535	0	1	1	1	0	0	745	4	0	0	1	3	0
+Precinct 7535 - Election Day	0	0	0	1	1	0	139	2	0	0	0	2	0
+Precinct 7535	0	1	1	1	1	0	745	5	0	0	1	4	0
 Precinct 7536 - Vote By Mail	0	0	0	0	0	0	670	0	0	0	0	0	0
 Precinct 7536 - Election Day	0	0	0	0	1	0	163	1	0	0	0	1	0
 Precinct 7536	0	0	0	0	1	0	833	1	0	0	0	1	0
@@ -591,14 +591,14 @@ Precinct 7553 MB - Vote By Mail	0	0	0	0	0	0	211	0	0	0	0	0	0
 Precinct 7553 MB - Election Day	0	0	0	0	0	0	-20	0	0	0	0	0	0
 Precinct 7553 MB	0	0	0	0	0	0	191	0	0	0	0	0	0
 Precinct 7554 - Vote By Mail	0	0	0	0	0	0	653	0	0	0	0	0	0
-Precinct 7554 - Election Day	0	0	0	0	0	0	168	0	0	0	0	0	0
-Precinct 7554	0	0	0	0	0	0	821	0	0	0	0	0	0
+Precinct 7554 - Election Day	0	0	0	0	0	0	168	1	0	0	1	0	0
+Precinct 7554	0	0	0	0	0	0	821	1	0	0	1	0	0
 Precinct 7555 - Vote By Mail	0	0	1	0	0	0	662	1	0	0	0	1	0
 Precinct 7555 - Election Day	1	1	0	0	0	0	210	3	0	0	1	2	0
 Precinct 7555	1	1	1	0	0	0	872	4	0	0	1	3	0
 Precinct 7556/7557 - Vote By Mail	0	0	0	0	1	0	812	3	0	0	2	1	0
-Precinct 7556/7557 - Election Day	0	0	0	0	0	0	154	0	0	0	0	0	0
-Precinct 7556/7557	0	0	0	0	1	0	966	3	0	0	2	1	0
+Precinct 7556/7557 - Election Day	0	0	0	0	1	0	154	1	0	0	0	1	0
+Precinct 7556/7557	0	0	0	0	2	0	966	4	0	0	2	2	0
 Precinct 7601 - Vote By Mail	0	0	0	0	0	0	485	0	0	0	0	0	0
 Precinct 7601 - Election Day	0	0	1	0	0	0	192	2	0	0	1	1	0
 Precinct 7601	0	0	1	0	0	0	677	2	0	0	1	1	0
@@ -660,8 +660,8 @@ Precinct 7622 - Vote By Mail	0	0	0	0	0	0	697	0	0	0	0	0	0
 Precinct 7622 - Election Day	0	0	0	0	0	0	263	0	0	0	0	0	0
 Precinct 7622	0	0	0	0	0	0	960	0	0	0	0	0	0
 Precinct 7623 - Vote By Mail	0	0	0	0	0	0	767	0	0	0	0	0	0
-Precinct 7623 - Election Day	0	0	0	0	0	0	237	0	0	0	0	0	0
-Precinct 7623	0	0	0	0	0	0	1,004	0	0	0	0	0	0
+Precinct 7623 - Election Day	0	1	0	0	0	0	237	1	0	0	0	1	0
+Precinct 7623	0	1	0	0	0	0	1,004	1	0	0	0	1	0
 Precinct 7624 - Vote By Mail	0	0	0	0	0	0	652	0	0	0	0	0	0
 Precinct 7624 - Election Day	0	0	0	0	1	0	223	1	0	0	0	1	0
 Precinct 7624	0	0	0	0	1	0	875	1	0	0	0	1	0
@@ -1075,9 +1075,9 @@ Precinct 7928	0	0	1	0	2	0	917	6	0	0	2	4	1
 Precinct 7929 - Vote By Mail	0	1	0	0	0	0	678	3	0	0	2	1	0
 Precinct 7929 - Election Day	0	0	0	0	0	0	169	1	0	0	1	0	0
 Precinct 7929	0	1	0	0	0	0	847	4	0	0	3	1	0
-Precinct 7931 - Vote By Mail	0	0	1	1	1	0	610	3	0	0	0	3	0
+Precinct 7931 - Vote By Mail	0	0	1	2	1	0	610	4	0	0	0	4	0
 Precinct 7931 - Election Day	0	0	0	0	0	0	141	0	0	0	0	0	0
-Precinct 7931	0	0	1	1	1	0	751	3	0	0	0	3	0
+Precinct 7931	0	0	1	2	1	0	751	4	0	0	0	4	0
 Precinct 7932 - Vote By Mail	1	0	1	0	1	0	443	3	0	0	0	3	0
 Precinct 7932 - Election Day	0	0	0	0	1	0	118	1	0	0	0	1	0
 Precinct 7932	1	0	1	0	2	0	561	4	0	0	0	4	0
@@ -1087,9 +1087,9 @@ Precinct 7933 MB	0	0	0	0	0	0	8	0	0	0	0	0	0
 Precinct 7934 - Vote By Mail	0	0	0	0	0	0	702	3	0	0	3	0	0
 Precinct 7934 - Election Day	0	0	0	0	1	0	182	1	0	0	0	1	0
 Precinct 7934	0	0	0	0	1	0	884	4	0	0	3	1	0
-Precinct 7935 - Vote By Mail	0	1	0	0	1	0	716	2	0	0	0	2	0
+Precinct 7935 - Vote By Mail	0	1	0	0	1	0	716	3	0	0	1	2	0
 Precinct 7935 - Election Day	0	0	0	0	2	0	227	4	0	0	2	2	0
-Precinct 7935	0	1	0	0	3	0	943	6	0	0	2	4	0
+Precinct 7935	0	1	0	0	3	0	943	7	0	0	3	4	0
 Precinct 7936 - Vote By Mail	0	1	1	0	0	0	620	3	0	0	1	2	0
 Precinct 7936 - Election Day	0	2	0	0	0	0	236	2	0	0	0	2	0
 Precinct 7936	0	3	1	0	0	0	856	5	0	0	1	4	0
@@ -1165,9 +1165,9 @@ Precinct 9102	0	0	0	0	0	0	992	0	0	0	0	0	0
 Precinct 9103 - Vote By Mail	0	1	1	0	0	0	719	2	0	0	0	2	0
 Precinct 9103 - Election Day	0	0	0	0	0	0	238	0	0	0	0	0	0
 Precinct 9103	0	1	1	0	0	0	957	2	0	0	0	2	0
-Precinct 9104 - Vote By Mail	0	0	1	0	0	0	810	1	0	0	0	1	0
+Precinct 9104 - Vote By Mail	0	0	1	1	0	0	810	2	0	0	0	2	0
 Precinct 9104 - Election Day	0	0	1	1	0	0	220	2	0	0	0	2	0
-Precinct 9104	0	0	2	1	0	0	1,030	3	0	0	0	3	0
+Precinct 9104	0	0	2	2	0	0	1,030	4	0	0	0	4	0
 Precinct 9105 - Vote By Mail	0	1	1	0	0	0	719	2	0	0	0	2	0
 Precinct 9105 - Election Day	0	0	0	0	0	0	199	0	0	0	0	0	0
 Precinct 9105	0	1	1	0	0	0	918	2	0	0	0	2	0
@@ -1484,8 +1484,8 @@ Precinct 9409 - Vote By Mail	0	1	1	0	1	0	443	4	0	0	1	3	0
 Precinct 9409 - Election Day	0	1	0	0	0	0	158	1	0	0	0	1	0
 Precinct 9409	0	2	1	0	1	0	601	5	0	0	1	4	0
 Precinct 9411 - Vote By Mail	0	0	0	2	0	0	816	3	0	0	1	2	0
-Precinct 9411 - Election Day	0	0	0	0	1	0	191	1	0	0	0	1	0
-Precinct 9411	0	0	0	2	1	0	1,007	4	0	0	1	3	0
+Precinct 9411 - Election Day	0	0	1	0	1	0	191	2	0	0	0	2	0
+Precinct 9411	0	0	1	2	1	0	1,007	5	0	0	1	4	0
 Precinct 9412 - Vote By Mail	0	2	1	0	0	0	668	4	0	0	1	3	0
 Precinct 9412 - Election Day	0	1	2	0	1	0	202	4	0	0	0	4	0
 Precinct 9412	0	3	3	0	1	0	870	8	0	0	1	7	0
@@ -1535,8 +1535,8 @@ Precinct 9428 - Vote By Mail	0	0	0	0	0	0	811	1	0	0	1	0	0
 Precinct 9428 - Election Day	0	0	0	0	0	0	179	0	0	0	0	0	0
 Precinct 9428	0	0	0	0	0	0	990	1	0	0	1	0	0
 Precinct 9429 - Vote By Mail	0	0	0	1	0	0	709	1	0	0	0	1	0
-Precinct 9429 - Election Day	0	0	0	0	0	0	197	0	0	0	0	0	0
-Precinct 9429	0	0	0	1	0	0	906	1	0	0	0	1	0
+Precinct 9429 - Election Day	0	0	1	0	0	0	197	1	0	0	0	1	0
+Precinct 9429	0	0	1	1	0	0	906	2	0	0	0	2	0
 Precinct 9431 - Vote By Mail	0	0	0	0	0	0	832	0	0	0	0	0	0
 Precinct 9431 - Election Day	0	0	0	0	0	0	204	0	0	0	0	0	0
 Precinct 9431	0	0	0	0	0	0	1,036	0	0	0	0	0	0
@@ -1547,14 +1547,14 @@ Precinct 9433 - Vote By Mail	0	0	0	0	0	0	794	1	0	0	1	0	0
 Precinct 9433 - Election Day	0	0	0	0	0	0	164	1	0	0	0	1	1
 Precinct 9433	0	0	0	0	0	0	958	2	0	0	1	1	1
 Precinct 9434 - Vote By Mail	0	1	0	1	0	0	785	4	0	0	2	2	0
-Precinct 9434 - Election Day	0	0	0	0	0	0	227	0	0	0	0	0	0
-Precinct 9434	0	1	0	1	0	0	1,012	4	0	0	2	2	0
+Precinct 9434 - Election Day	0	0	1	0	0	0	227	1	0	0	0	1	0
+Precinct 9434	0	1	1	1	0	0	1,012	5	0	0	2	3	0
 Precinct 9435 - Vote By Mail	0	0	0	0	0	0	779	2	0	0	2	0	0
 Precinct 9435 - Election Day	0	0	0	0	0	0	225	0	0	0	0	0	0
 Precinct 9435	0	0	0	0	0	0	1,004	2	0	0	2	0	0
 Precinct 9436 - Vote By Mail	0	0	0	0	0	0	842	1	0	0	1	0	0
-Precinct 9436 - Election Day	0	0	0	0	0	0	226	0	0	0	0	0	0
-Precinct 9436	0	0	0	0	0	0	1,068	1	0	0	1	0	0
+Precinct 9436 - Election Day	0	0	0	0	0	0	226	1	0	0	1	0	0
+Precinct 9436	0	0	0	0	0	0	1,068	2	0	0	2	0	0
 Precinct 9437 - Vote By Mail	0	0	0	0	0	0	736	0	0	0	0	0	0
 Precinct 9437 - Election Day	0	0	0	0	1	0	191	1	0	0	0	1	0
 Precinct 9437	0	0	0	0	1	0	927	1	0	0	0	1	0
@@ -1565,11 +1565,11 @@ Precinct 9439 - Vote By Mail	0	0	1	0	0	0	718	1	0	0	0	1	0
 Precinct 9439 - Election Day	0	0	0	0	0	0	199	0	0	0	0	0	0
 Precinct 9439	0	0	1	0	0	0	917	1	0	0	0	1	0
 Precinct 9441 - Vote By Mail	0	2	0	0	2	0	778	5	0	0	1	4	0
-Precinct 9441 - Election Day	0	0	0	0	0	0	193	1	0	0	0	1	1
-Precinct 9441	0	2	0	0	2	0	971	6	0	0	1	5	1
+Precinct 9441 - Election Day	0	0	1	0	0	0	193	2	0	0	0	2	1
+Precinct 9441	0	2	1	0	2	0	971	7	0	0	1	6	1
 Precinct 9442 - Vote By Mail	0	0	0	0	0	0	830	0	0	0	0	0	0
-Precinct 9442 - Election Day	0	0	0	0	0	0	210	0	0	0	0	0	0
-Precinct 9442	0	0	0	0	0	0	1,040	0	0	0	0	0	0
+Precinct 9442 - Election Day	0	0	0	1	0	0	210	1	0	0	0	1	0
+Precinct 9442	0	0	0	1	0	0	1,040	1	0	0	0	1	0
 Precinct 9443 - Vote By Mail	0	1	0	0	0	0	759	1	0	0	0	1	0
 Precinct 9443 - Election Day	0	0	0	0	1	0	196	2	0	0	0	2	1
 Precinct 9443	0	1	0	0	1	0	955	3	0	0	0	3	1
@@ -1646,8 +1646,8 @@ Precinct 9517 - Vote By Mail	0	0	0	0	0	0	626	0	0	0	0	0	0
 Precinct 9517 - Election Day	0	0	0	0	0	0	162	1	0	0	1	0	0
 Precinct 9517	0	0	0	0	0	0	788	1	0	0	1	0	0
 Precinct 9518 - Vote By Mail	0	0	0	1	0	0	642	1	0	0	0	1	0
-Precinct 9518 - Election Day	0	0	0	0	0	0	146	0	0	0	0	0	0
-Precinct 9518	0	0	0	1	0	0	788	1	0	0	0	1	0
+Precinct 9518 - Election Day	0	0	0	1	0	0	146	1	0	0	0	1	0
+Precinct 9518	0	0	0	2	0	0	788	2	0	0	0	2	0
 Precinct 9519 - Vote By Mail	0	0	0	0	0	0	693	1	0	0	1	0	0
 Precinct 9519 - Election Day	0	1	1	0	0	0	198	2	0	0	0	2	0
 Precinct 9519	0	1	1	0	0	0	891	3	0	0	1	2	0
@@ -1682,8 +1682,8 @@ Precinct 9709 - Vote By Mail	0	0	0	1	0	0	831	2	0	0	1	1	0
 Precinct 9709 - Election Day	0	1	0	0	0	0	209	1	0	0	0	1	0
 Precinct 9709	0	1	0	1	0	0	1,040	3	0	0	1	2	0
 Precinct 9711 - Vote By Mail	0	0	0	0	1	0	502	2	0	0	1	1	0
-Precinct 9711 - Election Day	0	0	0	1	0	0	144	1	0	0	0	1	0
-Precinct 9711	0	0	0	1	1	0	646	3	0	0	1	2	0
+Precinct 9711 - Election Day	0	1	0	1	0	0	144	2	0	0	0	2	0
+Precinct 9711	0	1	0	1	1	0	646	4	0	0	1	3	0
 Precinct 9712 - Vote By Mail	0	0	0	0	0	0	534	0	0	0	0	0	0
 Precinct 9712 - Election Day	0	0	0	0	0	0	127	0	0	0	0	0	0
 Precinct 9712	0	0	0	0	0	0	661	0	0	0	0	0	0
@@ -1810,21 +1810,21 @@ Precinct 9756	0	0	1	0	1	0	967	2	0	0	0	2	0
 Precinct 9801 - Vote By Mail	0	0	0	0	0	0	320	0	0	0	0	0	0
 Precinct 9801 - Election Day	0	0	0	0	0	0	88	0	0	0	0	0	0
 Precinct 9801	0	0	0	0	0	0	408	0	0	0	0	0	0
-Congressional District 12 - Vote By Mail	8	145	92	43	63	0	355,594	676	0	0	325	351	0
-Congressional District 12 - Election Day	9	47	45	27	41	0	90,254	260	0	0	47	213	44
-Congressional District 12	17	192	137	70	104	0	445,848	936	0	0	372	564	44
+Congressional District 12 - Vote By Mail	8	145	92	45	63	0	355,594	680	0	0	327	353	0
+Congressional District 12 - Election Day	9	49	49	29	43	0	90,254	272	0	0	49	223	44
+Congressional District 12	17	194	141	74	106	0	445,848	952	0	0	376	576	44
 Congressional District 14 - Vote By Mail	0	12	8	8	5	0	47,252	66	0	0	33	33	0
 Congressional District 14 - Election Day	5	2	3	4	4	0	10,799	24	0	0	3	21	3
 Congressional District 14	5	14	11	12	9	0	58,051	90	0	0	36	54	3
-Assembly District 17 - Vote By Mail	8	107	69	24	47	0	232,787	470	0	0	215	255	0
-Assembly District 17 - Election Day	6	33	29	13	29	0	59,635	175	0	0	35	140	30
-Assembly District 17	14	140	98	37	76	0	292,422	645	0	0	250	395	30
-Assembly District 19 - Vote By Mail	0	50	31	27	21	0	170,059	272	0	0	143	129	0
-Assembly District 19 - Election Day	8	16	19	18	16	0	41,418	109	0	0	15	94	17
-Assembly District 19	8	66	50	45	37	0	211,477	381	0	0	158	223	17
-Supervisorial District 1 - Vote By Mail	0	12	7	5	3	0	33,868	65	0	0	38	27	0
+Assembly District 17 - Vote By Mail	8	107	69	25	47	0	232,787	473	0	0	217	256	0
+Assembly District 17 - Election Day	6	34	29	13	31	0	59,635	179	0	0	36	143	30
+Assembly District 17	14	141	98	38	78	0	292,422	652	0	0	253	399	30
+Assembly District 19 - Vote By Mail	0	50	31	28	21	0	170,059	273	0	0	143	130	0
+Assembly District 19 - Election Day	8	17	23	20	16	0	41,418	117	0	0	16	101	17
+Assembly District 19	8	67	54	48	37	0	211,477	390	0	0	159	231	17
+Supervisorial District 1 - Vote By Mail	0	12	7	6	3	0	33,868	66	0	0	38	28	0
 Supervisorial District 1 - Election Day	0	8	6	8	6	0	9,248	39	0	0	5	34	6
-Supervisorial District 1	0	20	13	13	9	0	43,116	104	0	0	43	61	6
+Supervisorial District 1	0	20	13	14	9	0	43,116	105	0	0	43	62	6
 Supervisorial District 2 - Vote By Mail	0	6	3	2	3	0	41,435	32	0	0	18	14	0
 Supervisorial District 2 - Election Day	2	1	5	0	0	0	8,611	10	0	0	1	9	1
 Supervisorial District 2	2	7	8	2	3	0	50,046	42	0	0	19	23	1
@@ -1832,23 +1832,23 @@ Supervisorial District 3 - Vote By Mail	1	13	8	2	3	0	31,943	50	0	0	23	27	0
 Supervisorial District 3 - Election Day	1	6	0	0	3	0	7,434	15	0	0	2	13	3
 Supervisorial District 3	2	19	8	2	6	0	39,377	65	0	0	25	40	3
 Supervisorial District 4 - Vote By Mail	0	13	6	8	8	0	35,049	70	0	0	35	35	0
-Supervisorial District 4 - Election Day	0	4	4	3	5	0	9,045	22	0	0	1	21	5
-Supervisorial District 4	0	17	10	11	13	0	44,094	92	0	0	36	56	5
-Supervisorial District 5 - Vote By Mail	1	23	9	7	9	0	41,966	87	0	0	38	49	0
-Supervisorial District 5 - Election Day	1	10	4	6	5	0	10,934	44	0	0	9	35	9
-Supervisorial District 5	2	33	13	13	14	0	52,900	131	0	0	47	84	9
+Supervisorial District 4 - Election Day	0	4	8	4	5	0	9,045	28	0	0	2	26	5
+Supervisorial District 4	0	17	14	12	13	0	44,094	98	0	0	37	61	5
+Supervisorial District 5 - Vote By Mail	1	23	9	7	9	0	41,966	88	0	0	39	49	0
+Supervisorial District 5 - Election Day	1	10	4	7	7	0	10,934	48	0	0	10	38	9
+Supervisorial District 5	2	33	13	14	16	0	52,900	136	0	0	49	87	9
 Supervisorial District 6 - Vote By Mail	1	15	8	6	2	0	35,755	56	0	0	24	32	0
-Supervisorial District 6 - Election Day	1	1	8	0	3	0	7,940	17	0	0	3	14	1
-Supervisorial District 6	2	16	16	6	5	0	43,695	73	0	0	27	46	1
+Supervisorial District 6 - Election Day	1	2	8	0	3	0	7,940	18	0	0	3	15	1
+Supervisorial District 6	2	17	16	6	5	0	43,695	74	0	0	27	47	1
 Supervisorial District 7 - Vote By Mail	0	9	14	9	6	0	38,887	83	0	0	45	38	0
-Supervisorial District 7 - Election Day	4	6	1	5	2	0	8,556	24	0	0	3	21	3
-Supervisorial District 7	4	15	15	14	8	0	47,443	107	0	0	48	59	3
+Supervisorial District 7 - Election Day	4	7	1	5	2	0	8,556	25	0	0	3	22	3
+Supervisorial District 7	4	16	15	14	8	0	47,443	108	0	0	48	60	3
 Supervisorial District 8 - Vote By Mail	1	27	15	5	19	0	46,370	130	0	0	63	67	0
 Supervisorial District 8 - Election Day	1	7	12	4	11	0	11,807	51	0	0	10	41	6
 Supervisorial District 8	2	34	27	9	30	0	58,177	181	0	0	73	108	6
-Supervisorial District 9 - Vote By Mail	2	24	19	4	9	0	33,165	96	0	0	38	58	0
+Supervisorial District 9 - Vote By Mail	2	24	19	5	9	0	33,165	98	0	0	39	59	0
 Supervisorial District 9 - Election Day	1	6	5	3	7	0	10,098	39	0	0	10	29	7
-Supervisorial District 9	3	30	24	7	16	0	43,263	135	0	0	48	87	7
+Supervisorial District 9	3	30	24	8	16	0	43,263	137	0	0	49	88	7
 Supervisorial District 10 - Vote By Mail	2	5	3	1	3	0	33,765	39	0	0	25	14	0
 Supervisorial District 10 - Election Day	0	0	2	0	1	0	9,348	8	0	0	1	7	4
 Supervisorial District 10	2	5	5	1	4	0	43,113	47	0	0	26	21	4
@@ -1870,15 +1870,15 @@ Diamond Heights	0	8	2	0	2	0	7,060	21	0	0	9	12	0
 Excelsior - Vote By Mail	0	8	8	1	2	0	22,700	28	0	0	9	19	0
 Excelsior - Election Day	2	0	0	2	2	0	5,893	10	0	0	3	7	1
 Excelsior	2	8	8	3	4	0	28,593	38	0	0	12	26	1
-Haight Ashbury - Vote By Mail	0	3	3	1	4	0	11,526	18	0	0	7	11	0
-Haight Ashbury - Election Day	1	3	1	2	1	0	2,336	15	0	0	4	11	3
-Haight Ashbury	1	6	4	3	5	0	13,862	33	0	0	11	22	3
+Haight Ashbury - Vote By Mail	0	3	3	1	4	0	11,526	19	0	0	8	11	0
+Haight Ashbury - Election Day	1	3	1	2	3	0	2,336	17	0	0	4	13	3
+Haight Ashbury	1	6	4	3	7	0	13,862	36	0	0	12	24	3
 Ingleside - Vote By Mail	0	2	1	1	1	0	9,818	8	0	0	3	5	0
 Ingleside - Election Day	1	0	1	0	1	0	2,577	6	0	0	2	4	1
 Ingleside	1	2	2	1	2	0	12,395	14	0	0	5	9	1
 Inner Sunset - Vote By Mail	0	4	1	3	2	0	7,628	19	0	0	9	10	0
-Inner Sunset - Election Day	0	3	2	0	1	0	2,030	11	0	0	3	8	2
-Inner Sunset	0	7	3	3	3	0	9,658	30	0	0	12	18	2
+Inner Sunset - Election Day	0	3	2	1	1	0	2,030	13	0	0	4	9	2
+Inner Sunset	0	7	3	4	3	0	9,658	32	0	0	13	19	2
 Lake Merced - Vote By Mail	0	2	3	2	0	0	7,416	14	0	0	7	7	0
 Lake Merced - Election Day	1	0	0	1	1	0	842	4	0	0	0	4	1
 Lake Merced	1	2	3	3	1	0	8,258	18	0	0	7	11	1
@@ -1891,9 +1891,9 @@ Marina Pacific Heights	1	7	5	2	2	0	39,440	31	0	0	14	17	0
 Mission - Vote By Mail	1	12	10	3	4	0	23,572	57	0	0	27	30	0
 Mission - Election Day	1	4	5	2	7	0	7,433	30	0	0	7	23	4
 Mission	2	16	15	5	11	0	31,005	87	0	0	34	53	4
-North Bernal Heights - Vote By Mail	1	4	6	1	6	0	6,791	29	0	0	11	18	0
+North Bernal Heights - Vote By Mail	1	4	6	2	6	0	6,791	31	0	0	12	19	0
 North Bernal Heights - Election Day	0	2	0	1	5	0	1,942	14	0	0	4	10	2
-North Bernal Heights	1	6	6	2	11	0	8,733	43	0	0	15	28	2
+North Bernal Heights	1	6	6	3	11	0	8,733	45	0	0	16	29	2
 North Embarcadero - Vote By Mail	0	0	2	0	1	0	5,779	7	0	0	4	3	0
 North Embarcadero - Election Day	0	1	0	0	0	0	1,309	2	0	0	1	1	0
 North Embarcadero	0	1	2	0	1	0	7,088	9	0	0	5	4	0
@@ -1906,9 +1906,9 @@ Portola	1	4	4	1	1	0	9,632	14	0	0	2	12	1
 Potrero Hill - Vote By Mail	1	2	1	0	2	0	14,623	16	0	0	10	6	0
 Potrero Hill - Election Day	0	0	2	0	2	0	2,733	7	0	0	1	6	2
 Potrero Hill	1	2	3	0	4	0	17,356	23	0	0	11	12	2
-Richmond - Vote By Mail	0	9	6	5	2	0	29,447	59	0	0	37	22	0
+Richmond - Vote By Mail	0	9	6	6	2	0	29,447	60	0	0	37	23	0
 Richmond - Election Day	0	8	5	8	5	0	8,178	37	0	0	5	32	6
-Richmond	0	17	11	13	7	0	37,625	96	0	0	42	54	6
+Richmond	0	17	11	14	7	0	37,625	97	0	0	42	55	6
 South of Bernal Heights - Vote By Mail	0	6	4	2	4	0	7,165	24	0	0	8	16	0
 South of Bernal Heights - Election Day	0	1	1	0	0	0	2,406	8	0	0	3	5	3
 South of Bernal Heights	0	7	5	2	4	0	9,571	32	0	0	11	21	3
@@ -1916,11 +1916,11 @@ Sea Cliff/Presidio Heights - Vote By Mail	0	2	2	0	0	0	6,458	7	0	0	3	4	0
 Sea Cliff/Presidio Heights - Election Day	0	0	0	0	0	0	1,563	0	0	0	0	0	0
 Sea Cliff/Presidio Heights	0	2	2	0	0	0	8,021	7	0	0	3	4	0
 South of Market - Vote By Mail	0	5	4	1	0	0	20,910	23	0	0	13	10	0
-South of Market - Election Day	0	0	1	0	1	0	4,167	2	0	0	0	2	0
-South of Market	0	5	5	1	1	0	25,077	25	0	0	13	12	0
+South of Market - Election Day	0	1	1	0	1	0	4,167	3	0	0	0	3	0
+South of Market	0	6	5	1	1	0	25,077	26	0	0	13	13	0
 Sunset - Vote By Mail	0	12	5	8	7	0	34,606	66	0	0	34	32	0
-Sunset - Election Day	0	3	4	3	5	0	8,887	21	0	0	1	20	5
-Sunset	0	15	9	11	12	0	43,493	87	0	0	35	52	5
+Sunset - Election Day	0	3	8	4	5	0	8,887	27	0	0	2	25	5
+Sunset	0	15	13	12	12	0	43,493	93	0	0	36	57	5
 Upper Market/Eureka Valley - Vote By Mail	1	7	5	2	7	0	15,381	42	0	0	20	22	0
 Upper Market/Eureka Valley - Election Day	0	2	3	3	3	0	3,512	16	0	0	4	12	1
 Upper Market/Eureka Valley	1	9	8	5	10	0	18,893	58	0	0	24	34	1
@@ -1928,8 +1928,8 @@ Visitation Valley - Vote By Mail	1	0	0	0	1	0	6,638	5	0	0	3	2	0
 Visitation Valley - Election Day	0	0	0	0	0	0	1,850	1	0	0	0	1	1
 Visitation Valley	1	0	0	0	1	0	8,488	6	0	0	3	3	1
 West of Twin Peaks - Vote By Mail	0	6	9	6	5	0	28,439	58	0	0	32	26	0
-West of Twin Peaks - Election Day	3	5	1	4	0	0	6,935	16	0	0	1	15	2
-West of Twin Peaks	3	11	10	10	5	0	35,374	74	0	0	33	41	2
+West of Twin Peaks - Election Day	3	6	1	4	0	0	6,935	17	0	0	1	16	2
+West of Twin Peaks	3	12	10	10	5	0	35,374	75	0	0	33	42	2
 Western Addition - Vote By Mail	1	18	8	4	5	0	23,712	64	0	0	28	36	0
 Western Addition - Election Day	0	5	1	4	3	0	7,784	21	0	0	4	17	4
 Western Addition	1	23	9	8	8	0	31,496	85	0	0	32	53	4
