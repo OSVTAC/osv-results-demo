@@ -338,7 +338,8 @@ def get_common_args(repo_root, orr_dir, input_dir_name, build_dir,
 
 
 def build_report(repo_root, orr_dir, input_dir_name, build_dir, output_dir_name,
-    results_dir_name=None, no_docker=False, skip_pdf=False, skip_build=False):
+    results_dir_name=None, no_docker=False, delete_okay=False, skip_pdf=False,
+    skip_build=False):
     """
     Args:
       orr_dir: the directory to use as the ORR repo root.
@@ -349,6 +350,7 @@ def build_report(repo_root, orr_dir, input_dir_name, build_dir, output_dir_name,
       results_dir_name: an optional subdirectory name inside the
         "out-orr" directory, which will be used to construct the value
         to pass as --input-results-dir.
+      delete_okay: whether to pass --delete-okay to ORR.
       skip_pdf: whether to skip PDF generation.  Defaults to False.
       skip_build: whether to skip the Docker build.  Defaults to False.
     """
@@ -362,6 +364,9 @@ def build_report(repo_root, orr_dir, input_dir_name, build_dir, output_dir_name,
     else:
         args = ['orr-docker'] + common_args
         args.extend(['--source-dir', orr_dir])
+
+    if delete_okay:
+        args.append('--delete-okay')
 
     # TODO: also expose this as a command-line option?
     if skip_build:
@@ -419,6 +424,8 @@ def parse_args(orr_submodule_dir, report_names):
         default=orr_submodule_dir)
     parser.add_argument('--no-docker', action='store_true',
         help='suppress using Docker.')
+    parser.add_argument('--delete-okay', action='store_true',
+        help=('whether to allow directory deletions without prompting.'))
     parser.add_argument('--skip-pdf', action='store_true',
         help='skip PDF generation (useful for testing).')
 
@@ -459,6 +466,7 @@ def main():
     report_names = ns.reports
     orr_dir = Path(ns.orr_dir)
     no_docker = ns.no_docker
+    delete_okay = ns.delete_okay
     skip_pdf = ns.skip_pdf
 
     # Warn the user if they are using an orr different from what is expected.
@@ -491,7 +499,7 @@ def main():
         report_data = build_report(repo_root, orr_dir=orr_dir, input_dir_name=input_dir_name,
             build_dir=build_dir, output_dir_name=output_dir_name,
             results_dir_name=input_results_dir_name, no_docker=no_docker,
-            skip_pdf=skip_pdf, skip_build=skip_build)
+            skip_pdf=skip_pdf, delete_okay=delete_okay, skip_build=skip_build)
 
         reports_data.append((output_dir_name, report_data))
         # We only need to build the first time.
