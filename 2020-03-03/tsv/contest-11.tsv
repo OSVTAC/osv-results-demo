@@ -1,6 +1,6 @@
 Subtotal Area	HOWIE HAWKINS	GLORIA LA RIVA	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Total Votes	Write-in Votes
-All Precincts	77	174	1,531	366	0	1	107	258	7
-All Precincts - None	18	70	338	120	0	1	24	95	7
+All Precincts	78	174	1,531	366	0	0	114	252	0
+All Precincts - None	19	70	338	120	0	0	31	89	0
 All Precincts - None	59	104	1,193	246	0	0	83	163	0
 Precinct 1101 - None	0	0	1	1	0	0	1	0	0
 Precinct 1101 - None	0	0	0	0	0	0	0	0	0
@@ -960,8 +960,8 @@ Precinct 7861 - None	0	0	1	0	0	0	0	0	0
 Precinct 7861 - None	0	1	0	1	0	0	0	1	0
 Precinct 7861	0	1	1	1	0	0	0	1	0
 Precinct 7862 - None	0	0	1	0	0	0	0	0	0
-Precinct 7862 - None	0	0	1	1	0	0	0	1	1
-Precinct 7862	0	0	2	1	0	0	0	1	1
+Precinct 7862 - None	0	0	1	1	0	0	1	0	0
+Precinct 7862	0	0	2	1	0	0	1	0	0
 Precinct 7863 - None	0	0	0	0	0	0	0	0	0
 Precinct 7863 - None	0	0	0	0	0	0	0	0	0
 Precinct 7863	0	0	0	0	0	0	0	0	0
@@ -1062,8 +1062,8 @@ Precinct 7922 - None	1	0	1	1	0	0	0	1	0
 Precinct 7922 - None	0	2	4	2	0	0	0	2	0
 Precinct 7922	1	2	5	3	0	0	0	3	0
 Precinct 7923 - None	0	0	4	0	0	0	0	0	0
-Precinct 7923 - None	0	1	4	3	0	0	0	3	2
-Precinct 7923	0	1	8	3	0	0	0	3	2
+Precinct 7923 - None	0	1	4	3	0	0	2	1	0
+Precinct 7923	0	1	8	3	0	0	2	1	0
 Precinct 7924 - None	1	0	4	1	0	0	0	1	0
 Precinct 7924 - None	0	0	1	0	0	0	0	0	0
 Precinct 7924	1	0	5	1	0	0	0	1	0
@@ -1389,8 +1389,8 @@ Precinct 9229 - None	0	0	0	0	0	0	0	0	0
 Precinct 9229 - None	0	0	0	0	0	0	0	0	0
 Precinct 9229	0	0	0	0	0	0	0	0	0
 Precinct 9231 - None	0	2	3	2	0	0	0	2	0
-Precinct 9231 - None	0	0	0	1	0	0	0	1	1
-Precinct 9231	0	2	3	3	0	0	0	3	1
+Precinct 9231 - None	0	0	0	1	0	0	1	0	0
+Precinct 9231	0	2	3	3	0	0	1	2	0
 Precinct 9232 - None	0	0	1	0	0	0	0	0	0
 Precinct 9232 - None	0	0	0	0	0	0	0	0	0
 Precinct 9232	0	0	1	0	0	0	0	0	0
@@ -1566,8 +1566,8 @@ Precinct 9436 - None	0	0	2	0	0	0	0	0	0
 Precinct 9436 - None	0	0	2	0	0	0	0	0	0
 Precinct 9436	0	0	4	0	0	0	0	0	0
 Precinct 9437 - None	0	0	2	1	0	0	1	0	0
-Precinct 9437 - None	0	0	0	2	0	1	0	1	1
-Precinct 9437	0	0	2	3	0	1	1	1	1
+Precinct 9437 - None	1	0	0	2	0	0	1	1	0
+Precinct 9437	1	0	2	3	0	0	2	1	0
 Precinct 9438 - None	1	0	4	1	0	0	0	1	0
 Precinct 9438 - None	0	0	-1	0	0	0	0	0	0
 Precinct 9438	1	0	3	1	0	0	0	1	0
@@ -1596,8 +1596,8 @@ Precinct 9447 - None	0	0	3	0	0	0	0	0	0
 Precinct 9447 - None	0	0	0	0	0	0	0	0	0
 Precinct 9447	0	0	3	0	0	0	0	0	0
 Precinct 9448 - None	0	0	1	0	0	0	0	0	0
-Precinct 9448 - None	0	0	2	1	0	0	0	1	1
-Precinct 9448	0	0	3	1	0	0	0	1	1
+Precinct 9448 - None	0	0	2	1	0	0	1	0	0
+Precinct 9448	0	0	3	1	0	0	1	0	0
 Precinct 9449 - None	1	1	4	2	0	0	0	2	0
 Precinct 9449 - None	0	1	-1	1	0	0	0	1	0
 Precinct 9449	1	2	3	3	0	0	0	3	0
@@ -1620,8 +1620,8 @@ Precinct 9503/9504 - None	0	0	2	0	0	0	0	0	0
 Precinct 9503/9504 - None	0	0	0	0	0	0	0	0	0
 Precinct 9503/9504	0	0	2	0	0	0	0	0	0
 Precinct 9505 - None	0	0	3	0	0	0	0	0	0
-Precinct 9505 - None	0	0	0	1	0	0	0	1	1
-Precinct 9505	0	0	3	1	0	0	0	1	1
+Precinct 9505 - None	0	0	0	1	0	0	1	0	0
+Precinct 9505	0	0	3	1	0	0	1	0	0
 Precinct 9506 - None	0	0	3	0	0	0	0	0	0
 Precinct 9506 - None	0	0	-1	0	0	0	0	0	0
 Precinct 9506	0	0	2	0	0	0	0	0	0
@@ -1830,32 +1830,32 @@ Precinct 9902 MB - None	0	0	0	0	0	0	0	0	0
 Precinct 9902 MB - None	0	0	0	0	0	0	0	0	0
 Precinct 9902 MB	0	0	0	0	0	0	0	0	0
 Congressional District 12 - None	49	88	1,030	204	0	0	67	137	0
-Congressional District 12 - None	17	63	308	107	0	1	19	87	7
-Congressional District 12	66	151	1,338	311	0	1	86	224	7
+Congressional District 12 - None	18	63	308	107	0	0	26	81	0
+Congressional District 12	67	151	1,338	311	0	0	93	218	0
 Congressional District 14 - None	10	16	163	42	0	0	16	26	0
 Congressional District 14 - None	1	7	30	13	0	0	5	8	0
 Congressional District 14	11	23	193	55	0	0	21	34	0
 Assembly District 17 - None	36	66	799	153	0	0	51	102	0
-Assembly District 17 - None	12	52	246	84	0	0	17	67	3
-Assembly District 17	48	118	1,045	237	0	0	68	169	3
+Assembly District 17 - None	12	52	246	84	0	0	20	64	0
+Assembly District 17	48	118	1,045	237	0	0	71	166	0
 Assembly District 19 - None	23	38	394	93	0	0	32	61	0
-Assembly District 19 - None	6	18	92	36	0	1	7	28	4
-Assembly District 19	29	56	486	129	0	1	39	89	4
+Assembly District 19 - None	7	18	92	36	0	0	11	25	0
+Assembly District 19	30	56	486	129	0	0	43	86	0
 Supervisorial District 1 - None	4	7	72	14	0	0	3	11	0
 Supervisorial District 1 - None	2	2	25	4	0	0	0	4	0
 Supervisorial District 1	6	9	97	18	0	0	3	15	0
 Supervisorial District 2 - None	3	5	30	13	0	0	5	8	0
-Supervisorial District 2 - None	0	1	4	5	0	0	3	2	1
-Supervisorial District 2	3	6	34	18	0	0	8	10	1
+Supervisorial District 2 - None	0	1	4	5	0	0	4	1	0
+Supervisorial District 2	3	6	34	18	0	0	9	9	0
 Supervisorial District 3 - None	4	11	90	18	0	0	3	15	0
 Supervisorial District 3 - None	0	5	17	7	0	0	2	5	0
 Supervisorial District 3	4	16	107	25	0	0	5	20	0
 Supervisorial District 4 - None	6	8	101	19	0	0	5	14	0
-Supervisorial District 4 - None	3	4	20	10	0	1	0	9	2
-Supervisorial District 4	9	12	121	29	0	1	5	23	2
+Supervisorial District 4 - None	4	4	20	10	0	0	2	8	0
+Supervisorial District 4	10	12	121	29	0	0	7	22	0
 Supervisorial District 5 - None	3	14	108	30	0	0	13	17	0
-Supervisorial District 5 - None	2	8	39	11	0	0	0	11	1
-Supervisorial District 5	5	22	147	41	0	0	13	28	1
+Supervisorial District 5 - None	2	8	39	11	0	0	1	10	0
+Supervisorial District 5	5	22	147	41	0	0	14	27	0
 Supervisorial District 6 - None	5	9	170	17	0	0	3	14	0
 Supervisorial District 6 - None	0	10	29	12	0	0	2	10	0
 Supervisorial District 6	5	19	199	29	0	0	5	24	0
@@ -1863,11 +1863,11 @@ Supervisorial District 7 - None	2	5	74	15	0	0	8	7	0
 Supervisorial District 7 - None	1	4	28	8	0	0	3	5	0
 Supervisorial District 7	3	9	102	23	0	0	11	12	0
 Supervisorial District 8 - None	2	5	61	16	0	0	9	7	0
-Supervisorial District 8 - None	4	7	38	19	0	0	7	12	1
-Supervisorial District 8	6	12	99	35	0	0	16	19	1
+Supervisorial District 8 - None	4	7	38	19	0	0	8	11	0
+Supervisorial District 8	6	12	99	35	0	0	17	18	0
 Supervisorial District 9 - None	10	13	139	34	0	0	11	23	0
-Supervisorial District 9 - None	1	12	58	18	0	0	3	15	2
-Supervisorial District 9	11	25	197	52	0	0	14	38	2
+Supervisorial District 9 - None	1	12	58	18	0	0	5	13	0
+Supervisorial District 9	11	25	197	52	0	0	16	36	0
 Supervisorial District 10 - None	7	10	188	24	0	0	7	17	0
 Supervisorial District 10 - None	2	8	51	10	0	0	0	10	0
 Supervisorial District 10	9	18	239	34	0	0	7	27	0
@@ -1908,8 +1908,8 @@ Marina Pacific Heights - None	3	3	26	11	0	0	5	6	0
 Marina Pacific Heights - None	0	0	4	1	0	0	1	0	0
 Marina Pacific Heights	3	3	30	12	0	0	6	6	0
 Mission - None	4	7	88	19	0	0	8	11	0
-Mission - None	1	8	46	15	0	0	4	11	2
-Mission	5	15	134	34	0	0	12	22	2
+Mission - None	1	8	46	15	0	0	6	9	0
+Mission	5	15	134	34	0	0	14	20	0
 North Bernal Heights - None	0	3	21	5	0	0	2	3	0
 North Bernal Heights - None	0	3	6	4	0	0	1	3	0
 North Bernal Heights	0	6	27	9	0	0	3	6	0
@@ -1917,8 +1917,8 @@ North Embarcadero - None	1	1	6	2	0	0	0	2	0
 North Embarcadero - None	0	0	3	0	0	0	0	0	0
 North Embarcadero	1	1	9	2	0	0	0	2	0
 Noe Valley - None	0	2	13	3	0	0	1	2	0
-Noe Valley - None	2	3	12	7	0	0	1	6	1
-Noe Valley	2	5	25	10	0	0	2	8	1
+Noe Valley - None	2	3	12	7	0	0	2	5	0
+Noe Valley	2	5	25	10	0	0	3	7	0
 Portola - None	4	1	41	10	0	0	5	5	0
 Portola - None	1	1	9	2	0	0	0	2	0
 Portola	5	2	50	12	0	0	5	7	0
@@ -1932,14 +1932,14 @@ South of Bernal Heights - None	3	4	24	9	0	0	2	7	0
 South of Bernal Heights - None	0	1	9	4	0	0	3	1	0
 South of Bernal Heights	3	5	33	13	0	0	5	8	0
 Sea Cliff/Presidio Heights - None	0	2	4	2	0	0	0	2	0
-Sea Cliff/Presidio Heights - None	0	1	0	2	0	0	0	2	1
-Sea Cliff/Presidio Heights	0	3	4	4	0	0	0	4	1
+Sea Cliff/Presidio Heights - None	0	1	0	2	0	0	1	1	0
+Sea Cliff/Presidio Heights	0	3	4	4	0	0	1	3	0
 South of Market - None	2	2	83	4	0	0	0	4	0
 South of Market - None	0	6	5	7	0	0	1	6	0
 South of Market	2	8	88	11	0	0	1	10	0
 Sunset - None	6	8	101	19	0	0	5	14	0
-Sunset - None	3	4	20	10	0	1	0	9	2
-Sunset	9	12	121	29	0	1	5	23	2
+Sunset - None	4	4	20	10	0	0	2	8	0
+Sunset	10	12	121	29	0	0	7	22	0
 Upper Market/Eureka Valley - None	0	0	11	0	0	0	0	0	0
 Upper Market/Eureka Valley - None	1	2	10	4	0	0	1	3	0
 Upper Market/Eureka Valley	1	2	21	4	0	0	1	3	0
@@ -1950,5 +1950,5 @@ West of Twin Peaks - None	1	2	42	9	0	0	6	3	0
 West of Twin Peaks - None	1	3	23	7	0	0	3	4	0
 West of Twin Peaks	2	5	65	16	0	0	9	7	0
 Western Addition - None	3	9	65	19	0	0	7	12	0
-Western Addition - None	0	4	16	5	0	0	0	5	1
-Western Addition	3	13	81	24	0	0	7	17	1
+Western Addition - None	0	4	16	5	0	0	1	4	0
+Western Addition	3	13	81	24	0	0	8	16	0

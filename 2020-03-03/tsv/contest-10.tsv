@@ -1,6 +1,6 @@
 Subtotal Area	DAVID ROLDE	HOWIE HAWKINS	DARIO HUNTER	DENNIS LAMBERT	SEDINAM MOYOWASIFZA-CURRY	KENT MESPLAY	Registered Voters	Ballots Cast	Ballots Rejected	Overvotes	Undervotes	Total Votes	Write-in Votes
-All Precincts	22	216	158	88	119	0	3,073	1,077	0	0	443	634	31
-All Precincts - None	14	59	58	35	50	0	700	329	0	0	82	247	31
+All Precincts	22	216	158	88	119	0	3,073	1,077	0	0	474	603	0
+All Precincts - None	14	59	58	35	50	0	700	329	0	0	113	216	0
 All Precincts - None	8	157	100	53	69	0	2,373	748	0	0	361	387	0
 Precinct 1101 - None	0	0	0	0	0	0	1	0	0	0	0	0	0
 Precinct 1101 - None	0	0	0	0	0	0	-1	0	0	0	0	0	0
@@ -609,8 +609,8 @@ Precinct 7601 - None	0	0	0	0	0	0	7	0	0	0	0	0	0
 Precinct 7601 - None	0	0	1	0	0	0	7	2	0	0	1	1	0
 Precinct 7601	0	0	1	0	0	0	14	2	0	0	1	1	0
 Precinct 7602 - None	0	1	0	0	0	0	4	2	0	0	1	1	0
-Precinct 7602 - None	0	0	0	0	0	0	3	1	0	0	0	1	1
-Precinct 7602	0	1	0	0	0	0	7	3	0	0	1	2	1
+Precinct 7602 - None	0	0	0	0	0	0	3	1	0	0	1	0	0
+Precinct 7602	0	1	0	0	0	0	7	3	0	0	2	1	0
 Precinct 7603 - None	0	3	0	0	0	0	10	5	0	0	2	3	0
 Precinct 7603 - None	0	0	1	0	0	0	1	1	0	0	0	1	0
 Precinct 7603	0	3	1	0	0	0	11	6	0	0	2	4	0
@@ -789,8 +789,8 @@ Precinct 7709 - None	0	0	1	0	0	0	5	1	0	0	0	1	0
 Precinct 7709 - None	0	0	0	0	0	0	-1	0	0	0	0	0	0
 Precinct 7709	0	0	1	0	0	0	4	1	0	0	0	1	0
 Precinct 7711 - None	0	0	0	0	1	0	6	2	0	0	1	1	0
-Precinct 7711 - None	0	2	0	0	0	0	2	3	0	0	0	3	1
-Precinct 7711	0	2	0	0	1	0	8	5	0	0	1	4	1
+Precinct 7711 - None	0	2	0	0	0	0	2	3	0	0	1	2	0
+Precinct 7711	0	2	0	0	1	0	8	5	0	0	2	3	0
 Precinct 7712 - None	0	1	1	0	0	0	10	4	0	0	2	2	0
 Precinct 7712 - None	0	1	0	0	0	0	-3	1	0	0	0	1	0
 Precinct 7712	0	2	1	0	0	0	7	5	0	0	2	3	0
@@ -804,8 +804,8 @@ Precinct 7803 - None	0	0	0	0	0	0	3	1	0	0	1	0	0
 Precinct 7803 - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 7803	0	0	0	0	0	0	3	1	0	0	1	0	0
 Precinct 7804 - None	0	0	0	0	0	0	6	4	0	0	4	0	0
-Precinct 7804 - None	0	0	0	0	1	0	4	3	0	0	1	2	1
-Precinct 7804	0	0	0	0	1	0	10	7	0	0	5	2	1
+Precinct 7804 - None	0	0	0	0	1	0	4	3	0	0	2	1	0
+Precinct 7804	0	0	0	0	1	0	10	7	0	0	6	1	0
 Precinct 7805 - None	0	0	0	0	0	0	6	1	0	0	1	0	0
 Precinct 7805 - None	0	1	0	0	1	0	3	3	0	0	1	2	0
 Precinct 7805	0	1	0	0	1	0	9	4	0	0	2	2	0
@@ -822,8 +822,8 @@ Precinct 7809 - None	0	0	0	0	0	0	5	0	0	0	0	0	0
 Precinct 7809 - None	0	0	0	0	0	0	-2	0	0	0	0	0	0
 Precinct 7809	0	0	0	0	0	0	3	0	0	0	0	0	0
 Precinct 7811 - None	0	0	0	0	0	0	5	0	0	0	0	0	0
-Precinct 7811 - None	0	0	0	1	0	0	2	2	0	0	0	2	1
-Precinct 7811	0	0	0	1	0	0	7	2	0	0	0	2	1
+Precinct 7811 - None	0	0	0	1	0	0	2	2	0	0	1	1	0
+Precinct 7811	0	0	0	1	0	0	7	2	0	0	1	1	0
 Precinct 7812 - None	0	0	0	0	0	0	1	0	0	0	0	0	0
 Precinct 7812 - None	0	0	0	0	0	0	1	1	0	0	1	0	0
 Precinct 7812	0	0	0	0	0	0	2	1	0	0	1	0	0
@@ -867,8 +867,8 @@ Precinct 7826 - None	0	0	1	0	0	0	6	2	0	0	1	1	0
 Precinct 7826 - None	0	0	0	0	1	0	4	1	0	0	0	1	0
 Precinct 7826	0	0	1	0	1	0	10	3	0	0	1	2	0
 Precinct 7827 - None	0	1	0	0	0	0	4	2	0	0	1	1	0
-Precinct 7827 - None	0	1	0	0	1	0	5	3	0	0	0	3	1
-Precinct 7827	0	2	0	0	1	0	9	5	0	0	1	4	1
+Precinct 7827 - None	0	1	0	0	1	0	5	3	0	0	1	2	0
+Precinct 7827	0	2	0	0	1	0	9	5	0	0	2	3	0
 Precinct 7828 - None	0	0	0	0	0	0	3	0	0	0	0	0	0
 Precinct 7828 - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 7828	0	0	0	0	0	0	3	0	0	0	0	0	0
@@ -960,11 +960,11 @@ Precinct 7861 - None	0	1	0	0	1	0	6	3	0	0	1	2	0
 Precinct 7861 - None	0	1	0	0	0	0	1	1	0	0	0	1	0
 Precinct 7861	0	2	0	0	1	0	7	4	0	0	1	3	0
 Precinct 7862 - None	0	0	0	0	1	0	7	1	0	0	0	1	0
-Precinct 7862 - None	0	0	0	0	0	0	0	1	0	0	0	1	1
-Precinct 7862	0	0	0	0	1	0	7	2	0	0	0	2	1
+Precinct 7862 - None	0	0	0	0	0	0	0	1	0	0	1	0	0
+Precinct 7862	0	0	0	0	1	0	7	2	0	0	1	1	0
 Precinct 7863 - None	0	0	1	0	0	0	5	3	0	0	2	1	0
-Precinct 7863 - None	0	0	2	0	0	0	7	5	0	0	2	3	1
-Precinct 7863	0	0	3	0	0	0	12	8	0	0	4	4	1
+Precinct 7863 - None	0	0	2	0	0	0	7	5	0	0	3	2	0
+Precinct 7863	0	0	3	0	0	0	12	8	0	0	5	3	0
 Precinct 7864 - None	0	0	0	0	1	0	8	3	0	0	2	1	0
 Precinct 7864 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
 Precinct 7864	0	0	0	0	1	0	10	3	0	0	2	1	0
@@ -987,8 +987,8 @@ Precinct 7871 - None	0	2	0	0	0	0	6	5	0	0	3	2	0
 Precinct 7871 - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 7871	0	2	0	0	0	0	6	5	0	0	3	2	0
 Precinct 7872 - None	0	0	0	0	0	0	2	1	0	0	1	0	0
-Precinct 7872 - None	0	0	0	0	0	0	3	2	0	0	1	1	1
-Precinct 7872	0	0	0	0	0	0	5	3	0	0	2	1	1
+Precinct 7872 - None	0	0	0	0	0	0	3	2	0	0	2	0	0
+Precinct 7872	0	0	0	0	0	0	5	3	0	0	3	0	0
 Precinct 7873 - None	0	0	1	0	2	0	5	4	0	0	1	3	0
 Precinct 7873 - None	0	0	0	0	0	0	1	0	0	0	0	0	0
 Precinct 7873	0	0	1	0	2	0	6	4	0	0	1	3	0
@@ -1014,8 +1014,8 @@ Precinct 7904 - None	0	1	0	0	0	0	5	2	0	0	1	1	0
 Precinct 7904 - None	0	0	1	0	1	0	4	2	0	0	0	2	0
 Precinct 7904	0	1	1	0	1	0	9	4	0	0	1	3	0
 Precinct 7905 - None	0	2	2	0	0	0	10	6	0	0	2	4	0
-Precinct 7905 - None	0	0	0	0	0	0	3	2	0	0	1	1	1
-Precinct 7905	0	2	2	0	0	0	13	8	0	0	3	5	1
+Precinct 7905 - None	0	0	0	0	0	0	3	2	0	0	2	0	0
+Precinct 7905	0	2	2	0	0	0	13	8	0	0	4	4	0
 Precinct 7906 - None	0	1	0	0	0	0	3	1	0	0	0	1	0
 Precinct 7906 - None	0	0	0	0	0	0	4	1	0	0	1	0	0
 Precinct 7906	0	1	0	0	0	0	7	2	0	0	1	1	0
@@ -1035,8 +1035,8 @@ Precinct 7912 - None	0	2	0	0	0	0	7	3	0	0	1	2	0
 Precinct 7912 - None	0	1	0	0	0	0	5	2	0	0	1	1	0
 Precinct 7912	0	3	0	0	0	0	12	5	0	0	2	3	0
 Precinct 7913 - None	0	0	3	0	0	0	8	4	0	0	1	3	0
-Precinct 7913 - None	0	0	0	0	0	0	4	1	0	0	0	1	1
-Precinct 7913	0	0	3	0	0	0	12	5	0	0	1	4	1
+Precinct 7913 - None	0	0	0	0	0	0	4	1	0	0	1	0	0
+Precinct 7913	0	0	3	0	0	0	12	5	0	0	2	3	0
 Precinct 7914 - None	0	0	0	0	0	0	4	0	0	0	0	0	0
 Precinct 7914 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
 Precinct 7914	0	0	0	0	0	0	6	0	0	0	0	0	0
@@ -1071,14 +1071,14 @@ Precinct 7925 - None	0	0	0	0	1	0	4	1	0	0	0	1	0
 Precinct 7925 - None	0	0	0	1	1	0	2	2	0	0	0	2	0
 Precinct 7925	0	0	0	1	2	0	6	3	0	0	0	3	0
 Precinct 7926 - None	0	1	0	0	0	0	10	3	0	0	2	1	0
-Precinct 7926 - None	0	0	0	0	0	0	1	1	0	0	0	1	1
-Precinct 7926	0	1	0	0	0	0	11	4	0	0	2	2	1
+Precinct 7926 - None	0	0	0	0	0	0	1	1	0	0	1	0	0
+Precinct 7926	0	1	0	0	0	0	11	4	0	0	3	1	0
 Precinct 7927 - None	0	0	2	0	0	0	4	2	0	0	0	2	0
 Precinct 7927 - None	0	0	0	0	0	0	3	0	0	0	0	0	0
 Precinct 7927	0	0	2	0	0	0	7	2	0	0	0	2	0
 Precinct 7928 - None	0	0	1	0	2	0	10	4	0	0	1	3	0
-Precinct 7928 - None	0	0	1	0	0	0	2	3	0	0	1	2	1
-Precinct 7928	0	0	2	0	2	0	12	7	0	0	2	5	1
+Precinct 7928 - None	0	0	1	0	0	0	2	3	0	0	2	1	0
+Precinct 7928	0	0	2	0	2	0	12	7	0	0	3	4	0
 Precinct 7929 - None	0	1	0	0	0	0	8	3	0	0	2	1	0
 Precinct 7929 - None	0	0	0	0	0	0	2	1	0	0	1	0	0
 Precinct 7929	0	1	0	0	0	0	10	4	0	0	3	1	0
@@ -1104,14 +1104,14 @@ Precinct 7937 - None	0	0	0	0	0	0	9	2	0	0	2	0	0
 Precinct 7937 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
 Precinct 7937	0	0	0	0	0	0	11	2	0	0	2	0	0
 Precinct 7938 - None	0	3	0	0	1	0	9	6	0	0	2	4	0
-Precinct 7938 - None	0	0	0	0	0	0	6	1	0	0	0	1	1
-Precinct 7938	0	3	0	0	1	0	15	7	0	0	2	5	1
+Precinct 7938 - None	0	0	0	0	0	0	6	1	0	0	1	0	0
+Precinct 7938	0	3	0	0	1	0	15	7	0	0	3	4	0
 Precinct 7939 - None	0	1	0	0	0	0	3	2	0	0	1	1	0
 Precinct 7939 - None	0	0	0	0	0	0	3	1	0	0	1	0	0
 Precinct 7939	0	1	0	0	0	0	6	3	0	0	2	1	0
 Precinct 7941 - None	0	0	0	0	0	0	5	0	0	0	0	0	0
-Precinct 7941 - None	0	0	0	0	0	0	0	1	0	0	0	1	1
-Precinct 7941	0	0	0	0	0	0	5	1	0	0	0	1	1
+Precinct 7941 - None	0	0	0	0	0	0	0	1	0	0	1	0	0
+Precinct 7941	0	0	0	0	0	0	5	1	0	0	1	0	0
 Precinct 7942 - None	0	1	0	0	0	0	7	2	0	0	1	1	0
 Precinct 7942 - None	0	0	0	0	0	0	2	2	0	0	2	0	0
 Precinct 7942	0	1	0	0	0	0	9	4	0	0	3	1	0
@@ -1125,8 +1125,8 @@ Precinct 7945 - None	0	0	0	1	0	0	6	1	0	0	0	1	0
 Precinct 7945 - None	0	1	0	0	0	0	1	1	0	0	0	1	0
 Precinct 7945	0	1	0	1	0	0	7	2	0	0	0	2	0
 Precinct 7946 - None	0	0	0	0	0	0	2	1	0	0	1	0	0
-Precinct 7946 - None	0	1	0	0	0	0	3	2	0	0	0	2	1
-Precinct 7946	0	1	0	0	0	0	5	3	0	0	1	2	1
+Precinct 7946 - None	0	1	0	0	0	0	3	2	0	0	1	1	0
+Precinct 7946	0	1	0	0	0	0	5	3	0	0	2	1	0
 Precinct 7947 - None	0	0	1	0	0	0	3	1	0	0	0	1	0
 Precinct 7947 - None	1	0	1	0	0	0	2	2	0	0	0	2	0
 Precinct 7947	1	0	2	0	0	0	5	3	0	0	0	3	0
@@ -1224,8 +1224,8 @@ Precinct 9121 - None	0	0	1	0	0	0	3	1	0	0	0	1	0
 Precinct 9121 - None	0	0	0	0	0	0	2	1	0	0	1	0	0
 Precinct 9121	0	0	1	0	0	0	5	2	0	0	1	1	0
 Precinct 9122 - None	0	0	0	0	0	0	3	0	0	0	0	0	0
-Precinct 9122 - None	0	0	0	0	0	0	1	1	0	0	0	1	1
-Precinct 9122	0	0	0	0	0	0	4	1	0	0	0	1	1
+Precinct 9122 - None	0	0	0	0	0	0	1	1	0	0	1	0	0
+Precinct 9122	0	0	0	0	0	0	4	1	0	0	1	0	0
 Precinct 9123 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
 Precinct 9123 - None	0	1	0	0	0	0	0	1	0	0	0	1	0
 Precinct 9123	0	1	0	0	0	0	2	1	0	0	0	1	0
@@ -1233,8 +1233,8 @@ Precinct 9124 - None	0	1	0	0	1	0	9	3	0	0	1	2	0
 Precinct 9124 - None	0	0	0	0	0	0	3	0	0	0	0	0	0
 Precinct 9124	0	1	0	0	1	0	12	3	0	0	1	2	0
 Precinct 9125 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
-Precinct 9125 - None	0	1	0	0	0	0	5	3	0	0	1	2	1
-Precinct 9125	0	1	0	0	0	0	7	3	0	0	1	2	1
+Precinct 9125 - None	0	1	0	0	0	0	5	3	0	0	2	1	0
+Precinct 9125	0	1	0	0	0	0	7	3	0	0	2	1	0
 Precinct 9126 - None	0	0	0	0	0	0	6	0	0	0	0	0	0
 Precinct 9126 - None	0	0	0	0	1	0	-1	1	0	0	0	1	0
 Precinct 9126	0	0	0	0	1	0	5	1	0	0	0	1	0
@@ -1272,8 +1272,8 @@ Precinct 9138 - None	0	0	0	0	0	0	3	1	0	0	1	0	0
 Precinct 9138 - None	0	1	0	0	0	0	1	1	0	0	0	1	0
 Precinct 9138	0	1	0	0	0	0	4	2	0	0	1	1	0
 Precinct 9139 - None	0	0	0	0	0	0	3	0	0	0	0	0	0
-Precinct 9139 - None	0	0	0	0	0	0	0	1	0	0	0	1	1
-Precinct 9139	0	0	0	0	0	0	3	1	0	0	0	1	1
+Precinct 9139 - None	0	0	0	0	0	0	0	1	0	0	1	0	0
+Precinct 9139	0	0	0	0	0	0	3	1	0	0	1	0	0
 Precinct 9141 - None	0	0	0	0	0	0	6	1	0	0	1	0	0
 Precinct 9141 - None	0	1	0	2	0	0	6	5	0	0	2	3	0
 Precinct 9141	0	1	0	2	0	0	12	6	0	0	3	3	0
@@ -1287,14 +1287,14 @@ Precinct 9144 - None	0	1	0	2	0	0	10	3	0	0	0	3	0
 Precinct 9144 - None	0	0	1	0	0	0	0	2	0	0	1	1	0
 Precinct 9144	0	1	1	2	0	0	10	5	0	0	1	4	0
 Precinct 9145 - None	0	0	0	0	0	0	6	1	0	0	1	0	0
-Precinct 9145 - None	0	0	0	0	0	0	3	2	0	0	0	2	2
-Precinct 9145	0	0	0	0	0	0	9	3	0	0	1	2	2
+Precinct 9145 - None	0	0	0	0	0	0	3	2	0	0	2	0	0
+Precinct 9145	0	0	0	0	0	0	9	3	0	0	3	0	0
 Precinct 9146 - None	0	0	1	0	0	0	7	4	0	0	3	1	0
 Precinct 9146 - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9146	0	0	1	0	0	0	7	4	0	0	3	1	0
 Precinct 9147 - None	0	0	0	0	0	0	6	4	0	0	4	0	0
-Precinct 9147 - None	0	0	0	0	0	0	1	1	0	0	0	1	1
-Precinct 9147	0	0	0	0	0	0	7	5	0	0	4	1	1
+Precinct 9147 - None	0	0	0	0	0	0	1	1	0	0	1	0	0
+Precinct 9147	0	0	0	0	0	0	7	5	0	0	5	0	0
 Precinct 9148 - None	0	0	0	0	0	0	5	2	0	0	2	0	0
 Precinct 9148 - None	0	0	0	0	0	0	-1	0	0	0	0	0	0
 Precinct 9148	0	0	0	0	0	0	4	2	0	0	2	0	0
@@ -1449,8 +1449,8 @@ Precinct 9252 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
 Precinct 9252 - None	0	0	1	0	0	0	1	1	0	0	0	1	0
 Precinct 9252	0	0	1	0	0	0	3	1	0	0	0	1	0
 Precinct 9253 - None	0	0	0	0	0	0	0	0	0	0	0	0	0
-Precinct 9253 - None	0	0	0	0	0	0	1	1	0	0	0	1	1
-Precinct 9253	0	0	0	0	0	0	1	1	0	0	0	1	1
+Precinct 9253 - None	0	0	0	0	0	0	1	1	0	0	1	0	0
+Precinct 9253	0	0	0	0	0	0	1	1	0	0	1	0	0
 Precinct 9254 - None	0	0	1	0	0	0	4	1	0	0	0	1	0
 Precinct 9254 - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9254	0	0	1	0	0	0	4	1	0	0	0	1	0
@@ -1536,8 +1536,8 @@ Precinct 9425 - None	0	0	0	0	0	0	3	0	0	0	0	0	0
 Precinct 9425 - None	0	1	0	0	0	0	2	1	0	0	0	1	0
 Precinct 9425	0	1	0	0	0	0	5	1	0	0	0	1	0
 Precinct 9426 - None	0	0	0	0	0	0	4	1	0	0	1	0	0
-Precinct 9426 - None	0	0	0	0	0	0	0	1	0	0	0	1	1
-Precinct 9426	0	0	0	0	0	0	4	2	0	0	1	1	1
+Precinct 9426 - None	0	0	0	0	0	0	0	1	0	0	1	0	0
+Precinct 9426	0	0	0	0	0	0	4	2	0	0	2	0	0
 Precinct 9427 - None	0	0	0	0	0	0	3	1	0	0	1	0	0
 Precinct 9427 - None	0	0	0	0	0	0	1	0	0	0	0	0	0
 Precinct 9427	0	0	0	0	0	0	4	1	0	0	1	0	0
@@ -1554,8 +1554,8 @@ Precinct 9432 - None	0	0	0	0	0	0	4	0	0	0	0	0	0
 Precinct 9432 - None	0	0	0	1	0	0	1	1	0	0	0	1	0
 Precinct 9432	0	0	0	1	0	0	5	1	0	0	0	1	0
 Precinct 9433 - None	0	0	0	0	0	0	4	1	0	0	1	0	0
-Precinct 9433 - None	0	0	0	0	0	0	1	1	0	0	0	1	1
-Precinct 9433	0	0	0	0	0	0	5	2	0	0	1	1	1
+Precinct 9433 - None	0	0	0	0	0	0	1	1	0	0	1	0	0
+Precinct 9433	0	0	0	0	0	0	5	2	0	0	2	0	0
 Precinct 9434 - None	0	1	0	1	0	0	8	4	0	0	2	2	0
 Precinct 9434 - None	0	0	1	0	0	0	1	1	0	0	0	1	0
 Precinct 9434	0	1	1	1	0	0	9	5	0	0	2	3	0
@@ -1575,14 +1575,14 @@ Precinct 9439 - None	0	0	1	0	0	0	6	1	0	0	0	1	0
 Precinct 9439 - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9439	0	0	1	0	0	0	6	1	0	0	0	1	0
 Precinct 9441 - None	0	2	0	0	2	0	11	5	0	0	1	4	0
-Precinct 9441 - None	0	0	1	0	0	0	1	2	0	0	0	2	1
-Precinct 9441	0	2	1	0	2	0	12	7	0	0	1	6	1
+Precinct 9441 - None	0	0	1	0	0	0	1	2	0	0	1	1	0
+Precinct 9441	0	2	1	0	2	0	12	7	0	0	2	5	0
 Precinct 9442 - None	0	0	0	0	0	0	6	0	0	0	0	0	0
 Precinct 9442 - None	0	0	0	1	0	0	1	1	0	0	0	1	0
 Precinct 9442	0	0	0	1	0	0	7	1	0	0	0	1	0
 Precinct 9443 - None	0	1	0	0	0	0	6	1	0	0	0	1	0
-Precinct 9443 - None	0	0	0	0	1	0	5	2	0	0	0	2	1
-Precinct 9443	0	1	0	0	1	0	11	3	0	0	0	3	1
+Precinct 9443 - None	0	0	0	0	1	0	5	2	0	0	1	1	0
+Precinct 9443	0	1	0	0	1	0	11	3	0	0	1	2	0
 Precinct 9444 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
 Precinct 9444 - None	0	0	0	0	0	0	1	0	0	0	0	0	0
 Precinct 9444	0	0	0	0	0	0	3	0	0	0	0	0	0
@@ -1608,8 +1608,8 @@ Precinct 9452 - None	0	1	0	0	0	0	5	1	0	0	0	1	0
 Precinct 9452 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
 Precinct 9452	0	1	0	0	0	0	7	1	0	0	0	1	0
 Precinct 9453 - None	0	0	0	0	0	0	1	1	0	0	1	0	0
-Precinct 9453 - None	0	0	1	0	0	0	2	2	0	0	0	2	1
-Precinct 9453	0	0	1	0	0	0	3	3	0	0	1	2	1
+Precinct 9453 - None	0	0	1	0	0	0	2	2	0	0	1	1	0
+Precinct 9453	0	0	1	0	0	0	3	3	0	0	2	1	0
 Precinct 9501 MB - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9501 MB - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9501 MB	0	0	0	0	0	0	0	0	0	0	0	0	0
@@ -1644,8 +1644,8 @@ Precinct 9513 - None	0	1	0	1	0	0	4	3	0	0	1	2	0
 Precinct 9513 - None	0	0	0	0	0	0	3	0	0	0	0	0	0
 Precinct 9513	0	1	0	1	0	0	7	3	0	0	1	2	0
 Precinct 9514/9522 - None	0	0	0	0	0	0	5	0	0	0	0	0	0
-Precinct 9514/9522 - None	0	0	0	0	0	0	0	1	0	0	0	1	1
-Precinct 9514/9522	0	0	0	0	0	0	5	1	0	0	0	1	1
+Precinct 9514/9522 - None	0	0	0	0	0	0	0	1	0	0	1	0	0
+Precinct 9514/9522	0	0	0	0	0	0	5	1	0	0	1	0	0
 Precinct 9515 - None	0	0	0	1	0	0	5	2	0	0	1	1	0
 Precinct 9515 - None	0	0	0	0	1	0	0	1	0	0	0	1	0
 Precinct 9515	0	0	0	1	1	0	5	3	0	0	1	2	0
@@ -1662,8 +1662,8 @@ Precinct 9519 - None	0	0	0	0	0	0	3	1	0	0	1	0	0
 Precinct 9519 - None	0	1	1	0	0	0	4	2	0	0	0	2	0
 Precinct 9519	0	1	1	0	0	0	7	3	0	0	1	2	0
 Precinct 9521 - None	0	1	0	0	0	0	5	2	0	0	1	1	0
-Precinct 9521 - None	0	0	0	0	0	0	1	1	0	0	0	1	1
-Precinct 9521	0	1	0	0	0	0	6	3	0	0	1	2	1
+Precinct 9521 - None	0	0	0	0	0	0	1	1	0	0	1	0	0
+Precinct 9521	0	1	0	0	0	0	6	3	0	0	2	1	0
 Precinct 9701 - None	0	0	0	1	1	0	7	2	0	0	0	2	0
 Precinct 9701 - None	0	0	0	0	0	0	-3	1	0	0	1	0	0
 Precinct 9701	0	0	0	1	1	0	4	3	0	0	1	2	0
@@ -1677,8 +1677,8 @@ Precinct 9704 - None	0	0	0	0	0	0	6	0	0	0	0	0	0
 Precinct 9704 - None	0	0	0	0	0	0	-1	0	0	0	0	0	0
 Precinct 9704	0	0	0	0	0	0	5	0	0	0	0	0	0
 Precinct 9705 - None	0	0	1	0	0	0	2	1	0	0	0	1	0
-Precinct 9705 - None	0	0	0	0	0	0	5	1	0	0	0	1	1
-Precinct 9705	0	0	1	0	0	0	7	2	0	0	0	2	1
+Precinct 9705 - None	0	0	0	0	0	0	5	1	0	0	1	0	0
+Precinct 9705	0	0	1	0	0	0	7	2	0	0	1	1	0
 Precinct 9706 MB - None	0	0	1	0	0	0	1	1	0	0	0	1	0
 Precinct 9706 MB - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9706 MB	0	0	1	0	0	0	1	1	0	0	0	1	0
@@ -1770,8 +1770,8 @@ Precinct 9738 - None	0	0	0	0	0	0	4	2	0	0	2	0	0
 Precinct 9738 - None	0	0	0	0	0	0	2	0	0	0	0	0	0
 Precinct 9738	0	0	0	0	0	0	6	2	0	0	2	0	0
 Precinct 9739 - None	0	0	2	0	0	0	11	2	0	0	0	2	0
-Precinct 9739 - None	0	0	0	0	0	0	0	1	0	0	0	1	1
-Precinct 9739	0	0	2	0	0	0	11	3	0	0	0	3	1
+Precinct 9739 - None	0	0	0	0	0	0	0	1	0	0	1	0	0
+Precinct 9739	0	0	2	0	0	0	11	3	0	0	1	2	0
 Precinct 9741 - None	0	0	0	0	0	0	6	1	0	0	1	0	0
 Precinct 9741 - None	0	0	0	0	0	0	-2	1	0	0	1	0	0
 Precinct 9741	0	0	0	0	0	0	4	2	0	0	2	0	0
@@ -1830,44 +1830,44 @@ Precinct 9902 MB - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9902 MB - None	0	0	0	0	0	0	0	0	0	0	0	0	0
 Precinct 9902 MB	0	0	0	0	0	0	0	0	0	0	0	0	0
 Congressional District 12 - None	8	145	92	45	64	0	2,135	682	0	0	328	354	0
-Congressional District 12 - None	9	57	55	29	45	0	645	298	0	0	74	224	29
-Congressional District 12	17	202	147	74	109	0	2,780	980	0	0	402	578	29
+Congressional District 12 - None	9	57	55	29	45	0	645	298	0	0	103	195	0
+Congressional District 12	17	202	147	74	109	0	2,780	980	0	0	431	549	0
 Congressional District 14 - None	0	12	8	8	5	0	238	66	0	0	33	33	0
-Congressional District 14 - None	5	2	3	6	5	0	55	31	0	0	8	23	2
-Congressional District 14	5	14	11	14	10	0	293	97	0	0	41	56	2
+Congressional District 14 - None	5	2	3	6	5	0	55	31	0	0	10	21	0
+Congressional District 14	5	14	11	14	10	0	293	97	0	0	43	54	0
 Assembly District 17 - None	8	107	69	25	47	0	1,495	474	0	0	218	256	0
-Assembly District 17 - None	6	42	34	13	33	0	445	203	0	0	60	143	15
-Assembly District 17	14	149	103	38	80	0	1,940	677	0	0	278	399	15
+Assembly District 17 - None	6	42	34	13	33	0	445	203	0	0	75	128	0
+Assembly District 17	14	149	103	38	80	0	1,940	677	0	0	293	384	0
 Assembly District 19 - None	0	50	31	28	22	0	878	274	0	0	143	131	0
-Assembly District 19 - None	8	17	24	22	17	0	255	126	0	0	22	104	16
-Assembly District 19	8	67	55	50	39	0	1,133	400	0	0	165	235	16
+Assembly District 19 - None	8	17	24	22	17	0	255	126	0	0	38	88	0
+Assembly District 19	8	67	55	50	39	0	1,133	400	0	0	181	219	0
 Supervisorial District 1 - None	0	12	7	6	4	0	218	67	0	0	38	29	0
-Supervisorial District 1 - None	0	8	7	8	6	0	73	41	0	0	6	35	6
-Supervisorial District 1	0	20	14	14	10	0	291	108	0	0	44	64	6
+Supervisorial District 1 - None	0	8	7	8	6	0	73	41	0	0	12	29	0
+Supervisorial District 1	0	20	14	14	10	0	291	108	0	0	50	58	0
 Supervisorial District 2 - None	0	6	3	2	3	0	111	32	0	0	18	14	0
-Supervisorial District 2 - None	2	1	5	0	0	0	24	10	0	0	1	9	1
-Supervisorial District 2	2	7	8	2	3	0	135	42	0	0	19	23	1
+Supervisorial District 2 - None	2	1	5	0	0	0	24	10	0	0	2	8	0
+Supervisorial District 2	2	7	8	2	3	0	135	42	0	0	20	22	0
 Supervisorial District 3 - None	1	13	8	2	3	0	147	50	0	0	23	27	0
 Supervisorial District 3 - None	1	6	0	0	4	0	49	16	0	0	5	11	0
 Supervisorial District 3	2	19	8	2	7	0	196	66	0	0	28	38	0
 Supervisorial District 4 - None	0	13	6	8	8	0	211	70	0	0	35	35	0
-Supervisorial District 4 - None	0	4	8	4	5	0	67	28	0	0	2	26	5
-Supervisorial District 4	0	17	14	12	13	0	278	98	0	0	37	61	5
+Supervisorial District 4 - None	0	4	8	4	5	0	67	28	0	0	7	21	0
+Supervisorial District 4	0	17	14	12	13	0	278	98	0	0	42	56	0
 Supervisorial District 5 - None	1	23	9	7	9	0	268	88	0	0	39	49	0
-Supervisorial District 5 - None	1	11	4	7	8	0	110	50	0	0	17	33	2
-Supervisorial District 5	2	34	13	14	17	0	378	138	0	0	56	82	2
+Supervisorial District 5 - None	1	11	4	7	8	0	110	50	0	0	19	31	0
+Supervisorial District 5	2	34	13	14	17	0	378	138	0	0	58	80	0
 Supervisorial District 6 - None	1	15	8	6	2	0	210	56	0	0	24	32	0
-Supervisorial District 6 - None	1	2	8	0	3	0	47	19	0	0	4	15	1
-Supervisorial District 6	2	17	16	6	5	0	257	75	0	0	28	47	1
+Supervisorial District 6 - None	1	2	8	0	3	0	47	19	0	0	5	14	0
+Supervisorial District 6	2	17	16	6	5	0	257	75	0	0	29	46	0
 Supervisorial District 7 - None	0	9	14	9	6	0	258	83	0	0	45	38	0
-Supervisorial District 7 - None	4	7	1	6	2	0	36	29	0	0	6	23	3
-Supervisorial District 7	4	16	15	15	8	0	294	112	0	0	51	61	3
+Supervisorial District 7 - None	4	7	1	6	2	0	36	29	0	0	9	20	0
+Supervisorial District 7	4	16	15	15	8	0	294	112	0	0	54	58	0
 Supervisorial District 8 - None	1	27	15	5	19	0	345	131	0	0	64	67	0
-Supervisorial District 8 - None	1	11	13	4	11	0	95	61	0	0	15	46	6
-Supervisorial District 8	2	38	28	9	30	0	440	192	0	0	79	113	6
+Supervisorial District 8 - None	1	11	13	4	11	0	95	61	0	0	21	40	0
+Supervisorial District 8	2	38	28	9	30	0	440	192	0	0	85	107	0
 Supervisorial District 9 - None	2	24	19	5	9	0	293	98	0	0	39	59	0
-Supervisorial District 9 - None	1	8	7	3	7	0	113	45	0	0	12	33	7
-Supervisorial District 9	3	32	26	8	16	0	406	143	0	0	51	92	7
+Supervisorial District 9 - None	1	8	7	3	7	0	113	45	0	0	19	26	0
+Supervisorial District 9	3	32	26	8	16	0	406	143	0	0	58	85	0
 Supervisorial District 10 - None	2	5	3	1	3	0	154	39	0	0	25	14	0
 Supervisorial District 10 - None	0	1	3	0	1	0	47	10	0	0	5	5	0
 Supervisorial District 10	2	6	6	1	4	0	201	49	0	0	30	19	0
@@ -1881,8 +1881,8 @@ Chinatown - None	0	7	1	1	1	0	46	19	0	0	9	10	0
 Chinatown - None	0	3	0	0	2	0	23	8	0	0	3	5	0
 Chinatown	0	10	1	1	3	0	69	27	0	0	12	15	0
 Civic Center/Downtown - None	2	16	9	5	3	0	179	55	0	0	20	35	0
-Civic Center/Downtown - None	2	3	6	0	2	0	35	17	0	0	3	14	1
-Civic Center/Downtown	4	19	15	5	5	0	214	72	0	0	23	49	1
+Civic Center/Downtown - None	2	3	6	0	2	0	35	17	0	0	4	13	0
+Civic Center/Downtown	4	19	15	5	5	0	214	72	0	0	24	48	0
 Diamond Heights - None	0	6	1	0	2	0	44	18	0	0	9	9	0
 Diamond Heights - None	0	4	1	0	0	0	-2	7	0	0	2	5	0
 Diamond Heights	0	10	2	0	2	0	42	25	0	0	11	14	0
@@ -1896,41 +1896,41 @@ Ingleside - None	0	2	1	1	1	0	47	8	0	0	3	5	0
 Ingleside - None	1	0	1	0	2	0	20	9	0	0	5	4	0
 Ingleside	1	2	2	1	3	0	67	17	0	0	8	9	0
 Inner Sunset - None	0	4	1	3	2	0	57	19	0	0	9	10	0
-Inner Sunset - None	0	3	2	1	1	0	9	13	0	0	4	9	2
-Inner Sunset	0	7	3	4	3	0	66	32	0	0	13	19	2
+Inner Sunset - None	0	3	2	1	1	0	9	13	0	0	6	7	0
+Inner Sunset	0	7	3	4	3	0	66	32	0	0	15	17	0
 Lake Merced - None	0	2	3	2	0	0	46	14	0	0	7	7	0
-Lake Merced - None	1	0	0	2	1	0	8	7	0	0	2	5	1
-Lake Merced	1	2	3	4	1	0	54	21	0	0	9	12	1
+Lake Merced - None	1	0	0	2	1	0	8	7	0	0	3	4	0
+Lake Merced	1	2	3	4	1	0	54	21	0	0	10	11	0
 Laurel Heights/Anza Vista - None	0	2	0	0	2	0	28	6	0	0	2	4	0
-Laurel Heights/Anza Vista - None	1	0	2	0	1	0	16	6	0	0	1	5	1
-Laurel Heights/Anza Vista	1	2	2	0	3	0	44	12	0	0	3	9	1
+Laurel Heights/Anza Vista - None	1	0	2	0	1	0	16	6	0	0	2	4	0
+Laurel Heights/Anza Vista	1	2	2	0	3	0	44	12	0	0	4	8	0
 Marina Pacific Heights - None	0	6	1	2	2	0	87	25	0	0	14	11	0
 Marina Pacific Heights - None	1	1	4	0	0	0	14	6	0	0	0	6	0
 Marina Pacific Heights	1	7	5	2	2	0	101	31	0	0	14	17	0
 Mission - None	1	12	10	3	4	0	207	58	0	0	28	30	0
-Mission - None	1	7	6	2	7	0	106	35	0	0	8	27	4
-Mission	2	19	16	5	11	0	313	93	0	0	36	57	4
+Mission - None	1	7	6	2	7	0	106	35	0	0	12	23	0
+Mission	2	19	16	5	11	0	313	93	0	0	40	53	0
 North Bernal Heights - None	1	4	6	2	6	0	89	31	0	0	12	19	0
-North Bernal Heights - None	0	2	1	1	5	0	15	15	0	0	4	11	2
-North Bernal Heights	1	6	7	3	11	0	104	46	0	0	16	30	2
+North Bernal Heights - None	0	2	1	1	5	0	15	15	0	0	6	9	0
+North Bernal Heights	1	6	7	3	11	0	104	46	0	0	18	28	0
 North Embarcadero - None	0	0	2	0	1	0	25	7	0	0	4	3	0
 North Embarcadero - None	0	1	0	0	0	0	13	2	0	0	1	1	0
 North Embarcadero	0	1	2	0	1	0	38	9	0	0	5	4	0
 Noe Valley - None	0	12	5	2	5	0	106	50	0	0	26	24	0
-Noe Valley - None	0	2	7	0	2	0	36	18	0	0	5	13	2
-Noe Valley	0	14	12	2	7	0	142	68	0	0	31	37	2
+Noe Valley - None	0	2	7	0	2	0	36	18	0	0	7	11	0
+Noe Valley	0	14	12	2	7	0	142	68	0	0	33	35	0
 Portola - None	0	3	3	0	0	0	25	8	0	0	2	6	0
-Portola - None	1	1	1	1	1	0	15	6	0	0	0	6	1
-Portola	1	4	4	1	1	0	40	14	0	0	2	12	1
+Portola - None	1	1	1	1	1	0	15	6	0	0	1	5	0
+Portola	1	4	4	1	1	0	40	14	0	0	3	11	0
 Potrero Hill - None	1	2	1	0	2	0	65	16	0	0	10	6	0
 Potrero Hill - None	0	0	2	0	2	0	28	7	0	0	3	4	0
 Potrero Hill	1	2	3	0	4	0	93	23	0	0	13	10	0
 Richmond - None	0	9	6	6	3	0	188	61	0	0	37	24	0
-Richmond - None	0	8	6	8	5	0	65	39	0	0	6	33	6
-Richmond	0	17	12	14	8	0	253	100	0	0	43	57	6
+Richmond - None	0	8	6	8	5	0	65	39	0	0	12	27	0
+Richmond	0	17	12	14	8	0	253	100	0	0	49	51	0
 South of Bernal Heights - None	0	6	4	2	4	0	62	24	0	0	8	16	0
-South of Bernal Heights - None	0	2	2	0	0	0	18	11	0	0	4	7	3
-South of Bernal Heights	0	8	6	2	4	0	80	35	0	0	12	23	3
+South of Bernal Heights - None	0	2	2	0	0	0	18	11	0	0	7	4	0
+South of Bernal Heights	0	8	6	2	4	0	80	35	0	0	15	20	0
 Sea Cliff/Presidio Heights - None	0	2	2	0	0	0	32	7	0	0	3	4	0
 Sea Cliff/Presidio Heights - None	0	0	0	0	0	0	8	0	0	0	0	0	0
 Sea Cliff/Presidio Heights	0	2	2	0	0	0	40	7	0	0	3	4	0
@@ -1938,17 +1938,17 @@ South of Market - None	0	5	4	1	0	0	95	23	0	0	13	10	0
 South of Market - None	0	1	1	0	1	0	18	4	0	0	1	3	0
 South of Market	0	6	5	1	1	0	113	27	0	0	14	13	0
 Sunset - None	0	12	5	8	7	0	206	66	0	0	34	32	0
-Sunset - None	0	3	8	4	5	0	67	27	0	0	2	25	5
-Sunset	0	15	13	12	12	0	273	93	0	0	36	57	5
+Sunset - None	0	3	8	4	5	0	67	27	0	0	7	20	0
+Sunset	0	15	13	12	12	0	273	93	0	0	41	52	0
 Upper Market/Eureka Valley - None	1	7	5	2	7	0	113	42	0	0	20	22	0
-Upper Market/Eureka Valley - None	0	2	3	3	3	0	20	17	0	0	5	12	1
-Upper Market/Eureka Valley	1	9	8	5	10	0	133	59	0	0	25	34	1
+Upper Market/Eureka Valley - None	0	2	3	3	3	0	20	17	0	0	6	11	0
+Upper Market/Eureka Valley	1	9	8	5	10	0	133	59	0	0	26	33	0
 Visitation Valley - None	1	0	0	0	1	0	25	5	0	0	3	2	0
 Visitation Valley - None	0	0	0	0	0	0	-2	1	0	0	1	0	0
 Visitation Valley	1	0	0	0	1	0	23	6	0	0	4	2	0
 West of Twin Peaks - None	0	6	9	6	5	0	183	58	0	0	32	26	0
-West of Twin Peaks - None	3	6	1	4	0	0	30	18	0	0	2	16	2
-West of Twin Peaks	3	12	10	10	5	0	213	76	0	0	34	42	2
+West of Twin Peaks - None	3	6	1	4	0	0	30	18	0	0	4	14	0
+West of Twin Peaks	3	12	10	10	5	0	213	76	0	0	36	40	0
 Western Addition - None	1	18	8	4	5	0	151	64	0	0	28	36	0
 Western Addition - None	0	6	1	4	3	0	56	22	0	0	8	14	0
 Western Addition	1	24	9	8	8	0	207	86	0	0	36	50	0
